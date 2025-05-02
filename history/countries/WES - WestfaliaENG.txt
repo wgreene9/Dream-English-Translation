@@ -1,0 +1,17 @@
+﻿government = republic
+add_government_reform = civic_republicanism_government
+primary_culture = hannoverian
+religion = catholic
+technology_group = western
+capital = 82	# Kassel
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Tagsatzung"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		regent = yes
+	}
+}

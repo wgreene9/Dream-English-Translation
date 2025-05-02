@@ -1,0 +1,17 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = basque
+religion = catholic
+technology_group = western
+capital = 210
+
+1425.1.1 = {
+	monarch = {
+		name = "Sancho X"
+		dynasty = "Jimenez" # de Jimena
+		birth_date = 1397.6.29
+		adm = 1
+		dip = 6
+		mil = 3
+	}
+}

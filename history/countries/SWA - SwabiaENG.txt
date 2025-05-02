@@ -1,0 +1,37 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = swabian
+capital = 70	
+# elector = yes
+add_historical_friend = BAV
+add_historical_friend = TTL
+add_historical_friend = SIC
+BAV = {
+	add_historical_friend = ROOT
+}
+1430.10.27 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Hohenstaufen"
+		birth_date = 1405.9.21
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich IV"
+		dynasty = "von Hohenstaufen"
+		birth_date = 1430.1.1
+		death_date = 1460.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+		block_disinherit = yes
+	}
+	clear_scripted_personalities = yes
+	set_heir_flag = DD_SWA_BAV_heir_flag
+}

@@ -1,0 +1,41 @@
+﻿government = monarchy
+add_government_reform = ottoman_government
+primary_culture = turkish
+religion = outward_confucianism
+religious_school = rangyi_school
+technology_group = ottoman
+capital = 317 
+national_focus = MIL
+add_army_professionalism = 0.1
+add_accepted_culture = BYZ_nixiya
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+	
+1444.1.1 = {
+	monarch = {
+		name = "Murad II"
+		dynasty = "Osmanoglu"
+		birth_date = 1404.6.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed II Fatih"
+		dynasty = "Osmanoglu"
+		birth_date = 1432.3.30
+		death_date = 1481.5.3
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

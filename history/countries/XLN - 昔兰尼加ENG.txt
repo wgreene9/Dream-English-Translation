@@ -1,0 +1,30 @@
+﻿government = monarchy
+add_government_reform = NYDD_kindom_of_crusder_reform
+government_rank = 1
+primary_culture = xln_culture
+religion = catholic
+technology_group = western
+capital = 354
+add_accepted_culture = tripoli_maghrebi
+
+1444.1.1 = {
+	monarch = {
+		name = "Robert II"
+		dynasty = "de Hauteville"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1413.1.1
+		leader = {
+			name = "Robert de Hauteville"
+			type = general
+			fire = 4
+			shock = 5
+			manuever = 4
+			siege = 1
+			personality = born_to_the_saddle_personality 
+		}
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = strict_personality
+}

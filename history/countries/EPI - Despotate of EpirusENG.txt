@@ -1,0 +1,18 @@
+﻿government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = BYZ_yibilusi
+religion = catholic
+capital = 4699
+
+1440.5.29 = {
+	monarch = {
+		name = "Nicholas II"
+		dynasty = "Orsini"
+		birth_date = 1420.5.29
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,17 @@
+﻿government = monarchy
+government_rank = 2
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 329
+
+1444.1.1 = {
+	monarch = {
+		name = "Suleiman III"
+		dynasty = "Seljukoglu"
+		birth_date = 1412.5.20
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}

@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = aragonese
+add_accepted_culture = catalan
+religion = catholic
+technology_group = western
+capital = 213
+add_army_professionalism = 0.05
+
+1434.5.19 = {
+	monarch = {
+		name = "Ferran I"
+		dynasty = "de Aragon"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1410.5.19 
+	}
+}

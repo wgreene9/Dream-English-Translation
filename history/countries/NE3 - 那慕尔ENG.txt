@@ -1,0 +1,18 @@
+﻿government = republic
+add_government_reform = free_city
+primary_culture = wallonian
+religion = catholic
+technology_group = western
+capital = 1866	
+mercantilism = 25
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Municipal Council"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		regent = yes
+	}
+}

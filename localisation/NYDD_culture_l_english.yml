@@ -1,0 +1,133 @@
+﻿l_english:
+ NYDD_fra_haiwai_culture: "Outremer" # Overseas
+ potiou_french: "Poitevin"
+ champine_french: "Champenois"
+ lorrine_french: "Lorraine"
+ picard_french: "Picard"
+ provencal_french: "Provençal"
+ languedocien_french: "Languedocien"
+ berrich_french: "Berrichon"
+ limousin_french: "Limousin"
+ auvergnat_french: "Auvergnat"
+
+ romania_germanic: "Siebenbürgen"
+ 
+ 
+ lusitania: "Lusitanian"
+ asutuliyasi: "Asturian"
+ valencian: "Valencian"
+ malueka_iberian: "Mallorcan"
+ africa_culture: "African"
+ tolou_iberian: "Tolosan"
+ morrisco_iberian: "Morisco"
+
+ adulusian_cg: "Andalusian"
+ badahuosi_iberian: "Badajozi"
+ granada_iberian: "Granadan"
+ saiweiliya_iberian: "Ishbiliyan" # Sevillan
+
+ tulaytulah: "Tulaytulah"
+ balansiyyah: "Balansiyyah"
+ burtughal: "Burtughal"
+ castalla: "Castalla"
+ liyyun: "Liyyun"
+ xenxir: "Xenxir"
+ mayurqa: "Mayurqa"
+ barshiluna: "Barshiluna"
+ yilliqiyya: "Yilliqiyya"
+ ubaydah: "Ubaydah"
+ banbalunah: "Banbalunah"
+
+ franja: "Franja"
+
+ adalusi: "Andalusi"
+ muzhalaipu: "Mozarabic"
+ tripoli_maghrebi: "Libyan"
+ italyya: "Italyyan" # Italian
+ mulabite: "Murabit" #Almoravid? Murabitun?
+ siqilliya: "Siqilliya"
+
+ kexijia_culture: "Corsican"
+
+ anxi: "Anxi"
+
+ cuman: "Cuman"
+
+ DD_haiwai_cg: "Outremer" # Overseas
+ maolitaniya_culture: "Mauretanian"
+ africa_culture: "African"
+ koj_culture: "Jerusalemite"
+ ati_culture: "Antiochian"
+ tri_culture: "Tripolitanian"
+ ads_culture: "Edessan"
+ xln_culture: "Cyrenaican"
+
+ arabic_culture: "Arabic"
+
+ DD_new_english_culture: "New English"
+
+ northumbria_british: "Northumbrian"
+ mercia_british: "Mercian"
+ anglish_british: "Anglian"
+ wessex_british: "West Saxon"
+
+ yovik_sca: "Jórvík"
+ novagrad_sca: "Holmgard"
+ island_sca: "Isles"
+ goltland_sca: "Gotlander"
+
+ beloozero_es: "Belozersky" # Beloozero
+ bomorui_es: "Pomeranian"
+ suzidaer_es: "Suzdalsky" # Suzdal
+ tver_es: "Tverian"
+ smolenskian_es: "Smolensky"
+ polotskian_es: "Polotsky"
+ pinsk_es: "Minsky"
+ qieerwen_es: "Chervenite" # Cherven
+ wolun_es: "Volhynian"
+ halich_es: "Halychan" # Halych
+ kiev_es: "Kievan"
+ temutalagan_es: "Tmutarakantsi" # Tmutarakan
+ xieweier_es: "Byelorussian" # Sever? Chernihivian?
+ vologda_es: "Vologzhanin" # Vologda
+ bolgar_es: "Bulgar"
+
+ prussian_baltic: "Pruthenian"
+
+ BYZ_moxiya: "Moesian"
+ BYZ_dulasiweng: "Dyrrhachian"
+ BYZ_yililiya: "Illyrian"
+ BYZ_daqiya: "Dacian"
+ BYZ_nixiya: "Nicaean"
+ BYZ_aiaoniya: "Ionian"
+ BYZ_lvdiya: "Lydian"
+ BYZ_likaoniya: "Lycaonian"
+ BYZ_fulijiya: "Phrygian"
+ BYZ_pafulageniya: "Paphlagonian"
+ BYZ_kapaduoxiya: "Cappadocian"
+ BYZ_lvxiya: "Lycian"
+ BYZ_agean: "Aegean"
+ BYZ_qiliqiya: "Cilician"
+ BYZ_krete: "Cretan"
+ BYZ_cyp: "Cypriot"
+ BYZ_galatia: "Galatian"
+ BYZ_maixiya: "Mysian"
+#  BYZ_aopuxijin: "Opsikion"
+#  BYZ_bithynia: "Bithynian"
+
+ BYZ_thrace: "Thracian"
+ BYZ_macadon: "Thessalonican"
+ BYZ_yibilusi: "Epirote"
+ BYZ_sesali: "Thessalian"
+ BYZ_yagaiya: "Achaean"
+ DD_ELY_culture: "Elysian"
+ DD_NMC_culture: "New Macedonian"
+ DD_acadia_culture: "Arcadian"
+ 
+ wallachia: "Wallachian"
+ moldavian: "Moldavian"
+
+ manx: "Manx"
+ briton: "Breton"
+ dunuonia: "Dumnonian"
+ cymru: "Welsh"

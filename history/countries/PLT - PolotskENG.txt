@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = polotskian_es
+religion = rus_orthodox
+technology_group = eastern
+capital = 275	# Polotsk
+fixed_capital = 275 # Cannot move capital away from this province & no power cost to move to it
+
+1444.11.1 = {
+	monarch = {
+		name = "Dmitry I"
+		dynasty = "Rurikovich"
+		birth_date = 1421.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

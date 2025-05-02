@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+religion = rus_orthodox
+primary_culture = xieweier_es
+capital = 289	# Chernigov
+fixed_capital = 289 # Cannot move capital away from this province & no power cost to move to it
+
+1444.11.1 = {
+	monarch = {
+		name = "Nikola I"
+		dynasty = "Rurikovich"
+		birth_date = 1413.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}

@@ -1,0 +1,18 @@
+﻿government = republic
+add_government_reform = merchant_republic
+primary_culture = anglish_british
+religion = catholic
+technology_group = western
+capital = 238	
+mercantilism = 25
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Municipal Council"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		regent = yes
+	}
+}

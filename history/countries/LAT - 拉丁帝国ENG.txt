@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = NYDD_latin_empire_reform
+government_rank = 3
+primary_culture = tuscan
+religion = catholic
+technology_group = western
+capital = 149
+add_accepted_culture = BYZ_thrace
+
+1444.1.1= {
+	monarch = {
+		name = "Baldwin III"
+		dynasty = "de Flandre"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1405.11.11 
+	}
+}

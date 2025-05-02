@@ -1,0 +1,213 @@
+﻿l_english:
+ NYDD_has_road_building_trigger_tooltip: "Has constructed §YRoads§!"
+ NYDD_has_temple_building_trigger_tooltip: "Has constructed §YTemples§!"
+ NYDD_has_marketplace_building_trigger_tooltip: "Has constructed §YMarketplaces§!"
+ NYDD_has_shipyard_building_trigger_tooltip: "Has constructed §YShipyards§!"
+ NYDD_has_gongfang_building_trigger_tooltip: "Has constructed §YWorkshops§!"
+ NYDD_has_matou_building_trigger_tooltip: "Has constructed §YDocks§!" 
+ NYDD_has_bingying_building_trigger_tooltip: "Has constructed §YBarracks§!"
+ NYDD_has_fayuan_building_trigger_tooltip: "Has constructed §YCourthouses§!"
+ NYDD_has_any_l2_trade_company_building_ttt: "Has §YLevel 2 or higher§! Trade Company investments"
+ NYDD_has_road_building_trigger_tooltip2: "Has constructed §YGravel Roads§! or higher level road buildings."
+ NYDD_has_road_building_trigger_tooltip3: "Has constructed §YRoyal Roads§! or higher level road buildings."
+ NYDD_has_road_building_trigger_tooltip4: "Has constructed §YAsphalt Roads§! or higher level road buildings."
+ NYDD_has_road_building_trigger_tooltip_newest: "Has constructed the highest-level road building available with current technology."
+
+ cb_take_mandate_triggered_NYDD: "Seize the Mandate"
+ cb_take_mandate_triggered_NYDD_desc: "We must prove to the world that we are the rightful holders of the Mandate of Heaven."
+
+ NYDD_accept_two_chinese_culture_trigger_tooltip: "Has accepted at least §G2§! cultures from the §YChinese§! culture group."
+
+ NYDD_add_center_of_trade_level_effect_tooltip: "If no §YTrade Center§! exists, establishes §GLevel 1 Trade Center§!. If present but below §Y3§!, upgrades §G1 Trade Center level§!. Otherwise gains §G50§! Diplomatic Power"
+ NYDD_update_mission_title: "Update Mission Trees"
+ NYDD_update_mission_desc: "Sometimes updates may not show new mission trees in old save files."
+
+ NYDD_expanded_award_tooltip: "§MEvening of War Expansion§! special reward"
+ NYDD_TMG_recruit_tooltip: "Is §YTimujin§! and completed mission §YRecruit Jurchen Tribesmen§!"
+ NYDD_SA_2tier_ttt: "In most cases, special rewards from §MEvening of War Expansion§! can only upgrade this wonder to §YLevel 2§!"
+
+ NYDD_goverment_event_20_t: "Legacy of the Steppe"
+ NYDD_goverment_event_20_d: "We once dominated the great steppes, our cavalry striking fear into the hearts of settled peoples. Though we've grown accustomed to sedentary life and long abandoned raiding, whispers from our past still call to us. Should we return to our nomadic roots?"
+ NYDD_goverment_event_20a: "We shall never forget those days, [Root.GetName] will rise again!"
+ NYDD_goverment_event_20b: "We are settled now, that life belongs to the past."
+
+ YANSHENGGONGGUO: "Duchy of Yan Shenggong"
+ YANSHENGGONG: "Yan Shenggong"
+ SHIZI: "Heir Apparent"
+ FUREN: "Lady"
+ ZHANGFU: "Husband"
+ MIANSHOU: "Consort"
+ HUANGHOU: "Empress"
+ ZHUHOU: "Feudal Lords"
+ TIANCHAO: "Celestial Empire"
+ WANG: "King"
+ TIANZI: "Son of Heaven"
+
+ NYDD_crusader_rp: "Crusader"
+ NYDD_crusader_rp_desc: ""
+
+ ab_can_spawn_renaissance: "Can spawn §YRenaissance§! institution"
+ NYDD_lock_zhiming_flag: "Locked §YColonialism§! institution"
+ NYDD_lock_quanqiumaoyi_flag: "Locked §YGlobal Trade§! institution"
+
+ NYDD_extra_patriarch_when_consecrate_tt: "Gain extra §G3%§! Patriarch Authority when consecrating.\n"
+ NYDD_reduce_hegemons_xuqie_effect_tt: "§TRequirements for claiming hegemony have been reduced.§!\n"
+ NYDD_remove_steppe_terrain_debuff_tt: "§GRemoves§! §YSteppe§! terrain development cost penalty.\n"
+ NYDD_burN_city_give_church_power_tt: "§RPillaging§! §YNon-state Religion§! provinces grants §G5.00§! Church Power.\n"
+ NYDD_raze_diff_religion_burn_church_tt: "Razing §YNon-state Religion§! provinces with §YChurches§! or §YCathedrals§! §Rdestroys§! them, adds §R10.00§! Devastation, and loots §G50.0%§! of construction cost.\n"
+ NYDD_enable_supplemental_development_tt: "§G20.0%§! chance to gain extra §G1§! development when developing.\n"
+ NYDD_raze_prov_rudesc_1_base_tax_lost_tt: "§GRazing§! provinces with §RBase Tax§! ≥2 has §G99.0%§! chance to refund §G1§! Base Tax.\n"
+ NYDD_battle_win_reduce_war_exhaustion_tt: "Winning battles reduces §G0.05§! War Exhaustion.\n"
+ NYDD_raze_prov_reduce_war_exhaustion_tt: "§RRazing§! provinces reduces §G0.05§! War Exhaustion.\n"
+ NYDD_raze_prov_reduce_nationlism_tt: "§RRazing§! provinces removes §G2.5§! Separatism at cost of §R10.00§! Devastation.\n"
+ NYDD_enable_slavic_icon_tt: "Enables use of '§YSaint Rostislav Icon§!'.\n"
+ NYDD_allow_icon_rostislav_ttt: "Allowed to use '§YSaint Rostislav Icon§!'."
+ 
+ ewai_reward_yes: "§GAdditional reward requirements met§!\n"
+ ewai_reward_no: "§RAdditional reward requirements not met§!\n"
+
+ NYDD_complete_by_else_tt: "\nOtherwise:"
+ NYDD_complete_by_war_tt_yes: "£yes£If completed through §Mwar§!:"
+ NYDD_complete_by_war_tt_no: "£no£If completed through §Mwar§!:"
+ NYDD_complete_by_dip_tt_yes: "£yes£If completed through §Mdiplomacy§!:"
+ NYDD_complete_by_dip_tt_no: "£no£If completed through §Mdiplomacy§!:"
+ NYDD_complete_by_subject_tt_yes: "£yes£If completed through §Msubject nations§!:"
+ NYDD_complete_by_subject_tt_no: "£no£If completed through §Msubject nations§!:"
+ NYDD_complete_by_conquer_tt_yes: "£yes£If completed through §Mconquest§!:"
+ NYDD_complete_by_conquer_tt_no: "£no£If completed through §Mconquest§!:"
+ NYDD_complete_by_cover_religion_tt_yes: "£yes£If completed through §Mmissionary work§!:"
+ NYDD_complete_by_cover_relgion_tt_no: "£no£If completed through §Mmissionary work§!:"
+ NYDD_complete_by_transfer_culture_tt_yes: "£yes£If completed through §Mculture conversion§!:"
+ NYDD_complete_by_transfer_culture_tt_no: "£no£If completed through §Mculture conversion§!:"
+ NYDD_complete_by_accept_culture_tt_yes: "£yes£If completed through §Mculture acceptance§!:"
+ NYDD_complete_by_accept_culture_tt_no: "£no£If completed through §Mculture acceptance§!:"
+
+ NYDD_complete_by_else_tt_yes: "£yes£§TOtherwise§!:"
+ NYDD_complete_by_else_tt_no: "£no£§TOtherwise§!:"
+
+ NYDD_is_rujiao_ttyes: "£yes£If following §MConfucianism§!:"
+ NYDD_is_rujiao_ttno: "£no£If following §MConfucianism§!:"
+ not_cost_dip_slot_modifier: "Does not use diplomatic relation slot"
+
+ NYDD_subject_modifier_desc_tt: "until they are no longer our subject"
+ NYDD_owns_province_get_tt: "Qualifying provinces receive:"
+ NYDD_modifier_affect_future_province_tt: "Modifiers also apply to future qualifying provinces.\n"
+ NYDD_event_will_give_tt: "\n§TEvent will grant:§!"
+ NYDD_get_from_target_province: "From target province"
+ NO_PREVIEM_MISSION_ttt: "Not shown in §Mmission preview§!"
+ 
+ NYDD_clear_war_yanzhan_tt: "§GImmediately removes all War Exhaustion.§!\n"
+ NYDD_add_army_tradition_or_mil_power_tt: "Excess Army Tradition converts to £mil£.\n"
+ NYDD_add_fervor_or_power_tt: "Excess Fervor converts to £adm£.\n"
+ NYDD_add_harmonizd_religion_effect_tt: "If religion is harmonized or being harmonized, gain §G100§! of each monarch power £adm££dip££mil£.\n"
+ NYDD_add_harmony_or_power_tt: "Excess Harmony converts to all monarch powers £adm££dip££mil£.\n"
+ NYDD_add_patriarch_authority_tt: "Excess Patriarch Authority converts to £adm£.\n"
+ NYDD_add_mandate_or_power_tt: "Each §G1§! excess Mandate converts to §G5§! points in all monarch powers £adm££dip££mil£.\n"
+ NYDD_add_church_power_or_power_tt: "Excess Church Power randomly converts to monarch power £adm££dip££mil£\n"
+ NYDD_half_unite_china_cost_age_ability_effect_tt: "§GRefunds 50% cost§! when selecting '§YUnion Through Division§!' age ability.\n"
+
+ NYDD_raze_diff_religion_burn_church_tt: "§G50%§! chance for extra 1 development when developing §YSteppe§! provinces.\n"
+ 
+ NYDD_roma_papal_title: "Form Roman Empire"
+ NYDD_roma_papal_desc: "Coo?"
+
+ NYDD_unlock_suyishi_effect_tt: "Enables construction of '§YSuez Canal§!' wonder."
+ NYDD_unlock_shenghuomiao_effect_tt: "Enables use of '§YAteshgah of Baku§!' wonder."
+ NYDD_unlock_jiataiji_effect_tt: "Enables use of '§YRuins of Carthage§!' wonder."
+ NYDD_unlock_shunhua_effect_tt: "Enables use of '§YImperial City of Hue§!' wonder."
+
+ NYDD_allow_war_against_heresy_cb_tt: "Enables '§YPurge Heresy§!' casus belli against §YHeretic§! nations.\n"
+ NYDD_allow_unite_balkan_cb_tt: "Enables '§YUnify Balkans§!' casus belli against §YBalkan§! nations.\n"
+
+ mechanic_enables_estate_nobles_yes: "Enables §YNobility§! estate"
+ mechanic_disables_estate_nobles_yes: "Disables §YNobility§! estate"
+ mechanic__yes: ""
+ mechanic__yes: ""
+
+ has_adm_advisor_4_tooltip: "£adm£Has §YLevel 4§! §YAdministrative Advisor§!"
+ has_dip_advisor_4_tooltip: "£dip£Has §YLevel 4§! §YDiplomatic Advisor§!"
+ has_mil_advisor_4_tooltip: "£mil£Has §YLevel 4§! §YMilitary Advisor§!"
+
+ has_adm_advisor_5_tooltip: "£adm£Has §YLevel 5§! §YAdministrative Advisor§!"
+ has_dip_advisor_5_tooltip: "£dip£Has §YLevel 5§! §YDiplomatic Advisor§!"
+ has_mil_advisor_5_tooltip: "£mil£Has §YLevel 5§! §YMilitary Advisor§!"
+
+ NYDD_2jidong_general_tt: "This general has base §G2§! Maneuver.\n"
+
+ NYDD_remove_steppe_terrain_debuff_modfiier: "Steppe Development"
+
+ cb_civil_war_triggered_DD_wargoal: "Civil War"
+ cb_civil_war_triggered_DD_wargoal_desc: "Brother against brother, kin against kin."
+ cb_civil_war_triggered_DD_wargoal_NAME: "$ORDER$$FIRST$-$SECOND$ Civil War"
+ cb_civil_war_triggered_DD: "Civil War"
+ cb_civil_war_triggered_DD_desc: "The nation fragments as civil war erupts."
+ has_been_insulted_by_root: "Has been insulted by [Root.GetName]"
+
+ cb_DD_return_home: "Journey Home"
+ cb_DD_return_home_desc: "We shall return to our homeland one day!"
+ DD_return_home_wg: "Journey Home"
+ DD_return_home_wg_desc: "War goal is to return to homeland."
+ 
+ cb_MOR_holy_war: "War of Redemption"
+ cb_MOR_holy_war_desc: "Their corruption can only be cleansed by us!"
+ cb_MOR_holy_war_wg: "War of Redemption"
+ cb_MOR_holy_war_wg_desc: "War goal is to demonstrate hegemony."
+
+cb_reconquest: "Reconquest"
+cb_reconquest_desc: "They occupy our ancestral lands, and for this, we shall reconquer our homeland!"
+cb_reconquest_wg: "Reconquest"
+cb_reconquest_wg_desc: "The war goal is to demonstrate hegemony."
+
+ cb_untie_france_DD: "French Unification War"
+ cb_untie_france_DD_desc: "The unification of France is inevitable!"
+ cb_untie_france_DD_wargoal: "French Unification War"
+ cb_untie_france_DD_wargoal_desc: "War goal is to demonstrate hegemony."
+ FRANCE_PROV: "French region or French culture group provinces"
+
+ DD_cant_not_sent_peace_TT: "§RPeace treaties are currently prohibited.§!"
+
+ allow_gp_ttt: "Already enabled this wonder through other means"
+
+ age_of_reformation_ttt: "§YSecond Great Schism has occurred§!"
+
+ ab_reconquest_ability: "Reconquista"
+ ab_reconquest_ability_ttt: "Enabled §YReconquista§! age ability"
+ ab_last_crusader_ability: "Final Crusade"
+ ab_empire_donwfall_ability: "Hohenstaufen Bond"
+
+ab_boombeach_ability: "Boom Beach Ability"
+ab_reconquest_ability_tt: "Enables the casus belli '§YReconquest§!' against §YIberian neighbors§! until the end of the §YAge of Discovery§!.\n"
+ab_other_ability: "Exclusive Era Ability"
+
+ PIRATE_CANT_NOT_JOIN: "§RPirates are clearly unwelcome to join.§!"
+
+ cb_claim_personal_union: "Claim Throne"
+ cb_claim_personal_union_desc: "Historical documents prove our legitimate claim to their throne!"
+ cb_claim_personal_union_wg: "Claim Throne"
+ cb_claim_personal_union_wg_desc: "War goal is to occupy capital"
+
+ roma_catholic_center_of_reformation: "Center of Reformation"
+ empire_catholic_center_of_reformation: "Center of Reformation"
+
+ will_become_a_religious_center: "Province will become §Y[Root.Religion.GetName] Center of Reformation§!.\n"
+ province_is_or_accepts_roma_catholic_tt: "§Y[Root.GetName]§! is §YRoman Catholic§! and state religion or accepted faith of owner."
+
+ transfer_occupation_from_ally_button_ttt1: "Because they have a core in this province, §Y[This.GetName]§! requires at least §Y10§! favors to request a transfer.\n"
+ transfer_occupation_from_ally_button_ttt2: "Because they have a claim on this province, §Y[This.GetName]§! requires at least §Y5§! favors to request a transfer.\n"
+ transfer_occupation_from_ally_button_ttt3: "This province requires at least §Y2§! favors to request a transfer.\n"
+ transfer_occupation_from_ally_button_ttt4: "They are a human player, so they can decide whether to give you this province. Please use your mouth or keyboard to tell them you want this province.\n"
+ transfer_occupation_from_ally_button_tooltip: "Click to request a wartime ally to transfer control of this province to you."
+ toggle_subject_coloration_textbox: "Subject Coloration"
+ toggle_subject_coloration_button_text: "Color non-§Ycolonial nations§!, §Ytributary states§!, and §Ydaimyo subjects§! with your color.\n"
+
+ core_all_full_toggle_ttt1: "If this button is selected, clicking §YCore All§! will only create cores in §Ynon-core§! provinces.\n"
+ ME_toggle_full_coring: "§YCreate Non-State Cores§!:\nWhen this button is selected, clicking §YCore All§! will only create cores in §Ynon-core§! provinces.\n"
+ ME_making_state_cores_is_toggled_off: "Creating state cores is temporarily §Rdisabled§!. Enable it via the button next to §YCore All§! in the §YStability§! interface.\n"
+
+ DD_sahara_route_modifier: "Saharan Trade Route"
+ desc_DD_sahara_route_modifier: "This province is part of the Saharan Trade Route. Amidst the vast yellow sands, only oases provide respite, posing significant challenges to military movements."
+
+ #music Theme Songs
+ CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
+ DD_amazing_grace: "01.@SPAAmazing Grace"
+ DD_our_kindom_will_fall: "02.@AFROur Kindom Will Fall"

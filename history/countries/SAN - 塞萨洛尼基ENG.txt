@@ -1,0 +1,17 @@
+﻿government = monarchy
+government_rank = 3
+primary_culture = BYZ_macadon
+religion = greek_orthodox
+technology_group = eastern
+capital = 148
+
+1444.5.29 = {
+	monarch = {
+		name = "Michael VIII"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1422.5.29
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}

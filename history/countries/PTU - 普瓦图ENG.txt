@@ -1,0 +1,20 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 4398
+
+
+
+1432.2.14 = {
+	monarch = {
+		name = "François I"
+		dynasty = "de Poitou"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1409.2.14 
+	}
+}

@@ -1,0 +1,17 @@
+﻿government = republic
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = sorbian
+religion = catholic
+capital = 60	# Oberlausitz
+1444.1.1 = {
+	monarch = {
+		name = "Jeanne d'Arc"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		female = yes
+		birth_date = 1412.5.30
+	}
+}

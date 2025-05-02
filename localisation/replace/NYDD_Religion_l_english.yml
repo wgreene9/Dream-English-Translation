@@ -1,0 +1,43 @@
+﻿l_english:
+
+DD_confucianism_group: "Confucian Religious Group"
+outward_confucianism: "Lixue" # Ritual Studies
+outward_confucianism_religion_desc: ""
+rangyi_school: "Ritual Studies - Exclusionist Faction"
+
+DD_armenian_religion: "Armenian Orthodox"
+DD_armenian_religion_religion_desc: "Originating from the influence of Gregory the Illuminator on Tiridates III, Christianity was established as the state religion of Armenia. It does not recognize the Council of Chalcedon and advocates for Miaphysitism, thus remaining independent from mainstream Christian churches since the 5th century. The Armenian State Religion is primarily prevalent in the Armenian region."
+
+rus_orthodox: "Rus' Orthodox"
+rus_orthodox_religion_desc: "Beginning with the Baptism of Rus', Kiev has always been one of the centers of the Orthodox world. After the fall of Byzantium due to the Fourth Crusade, the Rus' Patriarchate became de facto independent, no longer subject to the Ecumenical Patriarch of Constantinople. Through a series of Slavic creations and developments, the Rus' Orthodox Church has become the de facto dominant force in Eastern Europe."
+
+greek_orthodox: "Greek Orthodox"
+greek_orthodox_religion_desc: "Since the division of the Roman Empire, the Eastern Roman Empire inherited its portion of the church, with its theology rooted in the early Church Fathers and Byzantine culture. With the fall of Byzantium, the Orthodox world gradually moved towards complete fragmentation, and the authority of the Ecumenical Patriarch of Constantinople has waned. Today, the influence of the Greek Orthodox Church is mainly present in the Greek region."
+
+NYDD_bosnia_religion: "Bogomilism"
+NYDD_bosnia_religion_religion_desc: "Originating from the teachings of the Gnostic sect of the First Bulgarian Empire, Bogomilism opposes state and church authorities, advocating a return to early Christianity, conducting rituals outdoors rather than in churches, and believing that the world was created by an evil demon. Today, Bogomilism is primarily prevalent in Bosnia."
+
+roma_catholic: "Roman Catholic"
+roma_catholic_religion_desc: "Centuries of grievances led to an uncontrollable conflict between the Emperor and the Pope, who chose to excommunicate the Emperor as usual. However, this time the Emperor did not yield and declared the sacraments of the Holy Roman Empire to be independent. Those who still followed the Pope and acknowledged the authority of Rome were called Roman Catholics, while those who sided with the Emperor were called Imperial Catholics. Thus began the second great schism in Christianity. Unlike previous schisms, this one might be permanent."
+
+empire_catholic: "Imperial Catholic"
+empire_catholic_religion_desc: "Centuries of grievances led to an uncontrollable conflict between the Emperor and the Pope, who chose to excommunicate the Emperor as usual. However, this time the Emperor did not yield and declared the sacraments of the Holy Roman Empire to be independent. Those who still followed the Pope and acknowledged the authority of Rome were called Roman Catholics, while those who sided with the Emperor were called Imperial Catholics. Thus began the second great schism in Christianity. Unlike previous schisms, this one might be permanent."
+
+khawarij: "Kharijite"
+khawarij_religion_desc: "The Kharijites, an ancient Islamic sect, emerged during the era of Caliph Ali, like the Sunnis and Shiites, and caused great turmoil in the Arab world by assassinating Ali and Muawiyah. They oppose both Shiite and Sunni views, advocating for the strict election of leaders based on Islamic egalitarian principles. Any Muslim, regardless of status or ethnic background, who possesses the necessary leadership skills, has the right to be elected, even a slave. The Caliph must strictly obey Allah, otherwise, he should be overthrown. They aim to establish a 'democratic Islam,' abolishing the custom of inheriting leadership through tribal or blood relations, and place great emphasis on Sharia, advocating for the equal distribution of land and spoils among all Muslims, hence also known as the Military Democrats. After being exiled to Mesopotamia, they launched uprisings against the Caliph, which were suppressed several times. Today, besides the followers hidden in Mesopotamia, there are remnants who have sailed into exile in Iberia."
+
+khawarij_school: "Khariji"
+khawarij_school_desc: "The Kharijites, an ancient Islamic sect, emerged during the era of Caliph Ali, like the Sunnis and Shiites, and caused great turmoil in the Arab world by assassinating Ali and Muawiyah. They oppose both Shiite and Sunni views, advocating for the strict election of leaders based on Islamic egalitarian principles. Any Muslim, regardless of status or ethnic background, who possesses the necessary leadership skills, has the right to be elected, even a slave. The Caliph must strictly obey Allah, otherwise, he should be overthrown. They aim to establish a 'democratic Islam,' abolishing the custom of inheriting leadership through tribal or blood relations, and place great emphasis on Sharia, advocating for the equal distribution of land and spoils among all Muslims, hence also known as the Military Democrats. After being exiled to Mesopotamia, they launched uprisings against the Caliph, which were suppressed several times. Today, besides the followers hidden in Mesopotamia, there are remnants who have sailed into exile in Iberia."
+
+harmonized_confucianism: "Harmonized Confucianism"
+
+greek_religion: "Scholastikos"
+greek_religion_religion_desc: "Born from ancient Greek philosophy and modern Christian organization, the new Greek Religion no longer worships multiple deities."
+
+muslim_confucianism: "Hui Religion"
+muslim_confucianism_religion_desc: ""
+
+jesu_confucianism: "Tianxue"
+jesu_confucianism_religion_desc: ""
+# Slavic Pravda
+# Originating from the historical belief system of the Slavic people, Slavic Pravda was originally a collection of ancient tribal legends. Due to the invasion of Western Christian culture, these unorganized myths were integrated into a bond connecting every Slavic brother. In 1444, Slavic Pravda was mainly concentrated in the Slavic region.

@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+religion = rus_orthodox
+primary_culture = kiev_es
+capital = 280	# Kiev
+fixed_capital = 280 # Cannot move capital away from this province & no power cost to move to it
+
+1444.11.1 = {
+	monarch = {
+		name = "Ivan II"
+		dynasty = "Rurikovich"
+		birth_date = 1417.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}

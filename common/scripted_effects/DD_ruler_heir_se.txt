@@ -1,0 +1,477 @@
+
+DD_ASU_LON_path_heir = {
+	define_heir = {
+		name = "Alfonso"
+		dynasty = "Gonzalez"
+		adm = 4
+		dip = 4
+		mil = 1
+		age = 18
+		claim = 50
+		block_disinherit = yes
+	}
+	hidden_effect = {
+		add_heir_personality = tolerant_personality
+	}
+}
+DD_ASU_LON_path_ruler = {
+	define_ruler = {
+		name = "Alfonso"
+		dynasty = "Gonzalez"
+		adm = 4
+		dip = 4
+		mil = 1
+		age = 24
+	}
+	hidden_effect = {
+		add_ruler_personality = tolerant_personality
+	}
+}
+DD_ASU_CAS_path_heir = {
+	define_heir = {
+		name = "Enrique"
+		dynasty = "Gonzalez"
+		adm = 3
+		dip = 1
+		mil = 5
+		age = 16
+		claim = 10
+		block_disinherit = yes
+	}
+	hidden_effect = {
+		add_heir_personality = zealot_personality
+	}
+}
+DD_ASU_CAS_path_ruler = {
+	define_ruler = {
+		name = "Enrique"
+		dynasty = "Gonzalez"
+		adm = 3
+		dip = 1
+		mil = 5
+		age = 20
+	}
+	hidden_effect = {
+		add_ruler_personality = zealot_personality
+	}
+}
+DD_ASU_GAL_path_ruler = {
+	define_ruler = {
+		name = "Sancho I"
+		dynasty = "Gonzalez"
+		adm = 2
+		dip = 5
+		mil = 2
+		age = 40
+	}
+	hidden_effect = {
+		set_ruler_flag = DD_ASU_GAL_path_ruler
+		add_ruler_personality = expansionist_personality
+		add_ruler_personality = navigator_personality
+	}
+}
+
+DD_XLN_1a_ruler = {
+	define_ruler = {
+		dynasty = "von Habsburg"
+		change_dip = 1
+		hide_skills = yes
+	}
+}
+DD_XLN_1b_ruler = {
+	define_ruler = {
+		dynasty = "de Hauteville"
+		change_mil = 1
+		hide_skills = yes
+	}
+}
+DD_XLN_1c_ruler = {
+	define_ruler = {
+		dynasty = "de Lusignan"
+		change_adm = 1
+		hide_skills = yes
+	}
+}
+DD_VAL_1a_ruler = {
+	define_ruler = {
+		dynasty = "de Aragon"
+	}
+}
+DD_ML1_1a = {
+	create_flagship = {
+		type = heavy_ship
+		name = "May Allah Bless Her"
+	}
+}
+DD_KOJ_8a = {
+	define_ruler = {
+		name = "Baibars Nizar"
+		change_mil = 3
+	}
+}
+DD_MOR_ruler = {
+	define_ruler = {
+		name = "Muhammad V"
+		dynasty = "Marinid"
+		adm = 3
+		dip = 3
+		mil = 4
+		age = 60
+	}
+	define_heir = {
+		name = "Moussa"
+		dynasty = "Marinid"
+		adm = 4
+		dip = 3
+		mil = 5
+		age = 20
+	}
+}
+DD_TLC_ruler = {
+	define_ruler = {
+		name = "Tariq I"
+		dynasty = "Hafsid"
+		adm = 2
+		dip = 3
+		mil = 4
+		age = 31
+	}
+}
+
+DD_AFR_12a = {
+	define_ruler = {
+		name = "Rodrigo IV"
+		dynasty = "de Vivar"
+		adm = 5
+		dip = 4
+		mil = 6
+		age = 24
+		claim = 50
+	}
+}
+DD_ML1_14a = {
+	define_admiral = {
+		name = "Abdullah Nasir"
+		shock = 5
+		fire = 5
+		manuever = 5
+		siege = 5
+	}
+}
+DD_ML1_14b = {
+	define_general = {
+		name = "Abdullah Nasir"
+		shock = 4
+		fire = 4
+		manuever = 5
+		siege = 2
+	}
+}
+DD_AFR_11a = {
+	define_ruler = {
+		name = "Regency Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regency = yes
+	}
+}
+DD_AFR_19a = {
+	define_ruler = {
+		dynasty = "de Vivar"
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		max_age = 50
+		min_age = 30
+		claim = 90
+		change_original_dynasty = yes
+	}
+}
+DD_AFR_46a = {
+	define_ruler = {
+		name = "Robert"
+		change_mil = 2
+	}
+}
+DD_SWA_1a = {
+	define_ruler = {
+		dynasty = "von Hohenstaufen"
+		change_mil = 1
+		change_original_dynasty = yes
+	}
+}
+
+DD_MOR_27a = {
+	define_ruler = {
+		dynasty = "Hafsid"
+		culture = algerian
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27b = {
+	define_ruler = {
+		dynasty = "Marinid"
+		culture = moroccan
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27c = {
+	define_ruler = {
+		dynasty = "Aglab"
+		culture = tunisian
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27d = {
+	define_ruler = {
+		dynasty = "Ayyubid"
+		culture = al_misr_arabic
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27e = {
+	define_ruler = {
+		dynasty = "Hashem"
+		culture = arabic_culture
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27f = {
+	define_ruler = {
+		dynasty = "Ya'qub" # Jacob
+		culture = al_suryah_arabic
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_27g = {
+	define_ruler = {
+		dynasty = "Musha'sha'iyya"
+		culture = al_suryah_arabic
+		min_age = 20
+		max_age = 50
+	}
+}
+DD_MOR_28a = {
+	define_heir = {
+		age = 15
+		name = "Harun 'the Stone-hearted'"
+		dynasty = ROOT
+		change_adm = 2
+		change_dip = 2
+		change_mil = 2
+	}
+}
+DD_MOR_28b = {
+	define_general = {
+		name = "Harun 'the Stone-hearted'"
+		shock = 5
+		fire = 5
+		manuever = 5
+		siege = 5
+	}
+}
+DD_ML1_15a = {
+	define_ruler = {
+		age = 30
+		name = "Khizr 'Barbarossa'"
+		dynasty = "Reis"
+		change_adm = 2
+		change_dip = 2
+		change_mil = 2
+	}
+}
+DD_ML1_15b = {
+	define_admiral = {
+		name = "Khizr 'Barbarossa' Reis"
+		shock = 4
+		fire = 4
+		manuever = 6
+		siege = 4
+	}
+}
+DD_LOM_1a = {
+	define_ruler = {
+		name = "Shylock I"
+		dynasty = "Visconti"
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		change_original_dynasty = yes
+	}
+}
+DD_MOR_38a = {
+	define_ruler = {
+		name = "Abu Zakariya Yahya"
+		dynasty = "Wattasid"
+		adm = 5
+		dip = 4
+		mil = 4
+		age = 68
+		claim = 20
+		change_original_dynasty = yes
+	}
+	define_heir = {
+		dynasty = "Wattasid"
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		age = 30
+	}
+}
+DD_MOR_9a = {
+	capital_scope = {
+		spawn_rebels = {
+			size = 2
+			type = pretender_rebels
+			leader = "Abu Zakariya Yahya"
+			leader_dynasty = "Wattasid"
+		}
+	}
+}
+NYDD_ASU_mountain_shadow_effect = {
+	define_explorer = {
+		shock = 1
+		fire = 1
+		manuever = 6
+		siege = 1
+		name = "Sancho Gonzalez"
+	}
+}
+DD_ASU_50a = {
+	define_heir = {
+		female = yes
+		name = "Isabella"
+		dynasty = ROOT
+		age = 0
+		adm = 4
+		dip = 6
+		mil = 4
+		claim = 25
+		block_disinherit = yes
+	}
+}
+DD_ASU_50b = {
+	define_heir = {
+		name = "Carlos"
+		dynasty = ROOT
+		age = 0
+		adm = 4
+		dip = 6
+		mil = 4
+		claim = 75
+		block_disinherit = yes
+	}
+}
+DD_ASU_59a = {
+	define_advisor = {
+		type = treasurer
+		skill = 2
+		name = "Lorenzo de' Medici"
+		cost_multiplier = 0.25
+	}
+}
+DD_ASU_59b = {
+	define_advisor = {
+		type = commandant
+		skill = 2
+		name = "Lorenzo de' Medici"
+		cost_multiplier = 0.25
+	}
+}
+DD_ASU_83a = {
+	define_ruler = {
+		adm = 3
+		dip = 3
+		mil = 6
+		age = 30
+		dynasty = "Capet"
+	}
+}
+DD_BOH_1a = {
+	define_ruler = {
+		name = "Jiri"
+		dynasty = "Podebrad"
+		adm = 5
+		dip = 4
+		mil = 3
+		culture = czech
+		age = 25
+	}
+}
+DD_BOH_1b = {
+	define_ruler = {
+		name = "Casimir I"
+		dynasty = "von Luxemburg"
+		age = 38
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+DD_BOH_1c = {
+	define_ruler = {
+		name = "Jeanne d'Arc"
+		adm = 3
+		dip = 3
+		mil = 6
+		age = 33
+		female = yes
+	}
+	SOR = {
+		define_ruler = {
+			name = "Jan Zizka"
+			adm = 3
+			dip = 4
+			mil = 5
+			age = 68
+		}
+	}
+}
+DD_ADU_19b = {
+	define_general = {
+		name = "Abdullah"
+		shock = 4
+		fire = 4
+		manuever = 4
+		siege = 3
+	}
+}
+DD_ADU_20a = {
+	define_ruler = {
+		name = "Abdullah"
+		dynasty = "???"
+		adm = 3
+		dip = 1
+		mil = 4
+		age = 30
+		claim = 10
+	}
+}
+DD_ADU_21a = {
+	set_dynasty = "Humeya"
+}
+DD_colony_13a = {
+	define_ruler = {
+		name = "Aben Humeya"
+		change_adm = 1
+	}
+}
+DD_colony_14a = {
+	define_ruler = {
+		name = "Hernán Cortes"
+		change_mil = 5
+	}
+}
+DD_colony_15a = {
+	define_ruler = {
+		name = "Francisco Pizarro"
+		change_mil = 5
+	}
+}

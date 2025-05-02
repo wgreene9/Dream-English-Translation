@@ -1,0 +1,17 @@
+﻿government = republic
+add_government_reform = oligarchy_reform 
+primary_culture = dutch
+religion = catholic
+technology_group = western
+capital = 96	
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Municipal Council"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		regent = yes
+	}
+}

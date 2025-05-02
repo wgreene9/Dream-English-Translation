@@ -1,0 +1,23 @@
+﻿government = monarchy
+add_government_reform = NYDD_ILK_subject_reform
+government_rank = 1
+primary_culture = persian
+technology_group = chinese
+religion = confucianism
+add_harmonized_religion = mahayana
+add_harmonized_religion = vajrayana
+capital = 2218 # Shiraz
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Miao"
+		dynasty = "Wang"
+		culture = anxi
+		religion = confucianism
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1407.4.4
+	}
+}

@@ -1,0 +1,18 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = BYZ_yagaiya
+religion = catholic
+capital = 145	# Nafplio
+fixed_capital = 145 # Cannot move capital away from this province & no power cost to move to it
+
+1407.1.1 = {
+	monarch = {
+		name = "William IV"
+		dynasty = "de Champagne"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}

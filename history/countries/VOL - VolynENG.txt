@@ -1,0 +1,17 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+religion = catholic
+primary_culture = wolun_es
+capital = 279	# Volhynia
+
+1438.11.1 = {
+	monarch = {
+		name = "Ivan II 'The Zealot'"
+		dynasty = "Rurikovich"
+		birth_date = 1403.1.1
+		adm = 6
+		dip = 4
+		mil = 0
+	}
+}

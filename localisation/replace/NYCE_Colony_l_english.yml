@@ -1,0 +1,35 @@
+﻿l_english:
+
+
+DD_colony_21_t: "Colony Report"
+DD_colony_21_d: "Our newly established colony in [From.GetName] is gradually attracting a large number of immigrants and is showing signs of developing into a major settlement. Accordingly, based on local resources, some favorable conditions have been listed."
+DD_colony_21a: "Very well."
+DD_colony_21a_tt: "The colony §Y[NYCE_colony_prov_changed_1.GetName]§! will receive the following modifiers:"
+
+NYCE_colony_shipport_modifier: "Ship Harbor"
+desc_NYCE_colony_shipport_modifier: "With ample timber and suitable plains for building numerous ships, this is an excellent port."
+NYCE_colony_tradecenter_modifier: "Trading Post"
+desc_NYCE_colony_tradecenter_modifier: "Originally a resting place for traveling merchants, the frequent traffic has gradually turned it into a small trade center."
+NYCE_colony_liufang_modifier: "Exile Settlement"
+desc_NYCE_colony_liufang_modifier: "Many who opposed the state have fled or been exiled, arriving here through various means."
+NYCE_colony_war_nanming_modifier: "Refugee Haven"
+desc_NYCE_colony_war_nanming_modifier: "Many people were forced to become refugees due to war, destined to live in misery, but the newly established colony has given them a chance for a new life."
+NYCE_colony_mine_modifier: "Expanded Mine"
+desc_NYCE_colony_mine_modifier: "With the extraction of large quantities of precious minerals, production has scaled up, and stricter safety regulations have been implemented."
+NYCE_colony_plantation_modifier: "Plantation"
+desc_NYCE_colony_plantation_modifier: "This is a monoculture region, dedicated to producing large quantities of cash crops for the state. Retaining necessary profits under state approval while contributing more taxes."
+NYCE_colony_glacier_modifier: "Desolate"
+desc_NYCE_colony_glacier_modifier: "There is nothing here but ourselves."
+NYCE_colony_highlands_modifier: "Convergence of Peaks"
+desc_NYCE_colony_highlands_modifier: "This is a continuous mountain range, easily defensible and difficult for unfamiliar enemies to traverse."
+NYCE_colony_good_place_modifier: "Fertile Land"
+desc_NYCE_colony_good_place_modifier: "With lush water and grass, this is an excellent place to settle and thrive!"
+NYCE_colony_slave_center_modifier: "Slave Market"
+desc_NYCE_colony_slave_center_modifier: "Large numbers of slaves are transported here from elsewhere, available for selection by plantation and mine owners."
+NYCE_colony_block_modifier: "Dense Forest"
+desc_NYCE_colony_block_modifier: "This area is covered in endless jungle, causing significant losses for both enemies and ourselves when attempting to traverse it."
+NYCE_colony_dreamland_modifier: "Beautiful New World"
+desc_NYCE_colony_dreamland_modifier: "Is this the legendary paradise?"
+
+
+

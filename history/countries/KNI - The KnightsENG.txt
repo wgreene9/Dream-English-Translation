@@ -1,0 +1,20 @@
+﻿primary_culture = africa_culture
+religion = catholic
+technology_group = western
+capital = 2954 
+historical_friend = VEN
+historical_friend = AFR
+add_army_professionalism = 0.1
+government = theocracy
+add_government_reform = monastic_order_reform
+
+1437.1.1 = {
+	monarch = {
+		name = "Jean Bonpart de l'Astique"
+		birth_date = 1371.1.1
+		culture = africa_culture
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}

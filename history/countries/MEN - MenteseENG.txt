@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = beylik_government
+government_rank = 1
+primary_culture = turkish
+religion = catholic
+technology_group = ottoman
+capital = 319	# Antalya
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Ibrahim II"
+		dynasty = "Menteseoglu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.2
+}

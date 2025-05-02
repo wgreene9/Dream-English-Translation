@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = NYDD_kindom_of_crusder_reform
+government_rank = 1
+primary_culture = africa_culture
+religion = catholic
+technology_group = western

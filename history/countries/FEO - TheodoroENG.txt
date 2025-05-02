@@ -1,0 +1,20 @@
+﻿government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = goths
+religion = greek_orthodox
+technology_group = eastern
+historical_friend = TRE
+capital = 2410	# Theodoro
+
+1443.10.29 = {
+	heir = {
+		name = "Manuel I"
+		dynasty = "Komnenos"
+		birth_date = 1403.10.29
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}

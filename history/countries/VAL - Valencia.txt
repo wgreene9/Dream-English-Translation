@@ -1,0 +1,17 @@
+government = monarchy
+
+add_government_reform = feudalism_reform
+
+religion = catholic
+primary_culture = valencian
+technology_group = western
+capital = 220	
+
+1444.1.1 = {
+	monarch = {
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

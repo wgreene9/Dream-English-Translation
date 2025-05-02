@@ -1,0 +1,42 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 65	
+# elector = yes
+
+# 1403.12.1 = {
+# 	monarch = {
+# 		name = "Maximilian I"
+# 		dynasty = "von Wittelsbach"
+# 		birth_date = 1407.12.15
+# 		adm = 5
+# 		dip = 3
+# 		mil = 2
+# 	}
+# }
+1430.12.1 = {
+	monarch = {
+		name = "Barbara II"
+		dynasty = "von Wittelsbach"
+		birth_date = 1410.12.15
+		adm = 5
+		dip = 3
+		mil = 2
+		female = yes
+	}
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich IV"
+		dynasty = "von Hohenstaufen"
+		birth_date = 1430.1.1
+		death_date = 1460.1.1
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 2
+		block_disinherit = yes
+	}
+	set_heir_flag = DD_SWA_BAV_heir_flag
+}

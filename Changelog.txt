@@ -1,0 +1,103 @@
+3.17
+- Removed the Arabian missions.
+- Fixed the issue where Morocco's "Call to the Faithful" interaction cost 10 instead of 5.
+- Primitive nations now have a -50% land force limit.
+- Added clan-based naming for Arabian nations. The AI will now default to using family names as country names.
+- Fixed the issue where Majorca's idea upgrades incorrectly changed to Menorca's ideas.
+- The "Conqueror's Nation" modifier now grants an additional 15% morale.
+
+3.15
+- Fixed the issue where colonial modifiers sometimes did not display completely.
+- Other changes (forgotten).
+
+3.7
+- Added shared economic and colonization missions for Morocco and Tlemcen. (Save compatible, probably.)
+- Brittany is now a vassal of France at the start of the game.
+- Added a decision for Africa to purchase Djerba after breaking free from Genoese control.
+- Fixed an issue where Africa was missing a Sahara colonization area due to setting changes.
+- Fixed an issue where Mallorca would incorrectly convert to Anglian culture.
+- New England elections now display detailed election tendencies.
+- Fixed an issue where Africa's "Time for Reckoning" modifier did not actually reduce separatism.
+- Fixed several known bugs, but I forgot what they were.
+
+2.27
+- Added a significant amount of splendor points to the Asturias mission to facilitate early acquisition of the Reconquista era ability.
+- The Reconquista era ability will also grant a Reconquista casus belli (75%).
+- Added era abilities to the Island Raiders.
+- Implemented settings for East Africa (only Ethiopia) and West Africa.
+- Reset the background for Southern Germany.
+- A union will form when Swabia and Bavaria share an heir.
+- Added the Bohemian starting event.
+- Based on new settings, Swabia is no longer an Electorate; the Palatinate (Habsburg) becomes the new Electorate.
+- Integrated dynamic colonial adjustment events from the Colonial Expansion mod.
+- Added six colonization events; except for the two Spanish ones which trigger with the appearance of Colonialism and are unique, the others require the adoption of Colonialism to trigger.
+- Added vassal icons for tribes and crusader states.
+- After the Desert Talks, Morocco and Tlemcen will receive -15% and -10% war score adjustments.
+- Fixed a bug where the Apennine Ambition adjustment was incorrectly extended to all countries and provinces.
+- The Chinese tech group now starts with visibility in the Levant, Persia, Eastern Europe's Great Grasslands, and Central Asia.
+- The Crusader Kings event in Africa now allows you to set those countries as crusader states to prevent missing opportunities.
+- The French Crown Lands now use French ideas.
+- Added ideas for Iberia and Itanya.
+- Fixed a bug where the council did not take effect under certain conditions.
+- Fixed several bugs where privilege rewards did not take effect. (Probably)
+- Other changes forgotten.
+
+2.20
+- Removed Mali missions and disasters.
+- The French mission in the Asturias mission now requires 75 war score to complete instead of just occupying the capital.
+- Added an introduction to the Bohemian start.
+- Jalayirids and Chobanids are now unique vassals at the start to prevent disloyalty.
+- Fixed a bug that caused an adjustment to infinitely extend under certain conditions.
+- Added province adjustments for the Saharan trade routes.
+- It is now possible to reach West Africa via Arguin.
+- The heathen estate can only be used if you are not Muslim.
+- The Leon-Spain Empire no longer grants maximum tolerance bonuses.
+- Fixed a bug where the Niger mission in Africa rewarded Niger -10 separatism twice; it should be Guinea once and Niger once.
+- Other changes forgotten.
+
+2.11
+- Completed the Aragon idea texts.
+- Removed Catholic requirements mentioned in the African missions.
+- Fixed the Tlemcen farming issue again, hopefully for real this time.
+- Fixed Jerusalem again, hopefully for real this time.
+- Fixed the extra reward failure caused by incorrect conditions in the Cordoba Monastery.
+- That's probably it.
+
+2.10
+- Non-HRE countries now have a -200 voting modifier.
+- Added four new wonders (only effective in new saves).
+- The final mission of Castile can now also be completed after 1600.
+- The forgotten mission (the last in the fifth column) can now be completed by building the University of Salamanca.
+- Added a claim on Sicily in the Moroccan mission, although, never mind.
+- The Carlos line in Asturias will now feature Morisco culture.
+- Forming the Roman Empire will no longer convert to Roman culture to avoid disrupting the beautiful cultural map.
+- Wonders now only increase province score adjustment by 10% (originally 33%).
+- The Tlemcen alliance elections will no longer result in the death of the monarch.
+- Fixed a bug where alliance cohesion farming did not increase.
+- The Tower of London no longer exists at the start but can be built by France (prerequisite is that the local culture is French).
+- The Menorca governorate now contributes 20% manpower and other resources.
+- Egypt will immediately become independent if the overlord is not the Pope.
+
+2.8
+- Reworked the Aragon ideas.
+- Doubled the penalties for vassals.
+- The French rebellion in the Asturias path now causes rebellions across all of Northern France, with a 60% chance for Southern France to join. France formed this way will no longer have provinces outside the French region.
+- Added events for Moorish rebellions.
+- Added several Muslim provinces.
+- Livestock in Southern Iberia now starts as grain and changes to livestock after the Enclosure Movement event.
+- Added images to the options for Imperial Incidents.
+- Added backgrounds for Anatolia and Arabia.
+- Fixed the incorrect effect of Tlemcen's alliance cohesion.
+
+2.4
+- When a player is involved in the Morocco-Tlemcen conflict, the player will always trigger the Desert Talks first.
+- The Morocco-Tlemcen mission "Contact Compatriots" no longer grants historical allies, as the Desert Talks event already provides them.
+- The Civil War casus belli now makes the AI very unwilling to peace out unless it's an unconditional surrender.
+- The Reconquista era ability no longer affects Tlemcen because of its benevolence.
+- Fixed the Final Crusade end event that could trigger at any time.
+- The Arab Admiralty can no longer become a dictatorship.
+- Fixed the issue where Tlemcen could become a cultural homeland.
+- The full heir age and claims can now be viewed in the court or diplomacy interface. (Note: There might be bugs for heirs with long names.)
+- Ported features from ABE(EE) including favors for control, vassal map coloring, and creating non-state cores.
+- Fixed the issue where Tlemcen's mission to remove the mountain development cost penalty was not taking effect.
+- Other changes forgotten.

@@ -1,0 +1,5 @@
+﻿government = monarchy
+primary_culture = english
+religion = catholic
+technology_group = western
+capital = 183 # Paris

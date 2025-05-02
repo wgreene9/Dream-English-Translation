@@ -1,0 +1,17 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = bulgarian
+religion = greek_orthodox
+capital = 150
+
+1443.1.14 = {
+	monarch = {
+		name = "Mikhail II"
+		dynasty = "Terter"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1408.1.2 
+	}
+}

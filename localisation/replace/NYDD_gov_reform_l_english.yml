@@ -1,0 +1,209 @@
+﻿l_english:
+# North Africa Levant Iberia
+ NYDD_kindom_of_crusder_reform: "Crusader State"
+ NYDD_kindom_of_crusder_reform_desc: "Although our nation was established under the name and call of a holy war, the reality is that we must cooperate with the infidels. Direct conflict with the infidels would lead to inevitable turmoil. Despite some fanatical warriors always clamoring for jihad, we must compromise with reality."
+
+ mechanic_enables_estate_knights_yes: "Enable the §YKnights§! estate."
+ mechanic_enables_estate_muslim_yes: "Enable the §YInfidels§! estate."
+ mechanic_use_mahedi_title_yes: "Ruler uses the §YMahdi§! title"
+ mechanic_use_caliph_title_yes: "Ruler uses the §YCaliph§! title"
+ mechanic_has_unique_election_yes: "Has a unique election mechanism"
+ mechanic_TLC_bonus_for_culture_ruler_yes: "Rulers of the corresponding culture will grant a §MLeague Cohesion§! bonus for the corresponding culture, §Gdoubled§!."
+ mechanic_TLC_give_parliament_seats_unity_yes: "Granting §YParliament Seats§! will grant §G1§! §MLeague Cohesion§!, losing seats will grant §R-2§! §MLeague Cohesion§!."
+ mechanic_TLC_pass_issue_gain_unity_yes: "Passing a §YBill§! will grant §G10§! §MLeague Cohesion§!, while failing to pass a §YBill§! will grant §R-10§! §MLeague Cohesion§!."
+ mechanic__yes: ""
+ mechanic__yes: ""
+ mechanic__yes: ""
+ DD_not_normal_election_tt: "Has a unique election mechanism"
+
+ MAHDI_COUNTRY: "Mahdi State"
+ MAHDI: "Mahdi"
+ TLC_union: "Habrullah League"
+ EMIR_OF_EMIR: "Grand Emirate"
+ # Government Mechanics
+ ability_DD_AFR_holy_war_mechanic: "§OHoly War Zeal§!"
+ DD_AFR_holy_war_power: "Holy War Zeal"
+ DD_AFR_holy_war_power_desc: "Holy War Zeal represents the loyalty of this nation to sacred matters and religious doctrines. As long as the flames of faith continue to burn, the sacred kingdom of the White Raven will not fall. However, Holy War Zeal is also a shackle that binds us. As long as Holy War Zeal remains high, Africa cannot modernize. As people delve deeper, the rewards will eventually come.\n\nThe following factors affect §OHoly War Zeal§!:\n- Spreading the state religion (§G+1§!)\n- War with infidels (§G+0.1§!)\n- Modernization progress\n\nWhen §OHoly War Zeal§! falls below §R50§!, the effects will turn into §Rnegative penalties§!.\n\nWith each passing era, the §Gpositive effects§! will be §Rhalved§!, and the decay will increase by §R-0.1§!. After the §YAge of Absolutism§!, §OHoly War Zeal§! provides no positive effects.\n"
+ ability_DD_AFR_modern_mechanic: "§MKingdom Modernization§!"
+ DD_AFR_modern_power: "Modernization Progress"
+ DD_AFR_modern_power_desc: "Modernization Progress represents the modernization process of the Crusader Kingdom. The Crusader Kingdom was driven by profit and faith to establish a new state here, fueled by passion. However, as stability gradually sets in, many are no longer willing to embark on crusades. Our once-proud spirit of holy war has now become a stumbling block to our peace and stability. The two will constrain each other until the holy war is completely over.\n\nThe following factors affect §MModernization Progress§!:\n- Each level of £adm£ §YAdministrative§! advisor (§G+0.1§!)\n- Holy War Zeal"
+ monthly_DD_AFR_holy_war_power: "Monthly Holy War Zeal"
+ monthly_DD_AFR_modern_power: "Monthly Modernization Progress"
+ DD_AFR_holy_war_power_gain_modifier: "§OHoly War Zeal§! Gain Modifier"
+
+ ability_DD_MOR_holy_war_mechanic: "§RSavior War§!"
+ DD_MOR_holy_war_power: "Savior Zeal"
+ DD_MOR_holy_war_power_desc: "The world is like an eternal night of suffering, and the Mahdi (Savior) prophesied by the Prophet remains hidden in the darkness, cruelly leaving us in this terrible cold night. What should we do to change this? Thus, our noble ruler, with the blood of the holy lineage, steps forward to become the Savior—soaring over mountains, love and hatred, nations, shattering the cages deep in people's hearts, eradicating tyranny and evil, bringing redemption and revival to the Islamic world.\n\nThe following factors affect §OHoly War Zeal§!:\n- Ruler's military ability\n- Religious unity\n- Spreading the state religion (§G+1§!)\n- War with infidels (§G+0.1§!)"
+ monthly_DD_MOR_holy_war_power: "Monthly Savior Zeal"
+ boost_DD_MOR_holy_war: "Call to the Army of the Faithful"
+ boost_DD_MOR_holy_war_desc: ""
+
+ ability_DD_TLC_union_mechanic: "§THabrullah League§!"
+ DD_TLC_union_power: "League Cohesion"
+ DD_TLC_union_power_desc: "Our world has seen many people—traitors, dictators, the devout, the loyal… Without exception, they have only further fragmented our world. The once golden age has passed like the wind, leaving the Islamic world in ruins. Adhering to the teachings of the Prophet, 'Hold firmly to the rope of Allah and do not divide,' we will establish a league of Islamic brethren, uniting with brothers dedicated to reviving the great cause of Islam under the witness of Allah, to rebuild the golden century through equal union.\n\nThe following factors will affect §TLeague Cohesion§!:\n- Ruler's £dip£ diplomatic ability\n- Increasing development in §Ynon-primary culture§! provinces (§G+1§!)\n- Increasing development in §Yprimary culture§! provinces (§R-0.5§!)\n- Accepting a culture (§G+5§!)\n- Expelling a culture (§R-10§!)\n\n§MAccepting§! the following cultures and §Oowning§! all their provinces will grant bonuses:\n-§YMorocco§! (Cavalry combat ability: §G+10.0%§!)\n-§YAndalus§! (National manpower modifier: §G+10.0%§!)\n-§YTunisia§! (Trade efficiency: §G+10.0%§!)\n-§YEgypt§! (Production efficiency: §G+10.0%§!)\n-§YSyria§! (Missionary strength: §G+2.0%§!)\n-§YArabia§! (True faith tolerance: §G+2.00§!)\n-§YMashriq§! (Development cost: §G-10.0%§!)\n"
+ monthly_DD_TLC_union_power: "Monthly League Cohesion"
+
+ DD_BDH_interaction_1: "Expand Army Size"
+ DD_BDH_interaction_1_desc: ""
+ DD_BDH_interaction_1_tt: "By lowering recruitment standards, we can gain a large number of new recruits. However, this will also harm our militarization, as these recruits are not well-trained.\n"
+ DD_BDH_interaction_1_modifier: "Expanded Recruitment"
+ DD_BDH_interaction_2: "Rigorous Training"
+ DD_BDH_interaction_2_desc: ""
+ DD_BDH_interaction_2_tt: "The quality of our army is too poor; we need an invincible iron army. Therefore, we must train them rigorously, even though many of them will complain. That doesn't matter.\n"
+ DD_BDH_interaction_2_modifier: "Strict Discipline"
+ DD_BDH_interaction_3: "Advance Militarization"
+ DD_BDH_interaction_3_desc: ""
+ DD_BDH_interaction_3_tt: "We must invest more resources to advance militarization.\n"
+ DD_BDH_interaction_3_modifier: ""
+
+ DD_BDH_interaction_1_tt2: "For the duration of this modifier, the §YAndalusian Militarization§! will maintain its §Gmaximum§! values for §YManpower Recovery Speed§! and §YAristy Maintenance§!.\n"
+ DD_BDH_interaction_2_tt2: "For the duration of this modifier, §YAndalusian Militarization§! will no longer have a base §Gdecay§!.\n"
+
+ #t1
+ NYDD_GRA_taifa_reform: "Granadan Taifa"
+#  NYDD_GRA_taifa_reform_desc: "The Nasrid dynasty has always coveted the Caliphate. Since the fall of the Caliphate of Córdoba centuries ago, the Taifas of Iberia have been fighting for it. Although they lack sufficient prestige, the Nasrid dynasty has already assumed the title of Caliph." 2.20
+ NYDD_GRA_taifa_reform_desc: "The Nasrid dynasty has always coveted the title of Caliph. Since the Caliph of Córdoba lost his realm centuries ago, the Taifas of Iberia have been warring endlessly for it. Though lacking sufficient prestige, the Nasrids have already proclaimed themselves as Caliphs, regardless of whether their enemies label Granada as shameless usurpers or jesters."
+ NYDD_BDH_aimier_reform: "Badajozi Taifa"
+#  NYDD_BDH_aimier_reform_desc: "The Badajoz Taifa is merely a group of warlords, to put it mildly, indifferent to the authority of the Caliph. As the most capable general of the Umayyad Taifa era, the Emir of Badajoz has his own plans." 2.20
+ NYDD_BDH_aimier_reform_desc: "The Taifa of Badajoz is nothing more than a group of warlords, and to put it bluntly, they care little for the authority of the Caliph. Once the sword of the Caliph, they fought across the empire, their valor and belligerence being the ladder they climbed over countless corpses to reach their high station. These generals, who rose from humble Berber soldiers, need no one's approval—they only need blood to prove their glory."
+ NYDD_SEW_taifa_reform: "Sevillan Taifa"
+#  NYDD_SEW_taifa_reform_desc: "When the Crusaders captured Toledo, the desperate Abbadid dynasty set the clock of destruction for Iberia. When the Almoravid army approached, the Abbadid dynasty regretted its actions but could only swallow the bitter pill and become a vassal state. Fortunately, the Iberian coalition defeated the Almoravids, giving the Abbadid dynasty a new chance. Unlike other traitors, the Abbadid dynasty still reminisces about the past Caliphate, though it may just be for show…" 2.20
+ NYDD_SEW_taifa_reform_desc: "When the Crusaders captured Toledo, the desperate Abbadid dynasty set in motion the destruction of Iberia. As the Almoravid armies approached, the Abbadids could only regret their decisions and swallow the bitter pill of becoming a vassal. Fortunately, the Iberian coalition crushed the Almoravids, giving the Abbadids a chance to reclaim their destiny. Unlike other traitors, the Abbadids still reminisce about the past Caliphate, though it was merely a facade for their theatrics..."
+ NYDD_TLT_taifa_reform: "Toldedan Taifa"
+ NYDD_TLT_taifa_reform_desc: "A mysterious young officer has rebuilt this shattered nation, filled with hope for the future. Revenge, faith, glory... a noble and illustrious lineage will rise again from the forgotten valley of graves. This is his final dream—the once-envisioned city of faith, Toledo, will be buried along with the past and glory. Rally the banners, or fall into the abyss forever."
+
+ NYDD_BDH_ADU_reform: "Andalusian Military Junta"
+#  NYDD_BDH_ADU_reform_desc: "At last, the generals of Badajoz have restored the glory of old, proving that their skills have not faded. But what comes next? This question leaves the generals staring at each other in silence. They had only thought of conquest and war, never of what comes after. Perhaps amidst the ruins left by the flames of war, the generals will realize that if war is not waged for peace, then it is meaningless." 2.20
+ NYDD_BDH_ADU_reform_desc: "At last, the generals of Badajoz have restored their former glory, proving that their skills have not waned and that their once-renowned emblem has not faded. But what comes next? This question leaves the generals at a loss. They have only ever thought of conquest and war, never considering how to rule the lands crushed beneath their glory. Perhaps in the ruins left by war, they will realize that if war is not for peace, then it is meaningless."
+ NYDD_SEW_ADU_reform: "Sultanate of Andalusia"
+#  NYDD_SEW_ADU_reform_desc: "At last, the Abbadid dynasty has achieved their sweet revenge. The era of traitors has ended, and the age of Andalusia has returned. But what remains beyond revenge? After the fury and joy fade, all that is left is a scarred nation and a people trapped in a cycle of hatred. So, he asks himself, what remains? He looks within and finds nothing." 2.20
+ NYDD_SEW_ADU_reform_desc: "At last, the Abbadid dynasty has achieved their sweet revenge, drinking the blood of their enemies like fine wine, savoring the bittersweet tang on their tongues. The era of traitors has ended, and the age of Al-Andalus has returned. But beyond revenge, what remains? After the fury and joy fade, only a war-torn nation and a people trapped in a cycle of hatred are left. So, what remains? The victors of Al-Andalus look inward, only to find emptiness."
+ NYDD_GRA_ADU_reform: "Caliphate of Andalusia"
+#  NYDD_GRA_ADU_reform_desc: "At last, the zealots of Nasr have seized the caliphate they so fervently pursued. Yet beneath the surface of reality lies smoldering ruins, a warning to those who overreach. The throne above Córdoba was never reserved for you. O Caliph of Nasr, do not stop here, for no one will stand idly by. Step forward and prove to the faithful that you are worthy of this position." 2.20
+ NYDD_GRA_ADU_reform_desc: "At last, the zealots of Nasr have seized the Caliphate they so desperately craved. They no longer need to endure the mockery and slander of those who called them pretenders. The crown of glory now rests firmly upon the Nasrid family. Yet beneath the surface lies smoldering ruins, a warning to usurpers. The throne above Córdoba was never reserved for you. Usurper of Nasrid, do not stop here. No one will watch from the sidelines. Step forward and prove to the faithful that you are worthy of this position."
+ NYDD_TLT_ADU_reform: "Umayyad Caliphate"
+#  NYDD_TLT_ADU_reform_desc: "Faith and despair are deeply intertwined. Who alone enjoys Allah's favor? The collapse of the Umayyad dynasty, the betrayal of the Taifas, the Reconquista by the infidels... Where should he place the blame? The cycle of cause and effect will come to rest, for a new son of Umayyad, a new caliph, has taken his place." 2.20
+ NYDD_TLT_ADU_reform_desc: "Faith and despair are deeply intertwined. Who alone enjoys Allah's favor? Lies, feuds, slaughter, and imposters bearing the Prophet's name have stained the throne with the blood of true descendants. The collapse of the Umayyads, the betrayal of the Taifas, the Reconquista by infidels... Where should he place the blame? When the bell of history tolls, all cycles of cause and effect will cease, for a new son of the Umayyads, the supreme and only Caliph, has taken his place."
+
+# This is his ideal, weaving a cocoon where questions and cries cannot be heard.
+# This is his most powerful dream, the once-envisioned hall, burying both glory and the past together.
+
+ NYDD_ADU_zongdu_reform: "Viceroyalty"
+ NYDD_ADU_zongdu_reform_desc: "A state governed by a viceroy dispatched by its suzerain."
+
+ NYDD_ML1_navy_reform: "Arab Empire Navy"
+ NYDD_ML1_navy_reform_desc: "Although the orthodox Caliphate of the Arab Empire has vanished into the dust of history, its people have not. The Kharijite navigators inherited the will of their ancestors, wandering the seas. In the name of the Arab Empire Navy, the Balearic fleet will serve as the empire's last wandering navy, rebuilding the Arab Empire Navy in the Mediterranean, carrying the glory and dreams of the Islamic world."
+ NYDD_ML1_navy_reform_republic: "Democratic Arabia"
+ NYDD_ML1_navy_reform_republic_desc: "Ummah, meaning 'community,' was the great achievement of the Prophet Muhammad. In the 'Ummah,' Muslim members regard each other as brothers, with equal social status. Following the teachings of Allah, all Muslims are equal. Regardless of origin or lineage, all Muslims are entitled to their rights, and even slaves are eligible to become Caliphs. Democratic Arabia will implement the principles of Islamic equality, and the children of Allah will be as brothers, without distinction of rank."
+
+ NYDD_EN9_federation_reform: "New England Federation"
+ NYDD_EN9_federation_reform_desc: "New England is a nascent state formed by the fusion of foreign wanderers and the native peoples of Iberia. The complex national conditions of New England necessitate a confederation form, granting local autonomy to ensure national unity and stability, while also mitigating the increasingly prominent ethnic conflicts and integration issues in Iberia. New England will prioritize the return to England—reclaiming England as its primary mission, and is determined to make the French Vikings pay for it."
+
+ NYDD_AFR_sins_kindom_reform: "Kingdom of Sin Under the Tower"
+ NYDD_AFR_sins_kindom_reform_desc: "Swords, blood, iron hooves. The authority of the king is the sole reliance of this kingdom's rule. This once holy crusader state, founded with sacred intent, is now merely a land of sin propped up by blood and mud. Although they carry the bloodline of El Cid, the Vivar family, who inherited the kingdom from the House of Hauteville, rules with an iron fist, continuing to the reign of 'Mad King' Diego. Behind the high walls, no trace of sanctity remains, and what supports this kingdom of sin is the tyranny and capricious madness of the royal family and nobility. The knights who once fought for faith now protect only the carnal desires and greed of the royals and nobles."
+ NYDD_AFR_regency_reform: "Kingdom Regency Council"
+ NYDD_AFR_regency_reform_desc: "The long and unpopular reign of 'Mad King' Diego left behind countless descendants, leading to a bloody struggle for the throne after his death. Governor Rodrigo, one of Diego's many illegitimate children, ultimately ended the ugly palace massacre after the assassination of the crown prince. Together with the Archbishop of Africa and the Marshal of the Kingdom's Army, he formed a Regency Council to temporarily stabilize the chaotic situation and maintain the kingdom's stability until an undisputed new king emerges. Of course, this balance of power will not last."
+ NYDD_AFR_new_kindom_reform: "Kingdom of Africa"
+ NYDD_AFR_new_kindom_reform_desc: "This tumultuous kingdom has experienced both the heights of glory and the depths of disaster. The sacred bloodline of El Cid guides our souls, and the ideal of the White Raven has saved the kingdom from the abyss. Today, Africa carries the ideals of the White Raven, soaring towards our tomorrow. The road ahead is rough, but we fear no storm. The sacred kingdom will inherit the will of our ancestors, charging through the endless darkness towards the future of the African people."
+
+ NYDD_AFR_new_kindom_reform2: "Kingdom of Africa"
+ NYDD_AFR_new_kindom_reform2_desc: "This tumultuous kingdom has once enjoyed the heights of glory and endured terrible calamities. The sacred bloodline of El Cid guides our souls, and the ideal white raven has rescued the kingdom from the abyss. Today, Africa carries the ideals of the white raven, soaring towards our tomorrow. The road ahead is rugged, but we fear no storm. The sacred kingdom will inherit the will of its predecessors, traversing endless darkness, charging towards the future of the African people."
+
+ NYDD_ALG_zongdu_reform: "Governorate of Africa"
+ NYDD_ALG_zongdu_reform_desc: "The Governorate of Africa is a governorate formed by collaborators with the Kingdom of Africa, primarily controlled by African governors and local nobles. Generally, they exercise the power of the King of Africa to rule the land. However, some have ulterior motives and quietly plot their own interests…"
+ NYDD_ALG_republic_reform: "Republic of Algiers"
+ NYDD_ALG_republic_reform_desc: "The betrayal during the first great uprising plunged this nation into a state of injustice. Yet, they ultimately seek peace. If following the Franks can bring peace faster, then so be it. However, the Franks cannot bring peace. The governors of Algiers have witnessed endless conflict, and thus a more absurd idea has been proposed… Though bizarre, a council of rulers wearing both crosses and Muslim robes might indeed mediate between the parties."
+
+ NYDD_MOR_mahedi_reform: "Mahdi State"
+ NYDD_MOR_mahedi_reform_desc: "The Maghreb once had two 'Mahdis.' One fell in the struggle in Iberia, and the other was struck down in the ethnic wars of the Maghreb. They were not the saviors prophesied by the Prophet. Now, the third, final, and true Mahdi, ordained by Allah, rises from the desolate Maghreb—the Savior from the sea of sand, who will save the Muslims oppressed by infidels. The Mahdi will establish a truly just and fair government, leading the Islamic world towards the light."
+ NYDD_MOR_califa_reform: "Moroccan Caliphate"
+ NYDD_MOR_califa_reform_desc: "There have been many 'Mahdis' in this world, but they all fell in their struggles. They were not the saviors foretold by the Prophet. Now, the last and true Caliph, ordained by Allah's decree, rises from the desolate Maghreb—the Caliph of the Sands, who will rule all Muslims. The Caliph of Morocco will establish a truly just and righteous government, leading the Islamic world toward light."
+
+ NYDD_TLC_union_reform: "Habrullah Agreement"
+ NYDD_TLC_union_reform_desc: "Habrullah, meaning 'unity.' Once, the Islamic world was destroyed by discord, and plunged into the abyss by greed and infighting. Now, the horn of resistance against the oppression of infidels has sounded, and it is time to unite the forces of the believers of Allah once more. 'Hold firmly to the rope of Allah and do not divide,' adhering to the teachings of Allah, this united league will unite all the forces of the Islamic world to drive the invaders from our homeland."
+ NYDD_TLC_union_reform2: "Arab-Islamic League"
+#  NYDD_TLC_union_reform2_desc: "Habrullah, meaning 'unity.' Once, the Islamic world was destroyed by discord, and plunged into the abyss by greed and infighting. Now, the horn of resistance against the oppression of infidels has sounded, and it is time to unite the forces of the believers of Allah once more. 'Hold firmly to the rope of Allah and do not divide,' adhering to the teachings of Allah, this united league will unite all the forces of the Islamic world to drive the invaders from our homeland."
+ NYDD_TLC_union_reform2_desc: "Habrullah, meaning 'Unity.' Once, the Islamic world was destroyed by discord, plunged into the abyss by greed and infighting. Now, the power of Allah's faithful has united, and there is no need to fear the gaze of invaders. 'Hold firmly to the rope of Allah and do not divide,' following Allah's teachings, this united alliance will bring together the strength of the entire Islamic world and restore its glory."
+ mechanic_TLC_culture_union_yes: "Accepting §Yspecific cultures§! will grant additional effects to the §THabrullah Agreement§!."
+ mechanic_has_cultural_union_no: "Cannot become the §Ycultural homeland§!"
+
+ NYDD_counquer_reform: "Conqueror's Nation"
+ NYDD_counquer_reform_desc: "This nation revolves around the charisma of the conqueror himself, of course, not without the aid of the suzerain."
+ MAOXIANDUI: "Expedition Team"
+ CONQUEROR: "Conqueror"
+
+ NYDD_SOR_mil_reform: "Lusatian Military Government"
+ NYDD_SOR_mil_reform_desc: "A military government temporarily managed by the Crusaders."
+ JUNZHENGFU: "Military Government"
+ DUJUN: "Military Governor"
+
+ NYDD_BOH_bishopric_reform: "Bohemian Chapter"
+ NYDD_BOH_bishopric_reform_desc: ""
+
+ #T2
+ NYDD_ML1_equal_reform: "Islamic Principle of Equality"
+ NYDD_ML1_equal_reform_desc: "In doctrine, Islam holds that believers, regardless of race, wealth, or status, are all children of Allah and have equal status. It also advocates forgiveness and tolerance towards infidels 'Kafir,' and even those who do not follow Allah's commandments, promoting peaceful coexistence. Historically, the concept of equality was directly applied to the establishment of the 'Ummah' (meaning 'community'). In the 'Ummah,' Muslim members regard each other as brothers, with equal social status. The Kharijites adhere to the principle of equality in doctrine, implementing justice to the fullest."
+ NYDD_EN9_tow_party_reform: "Party Cooperation"
+ NYDD_EN9_tow_party_reform_desc: ""
+
+ NYDD_MOR_katayi_reform: "Katayi System"
+ NYDD_MOR_katayi_reform_desc: "After conquering the lands of Christian kingdoms and expelling the stubborn infidel nobles, we gained vast tracts of unclaimed land. By granting these lands, known as 'Katayi,' as rent income to our family members and meritorious officials, we will ensure the empire's income while consolidating our rule.\n"
+ NYDD_AFR_zongdu_reform: "New Governorate Rule"
+ NYDD_AFR_zongdu_reform_desc: "The old governorate system was merely a tacit acknowledgment of local powers, failing to achieve stable rule over the kingdom and leading to the entrenchment of local forces. Now, we will completely reform the governorate system. New governors must be appointed by Tunis, with fixed terms, regularly returning to Tunis to report to the monarch, and local lords will have no right to interfere with their jurisdiction, thereby establishing an efficient centralized government."
+
+ #t3
+ NYDD_ASU_autonomy_reform: "Regional Autonomy System"
+ NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
+ NYDD_TLC_amir_reform: "Council of United Emirs"
+ NYDD_TLC_amir_reform_desc: "Unity is the cornerstone of prosperity. Our government is built on this creed, and the Council of United Emirs is the authority of our nation. This is a joint council composed of hereditary monarchs
+
+NYDD_TLC_amir_reform_desc: "Unity is the cornerstone of prosperity. Our government is built upon this creed, and the Council of United Emirs serves as the authoritative body of our nation. This council is a joint assembly composed of hereditary monarchs, emirs, sheikhs, and local religious leaders from all fixed territories across the nation. This council holds the supreme authority to declare war, make peace, legislate, adjudicate, and appoint or dismiss officials. It is also responsible for selecting our highest leader—the Grand Vizier."
+NYDD_AFR_new_law_reform: "National Constitution"
+NYDD_AFR_new_law_reform_desc: "Hatred, slaughter, revenge. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of hatred and ethnicity, and stride toward tomorrow. Power must be restrained, status must be defined, discrimination and vendettas must cease, and the peaceful future we yearn for must arrive. The National Constitution is the product of the aspirations of countless martyrs. No matter what, we have made our choice.\n\n§J...Our homeland above all else.§!"
+NYDD_AFR_new_pure_reform: "Purification Act"
+NYDD_AFR_new_pure_reform_desc: "Tolerance, compromise, concession. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of history and ethnicity, and stride toward tomorrow. Repeated concessions and compromises have not brought understanding or acceptance, but rather the greedy face of those who take advantage. We can wait no longer. The power of the state and the letter of the law will provide the answer. The boundaries of power and identity will be clearly defined, and vengeance will once again prevail. This time, we will eradicate the nation's chronic ills. The peace we seek in our hearts will eventually come. No matter what, we have made our choice.\n\n§O...Our homeland above all else.§!"
+
+#t4
+NYDD_ASU_religion_happy_reform: "Inquisition"
+NYDD_ASU_religion_happy_reform_desc: "The Inquisition was originally established under the directive of Pope Gregory IX, created by the Dominican Order as a religious court to try heresy and blasphemy. After the victory of the Reconquista, the Iberian Inquisition of the kingdom served as a new judicial body for the monarchy, investigating, trying, and punishing heresy, upholding the authority of the Church, and deeply instilling the teachings of God into the newly reclaimed lands. Contrary to the stereotypes propagated abroad, the actual Inquisition was renowned for its strict procedures, fair trials, and humane treatment."
+NYDD_ASU_religion_tolerance_reform: "Religious Tolerance Act"
+NYDD_ASU_religion_tolerance_reform_desc: "Although we have won the Reconquista, Muslims and converted Moors still make up a significant portion of the population in the south. The varying degrees of discrimination and oppression these groups face in society have led to intermittent chaos and uprisings. Our policy upholds the virtues of tolerance and benevolence, accommodating religious discord and shaping a more tolerant society."
+
+#t5
+NYDD_ASU_morran_army_reform: "Recruitment of Moors"
+NYDD_ASU_morran_army_reform_desc: "The Moors make up a considerable portion of the population in southern Iberia. Without a doubt, loyal Moors will become a high-quality reserve force for the kingdom. By allowing Moors to join the army, we will not only gain more soldiers but also improve the social equality and rights of the Moors, ensuring the loyalty of this group."
+NYDD_ASU_bigfanghzheng_reform: "Establishment of the Tercio"
+NYDD_ASU_bigfanghzheng_reform_desc: "With the gradual proliferation of firearms, the nature of warfare has changed. Our army, originally equipped with long swords and round shields to fight the Moors, stands no chance against pikemen without strong ranged firepower support. New tactics must be established. Thus, the Spanish Tercio, combining heavy and light infantry, became Europe's first firearm-equipped unit, excelling in both offense and defense."
+NYDD_ASU_knight_army_reform: "Expansion of the Knightly Orders"
+NYDD_ASU_knight_army_reform_desc: "With the victorious conclusion of the Reconquista, the strategic significance of the military orders in the Iberian Peninsula has changed. The knightly orders will serve as the kingdom's elite forces, loyal to the monarch rather than being mere holy warriors. The size of the knightly orders will be further expanded to bolster our elite forces, enhance our combat capabilities, and attract more military nobles into our ranks."
+NYDD_ASU_knight_army_reform2: "Expansion of the Knightly Orders"
+NYDD_ASU_knight_army_reform2_desc: "With the victorious conclusion of the Reconquista, the strategic significance of the military orders in the Iberian Peninsula has changed. The knightly orders will serve as the kingdom's elite forces, loyal to the monarch rather than being mere holy warriors. The size of the knightly orders will be further expanded to bolster our elite forces, enhance our combat capabilities, and attract more military nobles into our ranks."
+
+#t6
+NYDD_ASU_zixunhui_good_reform: "Empowered Advisory Council"
+NYDD_ASU_zixunhui_good_reform_desc: "In past political practices, the kingdom's advisory council has proven its irreplaceable ability as an auxiliary governing body. A monarch may make mistakes, but a council formed by the collective will and wisdom of the people will maximize the accuracy of political decisions, improve governance, and assist in domestic and foreign affairs. A strong advisory council will reflect the needs of the populace and benefit the construction of the kingdom."
+NYDD_ASU_absulute_reform: "Iberian Absolutism"
+NYDD_ASU_absulute_reform_desc: "Through the continuous strengthening of centralization and monarchical absolutism, the influence of the great nobles has been weakened, while new nobles and military aristocrats have been elevated. The lands of Iberia are finally fully under our control. Through the political management and economic structure of the feudal system, we have centralized the political power of the entire kingdom, and the monarch of Iberia will wield this supreme authority."
+
+# Sacred Islamic Privy Council
+# Although the Mahdi, as the messenger of Allah, has the duty to lead all Islamic brethren, even he cannot manage everything alone. Our Islamic Privy Council was born for this purpose. The council is composed of government administrators, religious scholars, military officers, and local tribal leaders, tasked with assisting the Mahdi's rule by exercising religious, military, and administrative powers.
+
+NYDD_AFR_parliament_reform: "African National Assembly"
+NYDD_AFR_parliament_reform_desc: "The predecessor of the African Parliament, the Crusader War Council, once played a pivotal role in this land. The Crusader lords and clergy from various dioceses and major monasteries were undoubtedly the initial components of the parliament. During the era of Mad King Diego, nobles acted independently, corruption replaced indolent nobles in filling the seats, and the military and church gradually took control of the parliament. Now, the chronic ills plaguing our kingdom have been eradicated. The constitution and parliament have restructured the monarchy and government in a rational form, allowing people of different bloodlines and faiths to enter the parliament. The kingdom's parliament can finally truly represent the will of the people, exercising power in the name of unity and the nation."
+
+mechanic_iberia_region_less_governing_cost_yes: "§YIberian§! region provinces gain §G-10.0%§! governing cost.\n"
+mechanic_cheaper_coastal_province_core_DD_yes: "§YCoastal§! provinces gain the following effects:\nGoverning cost: §G-25.0%§!\nCore creation cost: §G-25.0%§!\n"
+mechanic_NYDD_EN9_tow_party_reform_yes: "Candidates gain §G+1§! to all base abilities."
+mechanic_NYDD_ASU_zixunhui_good_reform_yes: "When government capacity §YAdvisory Council§! is at maximum, it additionally grants §G-2.00§! unrest."
+mechanic__yes: ""
+mechanic__yes: ""
+mechanic__yes: ""
+mechanic__yes: ""
+
+DD_SILING: "Imperial Commander"
+
+# Persia and Central Asia
+NYDD_ILK_reform: "Ilkhanate"
+NYDD_ILK_reform_desc: ""
+NYDD_ILK_subject_reform: "Ilkhanate Governor"
+NYDD_ILK_subject_reform_desc: ""

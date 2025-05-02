@@ -1,0 +1,17 @@
+﻿government = republic
+add_government_reform = civic_republicanism_government
+primary_culture = danish
+religion = catholic
+technology_group = western
+capital = 245	# Kassel
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Sigurd Hardrada"
+		ADM = 4
+		DIP = 2
+		MIL = 1
+		birth_date = 1396.1.1
+	}
+}

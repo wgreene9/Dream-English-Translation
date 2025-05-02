@@ -1,0 +1,22 @@
+﻿government = monarchy
+add_government_reform = NYDD_kindom_of_crusder_reform
+
+primary_culture = koj_culture
+religion = catholic
+technology_group = eastern
+capital = 379	# Jerusalem
+
+1444.1.1= {
+	monarch = {
+		name = "Diana I 'the Great'"
+		dynasty = "von Hohenstaufen"
+		adm = 4
+		dip = 4
+		mil = 4
+		female = yes
+		birth_date = 1417.11.11 
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = zealot_personality
+	add_ruler_personality = conqueror_personality
+}

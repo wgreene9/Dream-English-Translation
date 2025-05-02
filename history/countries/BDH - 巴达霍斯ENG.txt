@@ -1,0 +1,20 @@
+﻿government = monarchy
+government_rank = 1
+primary_culture = badahuosi_iberian
+religion = sunni
+technology_group = muslim
+capital = 218
+religious_school = maliki_school
+add_government_reform = NYDD_BDH_aimier_reform
+
+1437.1.1 = {
+	monarch = {
+		name = "Abdullah IV ibn"
+		dynasty = "Avtas"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1417.1.1
+	}
+	add_ruler_personality = strict_personality
+}

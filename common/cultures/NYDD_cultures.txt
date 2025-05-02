@@ -1,0 +1,148 @@
+french = {
+	#NYDD_fra_haiwai_culture = {}
+	potiou_french = {}
+	champine_french = {}
+	lorrine_french = {}
+	picard_french = {}
+	provencal_french = {}
+	languedocien_french = {}
+	berrich_french = {}
+	limousin_french = {}
+	auvergnat_french = {}
+}
+germanic = {
+	#NYDD_ger_haiwai_culture = {}
+	romania_germanic = {}
+}
+iberian = {
+	asutuliyasi = {}
+	valencian = {}
+	lusitania = {}
+	malueka_iberian = {}
+	maolitaniya_culture = {}
+	DD_new_english_culture = {}
+	tolou_iberian = {}
+	morrisco_iberian = {}
+}
+#安达卢斯
+adulusian_cg = {
+	badahuosi_iberian = {}
+	granada_iberian = {}
+	saiweiliya_iberian = {}
+	balansiyyah = {}
+	burtughal = {}
+	castalla = {}
+	liyyun = {}
+	xenxir = {}
+	mayurqa = {}
+	barshiluna = {}
+	yilliqiyya = {}
+	ubaydah = {}
+	banbalunah = {}
+	tulaytulah = {}
+}
+#海外
+DD_haiwai_cg = {
+
+}
+latin = {
+	africa_culture = {}
+	xln_culture = {}
+	kexijia_culture = {}
+}
+east_asian = {
+	anxi = {}
+}
+tartar = {
+	cuman = {}
+}
+DD_haiwai_cg = {
+	koj_culture = {}
+	ati_culture = {}
+	tri_culture = {}
+	ads_culture = {}
+}
+maghrebi = {
+	tripoli_maghrebi = {}
+	adalusi = {}
+	muzhalaipu = {}
+	italyya = {}
+	mulabite = {}
+}
+turko_semitic = {
+	arabic_culture = {}
+}
+british = {
+	northumbria_british = {}
+	mercia_british = {}
+	anglish_british = {}
+	wessex_british = {}
+}
+scandinavian = {
+	yovik_sca = {}
+	novagrad_sca = {}
+	island_sca = {}
+	goltland_sca = {}
+}
+west_slavic = {
+
+}
+east_slavic = {
+	beloozero_es = {}
+	bomorui_es = {}
+	suzidaer_es = {}
+	tver_es = {}
+	smolenskian_es = {}
+	polotskian_es = {}
+	pinsk_es = {}
+	qieerwen_es = {}
+	wolun_es = {}
+	halich_es = {}
+	kiev_es = {}
+	temutalagan_es = {}
+	xieweier_es = {}
+	vologda_es = {}
+	bolgar_es = {}
+}
+baltic = {
+	prussian_baltic = {}
+}
+
+byzantine = {
+	BYZ_moxiya = {}
+	BYZ_dulasiweng = {}
+	BYZ_yililiya = {}
+	BYZ_daqiya = {}
+	BYZ_nixiya = {}
+	BYZ_aiaoniya = {}
+	BYZ_lvdiya = {}
+	BYZ_pafulageniya = {}
+	BYZ_likaoniya = {}
+	BYZ_kapaduoxiya = {}
+	BYZ_fulijiya = {}
+
+	BYZ_lvxiya = {}
+	BYZ_agean = {}
+	BYZ_qiliqiya = {}
+	BYZ_krete = {}
+	BYZ_cyp = {}
+	BYZ_galatia = {}
+	BYZ_maixiya = {}
+	# BYZ_aopuxijin = {}
+	# BYZ_bithynia = {}
+
+	BYZ_thrace = {}
+	BYZ_macadon = {}
+	BYZ_yibilusi = {}
+	BYZ_sesali = {}
+	BYZ_yagaiya = {}
+
+	DD_ELY_culture = {}
+	DD_NMC_culture = {}
+	DD_acadia_culture = {}
+}
+
+carpathian = {
+	wallachia = {}
+	moldavian = {}
+}

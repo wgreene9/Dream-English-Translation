@@ -1,0 +1,54 @@
+﻿government = monarchy
+add_government_reform = feudal_france_reform
+primary_culture = cosmopolitan_french
+add_accepted_culture = normand
+add_accepted_culture = anglois
+religion = catholic
+technology_group = western
+capital = 183 # Paris
+national_focus = DIP
+historical_rival = SWA
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
+1444.10.22 = {
+	monarch = {
+		name = "Richard III"
+		dynasty = "d'Anjou"
+		birth_date = 1403.2.22
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	queen = {
+        country_of_origin = CHP
+        name = "Elizabeth"
+        dynasty = "de Valois"
+        birth_date = 1410.10.14
+        death_date = 1463.11.29
+        female = yes
+        adm = 4
+        dip = 2
+        mil = 4
+    }
+	heir = {
+        name = "Charles"
+        dynasty = "d'Anjou"
+        birth_date = 1426.10.14
+        death_date = 1463.11.29
+        adm = 2
+        dip = 2
+        mil = 3
+	}
+}

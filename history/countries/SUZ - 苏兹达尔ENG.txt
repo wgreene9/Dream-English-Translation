@@ -1,0 +1,20 @@
+﻿government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+religion = rus_orthodox
+primary_culture = suzidaer_es
+capital = 1956	# Kiev
+
+
+1425.3.10 = {
+	monarch = {
+		name = "Vasily V"
+		dynasty = "Rurikovich"
+		birth_date = 1425.3.10
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

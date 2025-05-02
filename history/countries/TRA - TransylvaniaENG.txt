@@ -1,0 +1,32 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = transylvanian
+add_accepted_culture = hungarian
+religion = catholic
+capital = 1951	# Alba Iulia
+
+1444.1.1 = {
+	monarch = {
+		name = "Janos I"
+		dynasty = "Hunyadi"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1387.1.1
+		leader = {	name = "Janos Hunyadi"	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1456.8.11 }
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Matthias"
+		dynasty = "Hunyadi"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1443.2.23
+		death_date = 1490.4.6
+	}
+}

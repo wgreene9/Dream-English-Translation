@@ -1,0 +1,17 @@
+﻿government = monarchy
+government_rank = 2
+primary_culture = DD_ELY_culture
+religion = greek_orthodox
+technology_group = eastern
+capital = 1113
+
+1444.11.10 = {
+	monarch = {
+		name = "Theodoros III"
+		dynasty = "Laskaris"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1390.11.11
+	}
+}

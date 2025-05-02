@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+religion = sunni
+religious_school = maliki_school
+primary_culture = mulabite
+technology_group = muslim
+capital = 1132
+
+1444.1.1 = {
+	monarch = {
+		name = "Yusuf ibn Tashfin"
+		dynasty = "Almoravid"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1388.1.30
+	}
+}

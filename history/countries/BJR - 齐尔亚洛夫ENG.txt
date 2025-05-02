@@ -1,0 +1,29 @@
+﻿government = monarchy
+add_government_reform = iqta
+government_rank = 3
+primary_culture = sakariba
+religion = sunni
+technology_group = muslim
+capital = 280
+
+1443.11.1 = {
+	monarch = {
+		name = "Anwar II"
+		dynasty = "Rurikovich"
+		birth_date = 1400.10.5
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Yayha"
+		monarch_name = "Yahya I 'the Great Emperor'"
+		dynasty = "Rurikovich"
+		birth_date = 1429.3.30
+		death_date = 1481.5.3
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}

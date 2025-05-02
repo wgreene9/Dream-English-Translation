@@ -1,0 +1,21 @@
+﻿government = monarchy
+add_government_reform = NYDD_ILK_subject_reform
+government_rank = 1
+primary_culture = azerbaijani
+religion = confucianism
+add_harmonized_religion = mahayana
+add_harmonized_religion = vajrayana
+add_harmonized_religion = sunni
+technology_group = chinese
+capital = 419 
+
+1444.1.1 = {
+	monarch = {
+		name = "Tashizhan" # 塔失只罕?
+		dynasty = "Qubaini" # 丘拜尼?
+		birth_date = 1403.7.20
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}

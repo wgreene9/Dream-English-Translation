@@ -1,0 +1,24 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = croatian
+religion = catholic
+add_accepted_culture = dalmatian
+technology_group = eastern
+capital = 131	# Zagreb
+
+add_accepted_culture = serbian
+add_accepted_culture = bosnian
+
+add_historical_friend = VEN
+add_historical_friend = HUN
+
+1443.1.1 = {
+	monarch = {
+		name = "Kresimir V"
+		dynasty = "Dandolo"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1430.1.1
+	}
+}

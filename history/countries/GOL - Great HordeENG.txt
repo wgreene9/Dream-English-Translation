@@ -1,0 +1,36 @@
+﻿government = tribal
+add_government_reform = steppe_horde
+primary_culture = mishary
+religion = sunni
+technology_group = nomad_group
+capital = 466	
+historical_rival = KAZ
+religious_school = hanafi_school
+
+1432.1.1 = {
+	monarch = {
+		name = "Kuchuk Muhammad"
+		dynasty = "Borjigin"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1435.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Borjigin"
+		birth_date = 1435.1.1
+		death_date = 1481.1.6
+		claim = 90
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+
+
+

@@ -1,0 +1,17 @@
+﻿government = monarchy
+government_rank = 1
+primary_culture = BYZ_sesali
+religion = catholic
+technology_group = eastern
+capital = 147
+
+1444.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "de Montferrat"
+		birth_date = 1400.8.21
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

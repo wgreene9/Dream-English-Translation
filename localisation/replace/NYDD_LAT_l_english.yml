@@ -1,0 +1,22 @@
+﻿l_english:
+DD_LAT_1_t: "The All Saints' War"
+DD_LAT_1_d: "On November 1, 1444, the day of All Saints, the citizens of Constantinople, dissatisfied with the long-standing extortion by the Latin Empire, the Venetians' unscrupulous plundering, and the emperor's impious attitude towards Christian doctrine and heretical beliefs, launched an uprising and drove the Latin Empire out of Constantinople. In the chaos known as the All Saints' War, a temporary civic defense council was formed to defend against the possible retaliation from the Latin Empire.\n\nOn the 11th, the Latin Emperor, who had been expelled by the citizens, woke up as if from a dream and hastily organized the remaining troops to besiege Constantinople. Fortunately, the renowned Theodosian Walls, which had been breached during the Fourth Crusade, had never been repaired. The emperor thought that this battle would soon end without any suspense—after all, he had suppressed countless such uprisings in the past."
+DD_LAT_1a: "Death to the traitors!"
+DD_LAT_1a_tt: "§RIf we cannot retake Constantinople within a year, the desperate citizens of Constantinople may seek help from other nations—at the cost of themselves.§!\n"
+DD_LAT_1b: "Let's withdraw our troops; we cannot risk provoking the Greeks' wrath any further."
+DD_LAT_1b_tt: ""
+
+DD_LAT_2_t: "Times of Hardship"
+DD_LAT_2_d: "Fellow citizens, it has been a year and a month since the terrible and pitiful Latins brutally suppressed our righteous uprising. Yet now, Constantinople is tightly besieged, its walls in ruins and at risk of being breached at any moment. The city is plagued by hunger, poverty, and cold. Where does our future lie?\n\nWe can no longer hesitate, fellow citizens! I have long heard that the Ottoman Sultan in the east is merciful, the Bulgarians in the north are brave, and Thessaloniki and Theodoro are the true heirs of Greece! If we cannot protect the freedom of Constantinople, we must not become slaves to the Latins again! Cast your most important vote—decide our future."
+DD_LAT_2_d2: "The foolish [From.GetName] has rejected our surrender, but it doesn't matter, we still have many options..."
+DD_LAT_2a: "Surrender to @TUR the Ottomans."
+DD_LAT_2b: "Surrender to @BUL Bulgaria."
+DD_LAT_2c: "Surrender to @FEO Theodoro."
+DD_LAT_2d: "Surrender to @SAN Thessaloniki."
+DD_LAT_2e: "§RLet us fight to the death for Constantinople.§!"
+
+DD_LAT_3_t: "A Letter of Surrender"
+DD_LAT_3_d: "Respected [Root.GetName]:\n\nHave you not always desired to possess Constantinople? If you want it, then come and take it."
+DD_LAT_3a: "Then we will reluctantly accept it."
+DD_LAT_3b: "We cannot risk angering the Latins."
+DD_LAT_3a_tt: "§RThis may lead to war with @LAT the Latin Empire.§!\n"

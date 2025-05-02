@@ -1,0 +1,60 @@
+﻿technology_group = muslim
+primary_culture = uzbehk
+add_accepted_culture = khorasani
+add_accepted_culture = persian
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+add_government_reform = iqta
+government_rank = 3
+add_harmonized_religion = sunni
+capital = 454 # Samarkand
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -12
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 12
+}
+
+
+1409.1.1 = {
+	monarch = {
+		name = "Shah Rukh"
+		birth_date = 1377.8.20
+		dynasty = "Timurid"
+		adm = 4
+		dip = 3
+		mil = 5
+		culture = uzbehk
+		religion = confucianism
+		leader = {
+			name = "Shah Rukh"
+			type = general
+			fire = 2
+			shock = 4
+			manuever = 3
+			siege = 1
+		}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Ulugh Beg"
+		dynasty = "Timurid"
+		birth_date = 1394.1.1
+		death_date = 1460.1.1
+		claim = 50
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+	add_piety = -0.4
+	add_ruler_modifier = {
+		name = shahrukhs_empire
+	}
+}

@@ -1,0 +1,20 @@
+﻿government = monarchy
+government_rank = 1
+primary_culture = saiweiliya_iberian
+religion = sunni
+technology_group = muslim
+capital = 218
+religious_school = maliki_school
+add_government_reform = NYDD_SEW_taifa_reform
+
+1440.1.1 = {
+	monarch = {
+		name = "Multamis II"
+		dynasty = "Abad"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1415.1.1
+	}
+	add_ruler_personality = tolerant_personality
+}

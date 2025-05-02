@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = norwegian
+religion = catholic
+add_accepted_culture = danish
+capital = 17	
+government_rank = 3
+
+national_focus = MIL
+
+1443.11.1 = {
+	monarch = {
+		name = "eYÉb+Y III"
+		dynasty = "ÈTÉbS·V"
+		birth_date = 1429.10.5
+		adm = 6
+		dip = 3
+		mil = 0
+	}
+	
+}

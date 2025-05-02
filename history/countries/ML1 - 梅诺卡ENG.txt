@@ -1,0 +1,18 @@
+﻿government = republic
+
+add_government_reform = pirate_republic_reform
+religion = khawarij
+religious_school = khawarij_school
+primary_culture = berber
+technology_group = muslim
+capital = 333	# Majorca
+
+1444.1.1 = {
+	monarch = {
+		name = "Osman Zonan"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1413.1.30
+	}
+}

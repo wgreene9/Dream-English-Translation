@@ -1,0 +1,5 @@
+﻿government = monarchy
+primary_culture = granada_iberian
+religion = catholic
+technology_group = muslim
+capital = 183 # Paris

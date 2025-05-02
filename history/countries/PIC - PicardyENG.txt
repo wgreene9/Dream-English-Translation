@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = appanage_reform
+government_rank = 1
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 89 # picardy
+fixed_capital = 89 # Cannot move capital away from this province & no power cost to move to it
+
+1409.9.11 = {
+	monarch = {
+		name = "Louis II"
+		dynasty = "de Capet"
+		birth_date = 1396.7.31
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}

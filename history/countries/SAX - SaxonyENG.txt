@@ -1,0 +1,23 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = saxon
+religion = catholic
+
+technology_group = western
+capital = 62 # Leipzig
+
+
+1428.1.4 = {
+	monarch = {
+		name = "Albrecht III"
+		dynasty = "von Wettin"
+		birth_date = 1412.8.22
+		dip = 3
+		adm = 4
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = industrious_personality
+}

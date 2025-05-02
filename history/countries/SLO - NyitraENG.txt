@@ -1,0 +1,18 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = slovak
+religion = catholic
+technology_group = eastern
+capital = 1772 # Nitra
+government_rank = 1
+
+1407.3.31 = {
+	monarch = {
+		name = "Casimir I"
+		dynasty = "von Luxemburg"
+		birth_date = 1398.2.14	
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

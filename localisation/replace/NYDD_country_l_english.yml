@@ -1,0 +1,159 @@
+﻿l_english:
+# Region: North Africa, Iberia
+ AFR: "Africa"
+ MOT: "Mauretania"
+ BDH: "Badajoz"
+ ML1: "Menorca"
+ ML2: "Ibiza"
+ ML3: "Balearic Islands"
+ SEW: "Seville"
+ TLT: "Toledo"
+
+ ITL: "Italia" # Italyya
+ IBM: "Hispania"
+ MGB: "Maghreb"
+ EN9: "New England"
+
+ SP9: "Iberia"
+ SP8: "French Crownlands"
+ SP7: "United Kingdoms of Iberia"
+ SP6: "Francia"
+ HCR: "Holy Cross Land"
+ 
+# Region: Egypt, Mashriq, Arabia
+ ATI: "Antioch"
+ ADS: "Edessa"
+ CAJ: "Egypt"
+ DLB: "Tripoli"
+ XLN: "Cyrenaica"
+
+ JLR: "Jalayir"
+
+ FDM: "Fatimid"
+
+# Region: Balkans, Anatolia
+ LAT: "Latin Empire"
+ SAN: "Thessalonica"
+ SSL: "Thessaly"
+ KLX: "Karasid"
+ SEL: "Seljuks"
+ CLC: "Cilicia"
+ CST: "Constantinople"
+
+ THR: "Thrace"
+# Europe
+ PTU: "Poitou"
+ DLW: "Danelaw"
+ NSE: "North Sea Empire"
+ LOM: "Lombardy"
+ YWK: "Jórvík"
+
+ EN1: "Sussex"
+ EN2: "Kent"
+ EN3: "London"
+ EN4: "Essex"
+ EN5: "Norfolk"
+
+ NE1: "Bruges"
+ NE2: "Ghent"
+ NE3: "Namur"
+ NE4: "Brussels"
+ NE5: "Antwerp"
+ NE6: "Zeeland"
+
+ CMN: "Cumania"
+ MSK: "Minsk"
+ SUZ: "Suzdal"
+
+# West Africa
+ ML9: "Almoravids"
+ ELY: "Elysium"
+ NMC: "New Macedonia"
+ AAA: "Arcadia"
+
+# New World
+ NW0: "Terra Evangelii" #Terraventilli
+ NW1: "Mississippi"
+ NW2: "New World Free State"
+ NW3: "New Granada"
+ NW4: "Veracruz"
+ NW5: "Cayman Island Brigade"
+
+# Region: North Africa, Iberia
+ AFR_ADJ: "African"
+ MOT_ADJ: "Mauretanian"
+ XDD_ADJ: "Ceutan"
+ BDH_ADJ: "Badajozi"
+ ML1_ADJ: "Menorcan"
+ ML2_ADJ: "Ibizan"
+ ML3_ADJ: "Balearic"
+ SEW_ADJ: "Sevillan"
+ TLT_ADJ: "Toledan"
+ ITL_ADJ: "Italian" # Italyyan
+ IBM_ADJ: "Hispanian"
+ MGB_ADJ: "Maghrebi"
+ EN9_ADJ: "New English"
+ SP9_ADJ: "Iberian"
+ HCR_ADJ: "Holy Cross"
+ SP8_ADJ: "French Crownland"
+ SP7_ADJ: "United Kingdoms of Iberia"
+ SP6_ADJ: "Frankish"
+
+# Region: Egypt, Mashriq, Arabia
+ ATI_ADJ: "Antiochan"
+ ADS_ADJ: "Edessan"
+ ALP_ADJ: "Aleppo"
+ CAJ_ADJ: "Egyptian"
+ DLB_ADJ: "Tripolitan"
+ XLN_ADJ: "Cyrenaican"
+
+ JLR_ADJ: "Jalayir"
+ FDM_ADJ: "Fatimid"
+
+# Region: Balkans, Anatolia
+ LAT_ADJ: "Latin Empire"
+ SAN_ADJ: "Thessalonican"
+ SSL_ADJ: "Thessalian"
+ KLX_ADJ: "Karasid"
+ SEL_ADJ: "Seljuk"
+ CLC_ADJ: "Cilician"
+ CST_ADJ: "Constantinopolitan"
+
+ THR_ADJ: "Thracian"
+ # Europe
+ PTU_ADJ: "Poitou"
+ DLW_ADJ: "Danelaw"
+ NSE_ADJ: "North Sea Empire"
+ LOM_ADJ: "Lombard"
+ YWK_ADJ: "Jórvík"
+ 
+ EN1_ADJ: "Sussex"
+ EN2_ADJ: "Kent"
+ EN3_ADJ: "Londoner"
+ EN4_ADJ: "Essex"
+ EN5_ADJ: "Norfolk"
+
+ NE1_ADJ: "Brugesian" # Bruges
+ NE2_ADJ: "Ghent"
+ NE3_ADJ: "Namurois" # Namur
+ NE4_ADJ: "Brussels"
+ NE5_ADJ: "Antwerpian" # Antwerp
+ NE6_ADJ: "Zeelander" # Zeeland
+
+ CMN_ADJ: "Cuman"
+ MSK_ADJ: "Minsk"
+ SUZ_ADJ: "Suzdal"
+
+# West Africa
+ ML9_ADJ: "Murabitun" #Murabit
+ ELY_ADJ: "Elysian"
+ NMC_ADJ: "New Macedonian"
+ AAA_ADJ: "Arcadian"
+
+# New World
+ NW0_ADJ: "Terra Evangelii"
+ NW1_ADJ: "Mississippian"
+ NW2_ADJ: "New World Free State"
+ NW3_ADJ: "New Granadan"
+ NW4_ADJ: "Veracruz"
+ NW5_ADJ: "Cayman Island Brigade"

@@ -1,0 +1,17 @@
+﻿government = monarchy
+add_government_reform = NYDD_ILK_subject_reform
+primary_culture = al_iraqiya_arabic
+religion = vajrayana
+technology_group = muslim
+capital = 410	# Bagdad
+
+1439.1.1= {
+	monarch = {
+		name = "Hussein"
+		dynasty = "Jalayir"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1402.11.11 
+	}
+}

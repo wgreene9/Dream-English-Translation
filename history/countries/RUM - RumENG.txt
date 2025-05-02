@@ -1,0 +1,18 @@
+﻿government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+primary_culture = turkish
+religion = catholic
+technology_group = ottoman
+capital = 323	
+
+1444.1.1 = {
+	monarch = {
+		name = "Suleiman III"
+		dynasty = "Seljukoglu"
+		birth_date = 1417.5.21
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

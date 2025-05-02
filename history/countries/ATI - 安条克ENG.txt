@@ -1,0 +1,19 @@
+﻿government = monarchy
+add_government_reform = NYDD_kindom_of_crusder_reform
+government_rank = 1
+primary_culture = ati_culture
+religion = catholic
+technology_group = western
+capital = 2313
+add_accepted_culture = al_suryah_arabic
+
+1444.1.19 = {
+	monarch = {
+		name = "Roger I"
+		dynasty = "de Chatillon"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1421.1.19 
+	}
+}

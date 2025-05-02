@@ -1,0 +1,21 @@
+﻿government = monarchy
+add_government_reform = NYDD_ILK_reform
+primary_culture = mongol
+religion = confucianism
+technology_group = chinese
+capital = 4338 # soltaniyeh
+add_accepted_culture = persian
+add_harmonized_religion = mahayana
+add_harmonized_religion = vajrayana
+add_harmonized_religion = sunni
+
+1444.1.1= {
+	monarch = {
+		name = "Timur the Firebringer"
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 4
+		mil = 0
+		birth_date = 1400.11.11 
+	}
+}

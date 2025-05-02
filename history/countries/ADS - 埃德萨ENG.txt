@@ -1,0 +1,21 @@
+﻿government = monarchy
+add_government_reform = NYDD_kindom_of_crusder_reform
+government_rank = 1
+primary_culture = ads_culture
+religion = catholic
+technology_group = western
+capital = 4398
+
+add_accepted_culture = al_suryah_arabic
+
+1444.2.14 = {
+	monarch = {
+		name = "Joseline IV"
+		dynasty = "de Courtenay"
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+		birth_date = 1409.2.14 
+	}
+}

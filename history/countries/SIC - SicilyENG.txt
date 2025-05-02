@@ -1,0 +1,17 @@
+﻿government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = sicilian
+capital = 125	# Palermo
+
+1440.1.1 = {
+	monarch = {
+		name = "Carlo II"
+		dynasty = "de Bourgogne"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1400.10.2 
+	}
+}
