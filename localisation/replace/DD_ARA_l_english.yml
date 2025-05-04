@@ -1,0 +1,1650 @@
+﻿l_english:
+DD_ARA_1_3_title:0 "Trace Galicia's Origins"
+DD_ARA_1_3_desc:0 "Galicia, domain of the sea - we've long heard of its prince's love for navigation. Let's see what knowledge he's discovered."
+
+DD_ARA_1_5_title:0 "Break the Emir's Banner" # Strike Down the Emir's Banner
+DD_ARA_1_5_desc:0 "The Emir of Badajoz is so barbaric, always shouting about killing - how tiresome. I can't wait to see his head and banner hit the ground together..."
+
+DD_ARA_1_7_title:0 "Rebellious Villages" # Dealing with Autonomous Villages
+DD_ARA_1_7_desc:0 "Gold bars are being distributed in the village - hurry back!"
+
+DD_ARA_2_3_title:0 "The Legion Triumphant" # Remember the Triumphant Legion
+DD_ARA_2_3_desc:0 "Oh how we praise the Crusader legion's fearless courage!"
+
+DD_ARA_2_5_title:0 "Eradicating Taifa Remnants"
+DD_ARA_2_5_desc:0 "When dealing with Muslims, never show mercy."
+
+DD_ARA_2_7_title:0 "The Mudéjar Problem" # Solving the Mudéjar Problem
+DD_ARA_2_7_desc:0 "The Mudéjars are...?"
+
+DD_ARA_3_1_title:0 "Waiting for the Right Moment"
+DD_ARA_3_1_desc:0 "When will the opportunity come? My patience wears thin."
+
+DD_ARA_3_2_title:0 "Brothers at Odds"
+DD_ARA_3_2_desc:0 "Carlos I may have been a good father, dividing lands among his sons. But hardly a good emperor."
+
+DD_ARA_3_3_title:0 "Return to Burgos"
+DD_ARA_3_3_desc:0 "Long has it been since we visited Burgos. Last time feels like... well, the last time."
+
+DD_ARA_3_4_title:0 "The Way of St. James"
+DD_ARA_3_4_desc:0 "Now that we control Asturias, the ancient duty of guarding the Way of St. James naturally falls to us."
+
+DD_ARA_3_5_title:0 "Crush Caliphal Ambitions"
+DD_ARA_3_5_desc:0 "Clang clang? I hear something quite remarkable."
+
+DD_ARA_3_6_title:0 "Reconquering Iberia"
+DD_ARA_3_6_desc:0 "Though the night be long, still some bear the flame."
+
+DD_ARA_3_7_title:0 "Settling the Carolingians"
+DD_ARA_3_7_desc:0 "Knights, you need guard your tombs no longer."
+
+DD_ARA_3_8_title:0 "Hispania Reborn"
+DD_ARA_3_8_desc:0 "Awaken, and return to the sunlit world."
+
+DD_ARA_4_2_title:0 "Tightening the Reins"
+DD_ARA_4_2_desc:0 "A dear kinsman of ours has claims to Valencia. Let's assist our newly recognized friend."
+
+DD_ARA_4_4_title:0 "Newcomers from Afar"
+DD_ARA_4_4_desc:0 "What's that? Pirates? Wanderers? Let's raid them."
+
+DD_ARA_4_6_title:0 "Calming the Seas"
+DD_ARA_4_6_desc:0 "Answer me! Who now rules these waters? Behold my great ships!"
+
+DD_ARA_5_2_title:0 "Severed Yet Connected"
+DD_ARA_5_2_desc:0 "Jiménez, oh Jiménez - how you've fallen since last we met."
+
+DD_ARA_5_4_title:0 "Old Latin Friends"
+DD_ARA_5_4_desc:0 "Now you come to my court, complaining of Paris and Stuttgart's misdeeds, begging my aid. Ah, you won't even call me 'old friend.'"
+
+DD_ARA_5_6_title:0 "Diplomacy Across Miles"
+DD_ARA_5_6_desc:0 "Diplomacy means making as many friends as possible."
+
+SPACE:0" "
+
+DD_ARA_pannizhe_personality: "Rebel"
+DD_ARA_pannizhe_personality_desc: "This ruler refuses to follow conventions, with many unpredictable actions that draw attention."
+DD_ARA_tiaojiezhe_personality: "Conciliator"
+DD_ARA_tiaojiezhe_personality_desc: "This ruler excels at listening to different faiths, making all believers feel understood and welcomed."
+DD_ARA_tuoxiezhe_personality: "Compromiser" 
+DD_ARA_tuoxiezhe_personality_desc: "This ruler abandoned naive romance, making personal sacrifices for the kingdom's future."
+DD_ARA_qianxinzhe_personality: "Devotee"
+DD_ARA_qianxinzhe_personality_desc: "This ruler demonstrates saintly behavior that earns admiration from the faithful."
+
+DD_ARA_fight_reform: "Aragonese Faction Struggle"
+DD_ARA_fight_reform_desc: "Due to its unique geography and longstanding policies, Aragon's court serves as both an arena for local magnates and a haven for foreign nobles. For centuries, the alliance of Carnations and Fleurs-de-lis provided superior diplomacy and military strength, but this superficial goodwill cannot last. If Aragon aspires to greater heights, it must make definitive choices in its intensifying factional struggles."
+
+ability_DD_ARA_fight_ability: "§RPeninsular Faction§! vs §MLatin Faction§!"
+DD_ARA_fight_power: "Faction Struggle Intensity"
+DD_ARA_fight_power_desc: "Aragon's factional struggle stems from its unique position and diplomatic traditions. The competition between foreign nobles and local powers has become its most pressing political issue.\n\n§OMake our inevitable choice.§!\n\nPositive values favor the §RPeninsular Faction§! - focusing on domestic development, religious tolerance, and diplomatic solutions.\n\nNegative values favor the §MLatin Faction§! - prioritizing foreign ties, religious militancy, and military solutions.\n\nAt minimum intensity:\nYearly Army Tradition: §G+2.00§!\nDiplomatic Reputation: §G+2.00§!\nProvince Warscore Cost: §G-20.0%§!\n"
+
+DD_ARA_fight_interaction_1: "Mobilize Local Peasants"
+DD_ARA_fight_interaction_2: "Compromise Royal Authority" 
+DD_ARA_fight_interaction_3: "Invite Foreign Knights"
+DD_ARA_fight_interaction_1_desc: ""
+DD_ARA_fight_interaction_2_desc: ""
+DD_ARA_fight_interaction_3_desc: ""
+DD_ARA_fight_interaction_1_tt: "The §RPeninsular Faction§! prefers local forces - peasants willingly contribute to national defense.\n"
+DD_ARA_fight_interaction_2_tt: "Whoever wears Aragon's crown must sacrifice for greater interests.\n"
+DD_ARA_fight_interaction_3_tt: "The §MLatin Faction§! favors old clans - mercenaries provide faith-driven assistance.\n"
+DD_ARA_fight_interaction_2.t: "§YWe'll lose 10 Legitimacy for random resource rewards§!\n"
+DD_ARA_fight_power_desc: "Aragon's factional struggle stems from its unique geographic position and longstanding foreign policies. The rivalry between foreign nobles and local magnates has gradually become the kingdom's most thorny political issue.\n\n§OMake our one and inevitable choice.§!\n\nWhen Faction Struggle Intensity is greater than 0, it means the §RPeninsular Faction§! holds sway. They focus on domestic development, easing religious tensions, and prefer using diplomatic means to form alliances.\n\nWhen Faction Struggle Intensity is less than 0, it means the §MLatin Faction§! gains dominance. They emphasize external connections, detest heresy and heathens, and tend to rely on military force to remove obstacles.\n\nAt minimum intensity, §YFaction Struggle Intensity§! provides the following effects:\nYearly Army Tradition: §G+2.00§!\nDiplomatic Reputation: §G+2.00§!\nProvince Warscore Cost: §G-20.0%§!\n"
+
+
+DD_ARA_beautiful_reform: "The Golden Century"
+DD_ARA_beautiful_reform_desc: "Reborn from centuries of fragmentation and bloodshed, we bid farewell to scarred turmoil and strife, stepping into a Golden Century forged by both gold and victory songs."
+
+ability_DD_ARA_beautiful_ability: "The Golden Century"
+DD_ARA_beautiful_power: "§YSplendor Value§!"
+DD_ARA_beautiful_interaction_1: "Mobilize Local Peasants"
+DD_ARA_beautiful_interaction_2: "Compromise Royal Authority"
+DD_ARA_beautiful_interaction_3: "Invite Foreign Knights"
+DD_ARA_beautiful_interaction_4: "Stockpile Food Reserves"
+DD_ARA_beautiful_interaction_5: "Construct Naval Vessels"
+DD_ARA_beautiful_interaction_6: "Fortify Frontier Strongholds"
+DD_ARA_beautiful_interaction_1_desc: ""
+DD_ARA_beautiful_interaction_1_tt: "Old conflicts have ended - peasants willingly sacrifice to defend homeland.\n"
+DD_ARA_beautiful_interaction_2_desc: ""
+DD_ARA_beautiful_interaction_2_tt: "Whoever wears Aragon's crown must sacrifice for greater interests.\n"
+DD_ARA_beautiful_interaction_3_desc: ""
+DD_ARA_beautiful_interaction_3_tt: "Old conflicts have ended - knights volunteer to conquer strongholds.\n"
+DD_ARA_beautiful_interaction_4_desc: ""
+DD_ARA_beautiful_interaction_4_tt: "A new era approaches - we must secure the people's livelihood.\n"
+DD_ARA_beautiful_interaction_5_desc: ""
+DD_ARA_beautiful_interaction_5_tt: "A new era approaches - explorers set sail for the future.\n"
+DD_ARA_beautiful_interaction_6_desc: ""
+DD_ARA_beautiful_interaction_6_tt: "New wars are inevitable - soldiers will hold the frontlines to the last.\n"
+DD_ARA_beautiful_interaction_2.t: "§YWe'll spend 10 Legitimacy for random resource rewards§!\n§g(Each reward type can only be obtained once.)§!\n"
+DD_ARA_beautiful_power_desc: "Reborn from centuries of fragmentation and bloodshed, we bid farewell to scarred turmoil and strife, stepping into a Golden Century forged by both gold and victory songs.\n\nMonthly §YSplendor Value§! is affected by:\n\n-Each ruler skill above 3: §G+0.1§!\n-Legitimacy (max): §G+0.1§!\n-Prestige (max): §G+0.1§!\n-Power Projection (max): §G+0.1§!\n-Per stability: §G+0.05§!\n-Papal Controller: §G+0.1§!\n-Defender of Faith: §G+0.1§!\n-Golden Age: §G+1.0§!\n\n-Missing any institution: §R-1.0§!\n-Bankruptcy: §R-1.0§!\n-Deficit: §R-1.0§!"
+monthly_DD_ARA_beautiful_power: "Monthly §YSplendor Value§!"
+DD_SP7_bandao_4_12_ttt: "Recently used government interaction '§YConstruct Naval Vessels§!'"
+DD_SP7_bandao_5_13_ttt: "Recently used government interaction '§YMobilize Local Peasants§!'"
+
+DD_ARA.0.t: "Prelude to an Epic"
+DD_ARA.0.d: "Another evening, [Root.Monarch.GetName] removed the crown and journeyed west along the shell-marked Way of St. James, its stones stained with blood. Pyrenean snowmelt soaked through rough hemp robes, carving meandering prayers along the Ebro's banks, while pilgrim bells awakened cruciform scars slumbering in the bedrock.\n\nWhen Compostela's morning bells shook loose the last stardust, the king's tattered cloak already shimmered with the radiance of twelve apostles. Upon the return saddle, besides dew-kissed thorns and flint gifted by fellow pilgrims, rested the gaze of all Iberia - merchants sketching the ascetic's silhouette on ledger pages, Arab scholars charting his footsteps among constellations, even the proudest highlanders crossing themselves at his snow-dampened footprints. And [Root.Monarch.GetName] simply tightened the cloak, gently brushing off pilgrimage dust. This devotion, he knew, was a crown heavier than any imperial diadem."
+DD_ARA.0.a: "If any of you lacks wisdom, let them ask it from the Spirit who gives generously."
+DD_ARA.0.a.t: "[Root.Monarch.GetName] will embark on a §RPenitential Journey§!, seeking redemption through suffering"
+DD_ARA.0.b: "Faith without deeds is dead."
+DD_ARA.0.b.t: "We shall not undertake the §RPenitential Journey§!"
+DD_ARA.0.a_flag: "§RPenitential Journey§!"
+
+DD_ARA.0_1_buff: "Pride of Rejection"
+DD_ARA.0_2_buff: "Envy of the Mediocre" 
+DD_ARA.0_3_buff: "Wrath of Severance"
+DD_ARA.0_4_buff: "Sloth of the Shambling"
+DD_ARA.0_5_buff: "Greed of Torment"
+DD_ARA.0_6_buff: "Gluttony of Trance"
+DD_ARA.0_7_buff: "Lust of Exhaustion"
+
+DD_ARA.1.t: "Memories in the Clouds"
+DD_ARA.1.d: "[Root.Monarch.GetName], the eternal pillar of Aragon's golden crown, weaves Iberia's most intricate web of statecraft with rosary beads and olive branches. His devout silhouette at morning prayers contrasts with his tolerant posture when studying star charts with Moorish scholars at night - these dual images refract through Valencia's stained glass in discordant halos. He can recite Psalm 137 in Latin before the Roman Curia, then soothe restless Moorish nobles with Arabic proverbs in the converted Santa María Mosque. The Peninsular faction sees him as their destined leader, while the Latin faction detects political genius in his casual talks with Southern French princes. When Granada's minarets and Toledo's crosses stand opposed at dusk, only this monarch transforms fractured council chambers into a chessboard of nations: granting Catalan merchants Venetian-style charters, bestowing Burgundian-style honors on Aragonese nobles, even making papal envoys praise his vineyards' wine as 'new covenant vessels for Christ's blood.'\n\nYet this saint who extinguishes wars with smiles shows uncharacteristic hesitation toward his only son Miguel. Born in the bloodstained swaddling of a Gascon princess, the boy's eyes hold prematurely matured mysteries - he quotes the Song of Songs when pleading for heretics in confession, yet shatters lances of Crusader descendants in tournaments. Court astrologers detect the ill-omened 'Two-Faced Janus' in star charts Miguel drew at eight; Moorish musicians hear echoes of Córdoba's flowery palace in his improvised Andalusian melodies. As Aragonese night winds whistle through Alhambra-esque latticework, the king hears Fate whisper: this heir who inherited all his gifts and secrets will either ignite Iberia or shroud its golden age."
+DD_ARA.1.a: "I gaze upon the past, and behold the future."
+DD_ARA.1.a.t: "§YNote: [Root.Monarch.GetName] and Miguel have numerous special events - avoid their accidental deaths.§!"
+
+DD_ARA.2.t: "Crossroads of Fate"
+DD_ARA.2.d: "Due to its unique geographic position and longstanding policies, Aragon's court has become both an arena for local magnates and a sanctuary for foreign nobles. For centuries, the alliance of Carnations and Fleurs-de-lis provided superior diplomatic relations and formidable military strength, yet this superficial goodwill and balance cannot last. If the Kingdom of Aragon wishes to stride onto a broader stage, it must make its definitive choice amidst intensifying factional strife. The time has come to arbitrate with quenched steel rather than withering flowers - whether to let the Fleurs-de-lis of Southern France rot along the Ebro's banks, or have Valencia's Carnations drown in Mediterranean salt spray - but never again shall the crown hover above mirages of bygone dreams."
+DD_ARA.2.a: "Born here, raised here, to die here and be remembered here."
+DD_ARA.2.b: "No distance prevents true friendship - ten thousand miles are but neighbors."
+DD_ARA.2.c: "Assess the times, deliberate well before acting."
+DD_ARA.2_shijianqianzhanwenben: "This event allows us to support either the §RPeninsular Faction§! or §MLatin Faction§!."
+DD_ARA.1_flag: "Memories in the Clouds"
+
+DD_ARA.3.t: "The Crown of Mediocrity"
+DD_ARA.3.d: "Carlos I was worthy of his title as Emperor of All Spain, but unfortunately his son falls far short of this honor. Vulgar, cowardly, absurd. Young Carlos is but a rose blooming in a greenhouse, a gaudy golden peacock craving the sweet rain of freedom and recognition, yet terrified of failure and scorn's sting. He grew in his father's shadow, his soul forever imprisoned in that lonely, stifling garden.\n\nThus when his succession was challenged domestically by his brothers, Carlos's position became precarious. Yet regardless, he remains Carlos I's eldest son and Asturias' rightful heir. Perhaps we should support Carlos's claim to Asturias' throne - his crown could become our key to Iberia's halls of power. Controlling such a king would be as simple as manipulating a marionette - all we need do is let him dance freely upon the stage."
+DD_ARA.3.a: "Peacocks only spread their tails in golden cages."
+DD_ARA.3.a.t: "Unlocks decision allowing us to befriend or install @ASU§MAsturias§!'s weakest prince 'the Incompetent'."
+DD_ARA.3.b: "The storm approaches - we must not act rashly."
+DD_ARA.3.b_buff: "Standing Ready"
+DD_ARA.3.c: "But I cannot wait..."
+DD_ARA.3.c_buff: "Tilting at Windmills"
+DD_ARA.3_shijianqianzhanwenben: "This event allows us to manage relations with @ASU§MAsturias§!."
+DD_ARA_ASU_over_flag: "Successor Determined"
+DD_ARA_3_2.t: "§YAragon§! gains permanent claims on all @ASU§MAsturias§! provinces\n"
+DD_ARA.3.c.t: "\nAfter the war, we'll gain §Gterritorial cores§! on conquered @ASU§MAsturias§! core provinces.\n\nIf we §Mwin§!, §Rwe'll skip missions '§YTracing Galicia's Origins§!', '§YRemembering the Triumphant Legion§!' and '§YReturn to Burgos§!'§!\n"
+DD_ARA.3.c3_buff: "New Overlords"
+DD_ARA.3.ex.t: "When @ASU§MAsturias§! provinces are conquered, they gain §Y'New Overlords'§! for §Y10§! years with these effects:\nLocal core creation cost: §G-25.0%§!\n"
+DD_ARA.3.c.t3: "§RWarning: If we declare war now, we must try to conclude it before the Emperor's death!§!"
+
+DD_ARA.4.t: "The Reluctant Stream"
+DD_ARA.4.d: "Centuries ago, when the frost of the Pyrenees last kissed the crown of Sancho III, Ramiro I's hand had already quietly grasped the scepter of Aragon. That crown, steeped in Navarre's century-long twilight, refracted a new brilliance under the stained glass of the cathedral the moment he took the scepter. The waves of the western Mediterranean transformed into threads of statecraft at his fingertips, while the sails of Genoese merchant ships and the scimitars of Barbary pirates became alternating emblems upon Aragon's royal seal.\n\nNow, as both the golden lilies and date palms bow before our banners, the morning breeze of Albarracín still carries whispers of old companions—those days when we shared the morning dew of the Ebro, those nights when we charted the stars atop the peaks of Sierra de Sobrarbe. Their warmth remains etched upon the cliffs of the Pyrenean passes. Let Aragon's olive branches intertwine once more with Navarre's pomegranate flowers. Let our armor turn to silver under Zaragoza's moonlight, filled with the rich bouquet of Gascon wine, offered before the thrones of those who once guarded Iberia's starry skies together."
+DD_ARA.4.a: "A blue-robed traveler in misty rain, like an old friend returning."
+DD_ARA.4_shijianqianzhanwenben: "This event may allow us to form a personal union with @NAV Navarre."
+DD_ARA.4.a.t: "When Navarre's current monarch dies, we will inherit @NAV Navarre."
+DD_ARA_5_2_buff: "Isolated Without Aid"
+
+DD_ARA.5.t: "The Remorseful Memory"  
+DD_ARA.5.d: "Whenever dusk soaked through the rose window tracery of the Aragonese palace, [Root.Monarch.GetName]'s fingers would unconsciously trace the wedding ring inlaid with Gascon irises. The laurels of Valencia still whispered in the wind of that distant autumn night—when the sixteen-year-old princess from southern France lifted her gaze from behind the iris-patterned gauze curtains, the young prince saw not the spark of love in the amber wine, but the heavy chains of two kingdoms being forged. The brocade bed curtains of their marriage became the most exquisite political veil; he meticulously calculated the intervals between embraces, turning every touch into a prayer offered to the Holy Father, even the gasps of desire tamed into poetic meter.\n\nThat queen, always draped in misty blue-gray silk like morning fog, quietly seeped into every corner of the court, much like the perpetual haze over Barcelona's harbor. On nights when [Root.Monarch.GetName] pored over treaties with France, she would gently push a silver-rosary box toward the candlelight; when he debated astrology with Moorish envoys, her embroidery frame would unfurl Cordoban geometric patterns at just the right moment. Until one stormy night, when her handmaidens found the queen leaning against the balcony railing, letting the rain wash the pearls from her hair into a scattering of pale stars on the ground. That soaked silk gown was later folded into a carved sandalwood box, its creases like dried-up riverbeds.\n\nWhen the revelry of San Juan's feast lit up the sky, fate tore the last warmth into shreds. The frantic footsteps and midwives' prayers in the birthing chamber were finally pierced by a feeble cry. As [Root.Monarch.GetName] rushed into the room thick with herbs and blood, the queen's golden hair was already drenched in cold sweat, her pale fingers still clutching the linen swaddle embroidered with fleur-de-lis. The blood spreading beneath the lambskin bedding sprawled like wild roses, while the physician's trembling hands pressed uselessly against the ruptured veins. *'His eyes… like when you looked at me,'* she whispered with the faintest smile, trying to turn the infant's face toward her husband—but all she managed was a bloodstained fingertip brushing the child's soft cheek.\n\nThat night, the stars of Aragon seemed shattered in the queen's silver mirror. [Root.Monarch.GetName] knelt before the cooling bed and, for the first time, truly saw the fine lines at the corners of her eyes—those marks of time he had deliberately ignored, now more winding and profound than the maps of Catalonia. The newborn's cries echoed through the stone corridors, the warmth of the swaddle fading with his wife's last breath into the dawn mist, becoming a remorse no devout soul could confess."  
+DD_ARA.5.a: "Those we loved too late, and those we dared not love."  
+
+DD_ARA.6.t: "The Unmendable Rift"
+DD_ARA.6.d: "[Root.Monarch.GetName]'s quill hovered over the parchment, the ink pooling into a weighty shadow. He lifted his gaze to the far end of the long table—where Miguel stirred his honeyed tea with a silver spoon, the delicate chime of porcelain against gilded tray more unnerving than any council chamber quarrel.\n\n'You shouldn't have yielded the Andorran valley's iron mines to Gascon merchants,' Miguel deliberately flattened his tone, as if taming a headstrong Barbary stallion. 'Pyrenean snowmelt can nourish soil, but it can also drown rash promises.' His lashes flickered; the spoon traced spirals in the tea, silently mirroring his father's diplomatic circumlocutions.\n\nThe sudden rain against the rose window sharpened. The young man stood abruptly, his sleeve brushing the unfurled map—Navarre's borders smeared by wine stains into blurred wounds. 'You always say snowmelt tempers blades,' he plucked a fleur-de-lis chess piece, rolling it between his fingers, 'but what if the hand wielding the sword goes numb?' Before the words settled, the piece clicked into the carved silver box bearing Aragon's crown, stirring a plume of dust.\n\n[Root.Monarch.GetName]'s knuckles whitened against the table's edge. He remembered that blood-hued dawn fifteen years prior, when Miguel's wails had pierced deeper than any diplomatic missive. Now the boy's silhouette merged with his late wife's blue-gray silk gown in the rainstorm, their turns away from him identical in curvature. The fleur-de-lis seal on the parchment's corner bled with rainwater, uncannily like the spreading bloodstains on the birthing sheets years ago.\n\nWhen servants gingerly cleared the cold tea service, they found the king mute before emptiness. The wavering candlelight stretched his shadow long—a rusted scepter lying across the unbridgeable chasm between father and son."
+DD_ARA.6.a: "'The sharpest blades, it seems, are always sheathed in what we mistake for warmth.'"
+
+DD_ARA.7.t: "The Legacy of Glory"
+DD_ARA.7.d: "[Root.Monarch.GetName] stood beneath the newly restored dome of the Córdoba Library, fingers tracing the gilded Quran and Latin Bible displayed side by side. Sunlight streamed through stained glass adorned with Stars of David and crosses, weaving a shimmering tapestry across the arabesque-inlaid marble floor.\n\nOutside in the newly built 'Fountain of Three Saints' courtyard, stone figures of Christian saints, Jewish prophets, and Islamic scholars encircled the central spring, its waters polishing bronze discs inscribed with scriptures from all three faiths. He removed his rosary and gently draped it around the neck of Averroes' statue, forever frozen in contemplation of his astrolabe.\n\nNight winds carried the scent of frankincense and myrrh through the corridors as [Root.Monarch.GetName] gazed at the flickering lights along the southern horizon. Twelve envoys bearing poetry and star charts had already mounted their mules—their saddlebags holding not only peace accords, but Prince Miguel's co-authored 'Dialogues of the Stars' with Moorish musicians.\n\n'To conquer land is lesser than to conquer time,' he whispered to a circling owl, thumb brushing the bronze key that fused crucifix and horseshoe arch motifs:\n\n'When the children of Taifas recite Scripture in our churches, they shall understand—Iberia's stars have always turned beneath the same canopy.'"
+DD_ARA.7.a: "'May they understand.'"
+DD_ARA.7_shijianqianzhanwenben: "This event heralds our march toward the southern Taifas."
+
+DD_ARA.8.t: "The Final Victor"
+DD_ARA.8.d: "[Root.Monarch.GetName] rode through Seville's Golden Gate, his steed trampling pomegranate blossoms and olive branches carpeting the streets. Bronze bells tolled simultaneously from twelve converted temples—once churches and mosques—their clappers forged by Cordoban craftsmen fusing cross patterns with Kufic Arabic script, the soundwaves blending into honey-hued halos. Women tore their treasured silks into ribbons—Granada's crimson, Barcelona's gold, Toledo's silver-gray—draping them over the surviving arches of Roman aqueducts, distant as the abandoned harpstrings of gods.\n\nThe king's gilded armor reflected the midday sun, its breastplate inlaid with an astrolabe smelted from the crown of Asturias. When he reached the Guadalquivir's banks, the water suddenly bloomed with thousands of candle-lit lotus lamps—Moorish artisans' special creations, their parchment shades inscribed with verses from the Song of Songs in both Latin and Arabic. Across the river, in the newly built hybrid chapel, a Christian organ harmonized with an Andalusian oud, playing Prince Miguel's 'Cosmic Roundelay.'\n\nAt dusk, nine hundred poets from across the realms ascended the ruins of the Alcázar's flower-filled courtyards, reciting trilingual epics before the remnants of an ancient observatory. [Root.Monarch.GetName] sat alone on the high platform, gazing at an Asturian wine-filled chalice inlaid with mother-of-pearl—its liquid reflecting a perfect map of the stars. As he raised the cup, all noise ceased but the harbor's distant shanties carried by the wind:\n\n'Behold, even Gibraltar's rocks sip moonlight!'\n\nThe revelry lasted seven dawns. People collapsed asleep under pomegranate trees hung with Venetian mirrors, unfinished wine fermenting in jars like violet sunrise. The king stepped over slumbering musicians, tracing the chapel's stained glass—where someone had scratched nearly invisible Hebrew letters with a diamond stylus between the cracks:\n\n'Your feast shall drown in tears.'\n\nHe paused at this prophecy finer than spider silk, slowly turning his breastplate's astrolabe toward the rising sun. The reflected light engulfed the inscription, its searing rays melting the ancient warning into a meaningless golden streak. At the distant port, the last ships carrying demobilized knights raised their sails. Aragon's royal banner unfurled like a phoenix reborn—yet none noticed three black threads woven into its Granada-silk edges, each spun from different latitudes."
+DD_ARA.8.a: "'Not mere paranoia.'"
+DD_ARA.8_shijianqianzhanwenben: "This event declares our absolute triumph."
+DD_ARA.8.a.t: "§RNew struggles begin§!"
+
+DD_ARA.9.t: "The Unhealed Scar"
+DD_ARA.9.d: "[Root.Monarch.GetName]'s fingers traced the coiled grapevines on the Ivrea crest, the gold-threaded leaves writhing like veins in the candlelight. Princess Beatrice's portrait leaned against the desk, the pearls at her ears refracting the dusk light of Dijon Castle—that pale gold hue so reminiscent of the moonstones in the Gascon princess' hair twenty years prior.\n\n'Burgundy's canals can float Flemish wool, or drown France's fleur-de-lis gardens,' the Chancellor's counsel echoed under the vaulted ceiling, the golden threads on the parchment map stitching Aragon and Burgundy into a falcon's spread wings. Yet [Root.Monarch.GetName] saw only his sixteen-year-old reflection in the gilded frame: that stiff-shouldered boy at the end of Valencia's gallery, his ceremonial robes slipping to reveal sweat-stained panic in every fold.\n\nThe council chamber doors burst open, shattering the memory. Miguel stormed in, night dew clinging to his clothes, hay from the stables in his hair, gripping a Damascus dagger fragment bartered from Moorish merchants. 'So you'd collar me with the Golden Fleece?' He drove the blade into the oak table in challenge, its turquoise-inlaid hilt matching the princess' eyes in the portrait.\n\nThe old king's throat tightened around unspoken reprimands. He remembered his wedding night—the mechanical unfastening of his wife's gown, the pearl buttons clattering louder than cathedral bells. Now Beatrice's painted smile seemed to melt into the Gascon princess' dying quiver of lips.\n\nWhen Miguel's footsteps faded down the corridor, [Root.Monarch.GetName] gathered the crest's shattered pieces—broken vines oozing gold like sealing wax, slowly smothering a scar that had never healed in twenty years."
+DD_ARA.9.a: "Miguel is first a prince, then my son."
+DD_ARA.9.a.t: "§RMiguel will despise this match, but he must accept it.§!"
+DD_ARA.9.b: "'Go, chase Iberia's winds instead.'"
+DD_ARA.9.b.t: "§Y[Root.Monarch.GetName] will not force a marriage upon Miguel.§!"
+
+DD_ARA.10.t: "Exiled Moonlight"
+DD_ARA.10.d: "Miguel's childhood years were pearls lodged between the crevices of Aragon's crown. While [Root.Monarch.GetName]'s scepter could cast towering shadows in the council chamber, he could never brush away the scorn and curses clinging to his youngest son's garments. Miguel's fragile beauty—more delicate than moonlight—his pallid complexion betraying Southern French blood, his tragic past and solitary nature drew malicious whispers through palace corridors. Vicious young falcons hid daggers in velvet gloves, probing his unhealed maternal loss with poisoned words. Gradually, he withdrew from peers, preferring the solitude of the library's Arabic star charts.\n\nOne dawn, in the rhombus of light filtering through Alhambra-style latticework, the young prince noticed the maid who always cleaned astrolabes after matins. Kneeling on glazed tiles to gather Arabic manuscripts torn by the archbishop, strands of ebony hair escaping her linen headscarf reminded him of Andalusian twilight in picture books. 'If His Highness permits, I might mend these shattered stars,' she murmured, arranging fragments across her lap, her fingers moving in patterns mirroring ancient celestial paths. As Miguel watched eagerly, she threaded gold wire through rhino-horn punctures, soothing him: 'A lone sail in a storm often reaches harbor first.' Her voice held the luster of mother-of-pearl edging his mother's portrait frame—soft yet honed by ocean waves.\n\nOn his tenth birthday night, Miguel discovered his mother's Provençal love poems hidden in the library's secret compartment, their yellowed margins filled with fresh Córdoban script annotations. When the trembling boy read aloud the vermilion-underlined verse—'His blood shall be the undercurrents of Garonne and Ebro'—silk and silver chains rustled behind him: 'Her Majesty wrote poetry in many tongues, just as His Majesty rules many faiths.' The clink of porcelain on marble startled him; the maid knelt two paces away with almond milk, her patched hemp sleeves contrasting with tray ornaments polished brighter than a cardinal's crozier. Moonlight fused their shadows onto the wall's dynastic tree, like Gascony's iris once merging with Aragon's bedrock.\n\nThat night, Valencia's constellations quietly shifted—the cursed son of Janus had finally found moonlight strong enough to dispel his mist."
+DD_ARA.10.a: "'I am your handmaid, Zayda.'"
+
+DD_ARA.11.t: "The Royal Wedding of True Love"
+DD_ARA.11.d: "When Valencia's autumn wind carried the first plane tree leaf, Miguel clasped Zayda's hands—roughened by years of lye and bleach—against the weathered stone walls of the council chamber. With one hand, he traced the calluses that chronicled her exile; with the other, he unfurled star charts copied through the night. 'These coordinates sketch no constellation,' his voice mingled with distant blacksmith strikes, 'but every skylight we've shared.'\n\nZayda shed the coarse headscarf of her former life, letting Sevillian ebony hair cascade in the confessional's candlelight. At her conversion, she knelt where kings had worn grooves into the stone, repeating prayers in two tongues. Holy water trembled in the archbishop's aspergillum, mirroring how she'd once wiped the mocked prince's tears in an observatory well.\n\n[Root.Monarch.GetName] watched from the watchtower's shadow as wedding bells shook Valencia's ancient walls. He remembered the scorched olive groves he'd ridden through in youth—now budding anew for his son's chosen bride. 'Tell the Privy Council,' he told stunned attendants, 'Aragon's next queen once saved a plague-stricken poet with a loaf of bread.'\n\nNo gilded bridges or pagan jewels adorned their procession. When barges carried the couple through humble canals, washerwomen and scribes lined the banks holding clay jars. Zayda cast not gems but rosemary-seed paper boats onto the waters—come spring, they'd sprout into green waterways uniting both shores.\n\nThat night in the library, Miguel wrote with his mother's quill along the margins of Zayda's mended parchments: 'True crowns are the scars we've healed together.'"
+DD_ARA.11.a: "'Let sovereignty be love's footnote, let faith rhyme our vows...'"
+DD_ARA.11.b: "'...let all exiled rivers find their sea at last.'"
+
+DD_ARA.12.t: "Fading Colors"
+DD_ARA.12.d: "When [Root.Monarch.GetName]'s decree struck the library like autumn's last thunderclap, Miguel was proofreading the newly translated Toledan Star Tables with Zayda. The royal scepter's shadow fell across the map's fissures as Burgundy's betrothal document smothered their freshly marked celestial coordinates. 'Depart in seven days,' the parchment scraped against Zayda's half-mended apron, leaving a wine-dark crease.\n\nOn the wedding eve, Valencia's laundresses stitched Burgundian gold thread into the ceremonial garb, yet stubborn winds kept snapping their needles. Miguel walked barefoot through the corridor, hearing Zayda clean stained glass in the chapel—always when moonlight tilted toward Seville. The saints' visages merged with her silhouette in the dark, and he suddenly remembered her tracing river currents on his ten-year-old palm with lye-stained fingers.\n\n'Your Highness, the wedding boots await fitting.'\n\nAt dawn, Zayda knelt by the door with silvered spurs, torn star chart drafts peeking from her apron pocket. Miguel's grip on her wrist sent ripples across the copper basin's surface. 'Tell me how Sevillian ballads end their elopement tales,' his breath stirred dried jasmine at her headscarf's edge. She only wound the spur straps thrice more—until the spikes pressed into her own palm.\n\n'The ballads' knights... learn to conquer undercurrents within charted courses.'\n\nBurgundy's golden lilies on the wedding carriage wept dew in the morning mist like unfallen tears. As parchment-scented wind swept the plaza, Zayda appeared at the cloister's end with armfuls of laundry, her headscarf billowing like Seville's banner. In the curtain's final descent, Miguel glimpsed the star chart she'd bleached inside his doublet—marking their jointly discovered rogue star, now blazing southward."
+DD_ARA.12.a: "Swallow the tears, let the sweet past fade."
+DD_ARA.12.b: "§YZayda!§!"
+DD_ARA.12.b.t: "§RMiguel heeds his heart's call, with consequences unforeseen.§!"
+
+DD_ARA.13.t: "The Scapegoat"
+DD_ARA.13.d: ""
+DD_ARA.13.a: "Let nature take its course..."
+DD_ARA.13.b: "Better a free soul than a sycophant's servitude!"
+DD_ARA_VAL_over_flag: "Council Concluded"
+DD_ARA_4_2_buff: "Redemption's Path"
+DD_ARA.13_shijianqianzhanwenben: "This event allows @VAL Valencia to adjust relations with us."
+
+DD_ARA.14.t: "The Hesitant Shore"
+DD_ARA.14.d: ""
+DD_ARA.14.a: "False freedom must meet its end..."
+DD_ARA.14.b: "With wine and tide, our spirits rise!"
+DD_ARA.14_shijianqianzhanwenben: "This event allows pirates to adjust relations with us."
+
+DD_ARA.15.t: "The Hesitant Shore"
+DD_ARA.15.d: ""
+DD_ARA.15.a: "False freedom must meet its end..."
+DD_ARA.15.b: "With wine and tide, our spirits rise!"
+DD_ARA.15_shijianqianzhanwenben: "This event allows @ML2 Ibiza to adjust relations with us."
+
+DD_ARA.16.t: "The Hesitant Shore"
+DD_ARA.16.d: ""
+DD_ARA.16.a: "False freedom must meet its end..."
+DD_ARA.16.b: "With wine and tide, our spirits rise!"
+DD_ARA.16_shijianqianzhanwenben: "This event allows @MJO Mallorca to adjust relations with us."
+
+DD_ARA.17.t: "The Scheming Prince"
+DD_ARA.17.d: ""
+DD_ARA.17.a: "When dawn breaks, let yesterday perish"
+DD_ARA.17.b: "You are...?"
+DD_ARA.17_shijianqianzhanwenben: "This event allows @PRO Provence to adjust relations with us."
+
+DD_ARA.18.t: "The Scheming Prince"
+DD_ARA.18.d: ""
+DD_ARA.18.a: "When dawn breaks, let yesterday perish"
+DD_ARA.18.b: "You are...?"
+DD_ARA.18_shijianqianzhanwenben: "This event allows @GUY Gascony to adjust relations with us."
+
+DD_ARA.19.t: "The Scheming Prince"
+DD_ARA.19.d: ""
+DD_ARA.19.a: "When dawn breaks, let yesterday perish"
+DD_ARA.19.b: "You are...?"
+DD_ARA.19_shijianqianzhanwenben: "This event allows @BUR Burgundy to adjust relations with us."
+
+DD_ARA.20.t: "The Emir's Surrender"
+DD_ARA.20.d: "Badajoz's star fort glowed with the rusted iron-oxide hue of hematite in twilight, sulfurous smoke from blast craters veiling the surrender envoy's face. The magistrate had forged their capitulation from prisoner-miners' shackle filings—seven bronze wolves biting jagged edges into the parchment, each indentation pooling with half-dried mule blood that congealed into ancient runes in the evening wind.\n\n[Root.Monarch.GetName]'s armored boots crushed freshly unearthed Roman aqueduct shards, the grinding noise against obsidian floors startling the hound curled beside siege diagrams. As the Burgundian engineer's hourglass drained its final quartz grains, the king flipped it with his swordtip, swirling gold dust with moonlight leaking through the breached ramparts into glittering mist.\n\nThe envoy proffered the blood-and-rust streaked surrender document by torchlight, but [Root.Monarch.GetName] scooped Western Range hematite onto his blade. Red-black grains slid down the tilted metal, sketching unfinished ore veins in the battering ram's shadow. The scribe's thrice-wetted quill froze mid-word, blurring 'mining concessions' into ink-clouds.\n\nWhen sappers sought approval to ignite the eighth blast charge, the king pressed bronze wolf fangs into unsigned treaty margins. Amid the screech of metal on parchment, prisoner miners' hammering synchronized with Aragonese swords being whetted—a resonant growl through gunpowder haze. [Root.Monarch.GetName] suddenly hurled his cloak at the sand table, the gust flinging three bronze fangs airborne while sulfur smoke momentarily obscured the crimson lion banner.\n\nThe tenth lunar-phase bell tolled from the watchtower as unsealed surrender terms curled near the forge's dying embers. The siege tower's winch remained suspended three cubits short, while the western sky tore apart between thunderheads and minefire sparks."
+DD_ARA.20.a: "May peace reign in prosperous times"
+DD_ARA.20.b: "Never court vainglory like the Hegemon-King*"
+DD_ARA.20_shijianqianzhanwenben: "This event allows us to adjust relations with @BDH§JBadajoz§!"
+
+# Note: "Hegemon-King" refers to Xiang Yu, the arrogant Chu leader who rejected strategic victories for personal glory
+
+DD_ARA.21.t: "The Taifa's Surrender"
+DD_ARA.21.d: "Seville's orange blossoms ceased their fragrance in the siege's third month. The Guadalquivir reflected galleys chained at anchor—ships meant for distant shores now crowded with Aragonese crossbowmen surveying breached walls. The city council had minted their surrender document from molten coins, while Gypsy fortune-tellers planted seven notched daggers into the terms: preserving Flamenco taverns' all-night revelry, and the privilege to bind Inquisition records in Cordovan leather.\n\n[Root.Monarch.GetName] stood before the Gold Tower's observation slit, crumbling a dried orange segment fallen from the envoy's robe. The scribe waited all night with parchment bearing Seville's wax seal until dawn dew blurred its Latin calligraphy. Across the river, captive musicians improvised Aragonese war songs on three-stringed lutes, their tremolos entwining with siege tower winches, fermenting into ambiguous sighs in the humid mist.\n\nAs bishops anointed the battering ram with holy oil, the king unfastened his Order of Santiago gold chain and tossed it onto the stone ledge. The pendant's impact cracked the treaty's edge, sending twelve rubies tumbling into wet ink. A derelict citrus barge drifted downstream, its leaking juice carving garish golden trails through turbid waters—Seville's final bargaining chips, adrift awaiting judgment."
+DD_ARA.21.a: "May peace reign in prosperous times"
+DD_ARA.21.b: "Never court vainglory like the Hegemon-King"
+DD_ARA.21_shijianqianzhanwenben: "This event allows us to adjust relations with @SEW§JSeville§!"
+
+DD_ARA.22.t: "The Caliph's Surrender"
+DD_ARA.22.d: "Granada's gates finally buckled inward after seven days of trebuchet bombardment, defenders waving bloodied turbans tied to spears—an ancient desert tribe's gesture of submission. As [Root.Monarch.GetName] lifted the tent flap, he saw the envoy kneeling in mud, raising a bronze tray: three pomegranate seeds embedded in honey-congealed surrender terms, silently pleading to preserve spice markets and wool dye-works.\n\nThe Aragonese monarch flicked away the tray's brocade with his sword, the metallic clang scattering ravens feasting on corpses twenty paces distant. The army bishop clutched his Book of Kings unspeaking, while Burgundian mercenaries thrust torches into scorched earth by the moat.\n\nAt duskfall, [Root.Monarch.GetName] stood alone before the splintered gates. His fingers traced a torn Quran page drifting through the cracks, as the Alhambra's minarets fractured the last sunlight into shards. In the siege tower's shadow, the scribe waited with unsealed parchment, his quill's frozen ink glinting like icicles."
+DD_ARA.22.a: "May peace reign in prosperous times"
+DD_ARA.22.b: "Never court vainglory like the Hegemon-King"
+DD_ARA.22_shijianqianzhanwenben: "This event allows us to adjust relations with @GRA§JGranada§!"
+
+DD_ARA.23.t: "Kindling Tomorrow's Flame"
+DD_ARA.23.d: "As Iberia's final beacon guttered out in Gibraltar's salty winds, Barcelona's bells shattered millennia of clouds with seven harmonies. Seville's orange trees bore bicolored fruit in April—half stained pomegranate-red from Granada, half snow-white from Navarrese meltwater. [Root.Monarch.GetName]'s coronation cloak, woven from Catalan sailcloth, shimmered with Andalusian silverwork stars and crescents, each fold shedding gold dust mingled with Castilian wheat.\n\nThe Alhambra's fountains first flowed with waters blessed by three faiths. Moorish musicians recomposed the Song of Songs in Latin, while rabbis transcribed Psalms in Arabic calligraphy. Lisbon fishermen wove nets shaped like the peninsula, each knot hung with pagan temple bells and monastery crosses. In Zaragoza's plaza, turbaned Berber merchants and sword-girt Castilian knights shared wine jars, drunkenly debating whether Tunisian sea charts or Toledan star maps held truer meridians.\n\nAt nightfall, Valencia's stained glass blazed with nine hundred beeswax candles, silhouettes of ancestral kings floating in the glow: León warriors with broken spears dancing with Granadan sultans' ghosts, their shattered glass footprints becoming unnamed Mediterranean isles. [Root.Monarch.GetName] stood at the center, casting the cracked parliament stones into a furnace—the molten metal became ship anchors before cooling, their moonlit reflections stretching into silver chains across the sea.\n\nCheers climbed Iberia's bell towers like Duero grapevines, as Barcelona's aged bishop raised a chalice and glimpsed not just Christ's blood sedimented at its base, but a briny blue that belonged to the Mediterranean."
+DD_ARA.23.a: "You have become part of a new world."
+DD_ARA.23_shijianqianzhanwenben: "§RAt last, you fall into slumber. When you wake, nothing has changed...§!"
+DD_ARA.23.a.t: "§RStrengthen all Peninsular Faction ideas§!"
+DD_ARA.23.a.tt: "Inherit all Roman Catholic subject states in the north\n"
+
+DD_ARA.24.t: "The Journey to Yesterday"
+DD_ARA.24.d: "When Iberia's last heathen dust was nailed into Toledo's basalt altar by sacred swords, Aragon's iron-cross banner had drunk its fill of Castilian wheatfield blood-dew and Granadan pomegranate juice. [Root.Monarch.GetName] sat astride his Frankish-emblazoned warhorse, silver armor refracting prismatic light from Santiago Cathedral's dome—where shimmered the ghostly golden eagle of Charlemagne's coronation and the melted remains of Navarre's crown, now reforged as a crucifix.\n\nZaragoza's triumphal arch bore a monstrous monstrance forged from Andalusian scimitars and Berber shields, its glass prison holding Córdoba's last mosque crescent. In Barcelona's harbor, Genoese artisans converted the defeated Granadan sultan's enameled palanquin into a mobile altar, its 4,000 rubies replaced with papal-blessed saintly relics. Frankish heavy cavalry trampled Seville's orange groves, the crushed fruit mingling with tattered Quran pages to ferment into something resembling Aquitaine wine's tart bouquet.\n\nAt Burgos' castle hall, converted Moorish nobles recited the Nicene Creed in halting Latin, their silk robes patched with silver crosses marking captive status. Provençal minstrels played variations of the Song of Roland on broken-lute lutes, their soundboxes hiding tracings of Pamplona's battle-scarred walls. During [Root.Monarch.GetName]'s coronation, twelve chainmail-clad bishops lifted his ermine cloak with Frankish longswords—revealing a lining embroidered with Lotharingia's division map, where Pyrenean snowlines had been stitched southward to the Atlas Mountains' feet.\n\nCheers stretched taut as crossbow strings across Iberian skies when [Root.Monarch.GetName] cast his sword from Lisbon's cliffs—the blade's quivering upon impact coinciding with Atlantic tides shifting eastward. Astrologers trembled as they reported: the sword's shadow matched Charlemagne's sundial when he marched on Rome."
+DD_ARA.24.a: "Until we return to bygone days."
+DD_ARA.24_shijianqianzhanwenben: "§MSo we beat on, ceaselessly contending, borne back...§!"
+DD_ARA.24.a.t: "§MStrengthen all Latin Faction ideas§!"
+DD_ARA.24.a.tt: "Inherit all Roman Catholic subject states in the north\n"
+
+DD_ARA.25.t: "The Vanishing Lone Star"
+DD_ARA.25.d: "As morning mist—like lye-soaked linen—shrouded the wedding carriage, Miguel's fingers unconsciously traced the patched sleeve where Zayda had embroidered the Big Dipper's seventh star with golden thread. Burgundian maids fastened his sash with silver bells, each chime recalling how copper clothespins clattered when Zayda hung laundry by Aragonese washbasins.\n\nDew from church steps seeped into his wedding boots while Beatrice's veil fluttered rebelliously in persistent winds. Kneeling at the altar, Miguel noticed an uncleaned smudge on the stained glass—exactly where Zayda's favorite library nook would align. The bishop's Latin vows washed over him with a scent of moss, suddenly conjuring that stormy night when Zayda traced star paths with bleach on stone, their knees occupying the same damp imprint.\n\n'Exchange the rings.'\n\nThe Burgundian princess' band scraped his knuckle, its inner engraving inexplicably stinging. Miguel's vow caught in his throat, though he numbly completed the performance.\n\nDuring the banquet's roast pheasant course, a servant presented an anonymously donated Valencian Star Catalog. On its last page, fresh Cordoban script coiled like Seville's secret aqueducts: 'True stars never repent their orbits.' The parchment smelled of lye and bitter orange blossoms. When he rushed to the balcony, Burgundy's moon was devouring clouds into the shape of an observatory's spiral skylight.\n\nMidnight bells ground against cobblestones as the groom's attire lay discarded in the dressing room. Miguel walked barefoot through corridors, the chilled tiles reminiscent of Zayda's perpetually polished library floors. By dawn's return, the new Burgundian prince found gold dust on bed curtains—flecks from shredded vows matching Zayda's chart-mending thread. Beyond Aragon's walls, a laundress hummed Andalusian tunes while soaking bloodstained linen in the wash pool. There, in the water's reflection, the seventh star had slipped its ordained course."
+DD_ARA.25.a: "'Farewell, my love.'"
+
+DD_ARA.26.t: "The Fading Star"
+DD_ARA.26.d: "As the gilded carriage wheels crushed palace steps, Miguel's nails dug deep into Burgundian-embroidered cushions. Dawn mist seeped through the carriage, carrying the scent of lye and bitter orange blossoms—the unique fragrance of Zayda's washing pools. When a stubborn wind flung the curtains open, his eyes met crooked star carvings on a roadside marker—the very constellation they'd charted together one stormy night with her hairpin.\n\nMiguel tore the silver-belled sash from his wrist, its snapping threads startling crows. His leap into the fog ended with wedding robes snagging on carriage ornaments, the ripping fabric echoing childhood star charts torn to shreds. After tumbling through rosemary bushes, his stinging palms recalled Zayda's healing hands always laced with crushed jasmine.\n\nAt Aragon's western aqueduct, Zayda's washing mallet hovered above the pool where the Big Dipper's reflection shattered into silver shards. 'May underground rivers guide all stray stars,' she whispered—a Sevillian exile's prayer—until moss crackled behind her.\n\nMiguel stood knee-deep in mire, his wedding finery studded with burrs. Clutching a willow branch, he raised a bloodstained star chart fragment torn from the carriage lining: 'You taught me to navigate every tributary... yet now drown your own currents?'\n\nThe mallet's splash startled silver fish as Miguel flung his wedding ring into stone crevices. Taking Zayda's lye-roughened hands, he pressed them to his bleeding chest: 'Come—to where no maps dare mark.' Jasmine petals from her hair became swimming stars in the pool. When she loosed her Sevillian ebony tresses, Miguel glimpsed his Gascon mother's portrait smiling in dawnlight.\n\nBy the time [Root.Monarch.GetName] arrived, only a waterlogged wedding robe remained, its embroidered crest now mossy nebulae. Beyond the walls, stableboys swore they'd seen two gray horses—laden with astrolabes—vanishing southward, their hoofprints sprouting rosemary brighter than any crown jewels."
+DD_ARA.26.a: "'No sovereignty outweighs two clasped hands.'"
+
+DD_ARA.27.t: "Peasants' Rights"
+DD_ARA.27.d: "As Muslim military threats in Iberia intensified, the Church and feudal lords tightened their grip on the peasantry. Farmers became bound to their lords for protection, eventually reduced to serfs unable to leave the land. Plagues, exploitation, and wars left Aragonese farms deserted, with dwindling populations causing rural economies to collapse.\n\nFacing oppressive policies, serfs either fled or rebelled. Aragonese monarchs vacillated—issuing decrees abolishing serfdom one year, then conceding to nobles the next. Now, as the kingdom's focus shifted from Aragon's mountains to eastern coasts, Catalans increasingly felt their homeland crumbling.\n\nKings both supported nobles' efforts to control peasants and granted special privileges to raise peasant armies against increasingly rebellious nobility—yet rural decay continued unabated. Bishop of Elne's desperate report to Barcelona described Catalan towns disintegrating: knights wandering on mules, pirates running rampant, and escalating conflicts between peasants and lords protesting 'excessive' peasant rights. Without action, Aragon would soon face simultaneous peasant uprisings and noble revolts."
+DD_ARA.27.a: "They feed families and cultivate the kingdom's future"
+DD_ARA.27.b: "Ignorant mud-stompers"
+DD_ARA.27.a_buff: "Free Peasantry"
+DD_ARA.27.b_buff: "Enserfed Peasantry"
+
+DD_ARA.28.t: "Sanctuary of Yore"
+DD_ARA.28.d: "When the crimson moon of calamity hung over southern France centuries ago, Pedro II's Edict of Sanctuary opened a door of hope for the defeated Albigensians, gathering the ancestors of today's Latin faction under Aragon's protective wings. Now, after centuries, the edict's provisions still faithfully hold force, making the Kingdom a haven for diverse cultures and faiths.\n\nBut this is no longer the age of the Albigensian Crusade. Enforcement faces growing resistance. While religious diversity draws papal condemnation, it has also planted seeds of instability in Aragon. The Latin faction nobles, having feasted at the banquet table, will never permit others to touch their entrenched privileges. Having fully assimilated into Aragon, they now urge us to revoke the Edict of Sanctuary and lock the garden gates of our peninsula."
+DD_ARA.28.a: "The Edict remains our testament to tolerance."
+DD_ARA.28.b: "We're aboard the carriage—time to shut the door."
+DD_ARA.28.a_buff: "Uphold the Edict of Sanctuary"
+DD_ARA.28.b_buff: "Revoke the Edict of Sanctuary"
+
+DD_ARA.29.t: "The Knights' Destiny"
+DD_ARA.29.d: "When the ancestors of the Latin faction nobles fled France for Aragon, they pledged eternal loyalty in exchange for sanctuary—though subsequent royal upheavals cast doubt on French devotion. Yet generations of Latin knights have indeed served as the king's warriors in Aragon's armies. These French knights became one of the monarchy's few standing military forces, an elite guard for the royal house.\n\nBut today, Latin nobles compete to place their sons in the Royal Knight Order. The order has become bloated with unnecessary redundancy—no longer the kingdom's sharp blade, but rather a burden dragging Aragon down. The Peninsular faction nobles demand the king disband these expensive, ineffective, and questionable knights. Yet regardless, these knights remain Aragon's sharpest sword—though who truly wields it remains unresolved."
+DD_ARA.29.a: "Frankly, I'd rather spend this coin elsewhere..."
+DD_ARA.29.b: "The knights are our strongest bulwark—recruit more!"
+DD_ARA.29.a_buff: "Reduce Knightly Orders"
+DD_ARA.29.b_buff: "Expand Knightly Orders"
+
+DD_ARA.30.t: "Whose Mausoleum"
+DD_ARA.30.d: "As the Cantabrian Sea's last storm licked at Asturias' royal banner, Aragonese cavalry shattered millennia-old frost on Oviedo's walls. Stones engraved with Visigothic kings' maxims became prophetic fragments in catapult fire—each speck of dust declaring Pelayo's bloodline would melt into Aragon's golden seal.\n\nNow Aragon's chancellor inks new chronicles on vellum margins. Pyrenean snowmelt and Cantabrian salt have fused in the crown's grooves, forging a dominion more eternal than starlight. Through Asturian valleys echo not legal codes, but Aragonese bagpipes. Where banners changed, mountain goats leap eastward with snowflakes in their teeth—toward dawn bells shaking the last stale starlight from Asturias' crown."
+DD_ARA.30.a: "'Bow your head in trembling awe.'"
+DD_ARA.30.a.tooltip: "We gain territorial cores on all @ASU§MAsturias§! provinces under our rule"
+
+DD_ARA.31.t: "Eternal Promise"
+DD_ARA.31.d: "Carlos II may indeed have been an incompetent monarch. But our princess fell in love with him at first sight, and the prince was equally smitten. He even offered to hand over Asturias to [Root.Monarch.GetName] just to win the princess's favor."
+# DD_ARA.31.d: "What? You actually triggered this event?... Well, since I thought no one would ever see this, I didn't write any proper description. Heehee."
+DD_ARA.31.a: "'Love grows sweeter under the crown's protection.'"
+DD_ARA.31.b: "'The crown shines brighter when adorned with love.'"
+DD_ARA.31_buff: "Love and Protection"
+
+DD_ARA.32.t: "Bright Star"
+DD_ARA.32.d: "Since losing Miguel, [Root.Monarch.GetName] had been consumed by melancholy. He often regretted his harshness and the words left unspoken. One morning after prayers, instead of the Ebro's refreshing breeze, he was met with intermittent infant cries. Tracing the sound to the riverbank, he found a basket where a baby girl gazed at him curiously from her coarse swaddling clothes.\n\nAs he bent down, pilgrim's dust fell from his cloak into her sapphire eyes, stirring whirlpools like the Catalan Sea. Fernando's finger hovered above her curled lashes, as if touching the father-son bond shattered by political alliances—the Burgundian bride forced upon Miguel, the Andalusian love poems crushed under lawbooks and scepters, all now transformed into the frankincense scent clinging to the infant's wraps.\n\n[Root.Monarch.GetName] unfastened his ermine cloak embroidered with Aragon's arms, wrapping the child in fabric still warm with battlefield smoke and penitent candle wax. Carrying her into the snow, his footprints charted new constellations across the white expanse. When dawn mist curled around Montserrat's peaks, servants discovered an unfinished sketch in the study: the Holy Infant wearing a thorn crown upon Aragon's golden seal, with wild daisies—not roses—now blooming from the crown's crevices."
+DD_ARA.32.a: "'This time, I won't lose you...'"
+
+DD_ARA_farmer_disaster.1.t: "The Earth's Wound"
+DD_ARA_farmer_disaster.1.d: "Catalonia's furrows cracked like palm lines under years of war, old olive roots clutching rusted arrowheads and tax collectors' parchments. As conscription notices plastered every barn, a pre-dawn murmur spread from Penedès foothill cellars—Oriol dropped his ancestral silvered sword into fermenting grape must, watching purple ripples erode Aragon's golden crest on the hilt.\n\n'True lineage lives in sickle notches, not heraldry.'\n\nHe raised the spear his grandfather wielded against peasant revolts, its tip long reforged into a harvest sickle. Rebels gathered in abandoned monastery vaults where candlelight cast the Virgin's shadow over moldy tax stacks. Oriol scrawled with vine juice: 'When warhorses devour the last wheat shoots, even field mice will sound the charge.'\n\nThe uprising began on a frostfall night. Peasants folded conscription notices into boats floating down Ebro tributaries, each carrying an olive oil-soaked charcoal lump—century-old lamp fuel Oriol's mother had hoarded before dying. As firechains snaked across the river, rebels pried open granaries with rusted pitchforks; in oat and hempseed avalanches, some saw Oriol melting noble crests into plowshares, molten iron suturing the land's cracks like arteries healing earth's wounds."
+DD_ARA_farmer_disaster.1.a: "'Larksongs shatter iron cages!'"
+DD_ARA_farmer_disaster.1.a.t: "Unlocks decisions: 'Demand Lordly Concessions' 'Attempt to Quell Revolt' 'Request Foreign Aid'"
+
+DD_ARA_farmer_disaster.2.t: "The Hero's Finale"
+DD_ARA_farmer_disaster.2.d: "When Oriol was dragged in chains through Barcelona's plaza, Penedès grapevines were sprouting beneath the gallows. The executioner's axe reflected wine stains at his lips—century-old vintage peasants had drunk from helmets on the revolt's last night. At the blade's descent, spectators heard roots bursting like noble crests melted into plowshares now clawing through earth. Acrid sweetness filled nearby shops: bakers kneaded torn tax ledgers into dough, their baguettes cracking like Catalonia's parched riverbeds; forge bellows spat flaming ledger ashes over Oriol's mother's olive grove, startling larks carrying wheat stalks.\n\nThe day rebels' bodies were dumped into the Ebro, fishermen netted mossy stones each carved with crude plowshares. During the brightest moon, granary oats mysteriously fermented as nightwatchmen swore they saw Oriol's ghost rustling through grain piles, his sickle weaving spiderwebs into new star charts.\n\nA decade later at sowing season, an old farmer found half-melted heraldry in cracked furrows. Hanging it by grass rope over his grandson's cradle, the metal chimed like windchimes with each infant wail. When tax collectors trampled seedlings again, every cradle resonated, sending larks skyward in spirals—mirroring Oriol's wine-drawn revolt maps on monastery walls."
+DD_ARA_farmer_disaster.2.a: "They've forgotten the furnace that forged this world before their eyes."
+
+DD_ARA_farmer_disaster.3.t: "Peasants Demand Autonomy"
+DD_ARA_farmer_disaster.3.d: "The peasants resent feudal lords infringing on their rights and demand to maintain the authority of autonomous village communities."
+DD_ARA_farmer_disaster.3.a: "We have no choice..."
+DD_ARA_farmer_disaster.3.b: "They shall not prevail!"
+
+DD_ARA_farmer_disaster.4.t: "Peasants Refuse Conscription"
+DD_ARA_farmer_disaster.4.d: "Years of continuous military service have exhausted the peasants' patience - they refuse to heed their lords' summons."
+DD_ARA_farmer_disaster.4.a: "A temporary setback..."
+DD_ARA_farmer_disaster.4.b: "This is the last time, I promise..."
+DD_ARA_farmer_disaster.4_buff: "Defiant Peasantry"
+
+DD_ARA_farmer_disaster.5.t: "Peasants Reject Taxation"
+DD_ARA_farmer_disaster.5.d: "Excessive taxation has severely disrupted peasant lives - they refuse to pay any more taxes."
+DD_ARA_farmer_disaster.5.a: "...That's the reward, where's the punishment?"
+DD_ARA_farmer_disaster.5.b: "Impossible! I'm the King!"
+
+DD_ARA_farmer_disaster.6.t: "Redemption of the Wheat"
+DD_ARA_farmer_disaster.6.d: "[Root.Monarch.GetName]'s chest was pierced by a rusted plowshare, his blood seeping onto the damask sash in eerie harmony with wheat grains in the threshing floor's cracks. Peasant rebels flung parchment deeds into the air with pitchforks—shattered crests swirling like locusts in drought season. The fallow land rights once bound by Latin contracts now fueled women's violent cooking fires.\n\nMiguel's leather armor bore mill dust, the husk in his scabbard matching his childhood toy spear's broken tip. As he knelt, [Root.Monarch.GetName] saw in his son's calloused palms the Gascon princess's deathbed linen—its folds mirroring torn tax scrolls. 'Your fallow decrees nurtured olive branches...' The prince's Adam's apple moved like a parched ditch, '...that bore petrified fruit.'\n\nThe dying king clawed wheat-carved armrests, extracting land deeds tangled with Golden Fleece medals—the wine stains were blood fingerprints he'd pressed for French warhorses. Ancient weed seeds shook loose, clinging to Miguel's boot mud. 'Land is a thorny swaddle,' he gasped, stuffing torn parchment into the youth's bloody grip, '...its keepers...pierced by new sprouts...'\n\nThunder split granaries outside, fulfilling astrologers' 'golden blades' prophecy. As [Root.Monarch.GetName]'s pupils dimmed, he saw Miguel lift the dented iron crown—its obsidian like his wife's dried birthing herbs. 'Sow oaths tougher than iron laws,' his falling hand stirred deed ashes, 'let our famine...feed Iberian soil...'\n\nRebel stomping shook rafters as Miguel stood. The swirling ashes now reflected starlight in his eyes—each fragment a vision of harvests yet to come."
+DD_ARA_farmer_disaster.6.a: "'All abundance is famine's shadow.'"
+
+DD_ARA_muslim_disaster.1.t: "All That Was Taken"
+DD_ARA_muslim_disaster.1.d: "Three years after Aragon's golden lion banner was raised over Granada's battlements, Hassan ibn Jalal—stripped of his 'Imam' title—huddled in a Toledo Jewish quarter attic. The scholar who once compiled lunar calendars for the Nasrids now survived by copying Christian indulgences. His instinctive Arabic flourishes on freshly inked parchments were always crudely crossed out with Latin crosses.\n\nThe fuse of rebellion lit at Seville's converted mosque baptismal font. When workers chiseled away the last Kufic inscription, black rose-scented water surged from hidden conduits, eroding the new Virgin Mary carving into tearstains. Hassan picked up a shattered Quran podium fragment from the crowd, its edges sticky with unconsecrated chrism.\n\nSeven days later, twenty-three conversos were found dead in abandoned Arab baths. Their slit-throated bodies formed a star pattern, each clutching bloody Latin Bible pages. As Inquisition friars arrived with torches, Hassan knelt in the steam room corner, tracing sulfur stains into a Sufi poet's century-old satire.\n\n'Truth on pyres becomes doubly heavy ash.' He recited his own calendar verses at trial, his shackles scraping stone so loudly the scribe misspelled a word. When the brand seared his crescent moon tattoo, seven bell tolls echoed from the dungeon depths."
+DD_ARA_muslim_disaster.1.a: "'Allah protects the devout!'"
+DD_ARA_muslim_disaster_1_buff: "Uncooperative Infidels"
+
+DD_ARA_muslim_disaster.2.t: "The New Sprout"
+DD_ARA_muslim_disaster.2.d: "On the seventh day of Hassan's imprisonment in Barcelona's dungeon, guards found him scratching astronomical tables into moldy walls. The crooked Arabic numerals interwoven with Christian feast days precisely predicted that night's lunar eclipse. When moonlight leaked through the narrow window, his shackles' shadow resembled a broken crescent moon.\n\nThe trial was set for Christmas Mass. As the prison cart passed a converted mosque-church in Seville, a converted baker threw saffron-laced communion wafers into the cage. Hassan broke one open, revealing honey-coated prayers—the golden syrup dripping between his fingers formed constellations on the cobblestones.\n\nThe execution's miracle came as the noose tightened. A confiscated rebel map spontaneously combusted in the executioner's robe, its ashes revealing an ancient aqueduct drawn in olive oil. This long-dry channel suddenly gushed water, softening the frozen earth beneath the gallows and freeing Hassan. First a Jewish doctor knelt, then converted women in headscarves, finally even halberdiers crossing themselves. The inquisitor postponed the execution, sentencing Hassan instead to monastic scriptorium confinement.\n\nNow Hassan's cell overflows with illuminated parchments—gold-edged Torah fragments from rabbis, Quranic verses pressed with rosewater by Granadan imams. His trilingual manuscripts (Hebrew transliterations, Latin glosses, and Arabic illuminations) circulate secretly in border markets, often bought as interfaith arbitration documents. One matins, guards found the scholar eternally asleep over his unfinished Peace Calendar, his left hand on the manuscript, his right finger pointing to a leap year calculation—the margin bearing a tiny gallows sketch, beneath which grew a triple-leafed olive sapling."
+DD_ARA_muslim_disaster.2.a: "So many were smiling—it couldn't possibly be wrong."
+
+DD_ARA_muslim_disaster.3.t: "Muslims Demand Autonomy"
+DD_ARA_muslim_disaster.3.d: "Muslim communities are rallying together to demand greater self-governance rights."
+DD_ARA_muslim_disaster.3.a: "Haven't I given enough already..."
+DD_ARA_muslim_disaster.3.b: "Absolutely impossible!"
+
+DD_ARA_muslim_disaster.4.t: "Muslims Refuse Conscription"
+DD_ARA_muslim_disaster.4.d: "Muslim subjects refuse to fight for Aragon, willing only to take up arms for their own interests."
+DD_ARA_muslim_disaster.4.a: "We have no choice..."
+DD_ARA_muslim_disaster.4.b: "Then what use are you..."
+DD_ARA_muslim_disaster.4_buff: "Defiant Infidels"
+
+DD_ARA_muslim_disaster.5.t: "Muslims Reject Taxation"
+DD_ARA_muslim_disaster.5.d: "Muslim communities refuse to pay additional taxes, despite their previous oaths."
+DD_ARA_muslim_disaster.5.a: "Hell yeah, this rocks!"
+DD_ARA_muslim_disaster.5.b: "No way! Without taxes, our coffers will run dry..."
+
+DD_ARA_muslim_disaster.6.t: "Muslim Uprising"
+DD_ARA_muslim_disaster.6.d: "The southern Muslims are rallying again - was their previous submission all a deception?"
+DD_ARA_muslim_disaster.6.a: "Let them come! I'll show no mercy this time!"
+DD_ARA_muslim_disaster.6.b: "Whatever you want, you shall have it..."
+
+DD_ARA_muslim_disaster.7.t: "Belated Prophecy"
+DD_ARA_muslim_disaster.7.d: "[Root.Monarch.GetName]'s chest was pierced by a pagan spear, his blood seeping through the dark silver armor to merge with Granada's mosque tile pomegranate patterns. Rebel torches melted Santa María's stained glass into liquid rainbows—the Virgin's shattered eyes reflecting his final irony: the Moorish nobles he'd once placated with Arabic proverbs now trampled crucifixes into mud, shouting ancient war cries of crescent moons and cypress boughs.\n\nMiguel's sword gleamed with pagan priest's bone dust, the olive sprigs in his mail long scorched brown. As he knelt, [Root.Monarch.GetName] smelled incense and sulfur in his hair—the same deadly mix as his Gascon queen's birthing herbs twenty years prior. 'The peace you bought with Song of Songs...' The prince's voice rasped like an emptying hourglass, '...couldn't withstand the fire foretold in star charts.'\n\nThe dying king pulled an Arabic amulet tangled with rosary beads from his breastplate—its Cordoban geometric patterns, secretly taken from a Moorish scholar in youth and passed off as saintly relics. Obsidian powder leaked from its cracks toward the ruined crucifix's shadow. 'Faith is poisoned honey,' he gasped, pressing the bloody chain into Miguel's palm, 'its drinkers...must shatter the holy grail...'\n\nA meteor streaked outside, perfectly matching the 'Two-Faced Janus' prophecy. As [Root.Monarch.GetName]'s pupils dimmed, he saw Miguel lift a broken crusader sword—its emerald pommel like his wife's dried blood on swaddling clothes. 'Kindle fires brighter than the sun,' his falling hand stirred ashes, 'let our remorse...become Iberia's flint...'\n\nPagan cheers drowned prayers as Miguel stood. The amulet's chain shattered, its golden beads rolling across bloodied tiles—each reflecting starlight in his eyes."
+DD_ARA_muslim_disaster.7.a: "'All gods are but power's reflections.'"
+
+DD_ARA_knight_disaster.1.t: "The Maimed Roar"
+DD_ARA_knight_disaster.1.d: "As dawn frost crept along Almería's battlements, Benat was flattening his last silver-plated pauldron with a broken sword. The morning dew-soaked muster roll curled at his feet, Aragon's wax seal crumbling into crimson tears in the mud.\n\n'They call this peace.' He hurled the twisted metal into the moat, startling night herons from the reeds. 'Minting coins from our blades, decorating triumphs with our scars.'\n\nFive hundred veterans sharpened weapons in the fortress shadows—men who had blocked Berber cavalry with their bodies at Santa Catarina Pass, now dividing moldy rye bread with notched blades. Faded fleur-de-lis banners became bandages for festering stumps, while promised pensions rusted in Valencia's vaults.\n\nThe monastery cellar echoed with muffled clangs of metalwork. Benat ran fingers along his scarred sword, its edge reflecting his sunken left eye. The hanged scout captain had been right—the Church was secretly forging new breastplates with silver meant for widows.\n\n'Tell the king this.' He seized a wine-drinking messenger boy, calloused fingers bruising collarbone. 'Those who'd quell fury must first ready scales to weigh their promises.'\n\nWhen the first flaming arrow ignited council chamber drapes, townsfolk saw not rebels but ragged beggars. Beneath rusted mail surged resentment sharper than Moorish scimitars—these men knew every crack in the walls they'd once held against battering rams.\n\nAs the commander choked on his own golden tassels from the tower, he finally recognized the rioters: Third Pike Regiment, Fifth Slinger Company, Ninth Sappers Battalion... All names meant for memorial stones, now roaring through burning streets."
+DD_ARA_knight_disaster.1.a: "The strife never ends!"
+
+DD_ARA_knight_disaster.2.t: "The Unfinished Pact"
+DD_ARA_knight_disaster.2.d: "When Pyrenean snowmelt dyed wild roses crimson, Benat's broken sword finally pierced his own oath. On the seventh night of flight, he stumbled by a frozen stream—his silvered pauldron, once used to inspire troops, tumbling from his pack. The twisted metal reflected his sunken left eye and swirling snowflakes in the moonlight.\n\nThree days prior at Pamplona Pass, the parliament sent not knights but twenty oxcarts of wheat and wine. Oak barrels of silver coins were deliberately cracked open, their jingling echoing through the canyon like a lethal lullaby. Benat watched his most loyal lieutenant's Adam's apple bob as soldiers who'd shared rat meat in trenches now speared moldy bread onto campfires with their pikes.\n\nHoofbeats kept fading into the mist during his escape. When his last three followers stole the packhorses, Benat found the casualty list sewn into his cloak lining had been torn to shreds by mountain winds. Names once roused with promises of 'vineyards and freedom' now melted as snowflakes on his chapped lips.\n\nThe fatal misstep came on a basalt slope. As his nails clawed at iron-rich red gravel, he hallucinated the sunset at Santa Catarina Pass—the blood-soaked banner now hanging in parliament's hall.\n\nShepherds found his frozen corpse under ice three days later. His rusted mail held a half-burned land grant, its edges still bearing bloodied handprints from his men. The king's men took his sword but left the frozen wheat seeds to sprout in spring snow.\n\nSurviving rebels received silver-edged pardons by Easter morn. As they lined up for copper coins outside city hall, none noticed meltwater seeping into arrowheads embedded during the revolt—now oxidizing green in crevices.\n\nA modest mass was held for fallen commanders. Pardoned veterans shared palm-shaped cracked bread outside, while myrrh and frankincense from choirboys' censers masked older scents of iron.\n\nPyrenean snowmelt continued south, erasing shallow claw marks on cliffs. Only one scribe noticed the newest Iberian map bore a tiny grapevine near Almería Fortress—painted with faded blood."
+DD_ARA_knight_disaster.2.a: "The stormclouds dissipate, yet men still blame the thunder."
+
+DD_ARA_knight_disaster.3.t: "Knights Demand Privileges"
+DD_ARA_knight_disaster.3.d: "The veteran knights have gathered once more, demanding special privileges."
+DD_ARA_knight_disaster.3.a: "Give in... give them whatever they want..."
+DD_ARA_knight_disaster.3.b: "Only if they pay with their lives!"
+
+DD_ARA_knight_disaster.4.t: "Knights Refuse Conscription"
+DD_ARA_knight_disaster.4.d: "As our policies fail to favor active soldiers, they've decided to go on strike and return home."
+DD_ARA_knight_disaster.4.a: "Alas... how times have changed"
+DD_ARA_knight_disaster.4.b: "Will you all abandon me...?"
+DD_ARA_knight_disaster.4_buff: "Defiant Knights"
+
+DD_ARA_knight_disaster.5.t: "Knights Demand Pensions"
+DD_ARA_knight_disaster.5.d: "To claim the gold coins they're owed, some veterans have begun robbing local tax offices."
+DD_ARA_knight_disaster.5.a: "Ah, the knights are still good men..."
+DD_ARA_knight_disaster.5.b: "No way! My precious tax revenue..."
+
+DD_ARA_knight_disaster.6.t: "Elegy of Iron"
+DD_ARA_knight_disaster.6.d: "[Root.Monarch.GetName]'s silver armor was pierced by once-loyal halberds, his blood snaking across gilded tiles in shattered fleur-de-lis patterns. Knights' torches melted the bronze crest above the council chamber into liquid twilight—lords he'd personally dubbed with golden spurs now wrapped bloodied sword hilts in tournament banners, singing twisted refrains from the Song of Roland.\n\nMiguel's cloak sparkled with armor fragments, his gauntlet ribbons trampled into mud. As he leaned down, [Root.Monarch.GetName] saw in his son's pauldron reflection the Gascon princess's death-grip on linen swaddling—its pallor mirroring torn peace treaties. 'The falcons you bred with tournament cheers...' The prince traced the dented lion emblem on his father's breastplate, '...have pecked out their trainer's eyes.'\n\nThe dying king's breath rasped like rusted gears. Bloodied fingers pried loose a broken sword hilt tangled with the Order of Saint George—its crossguard bore the tournament crest from when he'd shattered vows to appease lords. Grayish rust seeped from the blade, staining Miguel's golden tassels. 'Glory is a quenched cage,' he gasped, pressing the hilt into the youth's palm, 'its breaker...must forge new shackles...'\n\nA warhorse's scream outside aligned perfectly with astrologers' 'Iron Crown Falls' prophecy. As [Root.Monarch.GetName]'s pupils dimmed, he watched Miguel lift the dented crown—its ruby like his wife's birthing blood. 'Forge power colder than wrought iron,' his falling hand scattered armor shards, 'let our oaths...become Iberia's anvil...'\n\nKnights' roars drowned the organ's last notes. When Miguel stood, the broken hilt vibrated—its iron flakes catching starlight hidden in his eyes."
+DD_ARA_knight_disaster.6.a: "'All loyalty is but betrayal's shadow.'"
+
+DD_ARA_ex.1.t: "Star Fallen to Earth"
+DD_ARA_ex.1.d: ""
+DD_ARA_ex.1.a: "Fear none of those things which thou shalt suffer"
+
+DD_ARA_ex.2.t: "Sword Forged in Mortal Realm"
+DD_ARA_ex.2.d: ""
+DD_ARA_ex.2.a: "Thou holdest fast my name, and hast not denied my faith"
+
+DD_ARA_ex.3.t: "Patience Hidden Beneath Ox Horn"
+DD_ARA_ex.3.d: ""
+DD_ARA_ex.3.a: "Thy last works are more than the first"
+
+DD_ARA_ex.4.t: "Wisdom Awakened from Scripture"
+DD_ARA_ex.4.d: ""
+DD_ARA_ex.4.a: "Be watchful, and strengthen the things which remain"
+
+DD_ARA_ex.5.t: "Miracle Shining Through Faith"
+DD_ARA_ex.5.d: ""
+DD_ARA_ex.5.a: "Hold fast which thou hast, that no man take thy crown"
+
+DD_ARA_ex.6.t: "Path Blessed for Merchants"
+DD_ARA_ex.6.d: ""
+DD_ARA_ex.6.a: "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich"
+
+DD_ARA_ex.7.t: "Growth Through New Crafts"
+DD_ARA_ex.7.d: ""
+DD_ARA_ex.7.a: "The lines are fallen unto me in pleasant places"
+
+DD_ARA_ex.8.t: "Treasury Overflowing"
+DD_ARA_ex.8.d: ""
+DD_ARA_ex.8.a: "The needy shall not always be forgotten"
+
+DD_ARA_ex.9.t: "Prosperity Through All Creation"
+DD_ARA_ex.9.d: ""
+DD_ARA_ex.9.a: "I have trusted in thy mercy; my heart shall rejoice in thy salvation"
+
+DD_ARA_ex.10.t: "Readiness in Battle Array"
+DD_ARA_ex.10.d: ""
+DD_ARA_ex.10.a: "All mine enemies shall be ashamed and sore vexed"
+
+DD_ARA_ex.11.t: "Steadfast as the Mountains"
+DD_ARA_ex.11.d: ""
+DD_ARA_ex.11.a: "Thou wilt not leave my soul in hell"
+
+DD_ARA_ex.12.t: "Piety for Heavenly Father's Gifts"
+DD_ARA_ex.12.d: ""
+DD_ARA_ex.12.a: "I will come into thy house in the multitude of thy mercy"
+
+DD_ARA_ex.13.t: "Glory in Present Epics"
+DD_ARA_ex.13.d: ""
+DD_ARA_ex.13.a: "For thou wilt light my candle: the Lord my God will enlighten my darkness"
+
+DD_ARA_ex.14.t: "Renown Among Nations"
+DD_ARA_ex.14.d: ""
+DD_ARA_ex.14.a: "Let the people compass thee about: and for their sakes return thou on high"
+
+DD_ARA_ex.15.t: "Might of Pioneering Strength"
+DD_ARA_ex.15.d: ""
+DD_ARA_ex.15.a: "As soon as they hear of me, they shall obey me"
+
+DD_ARA_ex.16.t: "Arms Prepared in Silence"
+DD_ARA_ex.16.d: ""
+DD_ARA_ex.16.a: "Thou hast girded me with strength unto the battle"
+
+DD_ARA_ex.17.t: "Oars and Sails in Waiting"
+DD_ARA_ex.17.d: ""
+DD_ARA_ex.17.a: "Thou hast enlarged my steps under me, that my feet did not slip"
+
+DD_ARA_ex.18.t: "From Creation's Heaven and Earth"
+DD_ARA_ex.18.d: ""
+
+DD_ARA_1_3_war_yes: "£yes£If the §MLatin Faction§! is stronger:"
+DD_ARA_1_3_war_no: "£no£If the §MLatin Faction§! is stronger:"
+DD_ARA_1_3_fuyong_yes: "£yes£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_1_3_fuyong_no: "£no£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_1_3_war.tooltip: "@GAL§VSancho§!'s territories have all fallen"
+DD_ARA_1_3_fuyong.tooltip: "@GAL§VSancho§!'s territories belong to us or our non-tributary subjects or Prince Carlos whom we support"
+DD_ARA_1_3_war.t: "We will gain control of @GAL§VSancho§!'s territories"
+DD_ARA_1_3_fuyong.t: "@GAL§VSancho§!'s territories gain §Y'Western Ports'§! until end of game, with these effects:\nLocal Goods Produced Modifier: §G+25.0%§!\nInstitution Spread: §G+10.0%§!"
+DD_ARA_1_3_buff: "Western Ports"
+DD_ARA_1_3_war_buff: "March into Galicia"
+DD_ARA_1_3.alagong.t: "Spawn §Y5§! §YLight Ships§! in §YPorto§!"
+
+DD_ARA_1_5_war_yes: "£yes£If completed during war"
+DD_ARA_1_5_war_no: "£no£If completed during war"
+DD_ARA_1_5_fuyong_yes: "£yes£If completed during peace"
+DD_ARA_1_5_fuyong_no: "£no£If completed during peace"
+DD_ARA_1_5_fuyong.tooltip: "All territories of @BDH§JBadajoz§! belong to us or our non-tributary subjects"
+DD_ARA_1_5_buff: "Standard Fallen"
+
+DD_ARA_1_7_nozainan_yes: "£yes£If we haven't triggered the §YScythe's Wrath§! disaster"
+DD_ARA_1_7_nozainan_no: "£no£If we haven't triggered the §YScythe's Wrath§! disaster"
+DD_ARA_1_7_zainan_yes: "£yes£If we've ended the §YScythe's Wrath§! disaster"
+DD_ARA_1_7_zainan_no: "£no£If we've ended the §YScythe's Wrath§! disaster"
+DD_ARA_1_7.t: "We will not trigger the §YScythe's Wrath§! disaster\n"
+DD_ARA_1_7_buff: "Bountiful Harvest"
+DD_ARA_1_7.tooltip: "All provinces in the Catalonia state have been developed at least §Y5§! times under their current owner"
+DD_ARA_1_7_buff.ex: "Singing Lark"
+DD_ARA_1_7_ttt: "Devastation in §YIberian§! region provinces is below §Y1.0§!"
+
+DD_ARA_2_3_war_yes: "£yes£If the §MLatin Faction§! is stronger:"
+DD_ARA_2_3_war_no: "£no£If the §MLatin Faction§! is stronger:"
+DD_ARA_2_3_fuyong_yes: "£yes£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_2_3_fuyong_no: "£no£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_2_3_war.tooltip: "@LON§RAlfonso§!'s territories have all fallen"
+DD_ARA_2_3_fuyong.tooltip: "@LON§RAlfonso§!'s territories belong to us or our non-tributary subjects or Prince Carlos whom we support"
+#DD_ARA_2_3_war.t: "We will gain control of @LON§RAlfonso§!'s territories"
+DD_ARA_2_3_fuyong.t: "@LON§RAlfonso§!'s territories gain §Y'Imperial Core'§! until end of game, with these effects:\nLocal Tax Modifier: §G+10.0%§!\nProvince Governing Cost: §G-25.0%§!"
+DD_ARA_2_3_buff: "Imperial Core"
+DD_ARA_2_3_war_buff: "March into León"
+DD_ARA_2_3.falanxi.t: "Spawn §Y5§! units of §YInfantry§! in the §YCapital§!"
+
+DD_ARA_2_5_war_yes: "£yes£If completed during war"
+DD_ARA_2_5_war_no: "£no£If completed during war"
+DD_ARA_2_5_fuyong_yes: "£yes£If completed during peace"
+DD_ARA_2_5_fuyong_no: "£no£If completed during peace"
+DD_ARA_2_5_fuyong.tooltip: "All territories of @SEW§JSeville§! belong to us or our non-tributary subjects"
+DD_ARA_2_5_buff: "Root Out Remnants"
+
+DD_ARA_2_7_nozainan_yes: "£yes£If we haven't triggered the §YCrescent's Sorrow§! disaster"
+DD_ARA_2_7_nozainan_no: "£no£If we haven't triggered the §YCrescent's Sorrow§! disaster"
+DD_ARA_2_7_zainan_yes: "£yes£If we've ended the §YCrescent's Sorrow§! disaster"
+DD_ARA_2_7_zainan_no: "£no£If we've ended the §YCrescent's Sorrow§! disaster"
+DD_ARA_2_7.t: "We will not trigger the §YCrescent's Sorrow§! disaster\n"
+DD_ARA_2_7_buff: "Harmonious Cooperation"
+DD_ARA_2_7.tooltip: "All our §Ynon-[Root.Religion.GetName]§! subjects in §YIberia§! have liberty desire no higher than §G10.0%§!"
+DD_ARA_2_7_buff.ex: "Broken Shackles"
+
+DD_ARA_3_3_war_yes: "£yes£If the §MLatin Faction§! is stronger:"
+DD_ARA_3_3_war_no: "£no£If the §MLatin Faction§! is stronger:"
+DD_ARA_3_3_fuyong_yes: "£yes£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_3_3_fuyong_no: "£no£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_3_3_war.tooltip: "@CAS§OEnrique§!'s territories are controlled by §Y[Root.GetName]§! or its allies"
+DD_ARA_3_3_fuyong.tooltip: "@CAS§OEnrique§!'s territories belong to us or our non-tributary subjects or Prince Carlos whom we support"
+#DD_ARA_3_3_war.t: "We will gain control of @CAS§OEnrique§!'s territories"
+DD_ARA_3_3_fuyong.t: "@CAS§OEnrique§!'s territories gain §Y'Catholic Frontier'§! until end of game, with these effects:\nLocal Defensiveness: §G+10.0%§!\nLocal Garrison Size: §G+10.0%§!"
+DD_ARA_3_3_buff: "Catholic Frontier"
+DD_ARA_3_3_war_buff: "March into Castile"
+
+DD_ARA_3_4.tooltip: "All provinces of @ASU§MAsturias§! belong to our country or our non-tributary subjects or Prince Carlos whom we support"
+DD_ARA_3_4.t: "@ASU§MCarlos§!'s territories gain §Y'Cradle Land'§! until end of game, with these effects:\nLocal Tax Modifier: §G+10.0%§!\nProvince Governing Cost: §G-25.0%§!\n"
+DD_ARA_3_4_alagong_buff: "Shared Resentment"
+DD_ARA_3_4_falanxi_buff: "United Resolve"
+DD_ARA_3_4.t1: "If the §RPeninsular Faction§! is stronger:\n§YAragon§! gains §Y'Shared Resentment'§! for §Y10 years§!, with these effects:\nInfantry Cost: §G-10.0%§!\nMorale Damage Received: §G-10.0%§!\n"
+DD_ARA_3_4.t2: "If the §MLatin Faction§! is stronger:\n§YAragon§! gains §Y'United Resolve'§! for §Y10 years§!, with these effects:\nCavalry Cost: §G-10.0%§!\nMorale Damage: §G+10.0%§!\n"
+DD_ARA_3_4.t3: "Enable the §YKnights§! estate\n"
+DD_ARA_3_4_buff: "Cradle Land"
+DD_ARA_3_4.t4: "If we previously chose to help §MCarlos§! claim the crown, then:\n§YAragon§! enters personal union with §MAsturias§!\n\n§MAsturias§! gains '§YEternal Gratitude§!' until end of game, with these effects:\nLiberty Desire: §G-100.0%§!\n"
+DD_ARA_3_4.t4_buff: "Eternal Gratitude"
+
+DD_ARA_3_5_war_yes: "£yes£If completed during war"
+DD_ARA_3_5_war_no: "£no£If completed during war"
+DD_ARA_3_5_fuyong_yes: "£yes£If completed during peace"
+DD_ARA_3_5_fuyong_no: "£no£If completed during peace"
+DD_ARA_3_5_fuyong.tooltip: "All territories of @GRA§JGranada§! belong to us or our non-tributary subjects"
+DD_ARA_3_5_buff: "Crush Ambitions"
+
+DD_ARA_3_6.t1: "Enable the §YHeathens§! estate.\n"
+DD_ARA_3_6_alagong_buff: "After Reconquista"
+DD_ARA_3_6_falanxi_buff: "Post-Reconquest"
+DD_ARA_3_6.t2: "If the §RPeninsular Faction§! is stronger:\nAragon gains '§YAfter Reconquista§!' for §Y10 years§!, with these effects:\nNational Unrest: §G-2.00§!\nMonthly Devastation Change: §G-0.1§!\n"
+DD_ARA_3_6.t3: "If the §MLatin Faction§! is stronger:\nAragon gains '§YPost-Reconquest§!' for §Y10 years§!, with these effects:\nNational Unrest: §G-2.00§!\nMonthly Autonomy Change: §G-0.05§!\n"
+
+DD_ARA_3_7_nozainan_yes: "£yes£If we haven't triggered the §YFall of the Spurs§! disaster"
+DD_ARA_3_7_nozainan_no: "£no£If we haven't triggered the §YFall of the Spurs§! disaster"
+DD_ARA_3_7_zainan_yes: "£yes£If we've ended the §YFall of the Spurs§! disaster"
+DD_ARA_3_7_zainan_no: "£no£If we've ended the §YFall of the Spurs§! disaster"
+DD_ARA_3_7.t: "We will not trigger the §YFall of the Spurs§! disaster\n"
+DD_ARA_3_7_buff: "Horses Released to Mountains"
+DD_ARA_3_7_buff.ex: "Unfinished Strife"
+
+DD_ARA_3_8_alagong_yes: "£yes£If the §RPeninsular Faction§! prevails"
+DD_ARA_3_8_alagong_no: "£no£If the §RPeninsular Faction§! prevails"
+DD_ARA_3_8_falanxi_yes: "£yes£If the §MLatin Faction§! prevails"
+DD_ARA_3_8_falanxi_no: "£no£If the §MLatin Faction§! prevails"
+DD_ARA_3_8_alagong.tooltip: "Faction struggle has reached §R+75§!"
+DD_ARA_3_8_falanxi.tooltip: "Faction struggle has reached §M-75§!"
+
+DD_ARA_4_2_fuyong_yes: "£yes£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_4_2_fuyong_no: "£no£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_4_2_duli_yes: "£yes£If the §MLatin Faction§! is stronger:"
+DD_ARA_4_2_duli_no: "£no£If the §MLatin Faction§! is stronger:"
+DD_ARA_4_2_b_buff: "Might Makes Right"
+
+DD_ARA_4_4_ex_buff: "Raging Tides"
+DD_ARA_4_4_buff: "Raging Tides"
+DD_ARA_4_4.tooltip: "§YFaction struggle§! is greater than §Y50§!"
+
+DD_ARA_4_6.t1: "§YIberian coastal§! provinces gain:"
+DD_ARA_4_6.t2: "If we have the §Y'Raging Tides'§! modifier, it becomes §Gpermanent§!.\n"
+DD_ARA_4_6.t3: "If @MJO§YMallorca§! is our §Msubject§!, then:"
+DD_ARA_4_6_buff: "Completely Renewed"
+DD_ARA_4_6_MJO_buff: "Sanctioned Piracy"
+
+DD_ARA_5_2_alagong_yes: "£yes£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_5_2_alagong_no: "£no£If the §RPeninsular Faction§! is stronger:"
+DD_ARA_5_2_falanxi_yes: "£yes£If the §MLatin Faction§! is stronger:"
+DD_ARA_5_2_falanxi_no: "£no£If the §MLatin Faction§! is stronger:"
+DD_ARA_5_2_falanxi.t: "Our French allies will break their alliance with @NAVNavarre"
+DD_ARA_5_2_b_buff: "Legitimate Expansion"
+
+DD_ARA_5_4_ex_buff: "Overwhelming Momentum"
+DD_ARA_5_4_buff: "Overwhelming Momentum"
+DD_ARA_5_4.tooltip: "§YFaction struggle§! is less than §Y-50§!"
+
+DD_ARA_5_6.t1: "All qualifying countries gain §Y'Overwhelming Momentum'§! for §Y10 years§!, with these effects:\nNational Manpower Modifier: §G+10.0%§!\nYearly Army Tradition: §G+1.00§!\n"
+DD_ARA_5_6.t2: "If @FRA§Y[FRA.GetName]§! qualifies, we both gain '§YFrench Elegance§!' until end of game, with these effects:\nDiplomatic Reputation: §G+1.00§!\n"
+DD_ARA_5_6.t3: "If the £hre£§YHoly Roman Emperor§! qualifies, then @ARA§RAragon§! will join the £hre£§YHoly Roman Empire§!\n"
+DD_ARA_5_6_buff: "French Elegance"
+DD_ARA_5_6_tooltip: "Countries with capital outside §YIberia§!:\n    Allied with §YAragon§!\n    At least §G180§! relations with §YAragon§!\n    At least §G60§! trust"
+DD_ARA_5_6.t: "If we have the '§YOverwhelming Momentum§!' modifier, extend it by §G20§! years.\n"
+
+DD_ARA.3.a_1_decision_title: "Support Carlos"
+DD_ARA.3.a_1_decision_desc: "The incompetent Carlos wants to subdue the ambitious southern lords - perhaps he needs our modest assistance."
+DD_ARA.3.a_1_decision.t: "If we intervene in the succession war, §MAsturias§!'s crown will be within our grasp.\n"
+
+DD_ARA.3.a_2_decision_title: "Incite Carlos"
+DD_ARA.3.a_2_decision_desc: "The incompetent Carlos wants to reclaim his rightful crown - perhaps he needs our modest assistance."
+DD_ARA.3.a_2_decision.t: "When civil war erupts, we can intervene in the §YAsturian Civil War§!.\n"
+
+DD_ARA.3.a_1_ex_decision_title: "Intervene in Succession War"
+DD_ARA.3.a_1_ex_decision_desc: "Carlos de Gonzalez is dead. The 'Incompetent' cannot protect his father's legacy - time to honor our commitment"
+DD_ARA.3.a_2_ex_decision_title: "Intervene in Succession War"
+DD_ARA.3.a_2_ex_decision_desc: "Carlos de Gonzalez is dead. The 'Incompetent' cannot reclaim his father's legacy - time to honor our commitment"
+DD_ARA.3.a_2_ex_decision.tt: "@ASU§MCarlos§! will join the civil war with our support.\n"
+
+DD_ARA_farmer_disaster: "Scythe's Wrath"
+DD_ARA_farmer_disaster_over_flag: "Peasant Revolt Suppressed"
+DD_ARA_muslim_disaster: "Crescent's Sorrow"
+DD_ARA_muslim_disaster_over_flag: "Muslim Revolt Suppressed"
+DD_ARA_knight_disaster: "Fall of the Spurs"
+DD_ARA_knight_disaster_over_flag: "Knightly Revolt Suppressed"
+
+DD_ARA_farmer_disaster.7.t: "Bitter Concessions"
+DD_ARA_farmer_disaster.7.d: "First, we must quell the chaos economically - nothing pacifies peasants better than full stomachs. But with our treasury depleted, we must rely on domestic nobles for aid. Whether they'll honor the crown's request depends on our past actions."
+DD_ARA_farmer_disaster.7.a: "Costly indeed, but may it prove worthwhile."
+DD_ARA_farmer_disaster.7.b: "The Peninsular Faction leaders will handle this."
+DD_ARA_farmer_disaster_privilege: "Negotiated Manorial Economy"
+DD_ARA_farmer_disaster_privilege_desc: "The Reconquista created a relatively democratic environment within a manorial-based society, fostering social mobility rare in medieval times."
+
+DD_ARA_farmer_disaster.8.t: "Difficult Attempt"
+DD_ARA_farmer_disaster.8.d: "Next, we must attempt to restore communication. Not all rebellious peasants direct their anger at the crown - some merely seek special privileges. Should we divide and disperse them through backstage maneuvering, or take the risk of personally addressing the mobs?"
+DD_ARA_farmer_disaster.8.a: "Contact rebel leaders, exchanging benefits for concessions."
+DD_ARA_farmer_disaster.8.b: "Visit troubled areas, letting the king solve matters personally."
+
+DD_ARA_farmer_disaster.9.t: "Reluctant Choice"
+DD_ARA_farmer_disaster.9.d: "Finally, our own strength proves insufficient - we must request aid from neighboring nations. At this point, we can only pray our ancestors accumulated enough goodwill for us to spend. But whether they'll honor the king's request depends on our past actions."
+DD_ARA_farmer_disaster.9.a: "This is where we excel."
+DD_ARA_farmer_disaster.9.a.t: "Unlocks diplomatic action: 'Request Aid'"
+DD_ARA_farmer_disaster.9.b: "Against my better judgment, if we must."
+
+DD_ARA_farmer_disaster.10.t: "Patchwork Trust"
+DD_ARA_farmer_disaster.10.d: "Secret talks with rebel leaders occurred deep in the night. Our exceptional diplomats risked their lives entering neutral ground to negotiate with several ambitious leaders. Fortunately, the rights and wealth they desire can temporarily be promised verbally - we'll consider fulfilling these promises after the disaster ends."
+DD_ARA_farmer_disaster.10.a: "At least we've gained temporary respite."
+
+DD_ARA_farmer_disaster.11.t: "Patchwork Trust"
+DD_ARA_farmer_disaster.11.d: "Our brave emperor risked his life by visiting the troubled areas during daylight, directly addressing the angry crowds. Fortunately, the food and supplies we brought as tokens of friendship were sufficient, and the king's words were sincere enough. After being well-fed, they swore renewed loyalty to the crown."
+DD_ARA_farmer_disaster.11.a: "The king stands with you always."
+DD_ARA_farmer_disaster.11.a.t: "Greatly reduces event penalties from 'Scythe's Wrath' disaster.\n'Redemption of the Wheat' will not trigger."
+
+DD_ARA_farmer_1_decision: "Demand Lordly Concessions"
+DD_ARA_farmer_2_decision: "Attempt to Quell Revolt"
+DD_ARA_farmer_3_decision: "Request Foreign Aid"
+
+DD_ARA_farmer_disaster_da: "Request Aid"
+DD_ARA_farmer_disaster_da_title: "Request Aid"
+DD_ARA_farmer_disaster_da_desc: "Leverage our accumulated diplomatic connections to seek assistance from friendly nations."
+DD_ARA_farmer_disaster_da_tooltip: "Leverage our accumulated diplomatic connections to seek assistance from friendly nations."
+DD_ARA_farmer_disaster_da_alert_tooltip: "Leverage our accumulated diplomatic connections to seek assistance from friendly nations."
+
+
+
+
+ # Peninsular Path
+DD_SP7_bandao_1_2_title: "Control Morocco"
+DD_SP7_bandao_1_2_desc: "The heathens of the Maghreb have been our persistent scourge for centuries - not even the Cid's holy Mauritanian Crusade could fully eradicate them. Let us solve the Moroccan problem once and for all."
+
+DD_SP7_bandao_1_4_title: "March on Alexandria"
+DD_SP7_bandao_1_4_desc: "The Ayyubids are eagles perched over Egypt, having survived the Crusader tide through schemes and foul agreements. Now we shall correct this oversight."
+
+DD_SP7_bandao_1_8_title: "Return to Southern French Holdings"
+DD_SP7_bandao_1_8_desc: "Southern France - homeland of our Latin faction nobles - has been lost since the Albigensian Crusade's failure. After centuries of exile, the time has come for their homecoming."
+
+DD_SP7_bandao_1_10_title: "Dominate the Adriatic"
+DD_SP7_bandao_1_10_desc: "The beautiful Adriatic coast was once prosperous Roman lands before barbarians and war ruined it. As Rome's heirs, we shall reclaim these imperial territories and spread our glory afar."
+
+DD_SP7_bandao_1_13_title: "Restore the Heathen Capital"
+DD_SP7_bandao_1_13_desc: "Granada - the infidels' proudest city during the Reconquista, called 'Little Córdoba' - was devastated in the wars. Let us rebuild this city into our jewel."
+
+DD_SP7_bandao_1_15_title: "The World's Desire"
+DD_SP7_bandao_1_15_desc: "The war-torn old capital has become Almería Bay's radiant beacon. Prosperity and peace have forged Granada into a city that rivals New Rome itself - the world's desire in the West."
+
+DD_SP7_bandao_2_1_title: "Path of Holy War"
+DD_SP7_bandao_2_1_desc: "Though the Reconquista's tide has ebbed, war drums still echo across contested lands. Heathens still hold southern territories, and Santiago's mission still calls us. Let us continue this sacred path of holy war to purge the infidel threat completely."
+
+DD_SP7_bandao_2_2_title: "Tame the Berbers"
+DD_SP7_bandao_2_2_desc: "The Berber tribes are cunning desert wolves - elusive and untamed. Now we finally grip the reins around their necks, breaking this beast to our will."
+
+DD_SP7_bandao_2_3_title: "Return to Africa"
+DD_SP7_bandao_2_3_desc: "The great El Cid once set foot in the Maghreb, establishing the holy Mauritanian Crusade. His descendants became Kings of Africa ruling all Maghreb, yet allowed corruption to destroy it. Now Aragonese crusaders return to Africa - this time we shall establish a purer, more sacred eternal kingdom."
+
+DD_SP7_bandao_2_4_title: "Outremer Memories" 
+DD_SP7_bandao_2_4_desc: "The Holy Land - a land of milk and honey that all Christians yearn for. Crusaders once established the sacred Kingdom of Jerusalem here, only to have the Hohenstaufens steal their victory. Let us rebuild the Crusader legacy and establish a true Heavenly Kingdom."
+
+DD_SP7_bandao_2_5_title: "King of Crusaders"
+DD_SP7_bandao_2_5_desc: "The Near East and Outremer are filled with remnants of Crusader legacies. Now that we've brought this region under our rule, it's time to accept fealty from all Crusader lords and become the true King of Crusaders."
+
+DD_SP7_bandao_2_7_title: "Purge Anatolia"
+DD_SP7_bandao_2_7_desc: "Anatolia is a chaotic and complex land - once Roman Asia, now fractured by warlords and infidel beliefs. Let us end this disorder, control Asia's coasts, and purify Anatolia."
+
+DD_SP7_bandao_2_8_title: "Upon the Ruins"
+DD_SP7_bandao_2_8_desc: "The Eastern Roman Empire was once an insurmountable peak in Mediterranean history, but greedy Venetians under the Crusader banner turned prosperity and civilization into ruins. We shall remedy this tragic error - drive out these shameless usurpers and rebuild Rome's legacy upon the ruins."
+
+DD_SP7_bandao_2_9_title: "Purple Phoenix Reborn"
+DD_SP7_bandao_2_9_desc: "Rome has suffered calamities through rising and falling tides - from spanning two seas to collapse and dissolution, the noble Purple Chamber has endured a troubled fate. Now, with our support, Rome is reborn from ashes as the Empire stands tall once more."
+
+DD_SP7_bandao_2_10_title: "Rising Tides"  
+DD_SP7_bandao_2_10_desc: "The Aegean's waves witness rise and fall, dynasties and wars. Rome shall reclaim her ancestral lands once more and rule the seas."
+
+DD_SP7_bandao_2_12_title: "Forge Prosperity"
+DD_SP7_bandao_2_12_desc: "The Reconquista's fires have ended - now the people of Iberia must march toward their future. We shall forge a prosperous and bright tomorrow for Iberia."
+
+DD_SP7_bandao_2_13_title: "Develop Valencia"
+DD_SP7_bandao_2_13_desc: "Valencia stands as our greatest Mediterranean port and most prosperous trading hub. Let us cultivate Valencia's advantages to establish the Western Mediterranean's premier commercial nexus."
+
+DD_SP7_bandao_2_14_title: "Promote Technological Innovation"
+DD_SP7_bandao_2_14_desc: "Iberia's position at the crossroads of civilizations has made it a melting pot of cultures and merchants. Our enlightened policies have attracted scholars and knowledge to our realm - we shall become a beacon of science and innovation."
+
+DD_SP7_bandao_2_15_title: "The Brilliant Century"
+DD_SP7_bandao_2_15_desc: "Reborn from centuries of fragmentation and bloodshed, we leave behind scarred eras of turmoil and strife. At last, we enter the Brilliant Century - forged from gold and victory hymns."
+
+DD_SP7_bandao_3_2_title: "Tunis Offensive"
+DD_SP7_bandao_3_2_desc: "The dream of restoring El Cid's North African glory lies within reach. With one decisive strike through the Tunis Offensive, we shall swiftly claim all North Africa!"
+
+DD_SP7_bandao_3_4_title: "Ligurian Wealth"
+DD_SP7_bandao_3_4_desc: "As former heart of the Lombard League, Genoese merchants reign supreme over Western Mediterranean trade. The riches concentrated in Liguria surpass imagination - we shall claim them all."
+
+DD_SP7_bandao_3_6_title: "Mare Nostrum"
+DD_SP7_bandao_3_6_desc: "Mare Nostrum - Our Sea. This vast blue expanse is woven into our national identity. Now we shall master this sea that connects three continents, becoming Mediterranean lords bridging east and west."
+
+DD_SP7_bandao_3_8_title: "Land in Florida"
+DD_SP7_bandao_3_8_desc: "Beyond the western waves, we've discovered a coast blooming with flowers. La Florida - this lush, verdant promised land shall become our foothold in the New World."
+
+DD_SP7_bandao_3_10_title: "Advance Up the Mississippi"
+DD_SP7_bandao_3_10_desc: "Following the Mississippi upstream reveals golden lands unfolding before us - a prosperous future beckons!"
+
+DD_SP7_bandao_3_11_title:0 "The Unthinkable Dream"
+DD_SP7_bandao_3_11_desc:0 "Prosperity and peace, wealth and tranquility, an empire ruling the world, a glorious and radiant era. The dream we once dared not imagine has now become reality. The world lies at our feet, and we shall continue to conquer the future."
+
+DD_SP7_bandao_3_13_title:0 "Piety and Gold"
+DD_SP7_bandao_3_13_desc:0 "The Church has taken deep root in Iberian soil and forms the foundation of our rule. Let us invest in the Church to aid our governance."
+
+DD_SP7_bandao_3_15_title:0 "World Market"
+DD_SP7_bandao_3_15_desc:0 "Our production capacity continues to rise, and our share of the world market grows ever larger. Let us build a commercial empire that monopolizes global trade and become masters of commerce and wealth!"
+
+DD_SP7_bandao_4_1_title:0 "The Dawn Approaches"
+DD_SP7_bandao_4_1_desc:0 "Italy has long lingered under the shadow of the Hohenstaufen threat. Let us aid them and liberate a free Italy."
+
+DD_SP7_bandao_4_2_title:0 "Sicilian Vespers"
+DD_SP7_bandao_4_2_desc:0 "The unpopular Hohenstaufen rule over Sicily should have ended centuries ago. We shall defeat this malformed monstrosity and reaffirm our claims."
+
+DD_SP7_bandao_4_3_title:0 "City of the Renaissance"
+DD_SP7_bandao_4_3_desc:0 "Tuscany, birthplace of the Renaissance and cradle of humanist thought. As we rule this land, we shall also serve as patrons of Italy's humanist artists."
+
+DD_SP7_bandao_4_4_title:0 "Iron Crown Coronation"
+DD_SP7_bandao_4_4_desc:0 "The Crown of Lombardy, ancient symbol of Italian power and legacy of the Frankish era. Henceforth, we shall be King of Italy, Lord of the Apennines."
+
+DD_SP7_bandao_4_5_title:0 "King of Italy"
+DD_SP7_bandao_4_5_desc:0 "Now all of Italy lies at our feet, the Apennines bow before us. We stand as undisputed King of Italy, heir to Rome."
+
+DD_SP7_bandao_4_7_title:0 "Sail Into the Future"  
+DD_SP7_bandao_4_7_desc:0 "The Pillars of Hercules at Gibraltar once marked the end of the known world. Now, we shall sail toward a distant future, venturing beyond the azure seas, going farther than ever before!"  
+
+DD_SP7_bandao_4_8_title:0 "Across the Caribbean"  
+DD_SP7_bandao_4_8_desc:0 "The islands of the Caribbean shall become part of our New World map, territories of our great empire."  
+
+DD_SP7_bandao_4_9_title:0 "Into the Olmec Lands"  
+DD_SP7_bandao_4_9_desc:0 "Legends speak of a golden kingdom in the New World, where riches abound... Whatever the truth, it is worth the attempt."  
+
+DD_SP7_bandao_4_10_title:0 "Conquest of Mexico"  
+DD_SP7_bandao_4_10_desc:0 "A barbaric and primitive empire is but a crumbling house—all it takes is one firm kick..."  
+
+DD_SP7_bandao_4_12_title:0 "A Thousand Ships"  
+DD_SP7_bandao_4_12_desc:0 "Now, Iberia has become a maritime empire. We must expand our navy and prepare for future endeavors."  
+
+DD_SP7_bandao_4_13_title:0 "Strengths of Their Own"  
+DD_SP7_bandao_4_13_desc:0 "As a nation renowned for its naval prowess, we must cultivate our unique fleet advantages, forging a navy with distinctive capabilities."  
+
+DD_SP7_bandao_4_14_title:0 "Training Seamen"  
+DD_SP7_bandao_4_14_desc:0 "The days of relying solely on our army are over. Let us establish an independent navy and train specialized sailors for maritime warfare."  
+
+DD_SP7_bandao_4_15_title:0 "Supremacy of the Seas"  
+DD_SP7_bandao_4_15_desc:0 "He who controls the seas wins the world. To claim hegemony, we must first secure naval dominance."
+
+DD_SP7_bandao_5_2_title:0 "Accord with the Holy See"
+DD_SP7_bandao_5_2_desc:0 "Occupying Rome need not rely on violence. Perhaps we can reach an agreement with the Holy See to take control of Rome in a more peaceful manner."
+
+DD_SP7_bandao_5_4_title:0 "Visit to the Doge's Palace"
+DD_SP7_bandao_5_4_desc:0 "For centuries, Venice has maintained a maritime empire ruling the Eastern Mediterranean. Now, with our rise, it is time to take over their dominion."
+
+DD_SP7_bandao_5_8_title:0 "Colonize Colombia"
+DD_SP7_bandao_5_8_desc:0 "The mountains and wilds of Colombia hide unexpected riches. Let us spread the Gospel in the name of God."
+
+DD_SP7_bandao_5_10_title:0 "Build Brasília"
+DD_SP7_bandao_5_10_desc:0 "The jungles of Brazil are a treasure trove of untapped potential—let us make the most of them!"
+
+DD_SP7_bandao_5_13_title:0 "Power of the Peasants"
+DD_SP7_bandao_5_13_desc:0 "The simple, uneducated peasants are more useful than we imagined. Let us train conscripted peasants, control rural councils, and raise an army of loyal commoners."
+
+DD_SP7_bandao_5_15_title:0 "Elite Tercios"
+DD_SP7_bandao_5_15_desc:0 "The tercio formation has proven its worth time and again in our wars. We shall refine this tactic and forge an even more formidable elite force."
+
+merc_DD_ARA_company: "Almogavar Infantry"
+
+qihai:"Empire of the Seven Seas"
+ribuluo:"Empire Where the Sun Never Sets"
+luoma:"Roman Empire"
+yisibaniya:"Hispania"
+xigete:"Visigothic"
+dizhonghai:"Mediterranean Empire"
+yibiliyalianhewangguo:"United Kingdoms of Iberia"
+xibanya:"Spain"
+xibanya_ex:"Siban"
+
+qihai_ADJ:"Seven Seas'"
+ribuluo_ADJ:"Sun Never Sets'"
+luoma_ADJ:"Roman"
+yisibaniya_ADJ:"Hispanian"
+xigete_ADJ:"Visigothic"
+dizhonghai_ADJ:"Mediterranean"
+yibiliyalianhewangguo_ADJ:"Iberian United Kingdoms'"
+xibanya_ADJ:"Spanish"
+xibanya_ex_ADJ:"Siban"
+ 
+mechanic_shizijunzhiwang_personality_yes: "\nStrengthen Clergy Privileges '§YCrusading Zeal§!'\n\nRulers with military skill above §Y5§! may gain trait §YCrusader King§!'"
+DD_ARA_shizijunzhiwang_personality: "Crusader King"
+DD_ARA_shizijunzhiwang_personality_desc: "This ruler has demonstrated extraordinary courage on the sacred path, becoming a worthy Crusader King"
+DD_ARA_shizijun_reform: "Crusader King"
+DD_ARA_shizijun_reform_desc: ""
+
+mechanic_jiaozong_personality_yes: "\nEnhance all Papal interactions\nAllows use of '§YCall Crusade§!'\nAll crusader subjects provide additional §Y+1.00§! True Faith Tolerance\nRulers with £dip£§Y5§! may gain trait §YDefender of the Holy See§!'"
+DD_ARA_jiaozong_personality: "Defender of the Holy See"
+DD_ARA_jiaozong_personality_desc: "This ruler has demonstrated extraordinary wisdom on the sacred path, becoming a worthy Defender of the Holy See."
+DD_ARA_jiaozong_reform: "Defender of the Holy See"
+DD_ARA_jiaozong_reform_desc: "The Holy See needs our protection, so we have come."
+
+DD_ARA_luoma_1_reform: "Roman Administration"
+DD_ARA_luoma_1_reform_desc: "The administrative methods left behind by ancient Rome still prove largely useless today. But we can learn from their mistakes while proclaiming ourselves as Rome's successors."
+DD_ARA_luoma_2_reform: "Roman Guardianship"
+DD_ARA_luoma_2_reform_desc: "We don't need Rome - we have a greater legacy. Let the Romans simply watch and learn."
+
+DD_SP7_bandao_2_13_ttt: "Recently used government interaction '§YStockpile Food Reserves§!'"
+DD_SP7_bandao_2_13.t: "Effect increased when §YSplendor§! is at maximum:\nGoods Produced Modifier: §G+10.0%§!\n"
+DD_SP7_bandao_2_14.t: "Effect increased when §YSplendor§! is at maximum:\nTechnology Cost: §G-10.0%§!\n"
+DD_SP7_bandao_2_15.t: "Effect increased when §YSplendor§! is at maximum:\nAll Power Costs: §G-5.0%§!\n"
+DD_SP7_bandao_3_13.t: "Effect increased when §YSplendor§! is at maximum:\nNational Tax Modifier: §G+20.0%§!\n"
+DD_SP7_bandao_3_15.t: "Effect increased when §YSplendor§! is at maximum:\nTrade Efficiency: §G+20.0%§!\n"
+DD_SP7_bandao_5_15.t: "Effect increased when §YSplendor§! is at maximum:\nTercio Proportion: §G+20.0%§!\n"
+DD_SP7_bandao_4_15.t: ""
+DD_SP7_bandao_5_2_tt: "Enables province triggered modifiers for '§YConquest of Rome§!'.\n"
+
+DD_SP7_bandao_2_13_tt: "Every province producing §YSilk§! grants us §G+1§! point of §YMercantilism§!.\n"
+DD_SP7_bandao_2_13.tt: "Government interaction '§YStockpile Food Reserves§!' additionally grants §G1 year's income§!.\n"
+DD_SP7_bandao_4_12.t: "Government interaction '§YConstruct Naval Vessels§!' additionally grants §G2 years' sailors§!.\n"
+
+DD_ARA.33.t: "The Unfinished Great Work"
+DD_ARA.33.d: "Africa was once a prosperous Catholic kingdom. Under the cold-blooded Rodrigo III, it adopted rigid policies of absolute monarchical centralization, forcing its Moorish subjects to either convert or face death. The kingdom's power was concentrated in the king's hands, and his will was unquestionable.\n\nUnfortunately, his successor - the Mad King Diego - plunged the kingdom back into the abyss. The first half of his reign was spent indulging in pleasures while neglecting governance, and the latter half was consumed by madness and delusions. The temperamental king essentially never attended to state affairs. During his prolonged rule, the kingdom sank into corruption and decline. Though the Cyrenaican legions perpetually guarded the frontiers, the Sultan of Egypt and the kingdom's Crusader brethren in the Holy Land never ceased coveting Africa.\n\nNow that we directly control these lands, it is time to choose our future governance strategy."
+DD_ARA.33.a: "Our Crusader brothers will always stand with us!"
+DD_ARA.33.a.t: "Release the Maghreb region as a crusader subject@AFR§RAfrica§!"
+DD_ARA.33.b: "Perhaps we should reconsider our approach."
+DD_ARA.33_shijianqianzhanwenben: "This event allows us to determine the governance method for the Maghreb region"
+DD_ARA.33.a_buff: "The Old Mission"
+DD_ARA.33.b_buff: "A New Journey"
+
+DD_ARA.34.t: "The Holy Realm"
+DD_ARA.34.d: "The Crusades' great victory opened a bright future for Christians yearning for the Holy Land. After the disastrous defeat at Manzikert, a desperate Alexios I had no choice but to seek help from his Catholic brethren. The answering Crusaders capitalized on the chaos following Malik-Shah I's death, capturing Edessa and Antioch. To the south, the dying Fatimid Caliphate stood no chance against the Frankish armies, while the fractured Seljuks could only focus on Anatolia. Thus four Crusader States were founded upon Muslim ruins - the County of Edessa, County of Tripoli, Principality of Antioch, and Kingdom of Jerusalem.\n\nBut this golden age was short-lived. The legendary Saladin rose from Egypt, overthrew the incompetent Fatimids, and launched a ferocious counterattack. Under the reckless command of Templar Grand Master Gérard, the Crusader forces were nearly annihilated at Hattin. Edessa fell, northern Crusader territories shrank, and Muslims even temporarily reclaimed Jerusalem. After Saladin's death, his descendants fought bitterly over his Near Eastern legacy, allowing the Crusaders to seize Egypt - only to lose it again to Ayyubid successors.\n\nIn 1228, Frederick II, grandson of Barbarossa and heir to Jerusalem's throne, arrived in the Holy Land. Backed by the Pope, this emperor ended Jerusalem's succession crisis and assumed the honor of Protector of the Holy Sepulchre. Allied with Egyptian Sultan al-Kamil, he crushed his eastern brothers, captured Damascus, and ultimately ended decades of religious war through the controversial Treaty of Jaffa - sealed by an unprecedented interfaith marriage."
+DD_ARA.34.a: "Our Crusader brothers will always stand with us!"
+DD_ARA.34.a.t: "Release Palestine as crusader subject@KOJ§YJerusalem§!\n\nAs long as @KOJ§YJerusalem§! maintains §G3§! level great project '§YHoly City of Jerusalem§!', we will also gain all its effects.\n"
+DD_ARA.34.b: "Perhaps we should reconsider our approach."
+DD_ARA.34_shijianqianzhanwenben: "This event allows us to determine the governance method for Palestine's core provinces."
+DD_ARA.34.a_buff: "Sacred Mission"
+DD_ARA.34.b_buff: "Secular Path"
+
+DD_ARA.35.t: "The Undetermined Beyond"
+DD_ARA.35.d: "The road ahead stretches endlessly, a solitary line winding toward the distant horizon.\n\nMy palace... is quiet, with only scattered seats and attendants yawning in the breeze. Strangers and sycophants rise each day, reluctantly preparing their daily duties.\n\nI peruse the tomes, pondering which name to choose today."
+DD_ARA.35.a: "Unearth a name from ancient texts."
+DD_ARA.35.b: "Cast our gaze further afield."
+DD_ARA.35.c: "Why wouldn't it count?"
+DD_ARA.35.dd: "Classics never fade."
+DD_ARA.35.e: "Reclaim our past glory."
+DD_ARA.35.f: "Describe our present more accurately."
+DD_ARA.35.g: "Our essential nature."
+DD_ARA.35.h: "This one has merit too."
+DD_ARA.35.i: "We miss you, Great Khan."
+DD_ARA.35.a_buff: "Sovereign of All Waters"
+DD_ARA.35.b_buff: "Earth's Answer"
+DD_ARA.35.c_buff: "Echo of Glory"
+DD_ARA.35.d_buff: "World at the Edge"
+DD_ARA.35.e_buff: "Ancient Memory"
+DD_ARA.35.f_buff: "Tranquil Sea Frontiers"
+DD_ARA.35.g_buff: "Hand-in-Hand Realms"
+DD_ARA.35.h_buff: "Stolen Fire"
+DD_ARA.35.i_buff: "The Great Journey"
+
+DD_ARA.36.t: "The Decisive Moment"
+DD_ARA.36.d: "The Papal States, the sacred rulers of the temporal world, are not as inviolable as they appear. In truth, whenever His Holiness faces invasion, his first instinct has always been to seek protection from others. The Papacy has relied on Byzantium and the Franks, extracting benefits while granting them legitimacy and recognition in return.\n\nNow we have become the Papal States' new partner. As masters of Italy, should we further strengthen the Holy See's sacred status to secure the bishops' support, or should we modestly encroach upon the Pope's privileges - after all, his current position exists solely by our grace?"
+DD_ARA.36.a: "From this day forward, I still wish to walk with His Holiness."
+DD_ARA.36.b: "The matter stands thus - I am Italy's true master."
+DD_ARA.36_a_buff: "Sacred Censer"
+DD_ARA.36_b_buff: "Sunday Yearning"
+DD_ARA.36_shijianqianzhanwenben: "This event allows us to determine Italy's governance approach."
+
+DD_ARA.37.t: "Monopoly Mandate"
+DD_ARA.37.d: "While our dominance over the New World is indisputable, certain other Catholic nations continue to oppose our sacred colonial endeavors. Thus, our bishops have secured a new Papal Bull from His Holiness. Under this decree, all New World territories and riches shall belong to us alone, and no Roman Catholic nation may conduct colonization or exploration activities.\n\nThough some nations may grumble, what can they truly say? For it is we who walk with the Holy Father."
+DD_ARA.37.a: "The time has come to set forth."
+DD_ARA.37_a_buff: "Papal Restraint"
+DD_ARA.37_b_buff: "Apostolic Privilege"
+
+DD_ARA.38.t: "The Unknown Route"
+DD_ARA.38.d: "A distinguished navigator, da Gama, has recently approached our court. He claims the sea route to Asia remains unexploited - with sufficient ships and resources, he could open the passage to India and bring countless spices and silks to our realm.\n\nThough our nobility remains skeptical about seeking India to the east, this young mariner persistently petitions the Emperor with unwavering determination. Perhaps we should seriously consider his proposal."
+DD_ARA.38.a: "We happen to have some resources to spare."
+DD_ARA.38.a.t: "Da Gama begins his voyage; every three months we'll receive updates on the fleet's progress."
+DD_ARA.38.b: "Let's not bother."
+DD_ARA.38.b.t: "\nMight as well... renovate the Alhambra Palace instead.\n"
+
+DD_ARA.39.t: "Day One: Embarking"
+DD_ARA.39.d: "Amidst the harbor's farewell fanfare, da Gama - by command of our glorious Emperor - set sail from Lisbon with four small vessels bearing over 140 crewmen, beginning the eastward voyage. The ships soon reached islands we had previously explored, and after brief respite, pressed onward into the unknown."
+DD_ARA.39.a: "An auspicious beginning."
+
+DD_ARA.40.t: "Day Two: West African Coast"
+DD_ARA.40.d: "Our crew soon reached the West African coast, where locals spoke of a once-mighty Islamic empire stretching from southern rainforests to the Sahara Desert in the north, from Atlantic shores to Hausa territories in the east - a vast realm rich in resources, producing abundant gold.\n\nWhile our sailors showed little interest in other legends, they grew particularly excited at the final detail: gold!"
+DD_ARA.40.a: "These riches should belong to us."
+
+DD_ARA.41.t: "Day Three: Bantu Kingdoms"
+DD_ARA.41.d: "As our fleet continued southward along the coast, we encountered a remarkable civilization. Though initially wary of strangers, these native people proved exceptionally friendly. Through their introduction, we were granted audience with their Bantu king. After laborious communication, he expressed keen interest in establishing trade - including exchanges of human chattel.\n\nWith our Indian mission paramount, we politely declined most gifts while maintaining cordial relations. These connections will surely prove valuable in time."
+DD_ARA.41.a: "May all future kings prove so accommodating..."
+DD_ARA.41.a_buff: "Kongo Commerce"
+
+DD_ARA.42.t: "Day Four: Eye of the Storm"
+DD_ARA.42.d: "After nearly four months and over 4,500 nautical miles, the fleet reached the charted Bay of Saint Helena - only to find not tranquility, but a terrifying tempest! Yet on Christmas Eve, our brave crew finally rounded the Cape of Good Hope, sailing into the African coast of the western Indian Ocean."
+DD_ARA.42.a: "A narrow escape."
+
+DD_ARA.43.t: "Day Five: Lost Contact"
+DD_ARA.43.d: "Though they survived the storm, new troubles emerged; on the scheduled reporting date, da Gama's fleet sent no messages, vanishing completely without trace. All we can do now is offer our most devout prayers."
+DD_ARA.43.a: "Most troubling..."
+
+DD_ARA.44.t: "Day Six: Contact Regained"
+DD_ARA.44.d: "At last, we've reestablished contact with the fleet!\n\nAfter entering the uncharted waters of East Africa's coast, they docked at the port of Mombasa to resupply. To their surprise, the local inhabitants were Muslims, and relations rapidly deteriorated to the brink of armed conflict. Wisely recognizing both his mission's importance and our forces' weakness, da Gama avoided prolonged engagement.\n\nAfter evading hastily assembled Muslim vessels, they sailed north to replenish at Malindi - Mombasa's rival city. Catching the seasonal southwest monsoon winds available only in the first half of the year, da Gama's fleet made directly for India's coast, finally reaching Calicut, the most powerful port city on India's southwestern shore.\n\nFor the first time since the Middle Ages, Western European ships have reached these fabled lands."
+DD_ARA.44.a: "Both terrifying and exhilarating!"
+DD_ARA.44.a_buff: "Indian Wealth"
+
+DD_ARA.45.t: "Day Seven: Pressing Forward"
+DD_ARA.45.d: "Having established our foothold in India, da Gama devised new sailing plans. Local merchants spoke of legendary Cathay lying not far to the east, while to the south awaited humid treasure lands with countless unexplored islands. Driven by thirst for riches, our energetic crew grew eager to push eastward into unknown realms.\n\nThe question remains - shall we turn north or south?"
+DD_ARA.45.a: "Northward - toward more advanced civilizations."
+DD_ARA.45.b: "Southward - toward greater unknowns."
+
+DD_ARA.46.t: "Against the Current"
+DD_ARA.46.d: "To our surprise, the Chinese rulers proved exceedingly wary. When we followed our usual practice of requesting temporary anchorage, the discourteous locals violently drove us away, wounding several of our crewmen. With no alternative, our fleet must press onward, hoping to find more hospitable rulers in our future ports of call."
+DD_ARA.46.a: "Well, we hadn't expected such... cautious hosts."
+
+DD_ARA.47.t: "Land of the Rising Sun"
+DD_ARA.47.d: "Just as we prepared to abandon hope, islands suddenly appeared on the horizon - then more land beyond. Here we replenished our dwindling supplies and found proper rest. The natives claimed this was the easternmost world.\n\nThough we sought to establish an outpost, the locals were embroiled in inter-village warfare, their constant fighting forcing us to continue northward."
+DD_ARA.47.a: "The journey wasn't wasted."
+
+DD_ARA.48.t: "World's End"
+DD_ARA.48.d: "At last we reached this continent's terminus, encountering the diminutive natives of its islands. After negotiations with their rulers, they permitted our settlement here - the first exchange between our nations.\n\nBut we know well: all kindness shown to these unenlightened heathens is but prelude to conquest."
+DD_ARA.48.a: "A new era of crusading begins here!"
+DD_ARA.48.a_buff: "Eastern Trade Route"
+
+DD_ARA.49.t: "Terra Australis"
+DD_ARA.49.d: "Just as we prepared to abandon hope, islands suddenly appeared on the horizon - then more land beyond. The natives differed markedly from any we'd encountered, their civilization seemingly still in primitive stages. Yet the land proved rich in resources, which we plundered extensively, solving our supply shortages completely. Still, the environment remained thoroughly inhospitable - best we continue southward."
+DD_ARA.49.a: "An excellent place to exile criminals."
+
+DD_ARA.50.t: "World's End"
+DD_ARA.50.d: "At last we reached this continent's terminus, encountering the rather diminutive natives of its islands. After negotiations with their rulers, they permitted our settlement here - the first exchange between our nations.\n\nBut we know well that for these heathens untouched by enlightenment, any kindness or smile merely masks impending plunder."
+DD_ARA.50.a: "Such vast oceans await our conquest!"
+
+DD_ARA.51.t: "The Fallen Tower"
+DD_ARA.51.d: "Constantinople - heart of the Eastern Roman Empire, the City the World Once Desired - now lies in our grasp. As our imperial troops marched through her mighty walls, they realized they weren't the first conquerors to tread these stones.\n\nTraces of ancient Rome remain remarkably preserved throughout the city: perhaps in the cobbled roads beneath our feet, or the distant glow of palaces. Yet every visitor understands that Rome's immortal name carries equally her countless trials.\n\nShould we study and adopt these Roman legacies? Or go further - proclaim an imperial rebirth?"
+DD_ARA.51.a: "We shan't repeat Diocletian's mistakes."
+DD_ARA.51.b: "Only thus can glory be reclaimed."
+DD_ARA.51_shijianqianzhanwenben: "This event determines our Balkan governance approach."
+DD_ARA.51.a_buff: "Past Glories"
+DD_ARA.51.b.tt: "Release mission provinces as crusader subject@BYZ§YByzantium§!"
+
+DD_ARA.52.t: "Under the Same Stars"
+DD_ARA.52.d: "Astrology, or celestial divination, is the practice where astrologers observe heavenly bodies - the positions and movements of stars and planets - to interpret and predict worldly affairs. This discipline maintains that celestial phenomena, particularly planets and constellations, herald earthly changes through causal or non-accidental relationships. By analyzing planetary alignments and zodiac positions at one's birth, practitioners claim to divine personal destinies. Extensive astronomical research has also advanced mathematical and physical sciences, ultimately developing systematic and precise astronomical theories.\n\nNow beneath the rose windows of the Alhambra, Muslim scholars and our brightest researchers jointly study these stars that belong to us all."
+DD_ARA.52.a: "May our combined wisdom illuminate the heavens."
+DD_ARA.52_shijianqianzhanwenben: "We shall convene regular astrological symposiums."
+DD_ARA.52.a.t: "The next astrological symposium will be held in ten years."
+DD_ARA.52.a_buff: "Celestial Coordinates"
+
+DD_ARA.53.t: "Beneath One Sky"
+DD_ARA.53.d: "Astrology, or celestial divination, is the practice where astrologers observe heavenly bodies - the positions and movements of stars and planets - to interpret and predict worldly affairs. This discipline maintains that celestial phenomena, particularly planets and constellations, herald earthly changes through causal or non-accidental relationships. By analyzing planetary alignments and zodiac positions at one's birth, practitioners claim to divine personal destinies. Extensive astronomical research has also advanced mathematical and physical sciences, ultimately developing systematic and precise astronomical theories.\n\nNow beneath the rose windows of the Alhambra, Muslim scholars and our brightest researchers jointly study these stars that belong to us all."
+DD_ARA.53.a: "May our combined wisdom illuminate the heavens."
+DD_ARA.53.a.t: "The next astrological symposium will be held in ten years."
+DD_ARA.53.a_buff: "Orbital Models"
+
+DD_ARA.54.t: "The Shared Firmament"
+DD_ARA.54.d: "Astrology, or celestial divination, is the practice where astrologers observe heavenly bodies - the positions and movements of stars and planets - to interpret and predict worldly affairs. This discipline maintains that celestial phenomena, particularly planets and constellations, herald earthly changes through causal or non-accidental relationships. By analyzing planetary alignments and zodiac positions at one's birth, practitioners claim to divine personal destinies. Extensive astronomical research has also advanced mathematical and physical sciences, ultimately developing systematic and precise astronomical theories.\n\nNow beneath the rose windows of the Alhambra, Muslim scholars and our brightest researchers jointly study these stars that belong to us all."
+DD_ARA.54.a: "May our combined wisdom illuminate the heavens."
+DD_ARA.54.a.t: "The next astrological symposium will be held in ten years."
+DD_ARA.54.a_buff: "Celestial Prognostication"
+
+DD_ARA.55.t: "One Celestial Sphere"
+DD_ARA.55.d: "Astrology, or celestial divination, is the practice where astrologers observe heavenly bodies - the positions and movements of stars and planets - to interpret and predict worldly affairs. This discipline maintains that celestial phenomena, particularly planets and constellations, herald earthly changes through causal or non-accidental relationships. By analyzing planetary alignments and zodiac positions at one's birth, practitioners claim to divine personal destinies. Extensive astronomical research has also advanced mathematical and physical sciences, ultimately developing systematic and precise astronomical theories.\n\nNow beneath the rose windows of the Alhambra, Muslim scholars and our brightest researchers jointly study these stars that belong to us all."
+DD_ARA.55.a: "May our combined wisdom illuminate the heavens."
+DD_ARA.55.a.t: "The next astrological symposium will be held in ten years."
+DD_ARA.55.a_buff: "Calendar Projections"
+
+DD_ARA.56.t: "The Unified Cosmos"
+DD_ARA.56.d: "Astrology, or celestial divination, is the practice where astrologers observe heavenly bodies - the positions and movements of stars and planets - to interpret and predict worldly affairs. This discipline maintains that celestial phenomena, particularly planets and constellations, herald earthly changes through causal or non-accidental relationships. By analyzing planetary alignments and zodiac positions at one's birth, practitioners claim to divine personal destinies. Extensive astronomical research has also advanced mathematical and physical sciences, ultimately developing systematic and precise astronomical theories.\n\nNow beneath the rose windows of the Alhambra, Muslim scholars and our brightest researchers jointly study these stars that belong to us all."
+DD_ARA.56.a: "May our combined wisdom illuminate the heavens."
+DD_ARA.56.a.t: "The next astrological symposium will be held in ten years."
+DD_ARA.56.a_buff: "Computational Ephemerides"
+
+DD_ARA.57.t: "Frontiers of Civilization"
+DD_ARA.57.d: "When we first made landfall, an uncanny contrast unsettled our forces. The Turks - remembered as savage warriors - had transformed into scholarly gentlemen under Mongol-introduced Eastern philosophies. Yet these pacifying ideals had dulled their blades, rendering our Anatolian conquest suspiciously facile.\n\nTo secure our Levantine holdings, preemptive action may prove prudent."
+DD_ARA.57.a: "Frontiers demand personal stewardship."
+DD_ARA.57.a_buff: "Barbaric Diadem"
+DD_ARA.57.b: "Unprovoked intervention violates principle."
+DD_ARA.57.b.t: "Release mission provinces as crusader subject@RUM§YRûm§!"
+DD_ARA.57_shijianqianzhanwenben: "This event determines Anatolia's governance approach."
+
+DD_ARA.58.t: "Vespers' Victory"
+DD_ARA.58.d: "During Palermo's Easter celebrations, drunken imperial officials caused outrage with their misconduct. The enraged populace seized the offenders, leading to collective punishment that ignited island-wide riots. Sicilians took to the streets, assaulting imperial troops and officials in chaotic rebellion.\n\nWe couldn't miss this golden opportunity. The long-prepared [Root.GetName] fleet immediately sailed to occupy Sicily. Forced to submit, the Sicilians pledged allegiance, crowning us as Sicily's sovereigns against the Empire."
+DD_ARA.58.a: "The first step into Italy."
+DD_ARA.58_shijianqianzhanwenben: "This event celebrates our successful conquest of Sicily."
+
+DD_ARA.59.t: "Prelude to War"
+DD_ARA.59.d: "What constitutes defense? The parrying of blows. What characterizes defense? Awaiting the strike. Military action bearing this characteristic is defensive action, and only through this lens can defense be distinguished from offense in war. Yet pure defense contradicts war's very nature - all defensive postures must ultimately be relative.\n\nThus this awaiting characteristic applies to defense in its totality, not its individual components. When we await the enemy's assault in battle, it becomes defensive combat; when we await their advance to our positions in engagement, defensive battle; when we await their incursion into our theater, defensive campaign.\n\nIn each case, the awaiting/parrying nature remains fundamentally defensive without contradicting war's essence, as we benefit from enemies charging our bayonets or assaulting our fortifications. But to truly wage war, we must counterattack - offensive actions conducted within defensive frameworks, confined to our positions or theaters. Thus defensive campaigns permit offensives; defensive battles employ attacking divisions; troops awaiting charges may still counter with offensive fire. Defense is never merely a shield, but a shield composed of cunning strikes."
+# From Clausewitz's "On War" (Vom Kriege)
+DD_ARA.59.a: "France remains untrustworthy."
+DD_ARA.59.a_buff: "Impregnable Defense"
+DD_ARA.59.b: "Heathens demand greater vigilance."
+DD_ARA.59.c: "We must consider the broader picture."
+DD_ARA.59.c.t: "Enhance government interaction '§YFortify Frontier Strongholds§!'\n"
+
+DD_ARA.60.t: "Where the West Wind Ends"
+DD_ARA.60.d: "'Father, will you tell me a story?'\n'My dear Miguel, shall I tell you about time today?'\n'What... is time?'\n'Time, my child, is a beautiful flower petal.'\n'Like the dandelions in the meadow!'\n'Yes, like dandelions - time grows, blooms, and bears fruit. We call her petals 'the passing years'.'\n'And then?'\n'Then... she withers in the wild wind, scattering and dissolving, leaving seeds that fly across the world...'\n'Father, is that what we call the future?'\n'Can you guess what comes after?'\n'Does she become many many flowers, transforming into a dazzling sea of blossoms?'\nBefore the man could answer, sunlight streamed through the window onto the boy's face.\n'If time is a flower...' the boy murmured.\n'She will surely become a sea of flowers,' the quiet man affirmed.\n'Of course!' The boy cheered with rare delight."
+DD_ARA.60.a: "Through trials, we achieve greatness."
+DD_ARA.60.a.t: "Enhance government interaction '§YCompromise Crown Authority§!'\n"
+DD_ARA.60.a.tt: "Unlocks decision: '§YMythic Benediction§!'.\n"
+DD_SP7_heir_decision_flag: "Ruler Has Received Blessing"
+DD_SP7_heir_decision_title: "Mythic Benediction"
+DD_SP7_heir_decision_desc: "'Blessed is the one who perseveres under trial, for when he has stood the test, he will receive the crown of life that God has promised to those who love Him.'"
+
+DD_ARA.79.t: "The Roar of the World"
+DD_ARA.79.d: "As Aragon's golden fleet cleaves through the emerald waves of the Mediterranean, every cresting wave blossoms with the glorious crowns forged by the Peninsular faction. The prestige of the Seven Seas' sovereign, carried by pomegranate petals falling from Santa Maria's deck, dyes crimson every tide from Gibraltar to Cyprus. On parliamentary parchments, freshly inked treaties meander like conquerors' wake, stringing shattered city-states and islands into pearl-encrusted scepters draped around the Virgin's merciful neck.\n\nNew World mists still linger as Aragon's cross-emblazoned sails sweep the horizon like white eagles. Colonists' boots shatter Aztec temple drums, melting the Inca's golden sun into figureheads' eternal smiles; the Mayan prophecy of 'Quetzalcoatl's bloody return' ultimately becomes consecration wine for the Peninsular Council amidst Castilian gunpowder. During San Juan festivities, Potosí's mercury and Río de la Plata's silver flow across royal vaults like the Milky Way, while Madrid's poets redraw the zodiac with conquerors' names - proclaiming each gold fleck God's stardust for the new Eden.\n\nWhen eastern monsoons swell Aragon's sails, Ceylon's cinnamon and Malacca's cloves pile high as pagan altars on stern decks. Zheng He's star charts are reassembled, compass needles pointing beyond the Promised Land: Latin inscriptions grace Ryukyu's coral reefs, while Nagasaki's cherry blossoms echo the Song of Songs. Macau's lighthouse flames embrace Barcelona's sacred fires along the meridian, stitching the earth into a perfect golden ring on the double-headed eagle's crest.\n\nNow ancestral kings' spirits stand upon Hercules' Pillars, witnessing the colossal tree nourished by their bloodline - roots entwining three continents, branches hung with tidal charts and monsoon compasses, its crown ablaze with light forged from seven seas' submission: Aragon's golden epilogue to human history, inscribed with iron and poetry, blood and stars."
+DD_ARA.79.a: "The Sun That Never Sets."
+DD_ARA.79.a.t: "\nAragon's §RPeninsular Path§! story concludes here. Thank you for playing.\n- Design: Xī Yě\n- Code: Xī Yě\n- Narrative: Xī Yě"
+
+DD_SP7_bandao_2_1.t: "Unlock Decision: §Y'Venture into the Unknown'§!"
+DD_SP7_zhimin_decision_title: "Venture into the Unknown"
+DD_SP7_zhimin_decision_desc: "Our navigators claim lands lie west across the ocean - countless islands await our conquest"
+
+DD_ARA.51.a.t: "Unlock Decision: §P'Appoint Tribunes'§!\nUnlock Decision: §P'Revise Grain Laws'§!\nUnlock Decision: §P'Reform Roman Legions'§!"
+DD_ARA.51.b.t: "Unlock Decision: §P'Establish Censors'§!\nUnlock Decision: §P'Restore Roman Roads'§!\nUnlock Decision: §P'Reinstate Pronoia'§!"
+
+DD_SP7_bandao_2_9_ttt1: "Has enacted '§YAppoint Tribunes§!', '§YRevise Grain Laws§!' or '§YReform Roman Legions§!'"
+DD_SP7_bandao_2_9_ttt2: "Has enacted '§YEstablish Censors§!', '§YRestore Roman Roads§!' or '§YReinstate Pronoia§!'"
+
+DD_ARA_luoma_ziji_1_decision_title: "Appoint Tribunes"
+DD_ARA_luoma_ziji_1_decision_desc: "Tribunes - magistrates established in 494 BC after the First Secession of the Plebs to protect common citizens' interests in ancient Rome"
+DD_ARA_luoma_ziji_1_decision_buff: "Plebeian Council"
+
+DD_ARA_luoma_ziji_2_decision_title: "Revise Grain Laws"
+DD_ARA_luoma_ziji_2_decision_desc: "Roman grain laws - crucial legislation initially addressing food crises in Rome, later evolving into state welfare with poverty relief measures"
+DD_ARA_luoma_ziji_2_decision_buff: "Bread and Authority"
+
+DD_ARA_luoma_ziji_3_decision_title: "Reform Roman Legions"
+DD_ARA_luoma_ziji_3_decision_desc: "Roman legions - the formidable military force that conquered the Mediterranean through adaptability and mobility during Republic and Empire"
+DD_ARA_luoma_ziji_3_decision_buff: "Aquila Triumphant"
+
+DD_ARA_luoma_fuyong_1_decision_title: "Establish Censors"
+DD_ARA_luoma_fuyong_1_decision_desc: "Censors - Roman magistrates overseeing census, public morality, and state finances during the Republic"
+DD_ARA_luoma_fuyong_1_decision_buff: "Public Oversight"
+
+DD_ARA_luoma_fuyong_2_decision_title: "Restore Roman Roads"
+DD_ARA_luoma_fuyong_2_decision_desc: "Roman roads - vital infrastructure facilitating military movement, governance, and trade across the empire"
+DD_ARA_luoma_fuyong_2_decision_buff: "Via Romana"
+
+DD_ARA_luoma_fuyong_3_decision_title: "Reinstate Pronoia"
+DD_ARA_luoma_fuyong_3_decision_desc: "Pronoia - the Komnenian reform granting conditional land grants to nobility, allowing lifetime tax collection privileges"
+DD_ARA_luoma_fuyong_3_decision_buff: "Pronoia System"
+
+chongzhishizijun.t: "If we have the '§YSacred Path§!' modifier, extend its duration by §G15§! years.\n"
+DD_SP7_bandao_shizijun_buff: "Sacred Path"
+DD_SP7_bandao_1_2_buff: "Morocco Viceroyalty"
+DD_SP7_bandao_1_4_buff: "Conqueror's Coast"
+DD_SP7_bandao_1_4.t: "§GActivate§! great project '§YGreat Pyramid of Giza§!'.\n"
+DD_SP7_bandao_2_1_ttt: "§Y[Root.GetName]§!'s army size §Mgreater than§! all §YMaghreb§! nations"
+
+DD_SP7_bandao_1_4_hufu_buff: "Great Pyramid of Giza"
+DD_SP7_bandao_1_8_buff: "Southern French Harbors"
+chongzhidizhonghai.t: "If we have the '§YMediterranean Sovereign§!' modifier, extend its duration by §G15§! years.\n"
+DD_SP7_bandao_dizhonghai_buff: "Mediterranean Sovereign"
+DD_SP7_bandao_1_10_buff: "Eastern Maritime Frontier"
+DD_SP7_bandao_1_13_buff: "Heathen's Wrath"
+DD_SP7_bandao_1_15_buff: "Clashing Steel"  # or "Martial Prowess" depending on context
+DD_SP7_bandao_2_2_buff: "Algiers Viceroyalty"
+DD_SP7_bandao_2_4_buff: "Coast of the Devout"
+DD_SP7_bandao_2_4.t: "Each level of great project '§YHoly City of Jerusalem§!' additionally grants:\nWarscore cost vs other religions: §G-5.0%§!\n"
+DD_SP7_bandao_2_4_yelusaleng_buff: "Holy City of Jerusalem"
+DD_SP7_bandao_2_5.t: "If we have the '§YSacred Path§!' modifier, it becomes §Gpermanent§!.\n"
+DD_SP7_bandao_2_7_buff: "Eyes of Two Seas"
+DD_SP7_bandao_2_7.t: "Completing conversions in Anatolian provinces will reward §Y25§! points of each monarch power"
+DD_SP7_bandao_2_8_buff: "Seven Hills' Starport"  # referencing Rome
+DD_SP7_bandao_2_9_buff: "Eagle's Beak Sunders Waves"
+DD_SP7_bandao_2_9_ziji_yes: "£yes£If we choose direct rule"
+DD_SP7_bandao_2_9_ziji_no: "£no£If we choose direct rule"
+DD_SP7_bandao_2_9_ziji_yes.t: "\nEnables casus belli §Y'Balkan Unification'§!\n"
+DD_SP7_bandao_2_9_fuyong_yes: "£yes£If we choose to release vassals"
+DD_SP7_bandao_2_9_fuyong_no: "£no£If we choose to release vassals"
+DD_SP7_bandao_2_10_buff: "Bell of the Molten City"
+DD_SP7_bandao_2_12_buff: "March Toward Renaissance"
+DD_SP7_bandao_3_2_buff: "North African Glory"
+DD_SP7_bandao_3_4.t: "£yes£Since @PAP§Y[PAP.GetName]§! is our §Msubject§!:"
+DD_SP7_bandao_3_4_buff: "Mercantile Wealth"
+dizhonghaidiguo: "Mediterranean Empire"
+dizhonghaidiguo_ADJ: "Mediterranean Empire"
+DD_SP7_bandao_3_6.t: "§Y[Root.GetName]§! gains permanent claims on §YMediterranean coastal§! provinces.\n"
+DD_SP7_bandao_3_6.tt: "Unlocks decision '§YGreatness Needs No Explanation§!', allowing us to change our display name.\n"
+DD_SP7_bandao_guoming_decision_title: "@SP7 Greatness Needs No Explanation"
+DD_SP7_bandao_guoming_decision_desc: "The legend continues."
+DD_SP7_bandao_3_6_buff: "Leviathan's Birthfoam"
+DD_SP7_bandao_3_8_buff: "Floral Sea at World's End"
+DD_SP7_bandao_3_10_buff: "Advance into Mississippi"
+DD_SP7_bandao_3_11.t: "§TReduces requirements to become hegemon§!.\n"
+DD_SP7_bandao_4_5.t: "§YOur rule over the Papacy will not incur any negative effects§!\n"
+DD_SP7_bandao_4_7_buff: "Exploring the Fortunate Isles"
+DD_SP7_bandao_4_8_buff: "Crossing the Caribbean"
+DD_SP7_bandao_4_9_buff: "Into Olmec Lands"
+DD_SP7_bandao_4_10_buff: "Conquest of the Aztecs"
+DD_SP7_bandao_4_12_buff: "Preparing Naval Reforms"
+DD_SP7_bandao_5_8_buff: "Colonizing Colombia"
+DD_SP7_bandao_5_10_buff: "Building Brasília"
+DD_SP7_bandao_4_1_buff: "Drawing Back the Curtain"
+DD_SP7_bandao_4_2_buff: "Jewel of the Empire"
+DD_SP7_bandao_4_3_buff: "Renaissance"
+DD_SP7_bandao_4_4_buff: "Crown of Iron"
+DD_SP7_bandao_5_2_buff: "Defender of the Holy See"
+DD_SP7_bandao_5_4_buff: "Governor's Wisdom"
+DD_ARA_4_13_jiangfan: "If our galleys meet requirements"
+DD_ARA_4_13_jiangfan_buff: "Enhanced Galleys"
+DD_ARA_4_13_zhongxing: "If our heavy ships meet requirements"
+DD_ARA_4_13_zhongxing_buff: "Enhanced Heavies"
+DD_ARA_4_13_yunshu: "If our transports meet requirements"
+DD_ARA_4_13_yunshu_buff: "Enhanced Transports"
+DD_ARA_4_13_qingxing: "If our light ships meet requirements"
+DD_ARA_4_13_qingxing_buff: "Enhanced Lights"
+
+DD_SP7_bandao_4_15_buff: "Flagship Upgrades"
+DD_SP7_bandao_5_13.t: "Allows recruiting §YAlmogavars§! mercenaries"
+DD_SP7_bandao_5_13.tt: "Government interaction '§YMobilize Local Peasants§!' additionally grants §G1 year's manpower§!.\n"
+DD_SP7_bandao_5_15_buff: "Elite Tercios"
+DD_SP7_bandao_4_14_buff: "Ample Sailors"
+DD_SP7_bandao_4_14_ex_buff: "Marine Infantry"
+
+DD_SP7_bandao_4_1_ttt1: "Any §YItalian§! region country §Mallied§! with us with §G+150§! relations"
+DD_SP7_bandao_4_1_ttt2: "Any §YItalian§! region country §Oinsulted§! by us with army size §Msmaller than§! ours"
+
+DD_SP7_lading_ex_2_1_ttt1: "Any §YFrench§! region country §Mallied§! with us with §G+150§! relations"
+DD_SP7_lading_ex_2_1_ttt2: "Any §YFrench§! region country §Oinsulted§! by us with army size §Msmaller than§! ours"
+
+DD_SP7_lading_ex_4_1_ttt: "§Y[Root.GetName]§!'s army size §Mgreater than§! all §YItalian§! countries"
+
+DD_SP7_bandao_4_4.tt: ""
+DD_SP7_bandao_4_4_milan_buff: "Milan Cathedral"
+DD_SP7_bandao_5_4.tt: ""
+DD_SP7_bandao_5_4_weinisi_buff: "Venetian Arsenal"
+DD_SP7_bandao_4_8.tt: ""
+DD_SP7_bandao_4_8_tuoertujia_buff: "Tortuga"
+
+DD_SP7_bandao_4_9.tt: "Regardless of whether we directly own §YGreat Project§! §MChichen Itza§!, we will receive §Gglobal modifiers§! equal to its §YMagnificence§! level. If we have activated §YGreat Project§! §MChichen Itza§!, these §Gglobal modifiers§! stack with the wonder's effects\n"
+DD_SP7_bandao_4_9_qiqinyicha_buff: "Chichen Itza"
+
+DD_SP7_bandao_4_10.tt: "Regardless of whether we directly own §YGreat Project§! §MTenochtitlan§!, we will receive §Gglobal modifiers§! equal to its §YMagnificence§! level. If we have activated §YGreat Project§! §MTenochtitlan§!, these §Gglobal modifiers§! stack with the wonder's effects\n"
+DD_SP7_bandao_4_10_qiqinyicha_buff: "Tenochtitlan"
+
+# Church-related modifiers
+levy_church_tax_buff: "Estate Development"
+papal_blessing_buff: "Sacred Blade"
+papal_indulgence_buff: "Sanctioned Expansion"
+local_saint_buff: "Great Man's Inspiration"
+usury_forgiven_buff: "Monetary Restriction"
+papal_sanction_for_holy_war_buff: "Crusade Zeal"
+papal_legate_buff: "Aggression Privilege"
+sanction_commercial_monopoly_buff: "Ecclesiastical Commerce"
+
+ #拉丁线
+
+ 
+# Latin Line
+
+DD_SP7_lading_ex_1_2_title:0 "March into Gascony"
+DD_SP7_lading_ex_1_2_desc:0 "Alas, the lords of Gascony share our fate - fighting on the front lines for God's cause. Their plight moves us to tears, so alike is their suffering to our own."
+
+DD_SP7_lading_ex_1_4_title:0 "Pacify Brittany"
+DD_SP7_lading_ex_1_4_desc:0 "The Bretons have long eluded French lords' control. It's time we taught them a proper lesson."
+
+DD_SP7_lading_ex_1_8_title:0 "Control the Hanseatic League"
+DD_SP7_lading_ex_1_8_desc:0 "The Hanseatic League certainly knows how to make money. Might we partake in their fortunes?"
+
+DD_SP7_lading_ex_1_10_title:0 "Venture into Kashubia"
+DD_SP7_lading_ex_1_10_desc:0 "What an ancient name - last heard when Poland wasn't even a notion."
+
+DD_SP7_lading_ex_1_13_title:0 "Seize the Falun Copper Mine"
+DD_SP7_lading_ex_1_13_desc:0 "Such vast copper deposits. Pity the primitive Swedes lack the skill to exploit them."
+
+DD_SP7_lading_ex_1_15_title:0 "Advance to Norwegian Woods"
+DD_SP7_lading_ex_1_15_desc:0 "Norwegian woooods~~" # Musical reference maintained
+
+DD_SP7_lading_ex_2_1_title:0 "Homecoming"
+DD_SP7_lading_ex_2_1_desc:0 "France was always our true homeland. Since the Albigensian Crusade, our court nobles have largely been French refugees. After centuries in exile, the journey home begins at last."
+
+DD_SP7_lading_ex_2_2_title:0 "Return to Provence"
+DD_SP7_lading_ex_2_2_desc:0 "Provence - a land of tranquil, picturesque towns. Truly beautiful."
+
+DD_SP7_lading_ex_2_3_title:0 "Northern Expedition"
+DD_SP7_lading_ex_2_3_desc:0 "Let the false emperor in Paris see who truly deserves the title of King of the Franks."
+
+DD_SP7_lading_ex_2_4_title:0 "The Final Victor"
+DD_SP7_lading_ex_2_4_desc:0 "As time flows and years pass, there can be only one true victor on French soil..."
+
+DD_SP7_lading_ex_2_5_title:0 "King of France"
+DD_SP7_lading_ex_2_5_desc:0 "...and that shall be us."
+
+DD_SP7_lading_ex_2_7_title:0 "Open the Northern Gate"
+DD_SP7_lading_ex_2_7_desc:0 "Under their self-important northern 'Emperor', North Germany has voluntarily left the Holy Roman Empire. What foolishness. But for us, this presents a perfect opportunity."
+
+DD_SP7_lading_ex_2_8_title:0 "Rhineland Hegemony"
+DD_SP7_lading_ex_2_8_desc:0 "Seems to me nobody's guarding this Rhineland."
+
+DD_SP7_lading_ex_2_9_title:0 "Old Glory"
+DD_SP7_lading_ex_2_9_desc:0 "Saxony still looks as proud as ever, I see."
+
+DD_SP7_lading_ex_2_10_title:0 "Triumphant Return"
+DD_SP7_lading_ex_2_10_desc:0 "We've come such a long way. But the soldiers insisted our Majesty ride through the Brandenburg Gate pointing skyward. 'For the ceremony,' they said. Pity the royal portraitist arrived after His Majesty had already... retired from the pose."
+
+DD_SP7_lading_ex_2_12_title:0 "Closing on Zeeland"
+DD_SP7_lading_ex_2_12_desc:0 "What are you looking at? Think a little channel can stop us?"
+
+DD_SP7_lading_ex_2_13_title:0 "Landing in Britain"
+DD_SP7_lading_ex_2_13_desc:0 "Those wicked Britons! Always stealing our glorious Frankish culture. Soon we'll make them part of Francia proper."
+
+DD_SP7_lading_ex_2_14_title:0 "Conquer the Highlands"
+DD_SP7_lading_ex_2_14_desc:0 "Highlanders oppose everyone - Vikings, Englishmen, even us. Must be craving some seaweed egg drop soup." 
+
+DD_SP7_lading_ex_2_15_title:0 "Play the Accordion"
+DD_SP7_lading_ex_2_15_desc:0 "Nothing spices up diplomacy like an accordion soundtrack. Really sets the mood."
+
+DD_SP7_lading_ex_3_2_title:0 "Burgundian Union" 
+DD_SP7_lading_ex_3_2_desc:0 "Who even rules Burgundy now? Doesn't matter - we're practically family."
+
+DD_SP7_lading_ex_3_4_title:0 "Sicilian Vespers"
+DD_SP7_lading_ex_3_4_desc:0 "Dry those tears, Sicilians. You'll need them later."
+
+DD_SP7_lading_ex_3_6_title:0 "Reclaim Frankish Legacy"
+DD_SP7_lading_ex_3_6_desc:0 "That so-called Holy Roman Emperor shamelessly stole our Frankish heritage! Me? Oh I've always been Frankish, of course."
+
+DD_SP7_lading_ex_3_8_title:0 "Rule the Low Countries"
+DD_SP7_lading_ex_3_8_desc:0 "The Low Countries' wealth is legendary... and apparently real. Time for a tax hike?"
+
+DD_SP7_lading_ex_3_10_title:0 "Cleansing Flames"
+DD_SP7_lading_ex_3_10_desc:0 "Behold the holy fire! Let the Maid's flames purify these heathen lands!"
+
+DD_SP7_lading_ex_3_11_title:0 "King of the Franks"
+DD_SP7_lading_ex_3_11_desc:0 "Return to me, my Francia. The empire of my memories, tears flow unbidden."
+
+DD_SP7_lading_ex_3_13_title:0 "Crush the Usurpers"
+DD_SP7_lading_ex_3_13_desc:0 "Croatia - a grotesque fusion of Venetian merchants and Hungarian nobles. This crumbling monstrosity cries out. Let us end its suffering."
+
+DD_SP7_lading_ex_3_15_title:0 "Unbreakable"
+DD_SP7_lading_ex_3_15_desc:0 "They said Rome was an unbreakable empire. Then it fell without warning. Now Europe knows but one empire - the eternal empire."
+
+DD_SP7_lading_ex_3_16_title:0 "The Unthinkable Dream"
+DD_SP7_lading_ex_3_16_desc:0 "Rule and greatness, conquest and order - a monumental undertaking born of struggle, a people rising with triumphant cries. The dream none dared envision has become our reality. The past lies at our feet, the future but another step in our conquest."
+
+DD_SP7_lading_ex_4_1_title:0 "The Gathering Shadow"
+DD_SP7_lading_ex_4_1_desc:0 "Italy has long cowered under the Hohenstaufen threat. Let us replace them as the peninsula's new masters."
+
+DD_SP7_lading_ex_4_2_title:0 "Ligurian Wealth"
+DD_SP7_lading_ex_4_2_desc:0 "Those wicked Genoese grew fat on Mediterranean trade - all without our permission. Now we come to collect what's owed."
+
+DD_SP7_lading_ex_4_3_title:0 "Cradle of the Renaissance"
+DD_SP7_lading_ex_4_3_desc:0 "Tuscany - birthplace of the Renaissance, nursery of humanist thought. As we rule this land, so too shall we patronize Italy's artists and scholars."
+
+DD_SP7_lading_ex_4_4_title:0 "Master of the Papacy"
+DD_SP7_lading_ex_4_4_desc:0 "As Pepin gave lands to the Church, so shall we take them back."
+
+DD_SP7_lading_ex_4_5_title:0 "King of Italy"
+DD_SP7_lading_ex_4_5_desc:0 "Now all Italy lies prostrate at our feet, the Apennines bow before us. We stand undisputed as Italy's king and Rome's true heir."
+
+DD_SP7_lading_ex_4_7_title:0 "Challenge the Emperor"
+DD_SP7_lading_ex_4_7_desc:0 "So you're the one they call Emperor? My Italian friends need me to... educate you."
+
+DD_SP7_lading_ex_4_8_title:0 "Toast to Victory"
+DD_SP7_lading_ex_4_8_desc:0 "Bavaria's Black Forest brews legendary beer. They say it brings invincibility - so why wait? Let's drink to conquest!"
+
+DD_SP7_lading_ex_4_9_title:0 "New Confederation"
+DD_SP7_lading_ex_4_9_desc:0 "Swiss neutrality exists for good reason. After we helped drive out the Emperor's forces, their proud mercenaries eagerly joined our ranks."
+
+DD_SP7_lading_ex_4_10_title:0 "Falconry"
+DD_SP7_lading_ex_4_10_desc:0 "What formidable mountains! But beyond lies verdant Vienna. Perhaps we should build a summer palace here... for His Majesty's rest, of course."
+
+DD_SP7_lading_ex_4_12_title:0 "Polish Crown"
+DD_SP7_lading_ex_4_12_desc:0 "Where's Poland? I just saw Poland right here!\nSire... Poland's gone again."
+
+DD_SP7_lading_ex_4_13_title:0 "Baltic Campaign"
+DD_SP7_lading_ex_4_13_desc:0 "The Baltic peoples would rather hide in forests than pay taxes. How... stubborn."
+
+DD_SP7_lading_ex_4_14_title:0 "Forging New Chains"
+DD_SP7_lading_ex_4_14_desc:0 "The Rus think Mongol's yoke gone means freedom? We'll work overtime crafting them new... gifts."
+
+DD_SP7_lading_ex_4_15_title:0 "Crossing the Urals"
+DD_SP7_lading_ex_4_15_desc:0 "It's freezing. Surely His Majesty must be... joking, sending us to these distant wastelands? This feels like exile."
+
+DD_SP7_lading_ex_5_2_title:0 "Iron Crown"
+DD_SP7_lading_ex_5_2_desc:0 ""
+
+DD_SP7_lading_ex_5_4_title:0 "Visit the Doge's Palace"
+DD_SP7_lading_ex_5_4_desc:0 "Knock, knock! Mr. Doge, are you home?"
+
+DD_SP7_lading_ex_5_8_title:0 "The So-Called Roman Empire"
+DD_SP7_lading_ex_5_8_desc:0 "The Holy Roman Empire - is it holy? Is it Roman? Is it even an empire? Frankly, it fails on all counts."
+
+DD_SP7_lading_ex_5_10_title:0 "Danube Waltz"
+DD_SP7_lading_ex_5_10_desc:0 "Let the dance begin!"
+
+DD_SP7_lading_ex_5_13_title:0 "Ruthenian Steppe" 
+DD_SP7_lading_ex_5_13_desc:0 "Ah, the endless grasslands, so beautiful... Wait, what's that dust cloud on the horizon?"
+
+DD_SP7_lading_ex_5_15_title:0 "Paying Respects at Sarai"
+DD_SP7_lading_ex_5_15_desc:0 "Heh... the steppe is too vast indeed."
+
+DD_SP7_lading_falanke: "Francia Orientalis"
+DD_SP7_lading_falanke_ADJ: "Francia Orientalis"
+
+cb_DD_ARA_falanke: "Frankish Conquest"
+cb_DD_ARA_falanke_desc: "Weak pretender-kings steal the glory rightfully belonging to Charlemagne. The time has come to make them kneel again."
+
+PEACE_po_cb_DD_ARA_falanke: "Make §Y[From.GetName]§! a fief"
+
+cb_DD_ARA_falanke_wg: "Frankish Conquest"
+cb_DD_ARA_falanke_wg_desc: "War goal is to occupy the capital."
+
+cb_ARA_conqust_ASU: "Dominate Asturias"
+cb_ARA_conqust_ASU_desc: "Through decisive battle, we shall prove our superiority over Asturias."
+cb_ARA_conqust_ASU_wg: "Dominate Asturias"
+cb_ARA_conqust_ASU_wg_desc: "War goal is to occupy the capital."
+
+po_cb_DD_ARA_falanke: "Complete Submission"
+po_cb_DD_ARA_falanke_desc: "§Y[From.GetName]§! becomes our fief"
+
+mechanic_shengzuo_personality_yes: "Enables decision '§YPapal Actions§!'\nAllows selecting '§YGolden Bull§!' with each new ruler"
+DD_ARA_shengzuo_reform: "Defender of the Holy See"
+DD_ARA_shengzuo_reform_desc: ""
+
+mechanic_falanxi_personality_yes: "Each fief provides §G+0.25§! diplomatic reputation"
+DD_ARA_falanxi_reform: "King of France"
+DD_ARA_falanxi_reform_desc: ""
+
+mechanic_falanke_personality_yes: "Each fief provides §G+1.0%§! army morale"
+DD_ARA_falanke_reform: "King of the Franks"
+DD_ARA_falanke_reform_desc: ""
+
+mechanic_haijunzhimindi_personality_yes: "Each level of Naval Reformer provides §G+1.00§! naval tradition\nEach level of Merchant provides §G25%§! trade range\nEach level of Explorer provides §G+10.00§! global settler increase"
+DD_ARA_haijunzhimindi_reform: "Naval and Colonial Ministry"
+DD_ARA_haijunzhimindi_reform_desc: "News from the New World changes daily - our ambitions must reach beyond the Mediterranean"
+
+DD_SP7_lading_shengzuo_open_decision_title: "Enable Papal Actions"
+DD_SP7_lading_shengzuo_open_decision_desc: ""
+DD_SP7_lading_shengzuo_close_decision_title: "Disable Papal Actions" 
+DD_SP7_lading_shengzuo_close_decision_desc: ""
+DD_SP7_lading_shengzuo_decision_open: "Papal Actions enabled"
+
+# Papal Action Decisions
+DD_SP7_lading_shengzuo_1_decision_title: "Levy Church Tax"
+DD_SP7_lading_shengzuo_1_decision_desc: ""
+
+DD_SP7_lading_shengzuo_2_decision_title: "Bless the Ruler"
+DD_SP7_lading_shengzuo_2_decision_desc: ""
+
+DD_SP7_lading_shengzuo_3_decision_title: "Recognize Dynasty" 
+DD_SP7_lading_shengzuo_3_decision_desc: ""
+
+DD_SP7_lading_shengzuo_4_decision_title: "Canonize Local Saint"
+DD_SP7_lading_shengzuo_4_decision_desc: ""
+
+DD_SP7_lading_shengzuo_5_decision_title: "Absolve Usury"
+DD_SP7_lading_shengzuo_5_decision_desc: ""
+
+DD_SP7_lading_shengzuo_6_decision_title: "Call for Crusade"
+DD_SP7_lading_shengzuo_6_decision_desc: ""
+
+DD_SP7_lading_shengzuo_7_decision_title: "Dispatch Papal Legate"
+DD_SP7_lading_shengzuo_7_decision_desc: ""
+
+DD_SP7_lading_shengzuo_8_decision_title: "Sanction Commercial Monopoly"
+DD_SP7_lading_shengzuo_8_decision_desc:""
+
+DD_SP7_lading_lalong_1_decision_title: "Appease the [GUY.Dynasty.GetName] Dynasty"
+DD_SP7_lading_lalong_1_decision_desc: ""
+DD_SP7_lading_lalong_2_decision_title: "Appease the [PRO.Dynasty.GetName] Dynasty"
+DD_SP7_lading_lalong_2_decision_desc: ""
+DD_SP7_lading_lalong_3_decision_title: "Appease the [BUR.Dynasty.GetName] Dynasty"
+DD_SP7_lading_lalong_3_decision_desc: ""
+
+DD_SP7_lading_didi_decision_title: "Land Reclamation"
+DD_SP7_lading_didi_decision_desc: ""
+DD_SP7_lading_didi_decision_buff: "Dutch Polders"
+
+DD_SP7_shengzuo_juefa_da: "Excommunication"
+DD_SP7_shengzuo_juefa_da_title: "Excommunication"
+DD_SP7_shengzuo_juefa_da_desc: "Do you wish to excommunicate the target ruler? Neighboring Catholic nations may declare war without casus belli."
+DD_SP7_shengzuo_juefa_da_tooltip: "Excommunication allows Catholic neighbors to declare war without stability penalties for lacking casus belli"
+DD_SP7_shengzuo_juefa_da_buff: "Overbearing"
+
+DD_SP7_shengzuo_shizijun_da: "Call Crusade"
+DD_SP7_shengzuo_shizijun_da_title: "Call Crusade"
+DD_SP7_shengzuo_shizijun_da_desc: "Are you certain about calling a crusade against this nation? If at war with them, we'll gain additional manpower and income."
+DD_SP7_shengzuo_shizijun_da_tooltip: "Crusades grant additional manpower and income when fighting the target."
+DD_SP7_shengzuo_shizijun_da_buff: "Crusade Zeal"
+DD_SP7_shengzuo_shizijun_da_flag: "Become Crusade Target"
+
+DD_SP7_lading_4_4_buff: "Lifetime Episcopal Oversight"
+
+DD_ARA.61.t: "Triumph of the Vespers"
+DD_ARA.61.d: "During Palermo's Easter celebrations, local soldiers publicly assaulted women, sparking outrage. The enraged populace rose up and slaughtered the offenders. Soon the entire city turned against military forces, and within days nearly all Sicily erupted in riots as citizens attacked soldiers and officials alike.\n\nWe couldn't miss this golden opportunity. The Emperor immediately marched east to press our claims. Sicilian emissaries swiftly offered their allegiance, pledging to crown us as Sicily's rightful sovereign."
+DD_ARA.61.a: "The final step in conquering Italy."
+DD_ARA.61_shijianqianzhanwenben: "This event celebrates our successful conquest of Sicily."
+
+DD_ARA.62.t: "The Decisive Moment"
+DD_ARA.62.d: "The Papal States - sacred rulers of the temporal world - are not as inviolable as they appear. In truth, whenever His Holiness faces invasion, his first instinct is to seek protection from others. The Papacy has relied on Byzantium and the Franks, extracting benefits while granting legitimacy in return.\n\nNow we become the Papacy's new patrons. As masters of Italy, we've secured a safer, more discreet residence for His Holiness. The entire Curia shall operate efficiently under Latin protection."
+DD_ARA.62.a: "The Church can only function properly under our protection."
+
+DD_ARA.63.t: "The Established Course"
+DD_ARA.63.d: "With our complete control over the Papacy established, no Golden Bull may now be issued without the Emperor's express approval."
+DD_ARA.63.a: "Apostolic Service"
+DD_ARA.63.a_buff: "Apostolic Service"
+DD_ARA.63.b: "Divinely Ordained Rule"
+DD_ARA.63.b_buff: "Divinely Ordained Rule"
+DD_ARA.63.c: "Warrior for God"
+DD_ARA.63.c_buff: "Warrior for God"
+DD_ARA.63.dd: "God's Eternal Providence"
+DD_ARA.63.d_buff: "God's Eternal Providence"
+DD_ARA.63.e: "Ecclesiastical Liberties"
+DD_ARA.63.e_buff: "Ecclesiastical Liberties"
+DD_ARA.63.f: "Faithful Devotion"
+DD_ARA.63.f_buff: "Faithful Devotion"
+
+DD_ARA.64.t: "The Warrior's Campaign"
+DD_ARA.64.d: "France - the land that haunts our dreams - now burns with war. Our Latin nobles and knights sacrificed blood and treasure for the Reconquista and Iberian unification. Now the Emperor must repay their loyalty. The Pyrenees may be crossed many ways, but shall we rebuild ties with southern France through diplomacy... or bare our fangs?"
+DD_ARA.64.a: "I've had enough of formalities."
+DD_ARA.64.b: "'Home is where dreams dwell, not where roads end.'"
+DD_ARA.64.b.t: "Unlock decisions: '§YAppease [GUY.Dynasty.GetName]§!'、'§YAppease [PRO.Dynasty.GetName]§!'、'§YAppease [BUR.Dynasty.GetName]§!'\n"
+DD_ARA.64.a_buff: "No Man's Land"
+DD_ARA.64.b_buff: "The Prodigal's Return"
+
+extend_DD_ARA.64.a_buff.t: "Extend 'No Man's Land' by §Y5§! years"
+
+DD_ARA.65.t: "Submit or Fall"
+DD_ARA.65.d: "To His Most Excellent\nKing of France\n\nGreetings:\n\nShould you refuse surrender,\nwe shall come break you.\n\nYours,\n[Root.Monarch.GetName]"
+DD_ARA.65.a: "Life is but morning dew,\nwhy fight over snail's horns..."
+DD_ARA.65.a.t: "§RWe will lose all fiefs.§!"
+DD_ARA.65.b: "We'd rather die fighting!\nRebels dare face us in battle!"
+DD_ARA.65_shijianqianzhanwenben: "@FRA will lose all claimed territories and subjects;\nor face us in decisive battle."
+
+DD_ARA.66.t: "A Paladin's Tale"
+DD_ARA.66.d: "Astolfo - legendary son of English King Otto, heir apparent, and one of Charlemagne's Twelve Peers.\n\nBeautiful yet reckless, this cheerful knight embraced life with abandon. Once transformed into a tree, he found the experience delightful rather than distressing.\n\nThough middling among the Twelve Peers in skill, his phenomenal luck let him roam battlefields freely, indulging his capricious whims.\n\nLearning of Roland's naked madness during his travels, Astolfo journeyed to the moon to retrieve both his own evaporated reason and Roland's lost sanity.\n\nThis chaotic figure somehow won the people's hearts. Perhaps we should promote these Frankish legends to bolster imperial legitimacy."
+DD_ARA.66.a: "Frankish tales never fail to entertain."
+DD_ARA.66.b: "If I'm being honest... I'm not that rational either."
+DD_ARA.66.b_buff: "Astolfo!"
+
+DD_ARA.67.t: "Bygone Days"
+DD_ARA.67.d: "Francia - a name both foreign and familiar. Though its descendants span Europe, few monarchs still bear its weight. To common folk, it exists as misty legend more than living nation - a beautiful tale, not an identity or heritage.\n\nYet winds change. Fallen myths shall rise anew; the forgotten will return.\n\nObserve celestial patterns to discern the times;\nstudy human affairs to transform the world."
+DD_ARA.67.a: "Our shared homeland."
+DD_ARA.67.b: "Our shared destiny." 
+DD_ARA.67.c: "But not yet."
+
+DD_ARA.68.t: "By Hook or Crook"
+DD_ARA.68.d: "To His Majesty\nThe King\n\nGreetings:\n\nShould you refuse surrender,\nwe shall come break you.\n\nYours,\n[Root.Monarch.GetName]"
+DD_ARA.68.a: "Take it, we cannot resist."
+
+DD_ARA.69.t: "Flames of Orthodoxy"
+DD_ARA.69.d: "The Holy Roman Empire has never lacked rebellious separatist elements, but heretics are the most vile - unlike other unrest, their deception and allure spread like wildfire through dry tinder if unchecked.\n\nYet darkness shall never prevail. Roman Catholicism has never wanted for saints willing to fight for the faith, even in effigy.\n\nTo purge persistent heresy, our glorious Emperor [Root.Monarch.GetName] decreed public burning of heretics and their texts before Joan of Arc's sacred statue where she once fought.\n\nAs the flames crackle, none will dare openly defy Rome's will."
+DD_ARA.69.a: "In our radiance, shadows find no refuge."
+DD_ARA.69_shijianqianzhanwenben: "This event allows complete eradication of heresy and heathens."
+DD_ARA.69.a_tt: "§GRemove§! all §YReligious Zeal§! from non-§YState Religion§! provinces.\n"
+DD_ARA.69.a_modifier: "Fires of Righteousness"
+
+DD_ARA.70.t: "Oktoberfest!"
+DD_ARA.70.d: "The Bavarian Oktoberfest traditionally begins in late September, lasting about two weeks until the first Sunday in October. At noon on the first day, Munich's mayor taps the first beer keg with a wooden mallet, officially opening the festival. Massive beer tents accommodate thousands, serving traditional brews from Munich's local breweries.\n\nDuring the festival, attendees wear traditional Bavarian attire - lederhosen for men and dirndls for women. Beyond beer, revelers enjoy Bavarian delicacies like roasted pork knuckles, white sausages, and grilled chicken, accompanied by grand celebrations featuring folk music performances and cultural concerts."
+DD_ARA.70.a: "Alas, I don't drink."
+DD_ARA.70.a_buff: "Oktoberfest"
+DD_ARA.71.t: "Oktoberfest!"
+DD_ARA.71.d: "The Bavarian Oktoberfest traditionally begins in late September, lasting about two weeks until the first Sunday in October. At noon on the first day, Munich's mayor taps the first beer keg with a wooden mallet, officially opening the festival. Massive beer tents accommodate thousands, serving traditional brews from Munich's local breweries.\n\nDuring the festival, attendees wear traditional Bavarian attire - lederhosen for men and dirndls for women. Beyond beer, revelers enjoy Bavarian delicacies like roasted pork knuckles, white sausages, and grilled chicken, accompanied by grand celebrations featuring folk music performances and cultural concerts."
+DD_ARA.71.a: "Alas, I don't drink."
+DD_ARA.70_shijianqianzhanwenben: "Every §Y5§! years, a random province producing grain, livestock, or wine will host Oktoberfest celebrations."
+
+DD_ARA.72.t: "The Mortal Tide"
+DD_ARA.72.d: "The Emperor's court - heart of the Holy Roman Empire, seat of Electors - now rests in our grasp. As our soldiers passed through the city's mighty walls, they understood they weren't the first conquerors to tread these stones.\n\nRome's legacy remains preserved in every corner: perhaps in the cobbled roads beneath our boots, or the distant glow of imperial palaces. Yet every visitor knows Rome's immortal name carries the weight of all her trials.\n\nBut even the greatest history fades with the wind. For now, the victory is ours."
+DD_ARA.72.a: "The false emperor's crown lies shattered."
+DD_ARA.72.tt: "§PReduces requirements to become hegemon§!"
+
+DD_ARA.73.t: "The Isles' Fate"
+DD_ARA.73.d: "Britain - islands untouched by Frankish rule - now bends to our will. Though separated from France by mere channels, the Britons' distinct culture and ingenuity still impress. Should we fully assimilate them, or more pragmatically absorb their knowledge?"
+DD_ARA.73.a: "Our navy needs their expertise."
+#  DD_ARA.73.b: "The empire demands their submission."
+#  DD_ARA.73.b.t: "Event '§YBygone Days§!'will now include British regions\n\nAfter completing mission '§YLord of Norway§!', event '§YBygone Days§!'will include Scandinavian regions"
+
+DD_ARA.74.t: "Days of Yore"
+DD_ARA.74.d: "Francia - a name both strange and familiar. Though its descendants are scattered across Europe, few monarchs still bear its weight. To the common folk, it remains but a fleeting legend, a beautiful yet distant tale - never quite a nation, a people, or an identity.\n\nYet winds do change. Myths long fallen shall rise anew; the forgotten will return once more.\n\nObserve the celestial patterns to discern the changing times;\nstudy human affairs to civilize the world."
+DD_ARA.74.a: "Our shared homeland."
+DD_ARA.74.b: "But not yet."
+
+DD_ARA.75.t: "Seize and Plunder"
+DD_ARA.75.d: "As usual, unfurl the parchment to compose an elegant missive."
+DD_ARA.75.a: "A trifling cost to pay."
+DD_ARA.75_shijianqianzhanwenben: "We shall seize the remaining North Sea islands at grave diplomatic cost."
+
+DD_ARA.76.t: "The Eternal Empire"
+DD_ARA.76.d: "History shows the mightiest empires often crumble from within - perhaps through neglected drills, or excessive tolerance of scholars. While successors inevitably repeat old errors, we shall now mend the Great Schism that has divided faith since 1054."
+DD_ARA.76.a: "Henceforth, never to be divided."
+
+DD_ARA.77.t: "Cradle of Steel"
+DD_ARA.77.d: "When Latin heraldry brands Aragon's eagle banners, the Pyrenees' snowpeaks become a silver flood sweeping Europe. Notre-Dame's stained glass depicts Charlemagne's coronation blessing new empire-builders: his iron cavalry crushes Seine's morning dew, making Aragon's pomegranate roots crack French parliamentary stones. Vatican's bronze bells tremble for Latin triumph, as papal scarlet dissolves like maple leaves beneath Lyon's walls, while Cologne Cathedral's spire becomes the seventh thorn on our crown.\n\nThe Holy Roman dream still lingers when Aragon's armored infantry - a dark tide - drowns Danube's amber moonlight. Nuremberg's forges sound conquest's knell; the double-headed eagle breaks wings in Alpine passes. Venice's Doge traces trembling fingers across parchment, finding the Adriatic now gilds Aragon's military sash. Charlemagne's fractured laws are reforged on Latin anvils - from Provence's lavender fields to Prussia's fir forests, every inch of land bleeds hybrid glory of Justinian Code and Song of Roland. In the imperial diet, conquered swords form crosses, all hilts pointing to Madrid's sundial.\n\nAs English fog retreats from Calais, Aragon's dragon banners plant on Scotland's basalt thrones. Tower ravens clutch Plantagenet feathers, watching Latin chariots grind across Yorkshire cobblestones; on Moscow's tundra, the Tsar's sable cloak shreds into confessional ribbons for Iberian saints. Brandenburg Gate's statues bow to crown Aragon's ruler - that diadem of Byzantine amethysts and Germanic iron now reflects the same blood moon from Gibraltar to Urals.\n\nNow Charlemagne's ghost watches from Aachen's dome, witnessing his unfinished epic continued in Latin steel - Aragon's domain is chainmail woven vast, each link imprisoning a defeated crown, the mesh stiff with jurisprudence and spears, sacramental wine and swords, forging Europe into one coronation ode."
+DD_ARA.77.a: "The Glory That Never Fades."
+DD_ARA.77.a.t: "Unlocks §YFrankish Conquest§! casus belli against all nations\n\nAragon's §MLatin Faction§! story concludes here. Thank you for playing.\n- Design: Xī Yě\n- Code: Xī Yě\n- Narrative: Xī Yě"
+DD_ARA.77_shijianqianzhanwenben: "'With flowing tears and hoary beard torn, thus ends the tale of Turold.'"
+
+DD_ARA.78.t: "Days of Yore"
+DD_ARA.78.d: "Francia - a name both strange and familiar. Though its descendants are scattered across Europe, few monarchs still bear its weight. To the common folk, it remains but a fleeting legend, a beautiful yet distant tale - never quite a nation, a people, or an identity.\n\nYet winds do change. Myths long fallen shall rise anew; the forgotten will return once more.\n\nObserve the celestial patterns to discern the changing times;\nstudy human affairs to civilize the world."
+DD_ARA.78.a: "Our shared homeland."
+DD_ARA.78.b: "But not yet."
+
+DD_SP7_lading_ex_3_8.t: "All qualifying nations will become our fiefs\n\nUnlock decision: '§YLand Reclamation§!'.\n"
+
+DD_SP7_lading_1_2_zhengfu_yes: "£yes£If we complete the mission through conquest:"
+DD_SP7_lading_1_2_zhengfu_no: "£no£If we complete the mission through conquest:"
+DD_SP7_lading_1_2_waijiao_yes: "£yes£If we complete the mission diplomatically"
+DD_SP7_lading_1_2_waijiao_no: "£no£If we complete the mission diplomatically"
+DD_SP7_lading_1_2_zhengfu_buff: "Aquitaine March"
+DD_SP7_lading_1_2_buff: "Aquitaine March"
+
+DD_SP7_lading_2_2_zhengfu_yes: "£yes£If we complete the mission through conquest"
+DD_SP7_lading_2_2_zhengfu_no: "£no£If we complete the mission through conquest"
+DD_SP7_lading_2_2_waijiao_yes: "£yes£If we complete the mission diplomatically"
+DD_SP7_lading_2_2_waijiao_no: "£no£If we complete the mission diplomatically"
+DD_SP7_lading_2_2_zhengfu_buff: "Provence March"
+DD_SP7_lading_2_2_buff: "Provence March"
+
+DD_SP7_lading_2_4.t: "@FRA§Y[FRA.GetName]§!'s fiefs shall §Gpledge allegiance§! to us instead.\n@FRA§Y[FRA.GetName]§! will be §Rdismembered§!.\n"
+DD_SP7_lading_2_4_buff: "New Glory"
+
+DD_ARA_french: "Aragne"
+DD_SP7_french: "Francia Orientalis"
+
+DD_SP7_lading_3_2_zhengfu_yes: "£yes£If we complete the mission through conquest"
+DD_SP7_lading_3_2_zhengfu_no: "£no£If we complete the mission through conquest"
+DD_SP7_lading_3_2_waijiao_yes: "£yes£If we complete the mission diplomatically"
+DD_SP7_lading_3_2_waijiao_no: "£no£If we complete the mission diplomatically"
+DD_SP7_lading_3_2_zhengfu_buff: "Fine Wine"
+DD_SP7_lading_3_2_buff: "House of Burgundy"
+
+DD_SP7_lading_3_6_falanxi_yes: "£yes£If we become King of France"
+DD_SP7_lading_3_6_falanxi_no: "£no£If we become King of France"
+DD_SP7_lading_3_6_falanke_yes: "£yes£If we pursue the Frankish dream"
+DD_SP7_lading_3_6_falanke_no: "£no£If we pursue the Frankish dream"
+DD_SP7_lading_3_6_falanke_buff: "Path to the East"
+DD_SP7_lading_3_6_falanke.t: "All French region provinces will convert to §YFrancia Orientalis§! culture.\n\nUnlocks casus belli against §YGerman§! nations or §YHoly Roman Empire§! members: '§YFrankish Conquest§!', allowing us to turn them into §Yfiefs§!.\n"
+
+DD_SP7_lading_ex_2_7_buff: "Entering Northern Germany"
+DD_SP7_lading_ex_2_7.t: "Each qualifying province provides §Y5§! army tradition and §G500§! manpower.\n"
+
+DD_SP7_lading_ex_2_8.t: ""
+DD_SP7_lading_ex_1_10_modifier: "Germanic Coast"
+
+DD_SP7_lading_ex_4_7_buff: "Shatter the Imperial Frontier"
+DD_SP7_lading_ex_4_7_ex_1_buff: "Shadows of the Past"
+DD_SP7_lading_ex_4_7_ex_2_buff: "Shadows of the Past"
+DD_SP7_lading_ex_4_7_yes.t: "£yes£As we recently defeated the Emperor, the following modifiers are §Genhanced§!.\n"
+DD_SP7_lading_ex_4_7_no.t: "If we recently defeated the Emperor, the above modifiers will be §Genhanced§!.\n"
+
+DD_SP7_lading_ex_4_9.t: "Government interaction '§YRecruit Foreign Knights§!' additionally grants §G+2.50%§! army professionalism\n\nUnlocks mercenaries: §YSwiss Guard§!"
+
+DD_SP7_lading_ex_4_10.t: "Event '§YBygone Days§!' will trigger more frequently"
+
+DD_SP7_lading_ex_3_11.t: "\nUnlocks '§YFrankish Conquest§!' casus belli against all European nations"
+DD_SP7_lading_3_11_falanke_buff: "Unimagined Successor"
+
+DD_SP7_lading_ex_4_12.t: "All provinces producing §Ygrain§! gain modifier:"
+
+DD_SP7_lading_ex_4_14_buff: "Latin Yoke"
+
+DD_SP7_lading_ex_3_13.t: "Strengthen estate privilege '§YStrong Duchies§!'"
+
+DD_SP7_lading_ex_5_15_buff: "Khan's Ancient Capital"
+
+DD_SP7_lading_ex_2_12_buff: "Winter Offensive"
+
+DD_SP7_lading_ex_1_13.t: "All §GYScandinavian§! provinces producing §Ygrain§!, §Yfish§! or §Ylivestock§! gain §G+33.0%§! local goods produced modifier"
+
+DD_SP7_lading_ex_1_15_buff: "Exploration Zeal"
+
+DD_ARA.73.a_buff: "British Naval Tradition"
+
+DD_SP7_lading_ex_5_13_buff: "Steppe Riders"
+
+DD_SP7_lading_ex_5_13.t: "Each §Ysteppe§! province under non-tributary subjects provides §Y25§! military power"
+
+DD_SP7_lading_ex_4_15: "Crossing the Urals"
+
+DD_SP7_lading_ex_5_8.t: "Event '§YBygone Days§!' will now include Eastern European subcontinent"
+DD_SP7_lading_ex_5_8_ttt: "Allied with §YElector§! or vassalized §YElector§! or controls §YElector§!'s capital"
+
+DD_SP7_lading_ex_2_10_modifier: "Brandenburg Gate Parade"
+
+DD_SP7_ai_form_title: "Form Iberian United Kingdoms"
+DD_SP7_ai_form_desc: ""
+DD_ARA.3.a_2_ex_decision_ttt: "Control any province in @ASU§Y[ASU.GetName]§!'s territory"

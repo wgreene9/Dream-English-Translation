@@ -11,10 +11,20 @@
  mechanic_TLC_bonus_for_culture_ruler_yes: "Rulers of the corresponding culture will grant a §MLeague Cohesion§! bonus for the corresponding culture, §Gdoubled§!."
  mechanic_TLC_give_parliament_seats_unity_yes: "Granting §YParliament Seats§! will grant §G1§! §MLeague Cohesion§!, losing seats will grant §R-2§! §MLeague Cohesion§!."
  mechanic_TLC_pass_issue_gain_unity_yes: "Passing a §YBill§! will grant §G10§! §MLeague Cohesion§!, while failing to pass a §YBill§! will grant §R-10§! §MLeague Cohesion§!."
+ mechanic_holy_bloodline_caliph_yes: "Newly ascended rulers of the §YUmayyad§! dynasty randomly gain §G1§! monarch point. (§gPrioritizes abilities below §Y6§!; nothing happens if all are already at 6.§!)"
+ mechanic_old_iqta_yes: "§GEnhances§! the §YIqta§! government interaction '§YLand Appropriation§!', granting §Gdouble§! manpower reserves."
+ mechanic_new_iqta_yes: "§GEnhances§! the §YIqta§! government interaction '§YTolerant Rule§!', granting either §G1§! stability or §G50§!£adm£."
+ mechanic_empower_BDH_mil_yes: "§GEnhances§! the §YMilitarization§! government interaction '§YRigorous Training§!', recruiting generals with §Ghigher§! army tradition."
+ mechanic_ADU_zongdu_gov_yes: "§YViceroyalty§! subjects gain §YMarch§! benefits"
+ mechanic_disables_estate_dhimmi_yes: "Silences the §YDhimmi§! estate"
+ mechanic_no_scholar_adm_cost_yes: "Inviting scholars no longer costs £adm£§Yadministrative points§!"
+ mechanic_reduce_BDH_mil_yes: "The discipline bonus from '§YAndalusian Militarization§!' is §R-5.0%§!"
+ mechanic__yes: ""
  mechanic__yes: ""
  mechanic__yes: ""
  mechanic__yes: ""
  DD_not_normal_election_tt: "Has a unique election mechanism"
+ use_caliph_title: "Ruler uses the §YCaliph§! title"
 
  MAHDI_COUNTRY: "Mahdi State"
  MAHDI: "Mahdi"
@@ -43,6 +53,11 @@
  DD_TLC_union_power_desc: "Our world has seen many people—traitors, dictators, the devout, the loyal… Without exception, they have only further fragmented our world. The once golden age has passed like the wind, leaving the Islamic world in ruins. Adhering to the teachings of the Prophet, 'Hold firmly to the rope of Allah and do not divide,' we will establish a league of Islamic brethren, uniting with brothers dedicated to reviving the great cause of Islam under the witness of Allah, to rebuild the golden century through equal union.\n\nThe following factors will affect §TLeague Cohesion§!:\n- Ruler's £dip£ diplomatic ability\n- Increasing development in §Ynon-primary culture§! provinces (§G+1§!)\n- Increasing development in §Yprimary culture§! provinces (§R-0.5§!)\n- Accepting a culture (§G+5§!)\n- Expelling a culture (§R-10§!)\n\n§MAccepting§! the following cultures and §Oowning§! all their provinces will grant bonuses:\n-§YMorocco§! (Cavalry combat ability: §G+10.0%§!)\n-§YAndalus§! (National manpower modifier: §G+10.0%§!)\n-§YTunisia§! (Trade efficiency: §G+10.0%§!)\n-§YEgypt§! (Production efficiency: §G+10.0%§!)\n-§YSyria§! (Missionary strength: §G+2.0%§!)\n-§YArabia§! (True faith tolerance: §G+2.00§!)\n-§YMashriq§! (Development cost: §G-10.0%§!)\n"
  monthly_DD_TLC_union_power: "Monthly League Cohesion"
 
+ ability_DD_BDH_mechanic: "Andalusian Militarization"
+ DD_BDH_mil: "Militarization Progress"
+ DD_BDH_mil_desc: "The Andalusian military government is an arena for warmongers. These warriors who once served as the Caliph's sword to conquer the empire rely solely on their martial prowess - proven through countless battlefields - to climb from lowly Berber soldiers to generals. They need no recognition, only bloodshed to validate their glory."
+ monthly_DD_BDH_mil: "Monthly Militarization Progress"
+
  DD_BDH_interaction_1: "Expand Army Size"
  DD_BDH_interaction_1_desc: ""
  DD_BDH_interaction_1_tt: "By lowering recruitment standards, we can gain a large number of new recruits. However, this will also harm our militarization, as these recruits are not well-trained.\n"
@@ -58,6 +73,39 @@
 
  DD_BDH_interaction_1_tt2: "For the duration of this modifier, the §YAndalusian Militarization§! will maintain its §Gmaximum§! values for §YManpower Recovery Speed§! and §YAristy Maintenance§!.\n"
  DD_BDH_interaction_2_tt2: "For the duration of this modifier, §YAndalusian Militarization§! will no longer have a base §Gdecay§!.\n"
+
+ ability_DD_SEW_mechanic: "Modernized Iqta"
+ DD_SEW_efficient_tax_farming: "Centralized Taxation"
+ DD_SEW_efficient_tax_farming_desc: ""
+ DD_SEW_efficient_tax_farming_modifier: "Efficient Centralization"
+ DD_SEW_efficient_tax_farming_tt: "Tax collection remains inefficient. Since rebels continue emerging, it proves the people still have wealth to spare. We must intensify our efforts!\n"
+ DD_SEW_land_acquisition: "Land Appropriation"
+ DD_SEW_land_acquisition_desc: ""
+ DD_SEW_land_acquisition_modifier: "Land Appropriation"
+ DD_SEW_land_acquisition_tt: "We have reason to believe many local lords haven't truthfully reported their landholdings. But it matters not - with a single decree, all shall become ours.\n"
+ DD_SEW_lenient_taxation: "Lenient Rule"
+ DD_SEW_lenient_taxation_desc: ""
+ DD_SEW_lenient_taxation_modifier: "Peaceful Summer"
+ DD_SEW_lenient_taxation_tt: "Perhaps we've been too hasty. It's time to let our subjects rest. But don't expect this to happen again.\n"
+
+ monthly_DD_ADU_caliph_power: "Monthly Caliphal Authority"
+ ability_DD_ADU_caliph_mechanic: "Caliphal Authority"
+ DD_ADU_caliph_power: "Caliphal Authority"
+ DD_ADU_caliph_power_desc: "\"I will create a vicegerent on earth\" (2:30), \"O David! We did indeed make you a vicegerent on earth: so judge between men in truth\" (38:26). During Muhammad's prophethood, the Caliph was God's messenger to mankind, the conveyor of divine revelation, and later became the supreme leader of Medina's religious, administrative, judicial and military affairs - God's vicegerent on earth. Now, the blessed Andalusian Caliphate has been reborn. As inheritors of the Prophet and Allah's will, our authority is absolute and unquestionable.\n\nThese factors affect §YCaliphal Authority§!:\n-Legitimacy: Up to §G+0.1§!\n-Prestige: Up to §G+0.1§!\n-Power Projection: Up to §G+0.1§!\n-Per §Y5§! True Faith Tolerance: §G+0.1§! (Max §G+0.5§!)\n-Per level £adm£ advisor: §G+0.05§!\n"
+ DD_ADU_caliph_interaction_fatewa: "Convene Fatwa"
+ DD_ADU_caliph_interaction_fatewa_tt: "Fatwa, meaning Islamic legal opinion. We shall gather authoritative jurists to derive legal rulings on matters not explicitly covered in scripture, based on Quranic principles and careful reasoning.\n"
+ DD_ADU_caliph_interaction_fatewa_desc: ""
+ DD_ADU_caliph_interaction_fatewa_modifier: "Fatwa Convened"
+ DD_ADU_caliph_interaction_tax: "Reconcile Madhabs"
+ DD_ADU_caliph_interaction_tax_tt: "The Islamic world has many schools of thought with significant differences. As Caliph, setting a good example is essential. We must guide people toward unity.\n"
+ DD_ADU_caliph_interaction_tax_tt2: "While this modifier lasts, §YInviting Heretical Schools§! no longer requires §YPiety§!.\n\n§GRemoves§! relationship penalties with §Yhostile§! madhabs.\n"
+ DD_ADU_caliph_interaction_tax_desc: ""
+ DD_ADU_caliph_interaction_tax_modifier: "Madhab Reconciliation"
+ DD_ADU_caliph_school_opm1: "Reconcile Madhabs"
+ DD_ADU_caliph_interaction_mil: "Call to Arms"
+ DD_ADU_caliph_interaction_mil_tt: "We should gather warriors willing to sacrifice for the Islamic cause.\n"
+ DD_ADU_caliph_interaction_mil_desc: ""
+ DD_ADU_caliph_interaction_mil_modifier: "Faith Mobilization"
 
  #t1
  NYDD_GRA_taifa_reform: "Granadan Taifa"
@@ -84,6 +132,17 @@
  NYDD_TLT_ADU_reform: "Umayyad Caliphate"
 #  NYDD_TLT_ADU_reform_desc: "Faith and despair are deeply intertwined. Who alone enjoys Allah's favor? The collapse of the Umayyad dynasty, the betrayal of the Taifas, the Reconquista by the infidels... Where should he place the blame? The cycle of cause and effect will come to rest, for a new son of Umayyad, a new caliph, has taken his place." 2.20
  NYDD_TLT_ADU_reform_desc: "Faith and despair are deeply intertwined. Who alone enjoys Allah's favor? Lies, feuds, slaughter, and imposters bearing the Prophet's name have stained the throne with the blood of true descendants. The collapse of the Umayyads, the betrayal of the Taifas, the Reconquista by infidels... Where should he place the blame? When the bell of history tolls, all cycles of cause and effect will cease, for a new son of the Umayyads, the supreme and only Caliph, has taken his place."
+
+ NYDD_ADU_saqaliba_reform: "Saqaliba Guard"
+ NYDD_ADU_saqaliba_reform_desc: "Saqaliba, meaning Slavic slaves. In the Arab world, Saqaliba served or were enslaved in various capacities: as servants, harem members, concubines, eunuchs, artisans, mercenaries, slave soldiers, and guards for the Caliph. In Iberia, Morocco, Damascus, and Sicily, their military roles were comparable to the Ayyubid Mamluks."
+ NYDD_ADU_saqaliba_reform2: "Saqaliba Guard"
+ NYDD_ADU_saqaliba_reform2_desc: "Saqaliba, meaning Slavic slaves. In the Arab world, Saqaliba served or were enslaved in various capacities: as servants, harem members, concubines, eunuchs, artisans, mercenaries, slave soldiers, and guards for the Caliph. In Iberia, Morocco, Damascus, and Sicily, their military roles were comparable to the Ayyubid Mamluks."
+
+ NYDD_ADU_mubarizun_reform: "Reformed Mubarizun"
+ NYDD_ADU_mubarizun_reform_desc: "Mubarizun, meaning duelists. The elite forces of Muslim armies during the Great Conquest, primarily responsible for decapitation strikes and champion duels. We shall select exceptional warriors from among Arabs and Berbers to reestablish a Mubarizun guard."
+
+ NYDD_ADU_old_general_reform: "Badajoz Military Academy"
+ NYDD_ADU_old_general_reform_desc: "The officer corps has always been our core strength. Therefore, investing in an advanced military tactics academy to train better generals is fully justified."
 
 # This is his ideal, weaving a cocoon where questions and cries cannot be heard.
 # This is his most powerful dream, the once-envisioned hall, burying both glory and the past together.
@@ -151,17 +210,41 @@
  NYDD_AFR_zongdu_reform: "New Governorate Rule"
  NYDD_AFR_zongdu_reform_desc: "The old governorate system was merely a tacit acknowledgment of local powers, failing to achieve stable rule over the kingdom and leading to the entrenchment of local forces. Now, we will completely reform the governorate system. New governors must be appointed by Tunis, with fixed terms, regularly returning to Tunis to report to the monarch, and local lords will have no right to interfere with their jurisdiction, thereby establishing an efficient centralized government."
 
+ NYDD_ADU_old_taifa_reform: "Integrated Taifa System"
+ NYDD_ADU_old_taifa_reform_desc: "The legacy of the old Taifa kingdoms has left us with countless troubles. We will thoroughly reorganize these Taifas, replacing them with our local administrative institutions and military governors, establishing a new order upon the framework of the old Taifa system."
+ NYDD_ADU_new_taifa_reform: "Reformed Taifa System"
+ NYDD_ADU_new_taifa_reform_desc: "The Taifa system is a legacy from the old era that we might utilize more wisely. By appointing and controlling local Taifas while tightening the reins of central authority, we shall create a stronger and more loyal Taifa system."
+ NYDD_ADU_mil_noble_reform: "Military Nobility"
+ NYDD_ADU_mil_noble_reform_desc: "Many in our government rose through the ranks as generals. Therefore, we should establish a more detailed and referenceable system of military merit."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
  NYDD_TLC_amir_reform: "Council of United Emirs"
  NYDD_TLC_amir_reform_desc: "Unity is the cornerstone of prosperity. Our government is built on this creed, and the Council of United Emirs is the authority of our nation. This is a joint council composed of hereditary monarchs
 
-NYDD_TLC_amir_reform_desc: "Unity is the cornerstone of prosperity. Our government is built upon this creed, and the Council of United Emirs serves as the authoritative body of our nation. This council is a joint assembly composed of hereditary monarchs, emirs, sheikhs, and local religious leaders from all fixed territories across the nation. This council holds the supreme authority to declare war, make peace, legislate, adjudicate, and appoint or dismiss officials. It is also responsible for selecting our highest leader—the Grand Vizier."
-NYDD_AFR_new_law_reform: "National Constitution"
-NYDD_AFR_new_law_reform_desc: "Hatred, slaughter, revenge. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of hatred and ethnicity, and stride toward tomorrow. Power must be restrained, status must be defined, discrimination and vendettas must cease, and the peaceful future we yearn for must arrive. The National Constitution is the product of the aspirations of countless martyrs. No matter what, we have made our choice.\n\n§J...Our homeland above all else.§!"
-NYDD_AFR_new_pure_reform: "Purification Act"
-NYDD_AFR_new_pure_reform_desc: "Tolerance, compromise, concession. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of history and ethnicity, and stride toward tomorrow. Repeated concessions and compromises have not brought understanding or acceptance, but rather the greedy face of those who take advantage. We can wait no longer. The power of the state and the letter of the law will provide the answer. The boundaries of power and identity will be clearly defined, and vengeance will once again prevail. This time, we will eradicate the nation's chronic ills. The peace we seek in our hearts will eventually come. No matter what, we have made our choice.\n\n§O...Our homeland above all else.§!"
+ NYDD_TLC_amir_reform_desc: "Unity is the cornerstone of prosperity. Our government is built upon this creed, and the Council of United Emirs serves as the authoritative body of our nation. This council is a joint assembly composed of hereditary monarchs, emirs, sheikhs, and local religious leaders from all fixed territories across the nation. This council holds the supreme authority to declare war, make peace, legislate, adjudicate, and appoint or dismiss officials. It is also responsible for selecting our highest leader—the Grand Vizier."
+ NYDD_AFR_new_law_reform: "National Constitution"
+ NYDD_AFR_new_law_reform_desc: "Hatred, slaughter, revenge. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of hatred and ethnicity, and stride toward tomorrow. Power must be restrained, status must be defined, discrimination and vendettas must cease, and the peaceful future we yearn for must arrive. The National Constitution is the product of the aspirations of countless martyrs. No matter what, we have made our choice.\n\n§J...Our homeland above all else.§!"
+ NYDD_AFR_new_pure_reform: "Purification Act"
+ NYDD_AFR_new_pure_reform_desc: "Tolerance, compromise, concession. Our nation and people have endured the devastation of hatred and fire, tearing each other apart in turmoil. The chasm of resentment and pain has been deeply etched into the hearts of our people. But time will not stand still, and fate will not stand idly by. We must cross this chasm, shatter the chains of history and ethnicity, and stride toward tomorrow. Repeated concessions and compromises have not brought understanding or acceptance, but rather the greedy face of those who take advantage. We can wait no longer. The power of the state and the letter of the law will provide the answer. The boundaries of power and identity will be clearly defined, and vengeance will once again prevail. This time, we will eradicate the nation's chronic ills. The peace we seek in our hearts will eventually come. No matter what, we have made our choice.\n\n§O...Our homeland above all else.§!"
+
+ NYDD_ADU_centrelize_reform: "Córdoba Central Government"
+ NYDD_ADU_centrelize_reform_desc: "Our empire once fell due to division - we must not repeat this mistake. The Caliph's central government will consolidate all religious and administrative power nationwide, holding appointment authority over all governors and requiring regular gubernatorial reports."
+
+ NYDD_ADU_decentrelize_reform: "Viceroyalty Autonomy"
+ NYDD_ADU_decentrelize_reform_desc: "Our great empire is a universal Islamic state uniting diverse peoples through faith. We should decentralize power to viceroys, implementing region-specific laws to better serve the Caliphate."
+
+ NYDD_ADU_law_reform: "Caliphal Judiciary"
+ NYDD_ADU_law_reform_desc: "The Caliphal Judiciary establishes relative equality among legal schools. Judges from any madhab may hear cases and rule according to their principles, breaking the monopoly of mainstream jurisprudence. As the Caliphate expands, this system grows into a nationwide administration - chief judges dispatch deputies across territories while actively incorporating personnel from various religions and cultures to establish local courts."
+ NYDD_ADU_law_reform2: "Caliphal Judiciary"
+ NYDD_ADU_law_reform2_desc: "The Caliphal Judiciary establishes relative equality among legal schools. Judges from any madhab may hear cases and rule according to their principles, breaking the monopoly of mainstream jurisprudence. As the Caliphate expands, this system grows into a nationwide administration - chief judges dispatch deputies across territories while actively incorporating personnel from various religions and cultures to establish local courts."
+
+ NYDD_ADU_BDH_careless_reform: "Religious Indifference"
+ NYDD_ADU_BDH_careless_reform_desc: "For military government officers, honor and blood matter more than complex jurisprudence. They revere Allah most on battlefields, resulting in governance marked by tolerant religious indifference."
+
+ NYDD_ADU_SEW_peace_reform: "Religious Reconciliation"
+ NYDD_ADU_SEW_peace_reform_desc: "Bloodshed and violence lead nowhere - mercy and tolerance do. Our religious policy doesn't extreme exclude non-Muslims, instead fostering a tolerant multiethnic society. After all, they provide additional tax revenue."
 
 #t4
 NYDD_ASU_religion_happy_reform: "Inquisition"
@@ -191,10 +274,17 @@ NYDD_ASU_absulute_reform_desc: "Through the continuous strengthening of centrali
 NYDD_AFR_parliament_reform: "African National Assembly"
 NYDD_AFR_parliament_reform_desc: "The predecessor of the African Parliament, the Crusader War Council, once played a pivotal role in this land. The Crusader lords and clergy from various dioceses and major monasteries were undoubtedly the initial components of the parliament. During the era of Mad King Diego, nobles acted independently, corruption replaced indolent nobles in filling the seats, and the military and church gradually took control of the parliament. Now, the chronic ills plaguing our kingdom have been eradicated. The constitution and parliament have restructured the monarchy and government in a rational form, allowing people of different bloodlines and faiths to enter the parliament. The kingdom's parliament can finally truly represent the will of the people, exercising power in the name of unity and the nation."
 
+NYDD_ADU_parliament_reform: "Islamic Council"
+NYDD_ADU_parliament_reform_desc: "The Islamic Council nominally leads under the ruler, with the 'Islamic Elder' as its actual leader who typically works alongside the Grand Vizier. Council members primarily consist of muftis, judges of various levels, and Islamic jurists, with subordinate bodies like the 'Assembly of Scholars' and 'Jurisprudence Committee'. As pillars of imperial governance, they oversee judicial rulings, mosque administration, religious ceremonies, welfare endowments, and educational activities. The Council serves as the ruler's Sharia advisor, issues religious rulings, and ensures proper implementation of Islamic law throughout our realm."
+
+NYDD_ADU_BDH_local_reform: "Meritocratic Appointments"
+NYDD_ADU_BDH_local_reform_desc: "As our territory expands, the military government's administration has become... let's say 'inadequate' rather than 'perfect'. Our advisors suggest returning to older practices of allowing local officers discretionary governance. While effective, this will undoubtedly leave our troops too occupied with administration to maintain proper training."
+
 mechanic_iberia_region_less_governing_cost_yes: "§YIberian§! region provinces gain §G-10.0%§! governing cost.\n"
 mechanic_cheaper_coastal_province_core_DD_yes: "§YCoastal§! provinces gain the following effects:\nGoverning cost: §G-25.0%§!\nCore creation cost: §G-25.0%§!\n"
 mechanic_NYDD_EN9_tow_party_reform_yes: "Candidates gain §G+1§! to all base abilities."
 mechanic_NYDD_ASU_zixunhui_good_reform_yes: "When government capacity §YAdvisory Council§! is at maximum, it additionally grants §G-2.00§! unrest."
+mechanic_holy_war_gloden_bull_ga_yes: "Can enact the §YGolden Bull§! '§YWar for God§!' regardless of era requirements" #illius_qui_se_pro_divini
 mechanic__yes: ""
 mechanic__yes: ""
 mechanic__yes: ""
@@ -207,3 +297,74 @@ NYDD_ILK_reform: "Ilkhanate"
 NYDD_ILK_reform_desc: ""
 NYDD_ILK_subject_reform: "Ilkhanate Governor"
 NYDD_ILK_subject_reform_desc: ""
+
+NYDD_TIM_hezhong_reform: "Transoxiana Overseer's Office"
+NYDD_TIM_hezhong_reform_desc: ""
+NYDD_junzhen_reform: "Military Garrison System"
+NYDD_junzhen_reform_desc: ""
+
+JUNZHANG: "Military Commander"
+GUANCHAFU: "Grand Overseer's Office" 
+GUANCHASHI: "Grand Overseer"
+
+# East Asia
+NYDD_MG0_hening_reform: "Hening Imperial Court"
+NYDD_MG0_hening_reform_desc: ""
+NYDD_yuanshuai_reform: "Marshal's Office"
+NYDD_yuanshuai_reform_desc: ""
+NYDD_zongtongfu_reform: "Presidential Office"  
+NYDD_zongtongfu_reform_desc: ""
+NYDD_xingzhitai_reform: "Mobile Administration Bureau"
+NYDD_xingzhitai_reform_desc: ""
+NYDD_tusi_reform: "Tusi Chieftain System"
+NYDD_tusi_reform_desc: ""
+NYDD_fanwang_reform: "Frontier Princes"
+NYDD_fanwang_reform_desc: ""
+NYDD_biansai_reform: "Borderland Frontier Princes"
+NYDD_biansai_reform_desc: ""
+
+YUANSHUAI: "Marshal"
+DAYUANSHUAI: "Grand Marshal"
+ZONGTONGSHI: "Presidential Envoy"
+WANG: "Prince"
+SIZONGGUAN: "Chief Administrator"
+TAIJUN: "Bureau Lord"
+ZONGJUN: "Chief Commander"
+SHIZI: "Heir Apparent"
+FUREN: "Lady"
+ZHANGFU: "Lord"
+MIANSHOU: "Facial Guard"
+HUANGHOU: "Empress"
+ZHUHOU: "Feudal Lords"
+TIANCHAO: "Celestial Dynasty"
+TIANZI: "Son of Heaven"
+HUANGCHAO: "Imperial Dynasty"
+HUANGDI: "Emperor"
+
+# Cultural Assimilation Reforms
+NYDD_ADU_law_reform2_turko_semitic_assimilated: "Unified Homeland"
+NYDD_ADU_law_reform2_turko_semitic_assimilated_desc: "This land beneath our feet birthed not only the Crescent but our civilization. For millennia this has been our home, now finally unified."
+
+NYDD_ADU_law_reform2_maghrebi_assimilated: "Maghrebi Corsairs"
+NYDD_ADU_law_reform2_maghrebi_assimilated_desc: "Maghrebi sailors have taken to piracy and privateering across the Mediterranean. Raiding the coasts of infidels who disrespect us, they'll become a valuable asset to our state."
+
+NYDD_ADU_law_reform2_iberian_assimilated: "Andalusian Renaissance"
+NYDD_ADU_law_reform2_iberian_assimilated_desc: "The Caliph from the West has returned to his faithful Islamic promised land."
+
+NYDD_ADU_law_reform2_adulusian_cg_assimilated: "Andalusian Renaissance"  
+NYDD_ADU_law_reform2_adulusian_cg_assimilated_desc: "The Caliph from the West has returned to his faithful Islamic promised land."
+
+NYDD_ADU_law_reform2_iranian_assimilated: "Conquest of Iran"
+NYDD_ADU_law_reform2_iranian_assimilated_desc: "With Iran's conquest complete, its Islamization begins. We'll dispatch more missionaries to help them recognize Allah's greatness."
+
+NYDD_ADU_law_reform2_byzantine_assimilated: "Byzantine Bureaucracy"
+NYDD_ADU_law_reform2_byzantine_assimilated_desc: "The Greeks are docile, well-suited for the Caliph's rule."
+
+NYDD_ADU_law_reform2_altaic_assimilated: "Altaic Cavalry"
+NYDD_ADU_law_reform2_altaic_assimilated_desc: "The Mongols, once called God's Scourge, conquered half of Europe with their lightning raids. With Altaic allies, our armies will achieve greater tactical superiority."
+
+NYDD_ADU_law_reform2_sudanese_assimilated: "Sudanese Caravan Routes"
+NYDD_ADU_law_reform2_sudanese_assimilated_desc: "The Sudanese have long established trade routes through their perilous lands, connecting southern Africa with Egypt's wealth."
+
+NYDD_ADU_law_reform2_cushitic_assimilated: "Recruited Cawa"
+NYDD_ADU_law_reform2_cushitic_assimilated_desc: "Ethiopia's Cawa regiments know the terrain well, guiding our armies along faster routes to reduce attrition."

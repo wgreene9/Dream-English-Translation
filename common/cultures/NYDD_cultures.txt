@@ -9,6 +9,16 @@ french = {
 	berrich_french = {}
 	limousin_french = {}
 	auvergnat_french = {}
+	DD_ARA_french = {
+		province = {
+			local_has_tercio = yes
+		}
+	}
+    DD_SP7_french = {
+		province = {
+			local_has_tercio = yes
+		}
+	}
 }
 germanic = {
 	#NYDD_ger_haiwai_culture = {}
@@ -40,6 +50,7 @@ adulusian_cg = {
 	ubaydah = {}
 	banbalunah = {}
 	tulaytulah = {}
+	franja = {}
 }
 #海外
 DD_haiwai_cg = {
@@ -68,6 +79,7 @@ maghrebi = {
 	muzhalaipu = {}
 	italyya = {}
 	mulabite = {}
+	siqilliya = {}
 }
 turko_semitic = {
 	arabic_culture = {}
@@ -145,4 +157,13 @@ byzantine = {
 carpathian = {
 	wallachia = {}
 	moldavian = {}
+}
+
+gaelic = {
+	manx = {
+		primary = KOI
+	}
+	briton = {}
+	dunuonia = {}
+	cymru = {}
 }

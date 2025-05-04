@@ -1,3 +1,16 @@
+4.30
+Version 1.0.5 Updates
+- Added Aragon mission tree
+- Added Al-Andalus (Badajoz, Seville, Granada) mission trees
+- Added Fez mission tree
+
+Other Changes
+- Implemented Moorish Estate mechanics for Africa (unlocks after Third Great Revolt)
+- AI Asturias now has 10% chance to avoid civil war (unless there's a player in Iberia)
+- AI Asturias will now form Spain
+- Added homecoming BGM for Mallorca
+- Other minor fixes and improvements
+
 3.17
 - Removed the Arabian missions.
 - Fixed the issue where Morocco's "Call to the Faithful" interaction cost 10 instead of 5.

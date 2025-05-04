@@ -1,9 +1,23 @@
 ﻿l_english:
 
 DD_confucianism_group: "Confucian Religious Group"
-outward_confucianism: "Lixue" # Ritual Studies
+outward_confucianism: "Lixue" # Ritual Studies/Lixue/Li-Confucianism
 outward_confucianism_religion_desc: ""
-rangyi_school: "Ritual Studies - Exclusionist Faction"
+muslim_confucianism: "Hui-Ru" # Hui-Confucianism
+muslim_confucianism_religion_desc: ""
+jesu_confucianism: "Tianxue" #Tianxue/Tian-Confucianism
+jesu_confucianism_religion_desc: ""
+wu_confucianism: "Wu Wei" # Wu-Confucianism
+wu_confucianism_religion_desc: ""
+rangyi_school: "Rangyi School"
+mingzheng_school: "Mingzheng School"
+tongde_school: "Tongde School"
+juzheng_school: "Juzheng School"
+huaiming_school: "Huaiming School"
+fengjiao_school: "Fengjiao School"
+jichen_school: "Jichen School"
+tongming_school: "Tongming School"
+chuhuai_school: "Chuhuai School"
 
 DD_armenian_religion: "Armenian Orthodox"
 DD_armenian_religion_religion_desc: "Originating from the influence of Gregory the Illuminator on Tiridates III, Christianity was established as the state religion of Armenia. It does not recognize the Council of Chalcedon and advocates for Miaphysitism, thus remaining independent from mainstream Christian churches since the 5th century. The Armenian State Religion is primarily prevalent in the Armenian region."
@@ -13,6 +27,9 @@ rus_orthodox_religion_desc: "Beginning with the Baptism of Rus', Kiev has always
 
 greek_orthodox: "Greek Orthodox"
 greek_orthodox_religion_desc: "Since the division of the Roman Empire, the Eastern Roman Empire inherited its portion of the church, with its theology rooted in the early Church Fathers and Byzantine culture. With the fall of Byzantium, the Orthodox world gradually moved towards complete fragmentation, and the authority of the Ecumenical Patriarch of Constantinople has waned. Today, the influence of the Greek Orthodox Church is mainly present in the Greek region."
+
+jingjiao: "Jingjiao"
+jingjiao_religion_desc: "A sinicized form of Christianity."
 
 NYDD_bosnia_religion: "Bogomilism"
 NYDD_bosnia_religion_religion_desc: "Originating from the teachings of the Gnostic sect of the First Bulgarian Empire, Bogomilism opposes state and church authorities, advocating a return to early Christianity, conducting rituals outdoors rather than in churches, and believing that the world was created by an evil demon. Today, Bogomilism is primarily prevalent in Bosnia."
@@ -34,10 +51,24 @@ harmonized_confucianism: "Harmonized Confucianism"
 greek_religion: "Scholastikos"
 greek_religion_religion_desc: "Born from ancient Greek philosophy and modern Christian organization, the new Greek Religion no longer worships multiple deities."
 
-muslim_confucianism: "Hui Religion"
-muslim_confucianism_religion_desc: ""
+manichean: "Manichaeism"
+manichean_religion_desc: ""
 
-jesu_confucianism: "Tianxue"
-jesu_confucianism_religion_desc: ""
+slavic_pagan: "Slavic Pravda"
+slavic_pagan_religion_desc: "Originating from Slavic historical belief systems, Slavic Pravda was originally a collection of ancient tribal legends. Due to Western Christian cultural invasion, these unorganized myths were integrated into a bond connecting all Slavic brothers. In 1444, Slavic Pravda was primarily concentrated in Slavic regions."
+luomuwa_pagan: "Romuva"
+luomuwa_pagan_religion_desc: "The last surviving Baltic pagan religion."
+suomi_pagan: "Suomenusko"
+suomi_pagan_religion_desc: "An ancient belief system of the Suomi region."
+
+JIAOHUA_NAME: "Civilizing Mission"
+
+sunni_center_of_reformation: "Mission Center"
+
+# muslim_confucianism: "Hui Religion"
+# muslim_confucianism_religion_desc: ""
+
+# jesu_confucianism: "Tianxue"
+# jesu_confucianism_religion_desc: ""
 # Slavic Pravda
 # Originating from the historical belief system of the Slavic people, Slavic Pravda was originally a collection of ancient tribal legends. Due to the invasion of Western Christian culture, these unorganized myths were integrated into a bond connecting every Slavic brother. In 1444, Slavic Pravda was mainly concentrated in the Slavic region.

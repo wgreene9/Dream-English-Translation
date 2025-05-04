@@ -1,6 +1,6 @@
 ﻿government = monarchy
 add_government_reform = NYDD_ALG_zongdu_reform
-primary_culture = moroccan
+primary_culture = maolitaniya_culture
 religion = catholic
 technology_group = muslim
 capital = 343	# Fez
@@ -13,5 +13,6 @@ fixed_capital = 343 # Cannot move capital away from this province & no power cos
 		adm = 2
 		dip = 2
 		mil = 6
+		birth_date = 1394.1.1
 	}
 }

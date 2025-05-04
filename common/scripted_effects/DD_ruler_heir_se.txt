@@ -70,7 +70,17 @@ DD_ASU_GAL_path_ruler = {
 		add_ruler_personality = navigator_personality
 	}
 }
-
+DD_ASU_normal_path_ruler = {
+	define_ruler = {
+		name = "Carlos II 'the Incompetent'"
+		dynasty = "Gonzalez"
+		adm = 2
+		dip = 2
+		mil = 2
+		age = 22
+		claim = 100
+	}
+}
 DD_XLN_1a_ruler = {
 	define_ruler = {
 		dynasty = "von Habsburg"
@@ -448,9 +458,9 @@ DD_ADU_20a = {
 		name = "Abdullah"
 		dynasty = "???"
 		adm = 3
-		dip = 1
+		dip = 2
 		mil = 4
-		age = 30
+		age = 26
 		claim = 10
 	}
 }
@@ -473,5 +483,73 @@ DD_colony_15a = {
 	define_ruler = {
 		name = "Francisco Pizarro"
 		change_mil = 5
+	}
+}
+
+
+ZHAYIDA = {
+    define_consort = {
+        name = "Zaida"
+        adm = 1
+        dip = 5
+        mil = 5
+        female = yes
+    }
+}
+Martina = {
+	define_heir = {
+		name = "Martina"
+		dynasty = ROOT
+		age = 1
+		change_adm = 2
+		change_dip = 2
+		change_mil = 2
+		claim = 0
+		female = yes
+	}
+}
+JCR = {
+	define_heir = {
+		dynasty = "de Fez"
+		adm = 4
+		dip = 4
+		mil = 5
+		claim = 0
+		no_consort_with_heir = yes
+	}
+}
+DD_FEZ_4_1 = {
+	define_ruler = {
+		name = "Francisco I"
+		dynasty = "de Fez"
+		age = 52
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+YIGENAXIU = {
+	define_heir = {
+		name = "Ignatius"
+		dynasty = "de Vivar"
+		adm = 4
+		dip = 3
+		mil = 4
+		age = 10
+		claim = 50
+		block_disinherit = yes
+	}
+	add_heir_personality = DD_FEZ_YIGENAXIU_personality
+}
+TELEISHA = {
+	define_consort = {
+		name = "Teresa"
+		dynasty = "de Fez"
+		religion = ROOT
+		culture = ROOT
+		adm = 5
+   		dip = 4
+    	mil = 2
+		age = 16
 	}
 }

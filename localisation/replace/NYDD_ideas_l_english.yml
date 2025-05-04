@@ -164,6 +164,22 @@ BDH_ideas_6_desc: "We believe that it is Almighty Allah who has granted us the p
 BDH_ideas_7: "Battle-Hardened"
 BDH_ideas_7_desc: "War is not only a test for the army but also a crucial test for a nation and its people. We have endured countless tough battles, emerging from the chaotic period of Taifa分裂 and Christian invasions. With unwavering faith in Allah and the determination to fight our enemies to the end, we have become the only force on the peninsula that advocates absolute force, an army with a state."
 
+DD_BDH_ADU_ideas: "Andalusian Ideas"
+DD_BDH_ADU_ideas_start: "Andalusian Traditions" 
+DD_BDH_ADU_ideas_bonus: "Andalusian Ambition"
+
+BDH_ideas2_1: "Military Government Reorganization"
+BDH_ideas2_1_desc: "Since our unification of Al-Andalus, our militaristic government could generously be called 'less than ideal'. We must reorganize to ensure generals serve only ceremonial roles while competent administrators handle actual governance."
+
+BDH_ideas2_3: "Meritocratic Appointments"
+BDH_ideas2_3_desc: "Our military government suffers none of the religious conflicts plaguing other Iberian states. Indeed, any person - Muslim or not - may earn position through merit and military achievement. Local Moorish Muslims and northern Christian converts alike can become core members of our forces."
+
+BDH_ideas2_4: "Unified Al-Andalus" 
+BDH_ideas2_4_desc: "We have ended Andalusia's wars, reuniting this prosperous land under one banner. Yet our work remains unfinished - many brethren still suffer under Frankish rule. We must liberate our people!"
+
+BDH_ideas2_5: "Umayyad Legacy"
+BDH_ideas2_5_desc: "Though the Umayyad dynasty that once ruled Iberia has fallen, its military heritage remains invaluable. The Caliph's armies swept across Eurasia virtually unchallenged. Like our Umayyad forebears, we shall wage glorious conquests in Allah's name and pursue honor through victory."
+
 DD_SEW_ideas: "Seville Ideas"
 DD_SEW_ideas_start: "Seville Traditions"
 DD_SEW_ideas_bonus: "Seville Ambitions"
@@ -181,6 +197,82 @@ SEW_ideas_6: "Remember the Shame of the Almoravids"
 SEW_ideas_6_desc: "If our army were strong enough, how could we have fallen to such a state? The Almoravid invasion has become an enduring pain and shame for us. We do not know when the next enemy will come, but to prevent further humiliation, we must strengthen our army's training!"
 SEW_ideas_7: "Arab Connections"
 SEW_ideas_7_desc: "In the centuries since Tariq first crossed the strait and set foot on the land of Al-Andalus in 711, countless Berbers and Arabs from Yemen, the Levant, Egypt, and other places have poured into Al-Andalus, bringing diverse cultures, ideas, and technologies. Although the population of Al-Andalus remains predominantly本地人, Islam and Arab culture provide a common identity. Through this identity, we can dismantle the influence of tribal clans and continuously integrate various ethnic groups into the ruling order. Although the once-dominant Syrian elite has declined, Arab culture has become more deeply rooted through conquerors marrying local women and absorbing local families into their lineage and culture. Local nobles learn Arabic and immerse themselves in Arab-Islamic culture, pursuing common goals."
+
+DD_SEW_ADU_ideas: "Andalusian Ideas"
+DD_SEW_ADU_ideas_start: "Andalusian Traditions"
+DD_SEW_ADU_ideas_bonus: "Andalusian Ambition"
+
+SEW_ideas2_1: "Sweet Revenge"
+SEW_ideas2_1_desc: "Ah, revenge - sweet revenge. The Abbadids have claimed their bittersweet vengeance, drinking their enemies' blood like fine wine, savoring that tangy bitterness on their tongues. The age of traitors has ended, and Al-Andalus rises again. But what remains after vengeance? When rage and pleasure fade, only a war-torn land and a cycle of hatred remain. So what remains? The victors of Al-Andalus look inward, only to find emptiness."
+
+SEW_ideas2_2: "Port of Seville"
+SEW_ideas2_2_desc: "Seville, Al-Andalus' second city, lies amid lush farmlands, growing ever more prosperous. It serves as a hub for regional agricultural goods while the Guadalquivir River grants it a commercial port linking east to the capital and west to the Atlantic. Muslim and Christian merchants trade slaves and goods between emirates, while Jewish Radhanite merchants dominate long-distance trade, funneling Mediterranean, Eastern European, even Indian and Chinese goods through Seville into Al-Andalus. Neither Viking raids nor civil wars could dim Seville's wealth and splendor."
+
+SEW_ideas2_3: "Remembering the Caliphate"
+SEW_ideas2_3_desc: "Since the death of Hisham III, last orthodox Caliph of Córdoba, the Taifa kingdoms have become pale shadows of the former Caliphate. The Caliphate was never formally abolished, yet none care. Umayyad and Hammudid claimants still proclaim themselves Caliphs. Many Taifa rulers maintain the fiction of Umayyad authority - by pretending to rule as a ghost Caliph's deputies, their legitimacy goes unchallenged."
+
+SEW_ideas2_4: "Boundless Blue Skies"
+SEW_ideas2_4_desc: "Now Iberia's balance has tipped. Whether they will or no, Christians and Muslims share these boundless blue skies. Rather than slaughter each other, maintaining mutual prosperity brings happiness to all."
+
+SEW_ideas2_7: "Arab Connections"
+SEW_ideas2_7_desc: "Since Tariq first crossed the straits in 711, centuries of Berber and Arab migration from Yemen, the Levant and Egypt have enriched Al-Andalus with diverse cultures, ideas and technologies. Though natives remain the majority, Islam and Arab culture provide a shared identity that weakens tribal bonds and integrates peoples into our order. While Syrian elites have declined, Arab culture took deeper root through conquerors wedding local women and absorbing regional families into their lineages. Native nobles learn Arabic, immerse in Arabo-Islamic culture, and pursue common goals."
+
+DD_GRA_ideas: "Granadan Ideas"
+DD_GRA_ideas_start: "Granadan Traditions"
+DD_GRA_ideas_bonus: "Granadan Ambition"
+DD_GRA_ADU_ideas: "Andalusian Ideas" 
+DD_GRA_ADU_ideas_start: "Andalusian Traditions"
+DD_GRA_ADU_ideas_bonus: "Andalusian Ambition"
+
+DD_TLT_ideas: "Tulaytulan Ideas"
+DD_TLT_ideas_start: "Tulaytulan Traditions"
+DD_TLT_ideas_bonus: "Tulaytulan Ambition"
+
+TLT_ideas_1: "Last Scion"
+TLT_ideas_1_desc: "The Umayyads... inheritors of the Prophet and the Rashidun Caliphs' legacy, built a vast empire that reached its zenith. Yet that glory was extinguished in brutal political strife, with massacre survivors fleeing to Iberia to grasp at fading embers. We are the last Umayyad bloodline - a lone boat adrift between eras on seas of uncertainty. Now Christians advance from the north while Muslims tear themselves apart. In these dire times, we must take charge. As the final Umayyads, we wield legitimacy as our weapon. Perhaps we can unite the lost Muslims - then who knows what may come?"
+
+TLT_ideas_2: "Interwoven Faiths"
+TLT_ideas_2_desc: "Tulaytula, the 'City of Three Cultures' where religions converge, stands as holy ground. Different paths lead to the same truth. As Umayyad heirs, we respect all faiths. Through successive religious waves, Tulaytula absorbed the best of each, forging unique coexistence. When faiths intertwine, enemies become fellow believers, easing our rule."
+
+TLT_ideas_3: "Unending Strife"
+TLT_ideas_3_desc: "Tulaytula stands as the bulwark against the Reconquista, yet receives no Taifa solidarity - only civil wars. Crusaders gnaw at our borders, subjects question our legitimacy, and Taifas fight among themselves. But hardship forges strength - our battle-hardened troops stand ready. We live by war, facing death to end conflict and secure our lands."
+
+TLT_ideas_4: "Celestial Throne"
+TLT_ideas_4_desc: "We are the Umayyad bloodline - true Caliphal heirs. When we ascend the dais as 'Umayyad Caliph', slanders die. Rumormongers prostrate themselves; rebels scatter. The Umayyad name shall soar again, terrifying foes. Our dreams reach beyond Iberia - we will reclaim Damascus and restore the empire. When ancestral glory is revived, who cares for hollow titles?"
+
+TLT_ideas_5: "Changing Tides"
+TLT_ideas_5_desc: "Muslims reminisce when Umayyad domains stretched to Central Asia and the Atlantic, when Baghdad led the world. But centuries passed. Under Crusader assaults, Islamic lands shrank, even Jerusalem was lost. Now the tide turns - our era dawns. We heal old wounds, end compromises, and strike the arrogant. Under the Umayyad banner, Muslims unite awaiting victory."
+
+TLT_ideas_6: "Silent Stars"
+TLT_ideas_6_desc: "The Umayyads built an empire of knowledge. The crescent symbolizes Islam; stars guided Arab astronomers. That empire fell, its wisdom gathering dust in the House of Wisdom. In Iberia, our culture flourished anew in Córdoba, then declined with the Taifas. Gazing at mute stars, we understand - only united under Umayyads can we triumph."
+
+TLT_ideas_7: "Light in Darkness"
+TLT_ideas_7_desc: "'The Umayyad era ended long ago,' scholars lament in cramped halls. What can self-proclaimed heirs achieve in Tulaytula's corner? Unifying Iberia seems impossible; expansion unimaginable. Yet we retain assets - the Umayyad legacy, an invincible army. As fortunes shift, our vision unfolds. Though the road remains hard, dawn follows the longest night. We'll prove ourselves worthy of the Umayyad name."
+
+DD_TLT_ADU_ideas: "Andalusian Ideas"
+DD_TLT_ADU_ideas_start: "Andalusian Traditions"
+DD_TLT_ADU_ideas_bonus: "Andalusian Ambition"
+DD_TLT_ADU_ideas2: "Andalusian Ideas"
+DD_TLT_ADU_ideas2_start: "Andalusian Traditions"
+DD_TLT_ADU_ideas2_bonus: "Andalusian Ambition"
+
+TLT_ideas2_1: "Last Scions"
+TLT_ideas2_1_desc: "Umayyad. We still remember fragments of that mighty empire. Our ancestors' hopes echo in our ears as we finally reach the new era's shore. The overconfident Crusaders have receded from Iberia like the tide, and freed Muslims glimpse again that glorious past. What was once our weapon of legitimacy now legitimizes our newborn empire - the Umayyad name shines anew. We need not reminisce about past glory, for we are that legacy incarnate. But our journey has just begun - having risen from the Sunset Land, we must return triumphant to our ancestral home. Let enemies fear, let enemies kneel - we are both last scions of the old era and pioneers of the new."
+
+TLT_ideas2_2: "Interwoven Faiths"
+TLT_ideas2_2_desc: "Córdoba, former capital of the Neo-Umayyads. Here stood Europe's first university; here Eastern and Western cultures merged, creating a Mediterranean-Middle Eastern cultural center rivaling Baghdad and Constantinople. The Umayyad restoration is dawn's first light after long darkness, showing war-weary people how faiths may coexist. With Iberia reclaimed, our tolerant policies spread far. Religious persecution ends, and like-minded souls join our court. Through interwoven faiths, governance eases and culture blossoms - harmony in diversity, beauty in unity."
+
+TLT_ideas2_3: "Unending Strife"
+TLT_ideas2_3_desc: "Iberia's reconquest ends. War horns still seem to echo across the land as gentle winds bid farewell to departed souls. The living lay down blood-crusted swords, taking up pens to record this peninsula's rebirth. Doubts, conflicts, hatreds, schemes - whether from allied Taifas or sworn enemies - all fade into memory with unification. But looking beyond Iberia, we see strife never ceased. 'To stop war with war, to cease arms with arms' - this was our chosen path, and shall remain our creed. We draw swords again, pointing beyond the peninsula - not for survival now, but to end unending strife."
+
+TLT_ideas2_6: "Silent Stars"
+TLT_ideas2_6_desc: "Stars and moon stay silent - we do not. Under Umayyad leadership, Muslims united to defend their homes. Thus endings became beginnings; thorny paths became flowered roads. Umayyad descendants rediscover ancestral wisdom, making culture and science their new mission. Veterans eagerly join reconstruction - observatories, schools, and bookshops rise from ruins, witnessing cultural renaissance. Where we once gazed helplessly at stars, we now explore galaxies through telescopes in peace. Distant stars remind us to focus on the present. We arm ourselves and march eastward - though celestial bodies stay silent, Muslims yearning for liberation surely gaze at these same stars."
+
+TLT_ideas2_7: "Grand Vision"
+TLT_ideas2_7_desc: "We've taken the true first step. With the last fortress fallen, Iberia's era of unity dawns. Freed from endless wars, we finally revive Umayyad glory. The restored University of Córdoba again becomes Iberia's and the Mediterranean's academic center, attracting scholars of all faiths. Our fleets sail toward unknown oceans. Bustling cities thrive in peace's light as people witness the empire's rebirth. With strong armies and full granaries, our grand military parade shakes Europe, declaring our ambitions. The weak pity themselves; the strong grow stronger. Our grand vision unfolds - the crescent banner shall fly again over Umayyad lands."
+
+TLT_ideas3_1: "Usurper's Warning"
+TLT_ideas3_1_desc: "Umayyad... both unifying banner and our curse. The truth is out - we're impostor scions, legacy of liars and the vain. In this city of three faiths, we betrayed Allah's teachings, propping up dawn with deceit. Broken swords litter bloodied lands where restless demons devour guilty souls on celestial thrones. Times change; the cracked crystal ball's prophecy fulfills as the usurper's kingdom burns, heirs trapped in lies' endless cycle. \"§RUsurper. The celestial throne was never yours. Your kingdom shall be cursed, your soul damned...§!\" The sinner wakes from nightmares - dawn light comes, yet stars stay silent. But with our grand vision unfolding, shall newborn kingdoms halt for dreams? By the window, the sun rises - the sinner's judgment never came.\n\n\"I am the Umayyad Caliph, and my realm is that glorious era reborn.\" He has become history."
 
 DD_ML1_ideas: "Menorca Ideas"
 DD_ML1_ideas_start: "Menorca Traditions"
@@ -458,20 +550,20 @@ DD_ARA_ideas_7: "The Aragonese Prince"
 DD_ARA_ideas_7_desc: "In the court of Barcelona, ministers from two factions argue incessantly; and sometimes, fate forces you to make a choice. The Prince of Aragon is weary of such endless debates, yet he has not found his answer: should he trace the dreams of his ancestors and revive the cause of the conquerors, or should he withdraw to a distant place, returning to the destined land of his dreams... At least for now, it is not yet time to make a choice. So, in this precious moment of respite, let us consider carefully."
 # DD_ARA_ideas_7_desc: "Initially, the Aragonese prince grew weary of convoluted diplomacy. He craved an answer. Should he devote himself to his ancestors' dreams? Or step away to pursue something greater? This decision had to be made by himself."
 
-DD_ARA_ideas2_1: "Politics in the Cracks"
-DD_ARA_ideas2_1_desc: "The people of the Iberian Peninsula never imagined they would come this far in such a manner. The threats of Asturias and the era of the Reconquista are now history, and the adept leaders must face a new future. A fragmented France, a hesitant Holy Roman Empire, a war-torn Africa—our former foes are now the stage for our grand ambitions. Allying with the distant and attacking the near, quelling chaos and exploiting crises, bribing openly... In the interplay of light and shadow, the monarch of the united kingdom looks down upon the world, treating neighboring nations as playthings. Our kingdom's might is felt across the seas, its fame spread far and wide—who says that in the cracks, one cannot find the art of diplomacy?"
+DD_ARA_ideas3_1: "Politics in the Cracks"
+DD_ARA_ideas3_1_desc: "The people of the Iberian Peninsula never imagined they would come this far in such a manner. The threats of Asturias and the era of the Reconquista are now history, and the adept leaders must face a new future. A fragmented France, a hesitant Holy Roman Empire, a war-torn Africa—our former foes are now the stage for our grand ambitions. Allying with the distant and attacking the near, quelling chaos and exploiting crises, bribing openly... In the interplay of light and shadow, the monarch of the united kingdom looks down upon the world, treating neighboring nations as playthings. Our kingdom's might is felt across the seas, its fame spread far and wide—who says that in the cracks, one cannot find the art of diplomacy?"
 
 DD_ARA_ideas2_2: "Protector of the Peasants"
 DD_ARA_ideas2_2_desc: "Water can carry a boat, but it can also overturn it. Yet, the bloody sunset adorns the crimson cross, and the peasants put away their tools and shattered dreams, returning to a cold and tragic reality. However, a brief outburst shattered the facade of peace, and the nation, restored to order, reignited the winds of change for the once-impotent royal family. No longer worried about powerful neighbors, the king overruled all opposition, showing his sincerity and determination to reform for the kingdom's most suffering peasants. Taxes are no longer heavy, and the peasants now open their eyes to the warm sunlight streaming through their windows. Today's royal family is the true protector of the peasants—when the 'highest' and the 'lowest' are united in heart and mind, true 'unity' is achieved."
 
-DD_ARA_ideas2_3: "Maritime Council"
-DD_ARA_ideas2_3_desc: "The great fish folds its fins, stirring the waters for a thousand miles; the roc folds its wings, soaring to the heavens. The throat of the Mediterranean is now in our grasp, and the wealth from the New World has shattered the monopoly of the Italian financiers. We are no longer a timid, insignificant nation, but a united Western power with ambitions in all directions. And this is all thanks to the Maritime Council. Now, we have strengthened its functions and added new weight to our dealings with merchants. Backed by strong national power, the caravans follow our lead, willingly trading their wealth for royal protection. And the trade of the entire Western Mediterranean easily falls into our hands—as it should."
+DD_ARA_ideas3_3: "Maritime Council"
+DD_ARA_ideas3_3_desc: "The great fish folds its fins, stirring the waters for a thousand miles; the roc folds its wings, soaring to the heavens. The throat of the Mediterranean is now in our grasp, and the wealth from the New World has shattered the monopoly of the Italian financiers. We are no longer a timid, insignificant nation, but a united Western power with ambitions in all directions. And this is all thanks to the Maritime Council. Now, we have strengthened its functions and added new weight to our dealings with merchants. Backed by strong national power, the caravans follow our lead, willingly trading their wealth for royal protection. And the trade of the entire Western Mediterranean easily falls into our hands—as it should."
 
 DD_ARA_ideas2_4: "Legacy of the Reconquista"
 DD_ARA_ideas2_4_desc: "The great cause of the Reconquista has concluded, and the past恩怨情仇 are but a wisp of smoke. On the ruins of Iberia, the sole victor gazes at the boundless ocean; the rising sun heralds a new dawn, and the distant sound of bagpipes heralds the peninsula's rebirth. The so-called Reconquista is but a cycle from one conquest to the next. Yet, the lessons of the past have become new knowledge, guiding our path forward. Our diplomats, with their accumulated experience, continue to maneuver on the international stage, maximizing our nation's interests. Rowing against the current, we must advance or retreat. And the banner of the Reconquista will forever guide us, as we cut through thorns towards the stars and the sea—time flows like a river, unceasing day and night."
 
-DD_ARA_ideas2_5: "Latin Heritage"
-DD_ARA_ideas2_5_desc: "Our Iberia, Latinized Iberia—our century-old dream has finally become reality. Now, Iberia is unified, and we can finally begin the process of Latinization. Today's Iberia is a place of religious chaos and linguistic diversity. Chaotic religious beliefs threaten the stability of the kingdom, and diverse languages hinder communication and exchange across regions. But the era of unified Latinization will come. Unifying religion, promoting Latin... If in the past we conquered and unified Iberia through diplomacy and military might, now we are conquering it culturally."
+DD_ARA_ideas3_5: "Latin Heritage"
+DD_ARA_ideas3_5_desc: "Our Iberia, Latinized Iberia—our century-old dream has finally become reality. Now, Iberia is unified, and we can finally begin the process of Latinization. Today's Iberia is a place of religious chaos and linguistic diversity. Chaotic religious beliefs threaten the stability of the kingdom, and diverse languages hinder communication and exchange across regions. But the era of unified Latinization will come. Unifying religion, promoting Latin... If in the past we conquered and unified Iberia through diplomacy and military might, now we are conquering it culturally."
 
 DD_ARA_ideas2_6: "Silk Committee"
 DD_ARA_ideas2_6_desc: "The Valencia Silk Exchange—this magnificent Gothic structure witnessed the golden age of the Iberian silk trade: silk from the East, arriving via the New World and new sea routes, gathered here and was continuously sold to the nobility across Europe. Gold and silver flowed into our coffers, while the merchants of Venice and Genoa mourned, trapped in trade decline and financial crises. Caravans came and went, ships arrived in droves, the people lived in peace, and communities prospered. Technology and craftsmen gathered here, providing considerable convenience for our community governance. Without silk, where would we be today?"
@@ -521,18 +613,70 @@ DD_zongdu_ideas_7_desc: ""
 DD_SP9_ideas: "Iberian Ideas"
 DD_SP9_ideas_start: "Iberian Traditions"
 DD_SP9_ideas_bonus: "Iberian Ambition"
+SP9_ideas_7: "Chivalry"
+SP9_ideas_7_desc: "Humility, honor, sacrifice, valor, compassion, honesty, justice, spirituality - these are the eight knightly virtues. Martial spirit, loyalty to sovereign, righteous deeds, and exceptional wisdom... these too they pursue lifelong. In lands once fallen, endless conflicts raged. Yet through civil wars and foreign invasions, our proud chivalric tradition endured, now shining brighter than ever in reunified Iberia. Where pessimists declared the end of Iberian knighthood, we proclaim its glorious revival. Tournaments resume before packed crowds in long-abandoned arenas. Knights stand ready, marching toward noble ideals, blades bared.\n\"I swear to be faithful to my love until death.\"\n"
 SP9_ideas_1: "Land of Knights"
-SP9_ideas_1_desc: ""
+SP9_ideas_1_desc: "Our homeland once fell, yet resistance forces emerged from the cracks. But allied armies lacked unity - the self-styled 'Emperor of All Spain' couldn't manage his own house, while Navarrese and Aragonese kings shifted allegiances shamelessly for survival. Africa granted us a second chance, helping expel infidels to establish a true knightly kingdom in Iberia. Inspired by chivalry, we fear no peril; guided by faith, we strike God's enemies. In this land of resistance, knights organize endlessly, witnessing a new Crusading era's dawn.\n\"Offer courage and faith to the Lord.\"\n"
 SP9_ideas_2: "Home of Chivalry"
-SP9_ideas_2_desc: ""
+SP9_ideas_2_desc: "Though hard to admit, the Muslim invasion spurred chivalry's birth. Introduced stirrups birthed new cavalry, transforming Iberian arms. As knightly orders grew, so did chivalric ideals - beacons for knights' striving, and Christendom's priceless spiritual treasure. That Iberia birthed chivalry makes our duty heavier. As its cradle, we cannot lag behind. Our knights eagerly await chances to shine.\n\"Live for dignity and honor.\"\n"
 SP9_ideas_3: "Knight Training"
-SP9_ideas_3_desc: ""
+SP9_ideas_3_desc: "The war-torn land revives, yet the knightly homeland lacked chivalry - threatening our standing. Thus we prioritized knightly education. Combining Christian doctrine with martial spirit, we intensified training - only through hardship are true warriors forged. We integrated education into frequent tournaments, letting all witness knights' development. Hard-won scars become battlefield talismans; splintered lances, shields against despair. Through rigorous training, knights' skills reach new heights, proving decisive in combat. Today's knightly orders march unflinching toward death, leaving only terror in their wake - \"Never turn your back on the enemy.\""
 SP9_ideas_4: "Armed with New Muskets"
-SP9_ideas_4_desc: ""
+SP9_ideas_4_desc: "Knights face unprecedented challenges. New weapons render their charges less fearsome against gunfire; their archery pales against muskets. In this uncertainty, we found new paths - thus, mounted arquebusiers emerged. Shielded by heavy cavalry, these new units employ Iberian mobile-fire tactics to rupture enemy formations, supporting knightly charges. Those declaring knighthood's end shall kneel before our steel, repenting their words.\n\"Never refuse a challenge from equals.\"\n"
 SP9_ideas_5: "Fortress Defense"
-SP9_ideas_5_desc: ""
+SP9_ideas_5_desc: "Knights must lead charges and defend homelands. They have aspirations and people to protect. They are swords for victory, shields for peace. Voluntarily united, they've fortified our strongholds. Centuries of resistance yielded precious defensive experience; unified purpose perfects strategies. Our bastions stand impregnable - before united knights, the fiercest assaults crumble, the direst situations reverse.\n\"Protect the weak and helpless.\"\n"
 SP9_ideas_6: "The Last Knight"
-SP9_ideas_6_desc: ""
+SP9_ideas_6_desc: "The Renaissance, Reformation, Crusades' ebb, new weapons... Amid humanist revival, we withstand theological critiques. As holy war tides recede, the Crusading era inevitably ends. Firearms threaten our mobility, turning proud knightly dreams to gunsmoke dust. We are the old era's remnants, yet steam's distant roar approaches with the tide... We are the last knights. As sunset gilds their armor, moonlight will reveal their stubborn devotion. Horns sound their final charge - minstrels, stay and sing until the new age's winds scatter them to dust."
+
+DD_FEZ_ideas: "Fez Ideas"
+DD_FEZ_ideas_start: "Fez Traditions"
+DD_FEZ_ideas_bonus: "Fez Ambition"
+
+DD_FEZ_ideas_1: "Advanced Galleys"
+DD_FEZ_ideas_1_desc: "The Crusaders achieved great victories against Muslims. When Muslim power still dominated Europe, our galleys transported Crusaders to North Africa and Syria, winning glorious triumphs. To our former overlords, we were first rulers of Fez, then governors of Africa. Now as Africa falters, to defeat a greater foe we must first sever its maritime connections. Galleys remain our best choice for naval dominance. Our craftsmen improve galley designs while soldiers train relentlessly in galley warfare. The galley's era isn't over - our fleet shall write its most glorious chapter yet."
+
+DD_FEZ_ideas_2: "Between Peaks and Sea"
+DD_FEZ_ideas_2_desc: "West lies the endless ocean, east the long Atlas Mountains - within this complex terrain, Fez enjoys natural defenses. During the Crusades, our forces seized this fertile land first. Distance from Africa's political center made direct rule impossible, forcing them to establish us as a viceroyalty. Conquering these lands honed our mountain marching skills, reducing attrition. Now the tides have turned - time to break our chains. An army tempered between peaks and sea shall achieve the impossible against our former masters."
+
+DD_FEZ_ideas_3: "Trade Hub"
+DD_FEZ_ideas_3_desc: "Astride trans-Saharan trade routes linking North and West Africa, we remain commercially vital. Once Muslim caravans traded gold, salt and slaves while spreading knowledge westward. Though that golden age passed, the foundation remains. We'll revive trade routes abandoned after Muslim expulsion. Along dusty trails, laden camels herald trade's new dawn. As Europe's gateway to West Africa, experienced caravans provide resources for greater ambitions - how can impoverished Tunisia defeat a wealthy mercantile state?"
+
+DD_FEZ_ideas_4: "Wealth as Weapon"
+DD_FEZ_ideas_4_desc: "Favored by geography, we broke free from African rule as an independent viceroyalty. To challenge stronger Africa, we must drain their land forces while disrupting trade. We've secretly harbored infamous Mediterranean privateers, rebranding them to harass enemy shipping. Our overlord's precarious position worsens - this economic warfare achieves strategic reversal without bloodshed."
+
+DD_FEZ_ideas_5: "Desert Riders"
+DD_FEZ_ideas_5_desc: "Since Roman times, Mauritanian cavalry earned renown - these desert-born horsemen formed Rome's elite, conquering vast territories. Though Rome fell, the desert riders survived, waiting in silence. We haven't forgotten them. Our envoys sought these proud remnants in the sands, offering glory and power to revive their legacy. Mighty warriors remount, charging for honor and victory - tilting the scales in our favor."
+
+DD_FEZ_ideas_6: "Righteous Rebellion"
+DD_FEZ_ideas_6_desc: "Usurpers sit on thrones while the rightful prince, after long wanderings, reached our domain. Though we bear no love for our overlords, heaven-sent opportunities shouldn't be wasted. We shelter the exiled prince, earning Crusader states' praise. Our resistance transforms from regional defiance into righteous revolt. Though neighbors won't aid us, our overlord loses legitimacy, isolated and vulnerable. Having bided our time, we march east - where our banners appear, people will welcome their liberators."
+
+DD_FEZ_ideas_7: "Merchant Ship Expertise"
+DD_FEZ_ideas_7_desc: "With eastern routes blocked by mountains, the sea becomes our lifeline. Maritime trade dominates our commerce whether with Iberian Crusader states, our overlord, or Italian merchants. Thus our traders mastered winds and currents, arbitrage, brokerage, and negotiation. Merchant contracts flood in; ships crowd our harbors. Land and sea trade converge here, completing our final advantage against our overlords."
+
+DD_MOT_ideas: "Mauritanian Ideas"
+DD_MOT_ideas_start: "Mauritanian Traditions"
+DD_MOT_ideas_bonus: "Mauritanian Ambition"
+
+DD_MOT_ideas_1: "Advanced Galleys"
+DD_MOT_ideas_1_desc: "The Christians achieved great victories against Muslims in their Crusades. When Muslim influence still dominated the European continent, our galleys had already transported Crusader warriors to North Africa and Syria, achieving glorious victories. To our former suzerain, we were first and foremost rulers of Fez, and only secondarily governors of Africa. Now with Africa embroiled in turmoil, if we wish to defeat a stronger foe, we must first sever its maritime connections with allies, leaving it isolated. Galleys remain our optimal choice for naval dominance. Our craftsmen focus on improving galley quality, while our soldiers train rigorously in galley warfare. The age of galleys is not yet over - our warships shall leave an indelible mark on the glorious history of galleys upon the seas."
+
+DD_MOT_ideas_2: "Between Peaks and Sea"
+DD_MOT_ideas_2_desc: "Bordered by the endless ocean to the west and the lengthy Atlas Mountains to the east - within this complex geographical environment, Fez lies protected between natural barriers that are easy to defend but hard to attack. During the Crusades against Muslims, our forces took the lead in entering this land of abundance and opportunity. Being distant from Africa's political center made their rule ineffective, forcing them to establish us as a viceroyalty. Our warriors honed their mountain marching skills during the conquest, significantly reducing attrition. Now the situation has changed - it is the perfect time to emerge from the mountains and break the chains of our former overlord's rule. The army tempered between peaks and sea is destined to achieve immortal feats in this 'david versus goliath' conflict."
+
+DD_MOT_ideas_3: "Trade Hub"
+DD_MOT_ideas_3_desc: "Located along one of the trans-Saharan trade routes connecting North Africa to West Africa, we maintain pivotal importance in Saharan trade. In former times, Muslims organized massive caravans trading gold, salt, slaves and other goods along these routes, transmitting knowledge and technology to West Africa. Though that golden age has passed, the foundation remains. We will revive the trade that gradually declined after the Muslim expulsion. Along the dusty sand roads, heavily-laden camels carry the dawn of a new era in trade history. Now positioned as Europe's gateway for goods entering West Africa, our experienced caravans provide the capital for grand ambitions - how could impoverished Tunisia possibly defeat a wealthy trading nation?"
+
+DD_MOT_ideas_4: "Economic Warfare"
+DD_MOT_ideas_4_desc: "Benefiting from exceptionally favorable geographical conditions, we successfully separated from African rule, establishing ourselves as an independent viceroyalty. Now to confront the more powerful Africa, we must not only deplete their land forces but also disrupt their economic and trade activities at sea. We have secretly harbored many notorious privateers from the Mediterranean coast, granting them new identities to harass enemy trade routes. Our suzerain's already precarious situation worsens further - this demonstrates the remarkable success of our economic warfare strategy, achieving a reversal of fortunes without deploying a single soldier."
+
+DD_MOT_ideas_5: "Desert Cavalry"
+DD_MOT_ideas_5_desc: "Since Roman times, Mauritanian cavalry has enjoyed great renown; in the Roman legions, these desert-bred horsemen formed the main force, earning countless merits in expanding the empire's territories. Though Rome's era has passed, the desert cavalry did not disappear, only lying dormant in the endless sands. We have not forgotten their existence. Our envoys ventured deep into the desert, finding descendants still lost in past glories, and invited them to reclaim their former splendor with promises of merit and power. The valiant warriors have mounted their steeds once more, charging for glory and victory. Thus, the scales of victory tilt further in our favor."
+
+DD_MOT_ideas_6: "Righteous Uprising"
+DD_MOT_ideas_6_desc: "Usurpers sit high in their halls, while the rightful prince, after many hardships, finally reached our domain. Though we bear no goodwill toward our suzerain, when heaven grants such an opportunity, how can we not seize it? Thus without hesitation we sheltered the former dynasty's prince, earning widespread acclaim among Crusader states. Now our resistance is no longer framed as a regional rebellion against central authority, but rather as a righteous campaign against usurpers. Though neighboring states won't offer support because of this, our suzerain has lost its legitimacy and stands isolated in desperate straits. Having lain dormant for so long, now is the time for our eastern campaign - for wherever our armies march, the people will joyously welcome their liberators."
+
+DD_MOT_ideas_7: "Merchant Ship Expertise"
+DD_MOT_ideas_7_desc: "With eastern routes blocked by mountain ranges, maritime transport has become our most convenient means of external communication. Naturally, sea trade constitutes the major part of our foreign commerce. Whether trading with Iberian Crusader states, our suzerain, or even Italian city-states, merchant ships inevitably play a central role. This is precisely why our maritime traders have accumulated rich experience: utilizing winds and currents, profiting from price differences, acting as intermediaries, commercial negotiations - our sea traders have mastered it all. Consequently, merchant ship contracts arrive in endless succession, while trading vessels flock to our ports. Land and sea trade converge here, completing the final piece that enables us to challenge our suzerain."
 
 DD_BG_ideas: "Ideas"
 DD_BG_ideas_start: "Traditions"

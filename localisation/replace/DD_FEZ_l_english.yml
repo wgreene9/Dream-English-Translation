@@ -1,0 +1,414 @@
+﻿l_english:
+ DD_FEZ_1_2_title:0 "Swift Action"
+ DD_FEZ_1_2_desc:0 "The wicked Moors have risen in rebellion, and we must crush them immediately!"
+
+ DD_FEZ_1_4_title:0 "Prepare for War"
+ DD_FEZ_1_4_desc:0 "Alas, after the first great uprising, the Moors have been lurking in our south, waiting for their next opportunity. Now that we have our hands free, we finally have the chance to eliminate this threat once and for all."
+
+ DD_FEZ_1_5_title:0 "Securing the South"
+ DD_FEZ_1_5_desc:0 "With the Moorish forces in the south vanquished, our urgent task is to establish new governance to prevent any future rebellions."
+
+ DD_FEZ_1_9_title:0 "Return to the Homeland"
+ DD_FEZ_1_9_desc:0 "Oh, the land of our ancestors, the former domain of the great El Cid - Valencia! We have finally returned from North Africa."
+
+ DD_FEZ_1_13_title:0 "Legend of the Knights"
+ DD_FEZ_1_13_desc:0 "The history of the Crusades is our history. Our young men still revel in the glory of their brave predecessors, and now we shall establish a new crusade for them - an eternal crusade."
+
+ DD_FEZ_2_1_title:0 "Storm Clouds Gather"
+ DD_FEZ_2_1_desc:0 "The winds carry news of unrest in Africa. Perhaps we should prepare ourselves before the §Rcountdown§! begins."
+
+ DD_FEZ_2_2_title:0 "Crush the Rebellion"
+ DD_FEZ_2_2_desc:0 "The governor of neighboring Algiers is also facing a rebellion. Let us help this friend we've never met."
+
+ DD_FEZ_2_4_title:0 "Reclaim the Northern Ports"
+ DD_FEZ_2_4_desc:0 "Africa stole our ports under the pretense of dealing with the wicked Moors for us. In truth, it was merely to seize the trade profits of Seville. Now let us take back our ancestral lands."
+
+ DD_FEZ_2_6_title:0 "Mastery of the Sahara"
+ DD_FEZ_2_6_desc:0 "The oases of the desert still harbor many unruly tribes that frequently harass our borders. This cannot stand - we must deal with them decisively."
+
+ DD_FEZ_2_8_title:0 "Across the Strait"
+ DD_FEZ_2_8_desc:0 "Once again, the descendants of El Cid embark on an expedition - but this time, from Africa to Iberia!"
+
+ DD_FEZ_2_9_title:0 "End the Strife"
+ DD_FEZ_2_9_desc:0 "We have witnessed too much needless conflict and civil war. Now is the time to permanently eliminate these sources of unrest."
+
+ DD_FEZ_2_10_title:0 "The Crown Reforged"
+ DD_FEZ_2_10_desc:0 "At last, the crown of Iberia is held by one supreme emperor alone."
+
+ DD_FEZ_2_12_title:0 "Beacons Unabated"
+ DD_FEZ_2_12_desc:0 "Oh flames, light our path forward."
+
+ DD_FEZ_2_13_title:0 "Cultivate the Land"
+ DD_FEZ_2_13_desc:0 "Oh land, nourish all things."
+
+ DD_FEZ_2_14_title:0 "Enduring Peace"
+ DD_FEZ_2_14_desc:0 "Oh people, cast away your disquiet."
+
+ DD_FEZ_3_3_title:0 "Return of the Prince"
+ DD_FEZ_3_3_desc:0 "Since we took in that noble lord, everything became clear. The rightful heir of Africa shall return to his most loyal Tunis in proud triumph."
+
+ DD_FEZ_3_4_title:0 "Advance on Algiers"
+ DD_FEZ_3_4_desc:0 "We apologize - this is nothing personal."
+
+ DD_FEZ_3_5_title:0 "Death to Usurpers"
+ DD_FEZ_3_5_desc:0 "The proper end for every throne-stealer."
+
+ DD_FEZ_3_7_title:0 "Rebuilding Africa"
+ DD_FEZ_3_7_desc:0 "How beautiful Africa is. But to distance ourselves from those wicked usurpers, our Regent suggests we adopt a new name - what of Mauritania? His words seem to brook no dissent."
+
+ DD_FEZ_3_9_title:0 "Mediterranean Island Chain"
+ DD_FEZ_3_9_desc:0 "The Mediterranean isles are vital for securing our trade routes. Let us build the navy we lack and find a way to control them."
+
+ DD_FEZ_3_11_title:0 "The Last Crusade"
+ DD_FEZ_3_11_desc:0 "Is it over? Our ancient foes seem to have vanished, and now only Christian prayers echo across this land. So has it all truly ended?"
+
+ DD_FEZ_3_13_title:0 "Mediterranean Commerce"
+ DD_FEZ_3_13_desc:0 "Dominating Mediterranean trade is crucial for our kingdom's economy."
+
+ DD_FEZ_3_14_title:0 "Official Plunder License"
+ DD_FEZ_3_14_desc:0 "Tsk, some claim Crusaders delight in plunder. How dare they! The deeds of Crusaders can hardly be called 'plunder'. All is done for the Lord's work."
+
+ DD_FEZ_3_15_title:0 "After the Dawn"
+ DD_FEZ_3_15_desc:0 "The time has come for us to take this step."
+
+ DD_FEZ_4_1_title:0 "Between Life and Death"
+ DD_FEZ_4_1_desc:0 "Where danger lurks, opportunity follows."
+
+ DD_FEZ_4_2_title:0 "Court Potential Allies"
+ DD_FEZ_4_2_desc:0 "Perhaps the Governor of Algiers would lend us his aid?"
+
+ DD_FEZ_4_4_title:0 "The Fall of Tunis"
+ DD_FEZ_4_4_desc:0 "They have returned, all of them have returned."
+
+ DD_FEZ_4_6_title:0 "Pacify Cyrenaica"
+ DD_FEZ_4_6_desc:0 "Legions, you need not keep watch over the East any longer."
+
+ DD_FEZ_4_8_title:0 "Sacred Crusade"
+ DD_FEZ_4_8_desc:0 "False causes shall find their eternal rest."
+
+ DD_FEZ_4_9_title:0 "Destroyer of the Kaaba"
+ DD_FEZ_4_9_desc:0 "Let us give the Muslims a memory they shall never forget."
+
+ DD_FEZ_4_10_title:0 "Purge the Unclean"
+ DD_FEZ_4_10_desc:0 "We came too late - had we arrived sooner, they might have been spared their heresy."
+
+ DD_FEZ_4_12_title:0 "Balance the Scales"
+ DD_FEZ_4_12_desc:0 "We must find the proper equilibrium between Regent and King."
+
+ DD_FEZ_4_13_title:0 "Political Negotiations"
+ DD_FEZ_4_13_desc:0 "Through prudent diplomacy and measured compromise, we may broker an accord between the Regent and the King."
+
+ DD_FEZ_4_14_title:0 "Before the Dawn"
+ DD_FEZ_4_14_desc:0 "What is to come shall come."
+
+ DD_FEZ_5_2_title:0 "Extort the Former Suzerain"
+ DD_FEZ_5_2_desc:0 "Though we stand diametrically opposed to our former overlords in Africa, we might yet extract their aid through honeyed words and empty promises."
+
+ DD_FEZ_5_4_title:0 "Crisis of Faith"
+ DD_FEZ_5_4_desc:0 "Since our kingdom's founding, we have dwelt alongside heathens. Africa's iron-fisted policies have made us increasingly zealous - though some still quietly question whether this path is righteous."
+
+ DD_FEZ_5_6_title:0 "Under the Same Stars"
+ DD_FEZ_5_6_desc:0 "We share the same sky and stars. Only a society that embraces §Opurity§!|§Mtolerance§! can stride into the future."
+
+ DD_FEZ_5_9_title:0 "Kingdom of Heaven"
+ DD_FEZ_5_9_desc:0 "Jerusalem alone is too feeble to safeguard the Holy Land. Fear not - we shall intervene."
+
+ DD_FEZ_5_10_title:0 "Cradle of Civilization"
+ DD_FEZ_5_10_desc:0 "Baghdad was a great city before the Mongols wrought their madness upon her. Now we shall restore her former glory."
+
+ DD_FEZ_5_13_title:0 "Call to Crusade"
+ DD_FEZ_5_13_desc:0 "This Crusade is of our own making - and by God, we shall see it through to the end!"
+
+DD_FEZ_ideas: "Fez Ideas"
+DD_MOT_ideas: "Mauritania Ideas"
+
+DD_ARA_shizijunzhiwang_personality: "Crusader King"
+DD_FEZ_YIGENAXIU_personality: "Ignatius"
+DD_FEZ_YIGENAXIU_personality_desc: ""
+
+DD_FEZ_shezheng_decision_title: "Colonize Macaronesia"
+DD_FEZ_shezheng_decision_desc: "The islands of Macaronesia have been thoroughly explored. The time has come to settle our most loyal subjects upon these lands."
+
+# DD_FEZ_chaojin_action: "Control the Hajj"
+# DD_FEZ_chaojin_action_desc: "With the Holy City of Mecca under our control, we shall exploit the commercial opportunities of the Great Pilgrimage.\n\nTarget country will gain the §Y\"Hajj Permitted\"§! modifier\n\nWe will gain §Y10§! prestige and §Y0.1§! years' income"
+# DD_FEZ_chaojin_action_buff: "Hajj Permitted"
+# DD_FEZ_chaojin_action_title: "Control the Hajj"
+
+DD_FEZ_desert_privilege: "Saharan Trade Privileges"
+DD_FEZ_desert_privilege_desc: "The southern continent offers countless commercial opportunities. We trust our merchants won't miss any chance for profit."
+
+mechanic_DD_FEZ_1_13_reform_attributes_yes: "When at war with §Yheretic§! nations, gain bonuses equivalent to a §YCrusade§!"
+DD_FEZ_1_13_reform: "Standing Crusade"
+DD_FEZ_1_13_reform_desc: "The Crusader spirit is our nation's precious legacy. No matter how times change, this pious and holy cause remains worthy of our devotion."
+
+DD_FEZ_3_3_reform: "Viceroy Regency"
+DD_FEZ_3_3_reform_desc: "With a young monarch and uncertain times - ministers unsworn, people distrustful - in these critical moments of survival, the realm still requires the Governor of Fez to shoulder great responsibilities."
+
+ability_DD_FEZ_shezheng_ability: "Regency Power Balance"
+DD_FEZ_shezheng_power: "§YRegency Power§!"
+monthly_DD_FEZ_shezheng_power: "Monthly §YRegency Power§!"
+DD_FEZ_shezheng_power_desc: "The regent's rule depends on popular trust and estate support, but as the monarch matures, their desire to rule personally grows stronger.\n\nMonthly §YRegency Power§! gained from:\nEach point of Stability: §G+0.05§!\nFrancisco in power: §G+0.10§!\nEach loyal estate: §G+0.05§!\n\nMonthly §YRegency Power§! lost from:\nEach disloyal estate: §R-0.10§!\nEach year of Ignatius' personal rule: §R-0.025§! (max §R-0.55§!)\n\nAt minimum value, §YRegency Power§! grants:\nNational Unrest: §G-2.00§!\nAdvisor Costs: §R+20.0%§!\nYearly Legitimacy: §G+2.00§!\nMonthly Autonomy Change: §R-0.05§!\nMaximum Absolutism: §G+20.0§!\n"
+
+DD_FEZ_shezheng_interaction_1: "Emphasize Monarch"
+DD_FEZ_shezheng_interaction_1_desc: ""
+DD_FEZ_shezheng_interaction_2: "Balance the Scales" 
+DD_FEZ_shezheng_interaction_2_desc: ""
+DD_FEZ_shezheng_interaction_3: "Regency Priority"
+DD_FEZ_shezheng_interaction_3_desc: ""
+
+DD_FEZ_shezheng_interaction_1_modifier: "Monarch Emphasis"
+DD_FEZ_shezheng_interaction_3_modifier: "Regency Priority"
+DD_FEZ_shezheng_interaction_2_2_buff: "Uphold Legitimacy"
+DD_FEZ_shezheng_interaction_2_1_buff: "Defend Privileges"
+
+DD_FEZ_shezheng_interaction_2_tt1yes: "£yes£If '§YRegency Power§!' is greater than §Y50§!:"
+DD_FEZ_shezheng_interaction_2_tt2yes: "£yes£If '§YRegency Power§!' is less than §Y50§!:"
+DD_FEZ_shezheng_interaction_2_tt1no: "£no£If '§YRegency Power§!' is greater than §Y50§!:"
+DD_FEZ_shezheng_interaction_2_tt2no: "£no£If '§YRegency Power§!' is less than §Y50§!:"
+
+DD_FEZ.0.t: "Death's Breath"
+DD_FEZ.0.d: "[Root.Monarch.GetName] stood in the crude hut, staring at the boy writhing with fever and nightmares. Were it not for the family crest in the boy's hand, he could scarcely believe that Prince Alfonso's youngest son had fled all the way from Tunis - an arrow still lodged in his back. The ghastly wound and bloodstained clothes told the whole story: this boy had nothing left. He had gambled his future and fate on a desperate horseback flight.\n\n[Root.Monarch.GetName] studied the boy intently, listening to his labored, painful breathing - almost hearing the pounding heartbeat like a pendulum striking metallic notes. When soldiers found him unconscious in the outskirts, he was barely clinging to his saddle. Now he teeters at death's threshold. The Governor's brow furrowed deeply, wrestling with the choice that would determine both this boy's fate and the destiny of these lands."
+DD_FEZ.0.a: "Diego's legitimate bloodline - oh God..."
+DD_FEZ.0.b: "Let nature take its course, we cannot bear this risk."
+DD_FEZ.0.b.t: "§RMissing this event will permanently fail the mission.§!"
+DD_FEZ.0.a.flag: "Shelter the Prince"
+
+DD_FEZ.1.t: "Supreme of Iberia"
+DD_FEZ.1.d: "None could have foreseen that after eight centuries of Reconquista, it would be us - the apparent interlopers - who would bring it to its final conclusion. Cunning opportunists ignited the wildfires of conflict, yet proved incapable of ending the chaos. Thus we came, and before the unstoppable blades of our Crusade, neither Muslim nor Christian, neither ancient kingdom nor upstart warlord could stand. Iberia's fractured past ends today.\n\nFrom this moment forward, Iberia shall know but one crown and one emperor - [Root.Monarch.GetName]."
+DD_FEZ.1.a: "The old days are gone, the conflicts settled."
+DD_FEZ.1.a_buff: "True Emperor of All Iberia"
+DD_FEZ.1.a.t: "Combines and doubles the effects of §Y\"Chivalric Spirit\"§!, §Y\"Moorish Estates\"§!, and §Y\"False Imperial Crown\"§! into §Y\"True Emperor of All Iberia\"§! until end of game, granting:\nCavalry Combat Ability: §G+20.0%§!\nHeathen Tolerance: §G+2.00§!\nYearly Legitimacy: §G+2.00§!\nGoverning Capacity: §G+300§!"
+
+DD_FEZ.2.t: "Days of Yore"
+DD_FEZ.2.d: "Mauritania - a name both foreign and familiar. Founded by a hero, yet no monarch since has been willing to shoulder its legacy. To the common folk, Mauritania resembles less a real historical kingdom and more an ethereal legend, a beautiful fable - anything but an actual nation, a people, or an identity.\n\nBut winds change direction. Kingdoms long fallen may rise again, and the forgotten shall return."
+DD_FEZ.2.a: "I came, I saw, I conquered."
+
+DD_FEZ.3.t: "The Maghrebi Nuptials"
+DD_FEZ.3.d: "Ignatius, the exile's son weathered by desert sands, finally shed his boyish demeanor beneath the palace walls of Fez. Now he stood upon the dais, his gaunt frame draped in gold-embroidered robes like an unsheathed scimitar - silent yet keen-edged. The Governor's daughter Teresa stood with bowed head, the emerald-and-moonstone silver chains beneath her veil trembling like tamarisks whispering in the night wind. The wedding ceremony rivaled the Crescent Festival in splendor, every blessing dripping with the sweetness of camel's milk and dates.\n\nAs night fell and the wedding drums faded, the Governor sat alone in his chamber, fingers tracing the copper chest bearing his family crest. Stroking his beard with a sigh, his clouded eyes flashed with falcon-like intensity. He had given his daughter to this exiled prince like tossing a poisoned gold coin onto the gaming table. Five years ago when African royal blood stained Tunisian sands, he had taken in this dying orphan; now, as Fez faced its turbulent future, he needed both a puppet and a sword - and this political marriage was the forge to meld them as one."
+DD_FEZ.3.a: "Ignatius will become a true monarch in due time."
+DD_FEZ.3.b: "The realm still needs the Regency - retirement would be premature."
+DD_FEZ.3.a.t: "§YThe Governor will abdicate, passing power to Ignatius.§!"
+
+DD_FEZ.4.t: "Flames of Vengeance"
+DD_FEZ.4.d: "Agony.\n\nClosing his eyes, the phantom sensations returned - the scorched air, the feverish pain, the crimson madness of flames. That fateful night drenched in blood and fire haunted Ignacio's mind like an infernal nightmare. Screams, pleas for mercy, the crackling flames like demonic claws forever scratching at his rage-filled heart.\n\nThe familiar stench of burning snapped him back to reality. A foul, blistering wind tugged at Ignacio's cloak as he beheld the man upon the white steps - the demon who had destroyed everything. The hatred pulsing through his veins moved his limbs as it always had, his heart pounding - his soul trembling. 'Rodrigo!'\n\nIn furious motion, he drew his sword and pointed it at the king upon the high steps, 'I am Ignacio de Vivar, true ruler of Africa!'\n\n'So you're that runaway child...' The setting sun dyed the Maghreb sky blood-red as ember-filled winds lifted Rodrigo's robes like frenzied white feathers.\n\n'You're much... much better than your father.' His lips curled slightly as he leisurely drew his own blade, casually pointing it at the avenger below. The gale blew back his jet-black hair, revealing those golden, hawk-like eyes, 'If you wish to save this nation, then try me!'\n\nLoathing transformed into boiling blood. Never before had Ignacio's eternally burning heart of hatred pulsed so violently. Deep in his soul, the family he'd tried so often to grasp in memory flickered before him - but their faces remained obscured by blood, unrecognizable. Vengeance twisted his features as he charged forward."
+DD_FEZ.4.a: "Agony is life's epic poem."
+
+DD_FEZ.5.t: "A Matter of Business"
+DD_FEZ.5.d: "With the usurper dead and gone, we have inherited nearly all of the Crusader's legacy, and the Maghreb stands on the verge of complete unification. Yet on an eastern isle, Genoa still clings to that eyesore of a trading post. While controlling this insignificant island would bring little profit, to our Governor, bedbugs at one's side are more detestable than enemies on the battlefield - especially when they're money-grubbing Italians.\n\nFortunately, Genoa's Doge has wisely recognized our determination to unify the Maghreb. His envoy comes bearing a rather reasonable offer - requiring only some gold in exchange."
+DD_FEZ.5.a: "At any cost."
+DD_FEZ.5.b: "Perhaps not."
+
+DD_FEZ.6.t: "The Long Road"
+DD_FEZ.6.d: "The Holy War is our birthright and our destined curse. From Iberia to the Mashriq, from the Way of St. James to the Holy Sepulchre - how many lives must be sacrificed, how much blood drained, how many souls spent to traverse this arduous path? What more must we give to prove our devotion, defend our faith, and redeem our spirits? The Lord of Mercy watches over our journey, our sins, and our karma.\n\nYet now we stand beyond vengeance. We have crossed the river of hatred, and our sacred mission has not been forsaken by God's flock. Neither soul nor conscience nor life itself; neither bloodshed nor sin nor purgatorial flames have stopped us on this eternal night's journey. Never have we faltered, never lost our way. Now the world entrusted by the Heavenly Father, the ideal longed for by the disciples - from shore to shore, all holy lands bask in the Gospel's radiance. This road that once seemed endless, we have finally walked to its end."
+DD_FEZ.6.a: "'A great work, accomplished by a great man.'"
+DD_FEZ.6_buff: "Manifest Destiny"
+
+DD_FEZ.7.t: "Those Countless Springs"
+DD_FEZ.7.d: "Spring winds are often gentle - even along North Africa's sandy shores, caressed by tender early spring. Blossoms dance with startled magpies and wandering birds across the sky. Who could imagine such vibrant spring scenery emerging from winter's deathly silence? Beneath this sapphire-washed sky lies a world both mild and leisurely.\n\nDrifting cherry petals fall like jade feathers, spiraling through the air before alighting reluctantly on the man's shoulders. He wears no crown nor silken robes, bears no scepter nor sword - only standing quietly on Africa's shore, watching the spring tides. Lively kingfishers, riding sea breezes, perch lightly on emerald branches, bending one peaceful spring after another."
+DD_FEZ.7.a: "'May every spring arrive as promised.'"
+
+DD_FEZ.8.t: "Those Countless Springs"
+DD_FEZ.8.d: "In the church where requiems resounded, the funerals of the former King and Regent were held together. Majestic hymns echoed beneath the towering dome as spring's golden sunlight gently sprinkled like gold dust upon the cross-emblazoned coffins, casting a dazzling radiance. The new King of the Fez dynasty sat in the corner of the first pew, fidgeting with the cross in his hands.\n\n'Your Majesty,' an attendant whispered, handing him a letter sealed with the kingdom's crimson insignia. The jet-black ink on the paper appeared freshly dried. The King merely glanced at it before folding and tucking it into his sleeve. 'Uncle has left us quite an astonishing legacy.' With a long sigh, the King turned his gaze to the crucified Christ in the sanctuary. The blinding spring light streamed through stained glass windows, spilling past Christ's outstretched arms, making it hard to distinguish what lay ahead."
+DD_FEZ.8.a: "'May every spring arrive as promised.'"
+
+DD_FEZ.9.t: "Beyond the Rules"
+DD_FEZ.9.d: "The Regency's scope of power remains deliberately vague. Compared to his young monarch, the Governor clearly possesses far greater experience in statecraft. By circumventing tedious formalities and complex procedures, he could significantly improve administrative efficiency while expanding his influence. Yet from a long-term perspective, stricter adherence to vassal protocols might better serve our reign."
+DD_FEZ.9.a: "A little grease for smoother progress."
+DD_FEZ.9.a_buff: "Legal Donations"
+DD_FEZ.9.b: "Things should return to proper order."
+DD_FEZ.9.b_buff: "Efficient Administration"
+
+DD_FEZ.10.t: "At the Negotiating Table"
+DD_FEZ.10.d: "Though we're no longer a minor vassal of that former behemoth, the Governor still insists on personally handling foreign envoys. After all, compared to unreliable noble diplomats, keeping all bargaining chips firmly in one's own hands seems prudent. Now that we have a new monarch, perhaps testing Ignacio's diplomatic skills would be wise - or the Governor could again demonstrate who truly wields the nation's power."
+DD_FEZ.10.a: "I'll handle this myself."
+DD_FEZ.10.b: "Ignacio can manage - I trust him."
+
+DD_FEZ.11.t: "Amidst the Night"
+DD_FEZ.11.d: "Fire—cruel and furious flames. A raging wildfire seemed rooted in the Governor's chest, relentlessly consuming his aged and feeble body until every last bone turned to ash and fell into the abyss. The flames of ambition, oh the flames of ambition—this demonic spark, this uncontrollable inferno had driven him down a path of no return.\n\n'You wished to see me?' The Governor strained to lift his heavy eyelids, gazing at the Vivar dynasty's king before him. The river of fate was a beast that devoured the past, mockingly toying with time's hands. The boy who had once lain dying in the desert now stood before him, while the once-vigorous Governor waited for death like a walking corpse. The scorching flames licked at his decaying heart, pulsing like a devil's footsteps.\n\n'Forgive me, Ignacio.' As the assassin's blade pierced the king's chest, the blood-drenched youth stared in shock at his savior. Staggering backward, he fell silently—like every king who had ever tumbled from his tower."
+DD_FEZ.11.a: "The candle has been extinguished."
+
+DD_FEZ.12.t: "Amidst the Night"
+DD_FEZ.12.d: "Regrets... so many regrets. Not a magnificent life, perhaps, but certainly not an idle one. Never ambitious, only seeking comfort and glory - yet saving that reckless young fool set me on this turbulent, bloody path. And now I must fall behind the scenes, unable to see that hotheaded idiot through to the end.\n\n'Ignacio...'\n'I'm here.' The young king hurried closer, grasping the wrinkled hand.\n'Listen well... though these words may be unfit coming from me.' The Governor coughed out labored, painful breaths, his aged yet ocean-deep blue eyes fixed on the anxious but no-longer-youthful face. 'You will become a true monarch. Not just wearing a crown, but ruling a kingdom. You are an eternal flame - fueled by rage and vengeance thus far.' He drew a deep breath, as if expelling his remaining life. 'So keep burning - not for yourself, nor for vengeance, but for your kingdom.'\n\n'Ignacio... become the king you were meant to be.'"
+DD_FEZ.12.a: "The candle has been extinguished."
+
+DD_FEZ.13.t: "Crusade's Fervor"
+DD_FEZ.13.d: "The Crusade's mission is the foundation of our national unity, its purpose the compass guiding our campaigns. As our piety and holy war efforts flourish, the time has come to convert this religious zeal into tangible benefits. For the Governor, bestowing these blessings presents an opportunity to consolidate power while sanctifying our young monarch, ensuring his reign's longevity and stability."
+DD_FEZ.13.a: "This glory belongs to all Crusaders."
+DD_FEZ.13.a.t: "Strengthen clergy privileges §Y'Expansionist Zeal'§!"
+DD_FEZ.13.b: "A Crusader King? We happen to have one ready-made!"
+
+DD_FEZ.14.t: "Comrades-in-Arms?"
+DD_FEZ.14.d: "The Crusade's holy mission often requires the Governor to personally lead armies against unrepentant heathens. But with our monarch now grown, a thorny dilemma emerges. Leaving Ignacio at court would grant him governing experience - potentially undermining the Regency's power. Yet dragging the king to war denies him political education while exposing him to battlefield dangers. Regardless, the Governor must choose what best serves the realm's interests."
+DD_FEZ.14.a: "Ignacio should learn courtly politics."
+DD_FEZ.14.a_buff: "Courtly Presence"
+DD_FEZ.14.b: "I'll only rest easy with him at my side."
+DD_FEZ.14.b_buff: "Campaign Comrade"
+
+DD_FEZ.15.t: "Whispered Leaks"
+DD_FEZ.15.d: "News of Ignacio's refuge in our realm has been compromised! Due to our lax counterintelligence, gossips have spread rumors to eastern courts. Africa's usurper undoubtedly believes these reports. Our spies now confirm he plots to discreetly end the Governor's rule - we must strike first."
+DD_FEZ.15.a: "The time isn't ripe... but we must act!"
+
+DD_FEZ.16.t: "Missive from Fez"
+DD_FEZ.16.d: "Though we lost control of the western territories during the Great Revolt, today the Governor of Fez has sent surprisingly humble correspondence seeking Africa's aid. He pledges that should we rescue Fez from its turmoil, the province will rejoin Africa's administrative jurisdiction once order is restored."
+DD_FEZ.16.a: "Accept his terms - there's no long-term disadvantage."
+DD_FEZ.16.b: "Can't he govern his own lands?"
+
+DD_FEZ.17.t: "Right-Hand Man?"
+DD_FEZ.17.d: "Gradually, Ignacio has transformed from that helpless boy in memory into a spirited young man - passionate about horsemanship and archery, now taking interest in state affairs. Sometimes the Governor sees glimpses of his own long-dead son, yet knows Ignacio remains Vivar blood. Perhaps he could share some power to nurture a capable monarch... or tighten his grip to further cement authority."
+DD_FEZ.17.a: "My word shall be the king's word."
+DD_FEZ.17.b: "Power rightfully belongs to Ignacio."
+
+DD_FEZ.18.t: "Crossroads"
+DD_FEZ.18.d: "Independence from our former overlord has brought difficult days, chief among them the ceaseless religious strife within our borders. Though nominally a holy Crusader state, our realm remains predominantly Berber - a people unwilling to be tamed. The rift between paladins and Muslims widens daily, each faction demanding the Governor's favor. The fundamental question remains: which path shall we take?"
+DD_FEZ.18.a: "Piety must be proven through deeds."
+DD_FEZ.18.a_buff: "Purity"
+DD_FEZ.18.b: "Never shake the foundations of rule."
+DD_FEZ.18.b_buff: "Tolerance"
+
+DD_FEZ.19.t: "Distant Echoes"
+DD_FEZ.19.d: "Our envoys report a novel intellectual movement sweeping the Italian states across the Mediterranean - scholars are rediscovering classical texts while challenging the Church's antiquated doctrines. As a Crusader state, we should perhaps shun such heretical anti-authoritarian trends, yet the Governor finds these revolutionary ideas strangely compelling."
+DD_FEZ.19.a: "Spare no expense to acquire their works!"
+DD_FEZ.19.b: "Sheer nonsense."
+
+DD_FEZ.20.t: "Approaching the End"
+DD_FEZ.20.d: "Today marked the Governor's seventieth birthday, with nobility and dignitaries gathered to celebrate another year of his regency's leadership. At the banquet, Ignacio and Teresa flanked the Governor - this familial harmony symbolizing the realm's stability.\n\nThe crisis struck abruptly. As the Governor rose to speak before the expectant crowd, he suddenly clutched his chest in agony, coughing blood before collapsing into his chair. A pale Teresa immediately helped her father retreat to his chambers, while a troubled Ignacio dismissed the guests, abruptly ending this ill-fated celebration."
+DD_FEZ.20.a: "Whatever path we choose, we must decide swiftly now."
+
+DD_FEZ_1_2_buff: "Domestic Stability"
+
+DD_FEZ_1_4.t: "Lose §Y25§! spy network progress, gain §YCrusade§! casus belli against all eligible target countries and permanent claims on all their territories."
+
+DD_FEZ_1_5.tooltip: "§YHighlighted provinces§! are our cores."
+
+DD_FEZ_1_5.t: "§YHighlighted provinces§! gain '§YStabilized South§!' until end of game, providing:\nLocal Manpower Modifier: §G+25.0%§!\nLocal Religious Unity Contribution: §Y-100.0%§!\n\nUnlocks decision: §Y'Colonize Macaronesia'§!"
+
+DD_FEZ_1_5_buff: "Stabilized South"
+
+DD_FEZ_1_9_buff: "Chivalric Spirit"
+
+DD_FEZ_1_13_reform_buff: "Crusader"
+
+DD_FEZ_2_1_buff: "War Preparations"
+DD_FEZ_2_1.t: "Spawn §Y3§! infantry regiments in §Y[2467.GetName]§!.\n"
+
+DD_FEZ_2_2_buff: "Turning the Tide"
+DD_FEZ_2_2_tooltip: "§RSecond Muslim Great Revolt§! has erupted"
+
+DD_FEZ_2_6_buff: "Berber Trade"
+
+DD_FEZ_2_8_buff: "Moorish Estates"
+
+DD_FEZ_2_9_buff: "False Imperial Crown"
+
+DD_FEZ_2_12_buff: "March Toward Revival"
+DD_FEZ_2_12.t: "All provinces in §YMaghreb§! region will gradually convert to §YMauritanian§! culture"
+
+DD_FEZ_2_13_buff: "Prosperity"
+DD_FEZ_2_13.t: "Unlocks Burgher privilege '§YSaharan Trade Privileges§!'.\n"
+
+DD_FEZ_2_2_war_yes: "£yes£If we complete the mission while at §Mwar§!:"
+DD_FEZ_2_2_war_no: "£no£If we complete the mission while at §Mwar§!:"
+DD_FEZ_2_2_no_war_yes: "£yes£If we complete the mission during §Ypeace§!:"
+DD_FEZ_2_2_no_war_no: "£no£If we complete the mission during §Ypeace§!:"
+
+DD_FEZ_zunwang_1_buff: "Path of Return"
+DD_FEZ_zunwang_2_buff: "Path of Return"
+DD_FEZ_zunwang_3_buff: "Path of Return"
+FEZ_zunwang_tt3: "Modifier '§YPath of Return§!' additional effects:\nMorale Damage: §G+5.0%§!\nMovement Speed: §G+5.0%§!\n"
+
+DD_FEZ_2_9.t: "§Y[Root.GetName]§! gains §Gcores§! on @ASU§MAsturias§!'s core provinces.\n"
+
+DD_FEZ_2_12.t: "Provinces in §YMaghreb§! region will gradually convert to §YMauritanian§! culture.\n"
+
+DD_FEZ_2_14_buff: "Native Administration"
+desc_DD_FEZ_2_14_buff: "Africa is our true homeland."
+DD_FEZ_2_14_buff2: "Administrative Reform"
+
+DD_FEZ_3_3_buff: "Throne-Stealing Crow"
+
+DD_FEZ_3_7_buff: "King of the Tower"
+DD_FEZ_3_7_culture.t: "All provinces with §Ystate religion§! will convert to §YMauritanian§! culture"
+
+DD_FEZ_3_9_buff: "Mediterranean Control"
+DD_FEZ_3_9.t: "Eligible provinces gain:"
+DD_FEZ_3_9_b_buff: "Blue Barrier"
+
+DD_FEZ_3_11.t: "Unlocks province interaction '§YEstablish Moorish Estates§!'\n(§gLocated in upper right corner of province interface - check mod compatibility if not visible)§!\n"
+
+DD_FEZ_3_13_1_tooltip: "No §YMediterranean§! nation has more §YLight Ships§! than us."
+DD_FEZ_3_13_2_tooltip: "Have strongest trade power in at least §Y2§! trade nodes around §YMediterranean§! or §YBlack Sea§!"
+
+DD_FEZ_3_14.t: "Unlocks diplomatic action: '§YJust Love Pillaging§!', allowing us to... eliminate victims' grievances. §g(physically)§!\n"
+DD_FEZ_3_14_buff: "Official Plundering"
+DD_FEZ_clear_action: "Just Love Pillaging"
+DD_FEZ_clear_action_desc: "Pillaging doesn't count as theft... pillaging!... Crusader affairs, can they be called theft?"
+DD_FEZ_clear_action_title: "Just Love Pillaging"
+DD_FEZ_clear_action_tooltip: "Pillaging doesn't count as theft... pillaging!... Crusader affairs, can they be called theft?"
+
+DD_FEZ_3_15_huanzheng_yes: "£yes£If power has been returned to de Vivar family"
+DD_FEZ_3_15_huanzheng_no: "£no£If power has been returned to de Vivar family"
+DD_FEZ_3_15_shijun_yes: "£yes£If power has been seized by de Fez family"
+DD_FEZ_3_15_shijun_no: "£no£If power has been seized by de Fez family"
+DD_FEZ_3_15_huanzheng.t: "Government mechanic '§YRegency Power§!' will be locked at §Gminimum value§!.\n"
+DD_FEZ_3_15_shijun.t: "Government mechanic '§YRegency Power§!' locked at §Gmaximum value§!.\n"
+DD_FEZ_3_15_huanzheng_buff: "Governor's Legacy"
+DD_FEZ_3_15_shijun_buff: "Governor's Legacy"
+DD_FEZ_3_15.tooltip: "§RWe have chosen the nation's future.§!"
+DD_FEZ_3_15_tt: "§GRemoves§! §Rnegative effects§! from government mechanic '§YRegency Power§!'.\n"
+
+DD_FEZ_4_1.tooltip: "We have embraced Diego's bloodline - Alfonso's son, Ignacio."
+DD_FEZ_4_1.t: "Unlocks decision: §Y'Suppress the News'§!\n\n§RBut secrets cannot stay buried forever. If we choose to harbor this spark, we must rise up before the truth leaks out.§!\n"
+DD_FEZ_zheyan_decision_buff: "Deceptive Veil"
+DD_FEZ_zheyan_decision_title: "Suppress the News"
+DD_FEZ_zheyan_decision_desc: "Ignacio is a hot potato - we must maintain absolute secrecy until our final break with @AFR§RAfrica§!.\n§RWarning: If Africa discovers our plans prematurely, the price we'll pay will be...§!"
+DD_FEZ_4_1_buff: "Arms at the Ready"
+
+DD_FEZ_4_2_yes: "£yes£If we completed the mission through §Mdiplomacy§!:"
+DD_FEZ_4_2_no: "£no£If we completed the mission through §Mdiplomacy§!:"
+DD_FEZ_4_2.yes.t: "£yes£If modifier '§YArms at the Ready§!' exists when completing:\n§GExtends§! modifier '§YArms at the Ready§!' by §G10§! years.\n"
+DD_FEZ_4_2.no.t: "£no£If modifier '§YArms at the Ready§!' exists when completing:\n§GExtends§! modifier '§YArms at the Ready§!' by §G10§! years.\n"
+DD_FEZ_4_2_buff: "Diplomatic Finesse"
+
+DD_FEZ_4_6_buff: "Eastern Frontier"
+DD_FEZ_4_6_b_buff: "Legion Integration"
+
+DD_FEZ_4_8_yes_t: "£yes£If we complete the mission while at war with @HSN§YAyyubids§!"
+DD_FEZ_4_8_no_t: "£no£If we complete the mission while at war with @HSN§YAyyubids§!"
+DD_FEZ_4_8_zhanzheng_buff: "Loyal Vassal"
+DD_FEZ_4_8_modifier: "Shattered Sword of Islam"
+
+DD_FEZ_4_9.t: "Great Project '§YKaaba§!' will be converted to '§YMecca Cathedral§!'.\n"
+
+DD_FEZ_4_10.t: "When completing §Mmissionary§! work in §YArabia§! region, gain §Y5§! of each monarch power and §Y0.1§! years of income.\n"
+
+DD_FEZ_4_14.tooltip: "§RThe Governor of Fez is on death's door.§!"
+
+DD_FEZ_5_2.t: "If @AFR§RAfrica§! §Gagrees§!,\nwe will receive §Y10§! prestige, §Y1§! year of income and §Y1§! year of manpower.\n\n§RIf we're hostile with @AFR§RAfrica§!, obviously nothing will happen.§!\n"
+
+DD_FEZ_5_4_yes: "£yes£If our capital has no §YCardinal§! when completing, we will gain one.\n"
+DD_FEZ_5_4_no: "£no£If our capital has no §YCardinal§! when completing, we will gain one.\n"
+
+DD_FEZ_5_6_ttt: "All §YMuslim§! provinces have unrest below §Y1§! §Mand§! we have §Y100§! development in §YMuslim§! provinces §Oor§! we have no §YMuslim§! provinces"
+
+DD_FEZ_5_6.t: "Random §Y10§! §YMuslim§! provinces gain §Y1§! random development.\n\nUnlocks estate §YDhimmi§!"
+
+DD_FEZ_5_9_yes.t: "£yes£If we have §Yfriendly§! relations with @KOJ§YJerusalem§!:"
+DD_FEZ_5_9_no.t: "£no£If we have §Yfriendly§! relations with @KOJ§YJerusalem§!:"
+
+DD_FEZ_5_10.t: "Activates Great Project '§YHouse of Wisdom§!'.\n\nWhen completing §Mmissionary§! work in §YMashriq§! region, gain §Y5§! papal influence and §Y5§! of each monarch power per converted province.\n"
+
+DD_FEZ_5_13.t: "Strengthens clergy privilege §Y'Pious Diplomats'§!"
+
+DD_FEZ_5_6_chuanjiao_buff: "One True Faith"
+DD_FEZ_5_6_rongren_buff: "Tolerance of the Great"
+DD_FEZ_5_6_chuanjiao_yes: "£yes£If we completed through §Opurity§!"
+DD_FEZ_5_6_chuanjiao_no: "£no£If we completed through §Opurity§!"
+DD_FEZ_5_6_rongren_yes: "£yes£If we completed through §Mtolerance§!"
+DD_FEZ_5_6_rongren_no: "£no£If we completed through §Mtolerance§!"
+
+DD_FEZ_5_9_buff: "Holy Land"
+
+DD_FEZ_2_12_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and are §Yfull cores§! of §Y[Root.GetName]§!"
+DD_FEZ_2_13_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and have been upgraded at least §Y2§! times"
+DD_FEZ_2_14_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and have autonomy below §Y5§!"
+DD_FEZ_3_7_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! or its non-tributary subjects"
