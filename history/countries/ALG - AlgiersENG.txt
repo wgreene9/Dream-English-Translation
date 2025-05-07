@@ -5,7 +5,7 @@ technology_group = muslim
 religion = catholic
 primary_culture = algerian
 capital = 338 # Al-Djazair
-religious_school = maliki_school
+secondary_religion = sunni
 
 1444.1.1 = {
 	monarch = {

@@ -4,7 +4,7 @@
  NYDD_kindom_of_crusder_reform_desc: "Although our nation was established under the name and call of a holy war, the reality is that we must cooperate with the infidels. Direct conflict with the infidels would lead to inevitable turmoil. Despite some fanatical warriors always clamoring for jihad, we must compromise with reality."
 
  mechanic_enables_estate_knights_yes: "Enable the §YKnights§! estate."
- mechanic_enables_estate_muslim_yes: "Enable the §YInfidels§! estate."
+ mechanic_enables_estate_muslim_yes: "Enable the §YHeathens§! estate." # Infidels
  mechanic_use_mahedi_title_yes: "Ruler uses the §YMahdi§! title"
  mechanic_use_caliph_title_yes: "Ruler uses the §YCaliph§! title"
  mechanic_has_unique_election_yes: "Has a unique election mechanism"
@@ -19,8 +19,9 @@
  mechanic_disables_estate_dhimmi_yes: "Silences the §YDhimmi§! estate"
  mechanic_no_scholar_adm_cost_yes: "Inviting scholars no longer costs £adm£§Yadministrative points§!"
  mechanic_reduce_BDH_mil_yes: "The discipline bonus from '§YAndalusian Militarization§!' is §R-5.0%§!"
- mechanic__yes: ""
- mechanic__yes: ""
+ mechanic_ALG_AFR_zongdu_plus_yes: "When a candidate sent by Africa is elected, randomly gain §G1§! monarch skill point and receive:\nMinimum Autonomy: §G-5.0§!\nMonthly Autonomy Change: §G-0.1§!\nLiberty Desire: §G-25.0%§!\n"
+ DD_ALG_27a1_tt: "This candidate will also randomly gain §G1§! monarch skill point.\n"
+ mechanic_NYDD_ALG_real_election_reform_yes: "When electing a different candidate from last time, all their skills gain §G+1§!"
  mechanic__yes: ""
  mechanic__yes: ""
  DD_not_normal_election_tt: "Has a unique election mechanism"
@@ -170,8 +171,10 @@
 
  NYDD_ALG_zongdu_reform: "Governorate of Africa"
  NYDD_ALG_zongdu_reform_desc: "The Governorate of Africa is a governorate formed by collaborators with the Kingdom of Africa, primarily controlled by African governors and local nobles. Generally, they exercise the power of the King of Africa to rule the land. However, some have ulterior motives and quietly plot their own interests…"
- NYDD_ALG_republic_reform: "Republic of Algiers"
- NYDD_ALG_republic_reform_desc: "The betrayal during the first great uprising plunged this nation into a state of injustice. Yet, they ultimately seek peace. If following the Franks can bring peace faster, then so be it. However, the Franks cannot bring peace. The governors of Algiers have witnessed endless conflict, and thus a more absurd idea has been proposed… Though bizarre, a council of rulers wearing both crosses and Muslim robes might indeed mediate between the parties."
+ NYDD_ALG_free_republic_reform: "Republic of Algiers"
+ NYDD_ALG_free_republic_reform_desc: "The betrayal during the first great uprising plunged this nation into a state of injustice. Yet, they ultimately seek peace. If following the Franks can bring peace faster, then so be it. However, the Franks cannot bring peace. The governors of Algiers have witnessed endless conflict, and thus a more absurd idea has been proposed… Though bizarre, a council of rulers wearing both crosses and Muslim robes might indeed mediate between the parties."
+ NYDD_ALG_afr_republic_reform: "Republic of Algiers"
+ NYDD_ALG_afr_republic_reform_desc: "The betrayal during the First Great Uprising plunged this nation into unrighteousness. Yet in the end, they only sought peace. If following the Franks would bring peace sooner, then so be it. For this, Algiers sacrificed everything. Algiers' elections were monitored and manipulated by the Franks... The new Viceroy employed every means to exploit his subjects, both for the King's mission and for their own future."
 
  NYDD_MOR_mahedi_reform: "Mahdi State"
  NYDD_MOR_mahedi_reform_desc: "The Maghreb once had two 'Mahdis.' One fell in the struggle in Iberia, and the other was struck down in the ethnic wars of the Maghreb. They were not the saviors prophesied by the Prophet. Now, the third, final, and true Mahdi, ordained by Allah, rises from the desolate Maghreb—the Savior from the sea of sand, who will save the Muslims oppressed by infidels. The Mahdi will establish a truly just and fair government, leading the Islamic world towards the light."
@@ -217,6 +220,12 @@
  NYDD_ADU_mil_noble_reform: "Military Nobility"
  NYDD_ADU_mil_noble_reform_desc: "Many in our government rose through the ranks as generals. Therefore, we should establish a more detailed and referenceable system of military merit."
 
+ NYDD_ALG_watch_reform: "Wring Them Dry"
+ NYDD_ALG_watch_reform_desc: "Under Africa's supervision, everyone must exhaust their utmost, devoting body and soul to Africa until death."
+
+ NYDD_ALG_religous_free_reform: "To Each Their Own"
+ NYDD_ALG_religous_free_reform_desc: "In Algiers' realm, each person need only mind their own affairs, free from worries of religion or war. For we are free."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
@@ -245,6 +254,9 @@
 
  NYDD_ADU_SEW_peace_reform: "Religious Reconciliation"
  NYDD_ADU_SEW_peace_reform_desc: "Bloodshed and violence lead nowhere - mercy and tolerance do. Our religious policy doesn't extreme exclude non-Muslims, instead fostering a tolerant multiethnic society. After all, they provide additional tax revenue."
+
+ NYDD_ALG_real_election_reform: "Fair Elections"
+ NYDD_ALG_real_election_reform_desc: "There's no room left for corruption or backroom deals. We shall have only fair, just and transparent elections. Every candidate may freely express their views, and the electors shall decide through their votes."
 
 #t4
 NYDD_ASU_religion_happy_reform: "Inquisition"

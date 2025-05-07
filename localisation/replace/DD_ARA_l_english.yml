@@ -706,7 +706,7 @@ DD_SP7_bandao_1_2_desc: "The heathens of the Maghreb have been our persistent sc
 DD_SP7_bandao_1_4_title: "March on Alexandria"
 DD_SP7_bandao_1_4_desc: "The Ayyubids are eagles perched over Egypt, having survived the Crusader tide through schemes and foul agreements. Now we shall correct this oversight."
 
-DD_SP7_bandao_1_8_title: "Return to Southern French Holdings"
+DD_SP7_bandao_1_8_title: "Return to South France" # Return to Southern French Holdings
 DD_SP7_bandao_1_8_desc: "Southern France - homeland of our Latin faction nobles - has been lost since the Albigensian Crusade's failure. After centuries of exile, the time has come for their homecoming."
 
 DD_SP7_bandao_1_10_title: "Dominate the Adriatic"
@@ -751,7 +751,7 @@ DD_SP7_bandao_2_12_desc: "The Reconquista's fires have ended - now the people of
 DD_SP7_bandao_2_13_title: "Develop Valencia"
 DD_SP7_bandao_2_13_desc: "Valencia stands as our greatest Mediterranean port and most prosperous trading hub. Let us cultivate Valencia's advantages to establish the Western Mediterranean's premier commercial nexus."
 
-DD_SP7_bandao_2_14_title: "Promote Technological Innovation"
+DD_SP7_bandao_2_14_title: "Promote Innovation"
 DD_SP7_bandao_2_14_desc: "Iberia's position at the crossroads of civilizations has made it a melting pot of cultures and merchants. Our enlightened policies have attracted scholars and knowledge to our realm - we shall become a beacon of science and innovation."
 
 DD_SP7_bandao_2_15_title: "The Brilliant Century"
@@ -772,7 +772,7 @@ DD_SP7_bandao_3_8_desc: "Beyond the western waves, we've discovered a coast bloo
 DD_SP7_bandao_3_10_title: "Advance Up the Mississippi"
 DD_SP7_bandao_3_10_desc: "Following the Mississippi upstream reveals golden lands unfolding before us - a prosperous future beckons!"
 
-DD_SP7_bandao_3_11_title:0 "The Unthinkable Dream"
+DD_SP7_bandao_3_11_title:0 "Unthinkable Dream"
 DD_SP7_bandao_3_11_desc:0 "Prosperity and peace, wealth and tranquility, an empire ruling the world, a glorious and radiant era. The dream we once dared not imagine has now become reality. The world lies at our feet, and we shall continue to conquer the future."
 
 DD_SP7_bandao_3_13_title:0 "Piety and Gold"
@@ -1227,7 +1227,7 @@ DD_SP7_lading_ex_1_2_desc:0 "Alas, the lords of Gascony share our fate - fightin
 DD_SP7_lading_ex_1_4_title:0 "Pacify Brittany"
 DD_SP7_lading_ex_1_4_desc:0 "The Bretons have long eluded French lords' control. It's time we taught them a proper lesson."
 
-DD_SP7_lading_ex_1_8_title:0 "Control the Hanseatic League"
+DD_SP7_lading_ex_1_8_title:0 "Control the Hansa"
 DD_SP7_lading_ex_1_8_desc:0 "The Hanseatic League certainly knows how to make money. Might we partake in their fortunes?"
 
 DD_SP7_lading_ex_1_10_title:0 "Venture into Kashubia"
@@ -1236,7 +1236,7 @@ DD_SP7_lading_ex_1_10_desc:0 "What an ancient name - last heard when Poland wasn
 DD_SP7_lading_ex_1_13_title:0 "Seize the Falun Copper Mine"
 DD_SP7_lading_ex_1_13_desc:0 "Such vast copper deposits. Pity the primitive Swedes lack the skill to exploit them."
 
-DD_SP7_lading_ex_1_15_title:0 "Advance to Norwegian Woods"
+DD_SP7_lading_ex_1_15_title:0 "Isn't It Good?" # Advance to Norwegian Woods
 DD_SP7_lading_ex_1_15_desc:0 "Norwegian woooods~~" # Musical reference maintained
 
 DD_SP7_lading_ex_2_1_title:0 "Homecoming"
@@ -1284,7 +1284,7 @@ DD_SP7_lading_ex_3_2_desc:0 "Who even rules Burgundy now? Doesn't matter - we're
 DD_SP7_lading_ex_3_4_title:0 "Sicilian Vespers"
 DD_SP7_lading_ex_3_4_desc:0 "Dry those tears, Sicilians. You'll need them later."
 
-DD_SP7_lading_ex_3_6_title:0 "Reclaim Frankish Legacy"
+DD_SP7_lading_ex_3_6_title:0 "Frankish Legacy"
 DD_SP7_lading_ex_3_6_desc:0 "That so-called Holy Roman Emperor shamelessly stole our Frankish heritage! Me? Oh I've always been Frankish, of course."
 
 DD_SP7_lading_ex_3_8_title:0 "Rule the Low Countries"
@@ -1302,7 +1302,7 @@ DD_SP7_lading_ex_3_13_desc:0 "Croatia - a grotesque fusion of Venetian merchants
 DD_SP7_lading_ex_3_15_title:0 "Unbreakable"
 DD_SP7_lading_ex_3_15_desc:0 "They said Rome was an unbreakable empire. Then it fell without warning. Now Europe knows but one empire - the eternal empire."
 
-DD_SP7_lading_ex_3_16_title:0 "The Unthinkable Dream"
+DD_SP7_lading_ex_3_16_title:0 "Unthinkable Dream"
 DD_SP7_lading_ex_3_16_desc:0 "Rule and greatness, conquest and order - a monumental undertaking born of struggle, a people rising with triumphant cries. The dream none dared envision has become our reality. The past lies at our feet, the future but another step in our conquest."
 
 DD_SP7_lading_ex_4_1_title:0 "The Gathering Shadow"
@@ -1359,7 +1359,7 @@ DD_SP7_lading_ex_5_10_desc:0 "Let the dance begin!"
 DD_SP7_lading_ex_5_13_title:0 "Ruthenian Steppe" 
 DD_SP7_lading_ex_5_13_desc:0 "Ah, the endless grasslands, so beautiful... Wait, what's that dust cloud on the horizon?"
 
-DD_SP7_lading_ex_5_15_title:0 "Paying Respects at Sarai"
+DD_SP7_lading_ex_5_15_title:0 "Pay Respects at Sarai"
 DD_SP7_lading_ex_5_15_desc:0 "Heh... the steppe is too vast indeed."
 
 DD_SP7_lading_falanke: "Francia Orientalis"

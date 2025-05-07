@@ -322,7 +322,7 @@ DD_AFR_59a: ""
 
 NYDD_AFR_long_night_title: "Long Night Approaches"
 NYDD_AFR_long_night_desc: "The crusader golden age fades. Once-thriving African Kingdom under Hautevilles now teeters from misrule and internal strife. With old king dead, Muslim subjects stir - can God's favor preserve this enclave in Islam's heartland? Will Christ's sword still judge infidels? Does He hear our prayers?"
-NYDD_AFR_long_night_ttt: "Auto-completes after §Y[AFR.monarch.GetTitle] Diego 'the Mad'§! dies."
+NYDD_AFR_long_night_ttt: "Auto-completes after §Y[AFR.Monarch.GetTitle] Diego 'the Mad'§! dies."
 
 NYDD_AFR_rally_army_title: "Muster Armies"
 NYDD_AFR_rally_army_desc: "Infidels act! Flames engulf our realm; war-drums echo through sands. We must save crusader legacy! No weakness - storm rages!"
@@ -353,7 +353,7 @@ NYDD_AFR_cross_land_desc: "Establish colonies in New World before rivals. Name f
 NYDD_AFR_compromise_title: "Reconciliation Act"
 NYDD_AFR_compromise_desc: "Muslims see us as Frankish brutes. After endless strife, they crave peace more than us. Show Catholic mercy through compromise."
 
-NYDD_AFR_long_night_ttt: "Auto-completes after §Y[AFR.monarch.GetTitle] Diego 'the Mad'§! dies."
+NYDD_AFR_long_night_ttt: "Auto-completes after §Y[AFR.Monarch.GetTitle] Diego 'the Mad'§! dies."
 NYDD_AFR_rally_army_modifier: "Military Reorganization"
 NYDD_AFR_explore_sand_modifier: "Desert Expedition"
 NYDD_AFR_golden_crown_modifier: "Golden Throne"

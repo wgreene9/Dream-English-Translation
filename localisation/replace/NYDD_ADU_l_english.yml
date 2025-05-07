@@ -6,7 +6,7 @@
  DD_ADU_1a_modifier: "Sharpening Blades"
  DD_ADU_1a_modifier2: "Armed Vigilance"
  DD_ADU_1a_modifier3: "Call to Arms"
- DD_ADU_2_t: "Death Before Dishonor" # Broken Jade or Whole Tile - the meaning is not obvious in English
+ DD_ADU_2_t: "Death Before Dishonor" # Broken Jade or Whole Tile - the meaning is not as obvious in English
  DD_ADU_2_d: "The Taifa era has brought us nothing but fragmentation. All know that unity alone offers salvation, yet the divides between hearts cannot be so easily bridged. Even with the infidel armies at our gates, the Taifas still fight separately. The temptations of power and wealth, like intoxicating wine, drive them to conflict. The seeds of ambition are deeply rooted in each Taifa's soil - none wish to play second fiddle.\n\nBut Allah has grown weary of mankind's ugly scramble for power. The flood of calamity approaches, the flames of Jahannam raise their scorching fangs, and fate no longer grants the Umayyad successors time to squabble over petty interests. If someone would but set aside their hatred, the Qurayshi Eagle might yet find room to soar - or else, clinging to their ambition, make the entire peninsula either the foundation of their throne... or the burial goods in their coffin."
  DD_ADU_2a: "Internal order must precede external resistance."
 
@@ -869,3 +869,6 @@ NYDD_ADU_islam_iberia_title: "Pacification"
 NYDD_ADU_islam_iberia_desc: "It's all over now, no more strife. The people of Al-Andalus only desire tranquil beauty and sweet dreams. Goodnight, Al-Andalus."
 
 NYDD_ADU_islam_iberia_ttt: "Completed the disaster '§YThe Shadow§!'\n(§gThis disaster triggers after forming Al-Andalus)§!"
+
+DD_ADU_use_taifa_color_title: "@ADU Revert to Taifa Map Color"
+DD_ADU_use_taifa_color_desc: "Allows our color to change back to the former Taifa map color."
