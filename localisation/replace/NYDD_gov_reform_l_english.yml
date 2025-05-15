@@ -21,7 +21,10 @@
  mechanic_reduce_BDH_mil_yes: "The discipline bonus from '§YAndalusian Militarization§!' is §R-5.0%§!"
  mechanic_ALG_AFR_zongdu_plus_yes: "When a candidate sent by Africa is elected, randomly gain §G1§! monarch skill point and receive:\nMinimum Autonomy: §G-5.0§!\nMonthly Autonomy Change: §G-0.1§!\nLiberty Desire: §G-25.0%§!\n"
  DD_ALG_27a1_tt: "This candidate will also randomly gain §G1§! monarch skill point.\n"
- mechanic_NYDD_ALG_real_election_reform_yes: "When electing a different candidate from last time, all their skills gain §G+1§!"
+ mechanic_NYDD_ALG_real_election_refrom_yes: "When electing a different candidate from last time, all their skills gain §G+1§!"
+ mechanic_new_general_ruler_at_least_2_yes: "Ruler must have at least §G2§! in skill"
+ mechanic_select_gongxiang_every_ruler_yes: "May select a §YMayor of the Palace§! when each ruler ascends" # Maire du Palais
+ mechanic__yes: ""
  mechanic__yes: ""
  mechanic__yes: ""
  DD_not_normal_election_tt: "Has a unique election mechanism"
@@ -201,6 +204,12 @@
 
  NYDD_BOH_bishopric_reform: "Bohemian Chapter"
  NYDD_BOH_bishopric_reform_desc: ""
+
+ NYDD_FRA_mil_reform: "French Revival Society"
+ NYDD_FRA_mil_reform_desc: "The French Revival Society is a military organization composed of patriotic officers thirsting for revenge and war. Since the disastrous defeat at Albi, the shame and bitterness of France has lingered unbearably. A group of influential French soldiers resolved to stand forth and save their homeland from both external enemies and internal torment. France, inevitably, rushes fervently toward the abyss under the leadership of these bellicose soldiers."
+
+ NYDD_FRA_union_reform: "United Kingdom of France"
+ NYDD_FRA_union_reform_desc: "The debate can now conclude. In a great nation like France, neither the nobility nor the king can be dispensed with."
 
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
