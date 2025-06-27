@@ -2,6 +2,7 @@
 # Region: North Africa, Iberia
  AFR: "Africa"
  MOT: "Mauretania"
+ XDD: "Ceuta"
  BDH: "Badajoz"
  ML1: "Menorca"
  ML2: "Ibiza"
@@ -18,6 +19,7 @@
  SP8: "French Crownlands"
  SP7: "United Kingdoms of Iberia"
  SP6: "Francia"
+ SP5: "Sancho's Expedition"
  HCR: "Holy Cross Land"
  
 # Region: Egypt, Mashriq, Arabia
@@ -32,7 +34,7 @@
  FDM: "Fatimid"
 
 # Region: Balkans, Anatolia
- LAT: "Latin Empire"
+ LAT: "Romania" # Latin Empire
  SAN: "Thessalonica"
  SSL: "Thessaly"
  KLX: "Karasid"
@@ -61,9 +63,14 @@
  NE5: "Antwerp"
  NE6: "Zeeland"
 
+ FR1: "Franco-British Commonwealth"
+
+ LBK: "Lübeck"
+ #Eastern European Steppe
  CMN: "Cumania"
  MSK: "Minsk"
  SUZ: "Suzdal"
+ KSA: "Khazaria"
 
 # West Africa
  ML9: "Almoravids"
@@ -78,6 +85,51 @@
  NW3: "New Granada"
  NW4: "Veracruz"
  NW5: "Cayman Island Brigade"
+
+#Central Asia
+TI1: "Right Bank Army of Transoxiana"
+TI2: "Left Bank Army of Transoxiana"
+TI3: "Helian"
+
+#Western Regions
+XY1: "Chu River"
+XY2: "Western Court"
+XY3: "Khotan"
+XY4: "Golden Mountain"
+
+#Mongolia
+MG0: "Hening"
+MG1: "North of the Mountains"
+MG2: "Vanguard Army"
+MG3: "Boundless Sea"
+MG4: "Cloud Requisition"
+MG5: "Capital Gates"
+MG6: "Upper Forest"
+MG7: "Sea Falcon"
+MG8: "Right of the Sea"
+MG9: ""
+
+#China
+CN0: "Xu"
+CN1: "Chang State"
+CN2: "Xianghua"
+CN3: "Hui"
+CN4: "Zhemin"
+CN5: "Jiangxi"
+CN6: "Celestial Strategy"
+CN7: "Propagating Virtue"
+CN8: "Mighty Spirit"
+CN9: "Yi"
+
+HNN: "Han"
+GNN: "Gan"
+DNN: "Dian"
+LOO: "Liao"
+HAA: "Han"
+LII: "Li"
+JOO: "Jiaozhou"
+SNN: "Shaozhou"
+GXC: "Guilin"
 
 # Region: North Africa, Iberia
  AFR_ADJ: "African"
@@ -98,6 +150,7 @@
  SP8_ADJ: "French Crownland"
  SP7_ADJ: "United Kingdoms of Iberia"
  SP6_ADJ: "Frankish"
+ SP5_ADJ: "Sancho Expedition"
 
 # Region: Egypt, Mashriq, Arabia
  ATI_ADJ: "Antiochan"
@@ -111,7 +164,7 @@
  FDM_ADJ: "Fatimid"
 
 # Region: Balkans, Anatolia
- LAT_ADJ: "Latin Empire"
+ LAT_ADJ: "Romania" # Latin Empire
  SAN_ADJ: "Thessalonican"
  SSL_ADJ: "Thessalian"
  KLX_ADJ: "Karasid"
@@ -140,6 +193,9 @@
  NE5_ADJ: "Antwerpian" # Antwerp
  NE6_ADJ: "Zeelander" # Zeeland
 
+ FR1_ADJ: "Franco-British"
+ LBK_ADJ: "Lübeckian"
+
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"
  SUZ_ADJ: "Suzdal"
@@ -157,3 +213,48 @@
  NW3_ADJ: "New Granadan"
  NW4_ADJ: "Veracruz"
  NW5_ADJ: "Cayman Island Brigade"
+
+#Central Asia
+TI1_ADJ: "Right Bank Transoxian"
+TI2_ADJ: "Left Bank Transoxian"
+TI3_ADJ: "Helian"
+
+#Western Regions
+XY1_ADJ: "Chu River"
+XY2_ADJ: "Western Court"
+XY3_ADJ: "Khotan"
+XY4_ADJ: "Golden Mountain"
+
+#Mongolia
+MG0_ADJ: "Hening"
+MG1_ADJ: "North of the Mountains"
+MG2_ADJ: "Vanguard Army"
+MG3_ADJ: "Boundless Sea"
+MG4_ADJ: "Cloud Requisition"
+MG5_ADJ: "Capital Gates"
+MG6_ADJ: "Upper Forest"
+MG7_ADJ: "Sea Falcon"
+MG8_ADJ: "Right of the Sea"
+MG9_ADJ: ""
+
+#China
+CN0_ADJ: "Great Xu"
+CN1_ADJ: "Chang State"
+CN2_ADJ: "Xianghua"
+CN3_ADJ: "Hui"
+CN4_ADJ: "Zhemin"
+CN5_ADJ: "Jiangxi"
+CN6_ADJ: "Celestial Strategy"
+CN7_ADJ: "Propagating Virtue"
+CN8_ADJ: "Mighty Spirit"
+CN9_ADJ: "Yi"
+
+HNN_ADJ: "Han"
+GNN_ADJ: "Gan"
+DNN_ADJ: "Dian"
+LOO_ADJ: "Liao"
+HAA_ADJ: "Han"
+LII_ADJ: "Li"
+JOO_ADJ: "Jiaozhou"
+SNN_ADJ: "Shaozhou"
+GXC_ADJ: "Guilin"

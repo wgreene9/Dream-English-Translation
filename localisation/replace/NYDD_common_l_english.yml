@@ -132,6 +132,9 @@
  has_dip_advisor_5_tooltip: "£dip£Has §YLevel 5§! §YDiplomatic Advisor§!"
  has_mil_advisor_5_tooltip: "£mil£Has §YLevel 5§! §YMilitary Advisor§!"
 
+
+ is_ireland_province_group_ttt: "Is an §YIrish§! province"
+
 #  NYDD_2jidong_general_tt: "This general has base §G2§! Maneuver.\n"
 
 #  NYDD_remove_steppe_terrain_debuff_modfiier: "Steppe Development"
@@ -218,6 +221,8 @@ DD_is_empty_or_country_or_non_sovereign_subject_holds_ttt: "All colonized provin
 
 DD_due_to_gov_reform_tt: "£yes£Due to our government reform:"
 NSE_CANT_ALLY_1450: "Before 1450 the North Sea Empire is in turmoil and thus cannot form alliances."
+
+is_north_ger_fed_member_ttt: "Member of the North German Confederation"
 
  #music Theme Songs
  CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"

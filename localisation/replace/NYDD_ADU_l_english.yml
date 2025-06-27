@@ -181,13 +181,13 @@
  DD_ADU_28a: "May your kingdom fall at last."
  #May your kindom will fall.
  DD_ADU_28a_tt: "Unlocks decision '§YEstablish the Ifriqiya Governorate§!'.\n"
- DD_ADU_28a_tt2: ""
+ DD_ADU_28a_tt2: "Provinces in the §YMaghreb§! region gain:"
  DD_ADU_28a_modifier: "Rule of Ifriqiya"
- desc_DD_ADU_28a_modifier: "This province's Confucianism has returned to the orthodox Caliphate's rule."
+ desc_DD_ADU_28a_modifier: "This province's Confucianism has returned to the righteous Caliphate's rule."
  DD_ADU_28a_tt3: "£yes£Due to modifier '§YReturn to the Maghreb§!' §Mbeing active§!:"
  DD_ADU_28a_tt5: "When @MGB§YIfriqiya§! Governorate is established, it gains:\nNational manpower modifier: §G+20.0%§!\nLand force limit modifier: §G+20.0%§!\n"
  DD_ADU_28a_tt4: "@MGB§YIfriqiya§! Governorate additionally grants us:\nCavalry Combat Ability: §G+10.0%§!\nCavalry Cost: §G-10.0%§!\n"
- DD_ADU_7a_modifier2: "Rule of the Maghreb"
+ DD_ADU_7a_modifier2: "Rule of Ifriqiya"
  DD_ADU_29_t: "Starlight"
  DD_ADU_29_d: "Alya lay in Juan's arms, gazing past his tear-filled eyes through the broken roof of the abandoned stable at the starry sky. Cold starlight flowed with the milky moonlight over the flower fields outside, where vibrant blossoms unfurled wildly beneath the moon, silently displaying life's serene yet bewitching beauty. The intoxicating floral fragrance seemed to permeate the girl's very soul, making her breathing labored. She curled slightly in the boy's embrace, pressing her head against his chest.\n\nJuan's chest heaved violently, his burning heart like a caged beast, as if weighed down by iron. 'Don't cry... my love, don't weep for me.' Her small, pale hand caressed his face, playfully twirling his golden locks. Scalding tears fell on her cheeks, glistening like silver stars under the cold light - more beautiful than any jewel. The girl in Juan's arms bore a luxuriant crimson blossom at her waist. During their fleeing from pursuers, a stray bullet had found its mark.\n\n'I'm sorry... Alya, it's all my fault... I couldn't make you happy—' 'No—, my love...' Alya weakly turned her head to meet the boy's tear-filled eyes - her own personal constellation. With difficulty, she drew in the floral scent once more as her pale hand slipped from those golden strands, 'I was... already happy.'"
  DD_ADU_29a: "After this, no more partings."
@@ -226,7 +226,7 @@
  DD_ADU_35b_modifier: "Shalandi Warships"
  DD_ADU_35c_modifier: "New Naval Academy"
  DD_ADU_36_t: "Eternity No More"
- DD_ADU_36_d: "[Root.Monarch.GetName] stood amidst ancient Roman marble structures, observing columns, statues, and carved patterns that retained their exquisite craftsmanship despite millennia of weathering. These relics had witnessed Rome's rise and fall, endured the storms brought by Goths, Vandals, Lombards, and Franks. Now another conqueror worthy of Western history books stood before these ruins, contemplating impermanence - how eternal fame could be reduced to scattered stones.\n\nSince Catholicism dominated the West, Romans had struggled under the triple-crowned shadow. Church corruption permeated every cathedral, monastery, bishop's purse, and priest's wallet - epitomized by the Pope himself, now imprisoned in a commoner's house, stripped of papal robes and clad in sackcloth.\n\nThe Church's crimes shall face judgment. All wealth obtained through indulgences and taxes will be distributed to Christians willing to convert. The worst offenders will be executed, while the Pope shall suffer his most frequently ordered punishment - purification by flame.\n\nThis marble city shall become Andalusia's Italian capital, enduring as eternally as Allah's glory."
+ DD_ADU_36_d: "[Root.Monarch.GetName] stood amidst ancient Roman marble structures, observing columns, statues, and carved patterns that retained their exquisite craftsmanship despite millennia of weathering. These relics had witnessed Rome's rise and fall, endured the storms brought by Goths, Vandals, Lombards, and Franks. Now another conqueror worthy of Western history books stood before these ruins, contemplating impermanence - how eternal fame could be reduced to scattered stones.\n\nSince Catholicism dominated the West, Romans had struggled under the triple-crowned shadow. Church corruption permeated every cathedral, monastery, bishop's purse, and priest's wallet - epitomized by the Pope himself, now imprisoned in a commoner's house, stripped of papal robes and clad in sackcloth.\n\nThe Church's crimes shall face judgment. All wealth obtained through indulgences and taxes will be distributed to those willing to convert to islam. The worst offenders will be executed, while the Pope shall suffer his most frequently ordered punishment - purification by flame.\n\nThis marble city shall become Andalusia's Italian capital, enduring as eternally as Allah's glory."
  DD_ADU_36a: "The future breaking from the past's shadow burns bright as flame." #The future breaking out of shades from the past ablaze.
  DD_ADU_36a_tt: ""
  DD_ADU_37_t: ""
@@ -787,7 +787,7 @@ DD_ADU_release_PER_modifier: "Persian Viceroyalty"
 #Local tax modifier: §G+10.0%§!\nLocal production efficiency: §G+10.0%§!
 
 DD_ADU_adm_center: "Administrative Center"
-desc_DD_ADU_adm_center: "This province serves as a regional hub in our vast bureaucratic system. §GWhen§! conditions are met, provinces in this area gain:\nLocal Governing Cost: §G-25.0%§!\nLocal State Maintenance: §G-50.0%§!\n"
+desc_DD_ADU_adm_center: "This province serves as a regional hub in our vast bureaucratic system. §GWhen§! conditions are met, provinces in this area gain:\nLocal Governing Cost: §G-25.0%§!\nLocal State Maintenance: §G-50.0%§!\n[local_tax_modifier]: §G+10.0%§!\n[local_production_efficiency]: §G+10.0%§!\n[local_manpower_modifier]: §G+10.0%§!\n"
 DD_ADU_adm_center_modifier: "Administrative Governance"
 desc_DD_ADU_adm_center_modifier: "This province benefits from governance by the local administrative center."
 
@@ -872,3 +872,6 @@ NYDD_ADU_islam_iberia_ttt: "Completed the disaster '§YThe Shadow§!'\n(§gThis 
 
 DD_ADU_use_taifa_color_title: "@ADU Revert to Taifa Map Color"
 DD_ADU_use_taifa_color_desc: "Allows our color to change back to the former Taifa map color."
+
+ROMA_CALIPH: "Roman Caliphate"
+ROMA_CALIPH_ADJ: "Roman Caliphal"
