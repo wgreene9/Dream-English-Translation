@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = ottoman_government
 government_rank = 2
 primary_culture = turkish

@@ -1,4 +1,4 @@
-﻿# Principality of Nizhny Novgorod-Suzdal
+# Principality of Nizhny Novgorod-Suzdal
 
 government = monarchy
 add_government_reform = principality

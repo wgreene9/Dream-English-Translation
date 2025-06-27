@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 government_rank = 2
 primary_culture = DD_ELY_culture
 religion = greek_orthodox

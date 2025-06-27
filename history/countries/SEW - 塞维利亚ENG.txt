@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 government_rank = 1
 primary_culture = saiweiliya_iberian
 religion = sunni

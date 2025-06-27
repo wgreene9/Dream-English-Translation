@@ -1,4 +1,4 @@
-﻿government = republic
+government = republic
 
 add_government_reform = pirate_republic_reform
 religion = khawarij

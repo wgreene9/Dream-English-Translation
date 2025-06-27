@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = NYDD_ILK_reform
 primary_culture = mongol
 religion = confucianism

@@ -1,4 +1,4 @@
-﻿# adulusian_cg = {
+# adulusian_cg = {
 # 	badahuosi_iberian = {}
 # 	granada_iberian = {}
 # 	saiweiliya_iberian = {}

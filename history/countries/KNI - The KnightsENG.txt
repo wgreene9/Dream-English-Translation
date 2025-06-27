@@ -1,4 +1,4 @@
-﻿primary_culture = africa_culture
+primary_culture = africa_culture
 religion = catholic
 technology_group = western
 capital = 2954 

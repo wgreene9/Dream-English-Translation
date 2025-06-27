@@ -1,4 +1,4 @@
-﻿government = republic
+government = republic
 add_government_reform = civic_republicanism_government
 primary_culture = lombard
 religion = catholic

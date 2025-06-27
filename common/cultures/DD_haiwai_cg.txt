@@ -1,4 +1,4 @@
-﻿DD_haiwai_cg = {
+DD_haiwai_cg = {
 	koj_culture = {}
 	ati_culture = {}
 	tri_culture = {}

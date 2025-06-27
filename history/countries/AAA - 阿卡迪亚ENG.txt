@@ -1,4 +1,4 @@
-﻿government = republic
+government = republic
 government_rank = 1
 primary_culture =  DD_acadia_culture
 religion = greek_religion

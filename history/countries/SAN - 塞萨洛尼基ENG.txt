@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 government_rank = 3
 primary_culture = BYZ_macadon
 religion = greek_orthodox

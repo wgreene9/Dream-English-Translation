@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = NYDD_AFR_sins_kindom_reform
 government_rank = 2
 primary_culture = africa_culture

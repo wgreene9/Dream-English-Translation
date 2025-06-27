@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = NYDD_kindom_of_crusder_reform
 
 primary_culture = koj_culture

@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = NYDD_GRA_taifa_reform
 primary_culture = granada_iberian
 religion = sunni
