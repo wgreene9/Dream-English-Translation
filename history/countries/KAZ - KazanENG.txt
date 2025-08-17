@@ -1,15 +1,15 @@
 government = tribal
 add_government_reform = steppe_horde
 primary_culture = kazani
-religion = sunni
+religion = rus_orthodox
 technology_group = nomad_group
 capital = 1082	
 religious_school = hanafi_school
 
 1438.1.1 = {
 	monarch = {
-		name = "Ulugh Muhammad"
-		dynasty = "Borjigin"
+		name = "Shao Kuan" # Ulugh Muhammad
+		dynasty = "Liu"
 		adm = 3
 		dip = 3
 		mil = 4

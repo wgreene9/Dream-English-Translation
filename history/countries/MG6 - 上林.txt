@@ -1,0 +1,21 @@
+government = monarchy
+technology_group = nomad_group
+add_government_reform = steppe_horde
+primary_culture = kaiping_cul
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 1
+capital = 2114
+add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Xun"
+		dynasty = "Yu"
+		birth_date = 1401.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}

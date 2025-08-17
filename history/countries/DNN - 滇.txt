@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_tusi_reform
+technology_group = chinese
+religion = confucianism
+religious_school = rangyi_school
+primary_culture = dian_chi
+government_rank = 1
+capital = 662	
+add_harmonized_religion = buddhism
+
+1444.1.1 = {
+	monarch = {
+		name = "Xiuchang"
+		dynasty = "Li"
+		birth_date = 1413.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}

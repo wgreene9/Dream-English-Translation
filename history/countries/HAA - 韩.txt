@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+primary_culture = korean_new
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 1013
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Sizheng"
+		dynasty = "Wei"
+		birth_date = 1407.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

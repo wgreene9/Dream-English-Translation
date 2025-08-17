@@ -55,6 +55,7 @@
  EN3: "London"
  EN4: "Essex"
  EN5: "Norfolk"
+ EN6: "Calais"
 
  NE1: "Bruges"
  NE2: "Ghent"
@@ -63,9 +64,26 @@
  NE5: "Antwerp"
  NE6: "Zeeland"
 
+ FRC: "Francia"
  FR1: "Franco-British Commonwealth"
+ FR2: "Farnce"
+ FR3: "Gaul"
+ FR4: "East Francia"
+ FR5: "Middle Francia"
+ FR6: "United Kingdom of France"
+ FR7: "Greater France"
+ FR8: "France"
+
+ R0M: "Rome"
+ R1M: "Rûm" #arabic Roma
+ R2M: "Roma"
+
+ IT1: "Italy"
+
 
  LBK: "Lübeck"
+ RHL: "Rhineland"
+
  #Eastern European Steppe
  CMN: "Cumania"
  MSK: "Minsk"
@@ -99,27 +117,27 @@ XY4: "Golden Mountain"
 
 #Mongolia
 MG0: "Hening"
-MG1: "North of the Mountains"
-MG2: "Vanguard Army"
-MG3: "Boundless Sea"
-MG4: "Cloud Requisition"
-MG5: "Capital Gates"
-MG6: "Upper Forest"
-MG7: "Sea Falcon"
-MG8: "Right of the Sea"
+MG1: "Lingbei" # North of the Mountains
+MG2: "Jianjun" # Vanguard Army
+MG3: "Hanhai" # Boundless Sea
+MG4: "Yunxu" # Cloud Requisition
+MG5: "Doumen" # Capital Gates
+MG6: "Shanglin" # Upper Forest
+MG7: "Haiqing" # Sea Falcon
+MG8: "Haiyou" # Right of the Sea
 MG9: ""
 
 #China
 CN0: "Xu"
-CN1: "Chang State"
+CN1: "Changguo"
 CN2: "Xianghua"
 CN3: "Hui"
 CN4: "Zhemin"
 CN5: "Jiangxi"
-CN6: "Celestial Strategy"
-CN7: "Propagating Virtue"
-CN8: "Mighty Spirit"
-CN9: "Yi"
+CN6: "Tiance"
+CN7: "Xuanyang"
+CN8: "Weiling"
+CN9: "Yuan"
 
 HNN: "Han"
 GNN: "Gan"
@@ -185,6 +203,7 @@ GXC: "Guilin"
  EN3_ADJ: "Londoner"
  EN4_ADJ: "Essex"
  EN5_ADJ: "Norfolk"
+ EN6_ADJ: "Calaisian"
 
  NE1_ADJ: "Brugesian" # Bruges
  NE2_ADJ: "Ghent"
@@ -193,8 +212,24 @@ GXC: "Guilin"
  NE5_ADJ: "Antwerpian" # Antwerp
  NE6_ADJ: "Zeelander" # Zeeland
 
+ FRC_ADJ: "Frankish"
  FR1_ADJ: "Franco-British"
+ FR2_ADJ: "Farncian"
+ FR3_ADJ: "Gallic"
+ FR4_ADJ: "East Frankish"
+ FR5_ADJ: "Middle Frankish"
+ FR6_ADJ: "Franco-British" # (or "United French" if referring specifically to France-UK union)
+ FR7_ADJ: "Greater French"
+ FR8_ADJ: "French"
+
+ R0M_ADJ: "Roman"
+ R1M_ADJ: "Rûmi" #arabic adjective for Rome
+ R2M_ADJ: "Roman"
+
+ IT1_ADJ: "Italian" # french italy
+
  LBK_ADJ: "Lübeckian"
+ RHL_ADJ: "Rhenish"
 
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"
@@ -227,27 +262,27 @@ XY4_ADJ: "Golden Mountain"
 
 #Mongolia
 MG0_ADJ: "Hening"
-MG1_ADJ: "North of the Mountains"
-MG2_ADJ: "Vanguard Army"
-MG3_ADJ: "Boundless Sea"
-MG4_ADJ: "Cloud Requisition"
-MG5_ADJ: "Capital Gates"
-MG6_ADJ: "Upper Forest"
-MG7_ADJ: "Sea Falcon"
-MG8_ADJ: "Right of the Sea"
+MG1_ADJ: "Lingbei" # North of the Mountains
+MG2_ADJ: "Jianjun" # Vanguard Army
+MG3_ADJ: "Hanhai" # Boundless Sea
+MG4_ADJ: "Yunxu" # Cloud Requisition
+MG5_ADJ: "Doumen" # Capital Gates
+MG6_ADJ: "Shanglin" # Upper Forest
+MG7_ADJ: "Haiqing" # Sea Falcon
+MG8_ADJ: "Haiyou" # Right of the Sea
 MG9_ADJ: ""
 
 #China
 CN0_ADJ: "Great Xu"
-CN1_ADJ: "Chang State"
+CN1_ADJ: "Changguo"
 CN2_ADJ: "Xianghua"
 CN3_ADJ: "Hui"
 CN4_ADJ: "Zhemin"
 CN5_ADJ: "Jiangxi"
-CN6_ADJ: "Celestial Strategy"
-CN7_ADJ: "Propagating Virtue"
-CN8_ADJ: "Mighty Spirit"
-CN9_ADJ: "Yi"
+CN6_ADJ: "Xuanyang" # Celestial Strategy
+CN7_ADJ: "Xuanyang" # Propagating Virtue
+CN8_ADJ: "Weiling" # Mighty Spirit
+CN9_ADJ: "Yuan"
 
 HNN_ADJ: "Han"
 GNN_ADJ: "Gan"

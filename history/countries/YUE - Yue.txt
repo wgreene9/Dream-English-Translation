@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = NYDD_xingzhitai_reform
+technology_group = chinese
+religion = confucianism
+religious_school = fengjiao_school
+primary_culture = cantonese
+capital = 667	#Canton
+government_rank = 2
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Zong"
+		birth_date = 1389.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}

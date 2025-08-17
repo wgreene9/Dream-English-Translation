@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = celestial_empire
+technology_group = chinese
+primary_culture = jianghuai
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 3
+capital = 1821
+
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Bing"
+		dynasty = "Lu"
+		birth_date = 1423.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

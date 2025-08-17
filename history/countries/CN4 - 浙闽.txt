@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = NYDD_xingzhitai_reform
+technology_group = chinese
+primary_culture = chimin
+religion = confucianism
+religious_school = juzheng_school
+government_rank = 1
+capital = 669
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Su"
+		dynasty = "Xiao"
+		birth_date = 1424.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+}

@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+religion = confucianism
+religious_school = tongde_school
+primary_culture = chihan
+capital = 1816	#Beijing
+government_rank = 2
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Shangyan"
+		dynasty = "Meng"
+		birth_date = 1401.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}

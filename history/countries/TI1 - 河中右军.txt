@@ -1,0 +1,32 @@
+technology_group = chinese
+primary_culture = hezhong_culture
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+add_government_reform = NYDD_junzhen_reform
+government_rank = 1
+add_harmonized_religion = sunni
+add_harmonized_religion = muslim_confucianism
+capital = 2349
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Huo"
+		dynasty = "Cao"
+		birth_date = 1398.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+		leader = {
+			name = "Huo Cao"
+			type = general
+			fire = 2
+			shock = 4
+			manuever = 6
+			siege = 2
+		}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+}

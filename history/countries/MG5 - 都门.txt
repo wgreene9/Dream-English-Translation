@@ -1,0 +1,21 @@
+government = monarchy
+technology_group = nomad_group
+add_government_reform = steppe_horde
+primary_culture = kaiping_cul
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 1
+capital = 4219
+add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Tongkuai"
+		dynasty = "He"
+		birth_date = 1414.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

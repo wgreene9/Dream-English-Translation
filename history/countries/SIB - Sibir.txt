@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = siberian
+religion = sunni
+technology_group = nomad_group
+capital = 1075	# Chimgi-Tura
+religious_school = hanafi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Yingming"
+		dynasty = "Liu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

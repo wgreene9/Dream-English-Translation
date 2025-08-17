@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_junzhen_reform
+technology_group = chinese
+primary_culture = jianghuai
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 686
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Yuangan"
+		dynasty = "Jie"
+		birth_date = 1399.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}

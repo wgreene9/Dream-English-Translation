@@ -52,6 +52,8 @@
 
 #  NYDD_extra_patriarch_when_consecrate_tt: "Gain extra §G3%§! Patriarch Authority when consecrating.\n"
  NYDD_reduce_hegemons_xuqie_effect_tt: "§TRequirements for claiming hegemony have been reduced.§!\n"
+ DD_cardinal_capital_tt_yes: "£yes£If we are §YRome Catholic§! and our capital has no §YCardinal§!, we will gain a §YCardinal§!.\n"
+ DD_cardinal_capital_tt_no: "£no£If we are §YRome Catholic§! and our capital has no §YCardinal§!, we will gain a §YCardinal§!.\n"
 #  NYDD_remove_steppe_terrain_debuff_tt: "§GRemoves§! §YSteppe§! terrain development cost penalty.\n"
 #  NYDD_burN_city_give_church_power_tt: "§RPillaging§! §YNon-state Religion§! provinces grants §G5.00§! Church Power.\n"
 #  NYDD_raze_diff_religion_burn_church_tt: "Razing §YNon-state Religion§! provinces with §YChurches§! or §YCathedrals§! §Rdestroys§! them, adds §R10.00§! Devastation, and loots §G50.0%§! of construction cost.\n"
@@ -199,6 +201,8 @@ cb_great_conqust_wg_desc: "The war goal is to demonstrate hegemony."
  roma_catholic_center_of_reformation: "Center of Reformation"
  empire_catholic_center_of_reformation: "Center of Reformation"
 
+ province_can_not_make_core_tt: "Resistance in this province is too strong to create a core at this time."
+
  will_become_a_religious_center: "Province will become §Y[Root.Religion.GetName] Center of Reformation§!.\n"
  province_is_or_accepts_roma_catholic_tt: "§Y[Root.GetName]§! is §YRoman Catholic§! and state religion or accepted faith of owner."
 
@@ -223,6 +227,15 @@ DD_due_to_gov_reform_tt: "£yes£Due to our government reform:"
 NSE_CANT_ALLY_1450: "Before 1450 the North Sea Empire is in turmoil and thus cannot form alliances."
 
 is_north_ger_fed_member_ttt: "Member of the North German Confederation"
+has_dismantle_hre_ttt: "The Holy Roman Empire has been dismantled"
+
+until_not_subject: "Until they are no longer our subject"
+DD_special_ruler_modifier: "Plot-Critical Ruler"
+desc_DD_special_ruler_modifier: "This monarch is a key figure in events and thus cannot die."
+DD_deadman_personality: "Heart Like Dead Ash"
+desc_DD_deadman_personality: "This person has lost all hope in life and shows no interest in anything."
+
+DD_has_papal_modifier_ttt: "Has the §YInvested in Papacy§! modifier"
 
  #music Theme Songs
  CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"

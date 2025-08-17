@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+religion = wu_confucianism
+religious_school = jichen_school
+government_rank = 2
+primary_culture = xiang
+capital = 681	
+add_harmonized_religion = confucianism
+add_harmonized_religion = animism
+
+444.1.1 = {
+	monarch = {
+		name = "Dexiao"
+		dynasty = "Shi"
+		birth_date = 1419.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

@@ -96,7 +96,7 @@ XLN_ideas_7: "Legion's Glory"
 XLN_ideas_7_desc: "Cyrenaica has never succumbed to calm. Our banners always march forward, for conquest is our destiny. The blood of the Normans flows with an insatiable thirst for battle. Whether it is the shameless infidels or the arrogant old masters, all enemies will bow under our swords. War is the reason for our existence, and victory will be our eternal glory."
 
 DD_knights_sprit: "Chivalry"
-DD_knights_sprit_desc: "We are the descendants of the Crusaders, the chosen of the Lord. Our vast and invincible cavalry once swept across North Africa. Loyalty, bravery, and unity are the beliefs of every knight, and the锋芒 of blades and spears defend our faith and honor. The hoofbeats of warhorses will become the symbol of conquest and protection, and the iron-blooded knights swear to rule the battlefield with fearless hearts."
+DD_knights_sprit_desc: "We are the descendants of the Crusaders, the chosen of the Lord. Our vast and invincible cavalry once swept across North Africa. Loyalty, bravery, and unity are the beliefs of every knight, and the points of blades and spears defend our faith and honor. The hoofbeats of warhorses will become the symbol of conquest and protection, and the iron-blooded knights swear to rule the battlefield with fearless hearts."
 
 DD_AFR_ideas: "Africa Ideas"
 DD_AFR_ideas_start: "Africa Traditions"
@@ -162,7 +162,7 @@ BDH_ideas_5_desc: "Although the Umayyad Dynasty, which once ruled almost all of 
 BDH_ideas_6: "Conquerors of Allah"
 BDH_ideas_6_desc: "We believe that it is Almighty Allah who has granted us the power to defeat our enemies and conquer their lands, the qualification to punish past enemies with the sword of fire. No other weak military force in Iberia can compare to us, for we always adhere to one truth: 'There is no victor but Allah.'"
 BDH_ideas_7: "Battle-Hardened"
-BDH_ideas_7_desc: "War is not only a test for the army but also a crucial test for a nation and its people. We have endured countless tough battles, emerging from the chaotic period of Taifa分裂 and Christian invasions. With unwavering faith in Allah and the determination to fight our enemies to the end, we have become the only force on the peninsula that advocates absolute force, an army with a state."
+BDH_ideas_7_desc: "War is not only a test for the army but also a crucial test for a nation and its people. We have endured countless tough battles, emerging from the chaotic period of Taifa schism and Christian invasions. With unwavering faith in Allah and the determination to fight our enemies to the end, we have become the only force on the peninsula that advocates absolute force, an army with a state."
 
 DD_BDH_ADU_ideas: "Andalusian Ideas"
 DD_BDH_ADU_ideas_start: "Andalusian Traditions" 
@@ -196,7 +196,7 @@ SEW_ideas_5_desc: "During the Umayyad era, Abd al-Rahman and his successors Hish
 SEW_ideas_6: "Remember the Shame of the Almoravids"
 SEW_ideas_6_desc: "If our army were strong enough, how could we have fallen to such a state? The Almoravid invasion has become an enduring pain and shame for us. We do not know when the next enemy will come, but to prevent further humiliation, we must strengthen our army's training!"
 SEW_ideas_7: "Arab Connections"
-SEW_ideas_7_desc: "In the centuries since Tariq first crossed the strait and set foot on the land of Al-Andalus in 711, countless Berbers and Arabs from Yemen, the Levant, Egypt, and other places have poured into Al-Andalus, bringing diverse cultures, ideas, and technologies. Although the population of Al-Andalus remains predominantly本地人, Islam and Arab culture provide a common identity. Through this identity, we can dismantle the influence of tribal clans and continuously integrate various ethnic groups into the ruling order. Although the once-dominant Syrian elite has declined, Arab culture has become more deeply rooted through conquerors marrying local women and absorbing local families into their lineage and culture. Local nobles learn Arabic and immerse themselves in Arab-Islamic culture, pursuing common goals."
+SEW_ideas_7_desc: "In the centuries since Tariq first crossed the strait and set foot on the land of Al-Andalus in 711, countless Berbers and Arabs from Yemen, the Levant, Egypt, and other places have poured into Al-Andalus, bringing diverse cultures, ideas, and technologies. Although the population of Al-Andalus remains predominantly native, Islam and Arab culture provide a common identity. Through this identity, we can dismantle the influence of tribal clans and continuously integrate various ethnic groups into the ruling order. Although the once-dominant Syrian elite has declined, Arab culture has become more deeply rooted through conquerors marrying local women and absorbing local families into their lineage and culture. Local nobles learn Arabic and immerse themselves in Arab-Islamic culture, pursuing common goals."
 
 DD_SEW_ADU_ideas: "Andalusian Ideas"
 DD_SEW_ADU_ideas_start: "Andalusian Traditions"
@@ -560,7 +560,7 @@ DD_ARA_ideas3_3: "Maritime Council"
 DD_ARA_ideas3_3_desc: "The great fish folds its fins, stirring the waters for a thousand miles; the roc folds its wings, soaring to the heavens. The throat of the Mediterranean is now in our grasp, and the wealth from the New World has shattered the monopoly of the Italian financiers. We are no longer a timid, insignificant nation, but a united Western power with ambitions in all directions. And this is all thanks to the Maritime Council. Now, we have strengthened its functions and added new weight to our dealings with merchants. Backed by strong national power, the caravans follow our lead, willingly trading their wealth for royal protection. And the trade of the entire Western Mediterranean easily falls into our hands—as it should."
 
 DD_ARA_ideas2_4: "Legacy of the Reconquista"
-DD_ARA_ideas2_4_desc: "The great cause of the Reconquista has concluded, and the past恩怨情仇 are but a wisp of smoke. On the ruins of Iberia, the sole victor gazes at the boundless ocean; the rising sun heralds a new dawn, and the distant sound of bagpipes heralds the peninsula's rebirth. The so-called Reconquista is but a cycle from one conquest to the next. Yet, the lessons of the past have become new knowledge, guiding our path forward. Our diplomats, with their accumulated experience, continue to maneuver on the international stage, maximizing our nation's interests. Rowing against the current, we must advance or retreat. And the banner of the Reconquista will forever guide us, as we cut through thorns towards the stars and the sea—time flows like a river, unceasing day and night."
+DD_ARA_ideas2_4_desc: "The great cause of the Reconquista has concluded, and the past grudges are but a wisp of smoke. On the ruins of Iberia, the sole victor gazes at the boundless ocean; the rising sun heralds a new dawn, and the distant sound of bagpipes heralds the peninsula's rebirth. The so-called Reconquista is but a cycle from one conquest to the next. Yet, the lessons of the past have become new knowledge, guiding our path forward. Our diplomats, with their accumulated experience, continue to maneuver on the international stage, maximizing our nation's interests. Rowing against the current, we must advance or retreat. And the banner of the Reconquista will forever guide us, as we cut through thorns towards the stars and the sea—time flows like a river, unceasing day and night."
 
 DD_ARA_ideas3_5: "Latin Heritage"
 DD_ARA_ideas3_5_desc: "Our Iberia, Latinized Iberia—our century-old dream has finally become reality. Now, Iberia is unified, and we can finally begin the process of Latinization. Today's Iberia is a place of religious chaos and linguistic diversity. Chaotic religious beliefs threaten the stability of the kingdom, and diverse languages hinder communication and exchange across regions. But the era of unified Latinization will come. Unifying religion, promoting Latin... If in the past we conquered and unified Iberia through diplomacy and military might, now we are conquering it culturally."
@@ -678,23 +678,23 @@ DD_MOT_ideas_6_desc: "Usurpers sit high in their halls, while the rightful princ
 DD_MOT_ideas_7: "Merchant Ship Expertise"
 DD_MOT_ideas_7_desc: "With eastern routes blocked by mountain ranges, maritime transport has become our most convenient means of external communication. Naturally, sea trade constitutes the major part of our foreign commerce. Whether trading with Iberian Crusader states, our suzerain, or even Italian city-states, merchant ships inevitably play a central role. This is precisely why our maritime traders have accumulated rich experience: utilizing winds and currents, profiting from price differences, acting as intermediaries, commercial negotiations - our sea traders have mastered it all. Consequently, merchant ship contracts arrive in endless succession, while trading vessels flock to our ports. Land and sea trade converge here, completing the final piece that enables us to challenge our suzerain."
 
- FRA_ideas:"French Ideas"
- FRA_ideas_start:"French Traditions"
- FRA_ideas_bonus:"French Ambition"
- FRA_ideas_1:"Estates General"
- FRA_ideas_1_desc:"As our conflicts with the Empire and its colluding Papacy intensified, coupled with the severe devastation wrought upon the kingdom by years of warfare, when we gazed upon the banks of the Seine a century ago, all we saw and heard were wails and crumbling ruins. The royal authority painstakingly built over generations had waned once more, while debt-ridden finances reached dire straits, forcing the beleaguered monarchy to seek solutions at the brink of catastrophe - thus, the Estates General came into being. As a compromise with the nobility and rising urban class, clergy, nobles, and burghers formed an alliance under royal leadership, uniting to deliberate on state affairs and ultimately helping the kingdom survive the difficult postwar reconstruction. Now we can finally extricate ourselves from myriad affairs to address the vacillating southern dukes and the Channel alliance we previously had no time for, awaiting our heaven-sent opportunity."
- FRA_ideas_2:"Never Again the Tragedy of Poitou"
- FRA_ideas_2_desc:"In the past, the Emperor and his lackeys pieced together their unholy crusade against kin and countrymen, seizing southern lands that were rightfully part of France, and at Poitou, they shattered Capetian rule in France. This resulted not only from our miscalculation of imperial ambition and underhanded methods, but also from our ill-trained, ineffective armies - weaknesses further exposed in subsequent succession wars and campaigns for the five English provinces. Incompetent commanders caused needless casualties through poor tactics, while dispirited troops routed at the first strong resistance. During this century of transition, we intensified military drills and reformed officer selection. Now beneath the banner of vengeance against the Empire, our armies stand united with the bearing of a formidable force - proclaiming that the tragedy of Poitou shall never be repeated."
- FRA_ideas_3:"Lessons of the Magna Carta"
- FRA_ideas_3_desc:"After the disastrous defeat at Poitou, the former English lands once conquered by the glorious Norman dynasty rose in rebellion amidst the chaos, forcing the crumbling kingdom to sign the Magna Carta with the burghers of England, granting the five English provinces substantial autonomy. Yet, every loss brings its own gain. Though the establishment of the Magna Carta was humiliating, its provisions contained valuable insights—whether in its progressive legal principles or its emphasis on protecting commerce, aspects that previous kings and their councils had long neglected. Our advisors have drawn upon these lessons to shape new policies, allowing the winds of reform to sweep through the stagnant and archaic royal court once more."
- FRA_ideas_4:"Assimilation Act"
- FRA_ideas_4_desc:"Our eastward expansion was fiercely guarded against by the Emperor and his lackeys, while our advance south was blocked by the so-called 'Free Kingdoms' that once owed us fealty. Even dismantling the alliance between the northern Five Provinces and the Lowlands proved beyond our strength. With no other options, we reluctantly turned our gaze westward to the ocean. In the tales of bards, the distant seas held the promise of growth and hope—a pristine paradise untouched by strife. And indeed, the ships we sent forth with such hopes did not disappoint, eventually reaching the shores of that fabled land. Though it was another's paradise, it offered us the key to our predicament. Thus, we enacted the Assimilation Act—the Frankish ideal finally breaking free from its threefold shackles and finding new purpose. Though it was never our world to begin with, under the influence of the Assimilation Act, they shall one day share in our glorious future."
- FRA_ideas_5:"Divine Right of Kings"
- FRA_ideas_5_desc:"Whether it was Pepin the Short donating lands to the Pope or Charlemagne reigning over Europe, their legitimacy stemmed in part from the sanction of the Church—thus began the principle of the Divine Right of Kings. Times have changed; the Pope, once our close ally, has now fallen into corruption and lost his legitimacy, even turning his blades against his former benefactors. Yet the logic of divine right remains the foundation of our sovereignty and claims to the Frankish ancestral lands. As Catholicism fractures and Emperor and Pope turn on each other, we finally have the opportunity to redefine whose 'divine authority' grants royal legitimacy. Theologians in Paris have engaged in fervent debate, carving a new path separate from Rome and the Empire. Now, we stand with renewed conviction—ready to reclaim what was always rightfully ours."
- FRA_ideas_6:"The French Standing Army"
- FRA_ideas_6_desc:"Whether drawn from lessons of our past or warnings from fallen nations, all remind us of the need for a formidable standing army to meet the ever-present threat of war. When veterans grow weary and troops depleted, military strength cannot be assured; to rely on mercenaries is but to quench thirst with poison and heal wounds by cutting flesh. The strong make themselves stronger, while only the weak depend on others for survival. Thus, in the precious respite between ceaseless wars, we swiftly rebuilt a disciplined standing army—well-armored and sharply honed—to serve as the unshakable foundation of our diplomatic endeavors. With weapons sharpened and forces drilled to perfection, when the French army marches forth again, it shall sound the death knell for our enemies."
- FRA_ideas_7:"The Fleur-de-Lis Reborn"
- FRA_ideas_7_desc:"Sacred and pure... this was the original meaning of the fleur-de-lis, and the divine destiny of this ancient and holy Kingdom of France. From the moment Clovis I first grasped the scepter crowned with golden lilies, to the adoption of the fleur-de-lis as the emblem of the French royal house, these blossoms have carried France's glorious past while heralding her radiant future. Though after the tragedy of Poitou, our homeland fell, royal authority waned, and even the pristine fleur-de-lis was temporarily tarnished, lying dormant amidst broken lands. But the times have changed. After years of recovery, we have regrouped and returned to Europe's grand stage. The old order crumbles, while new sprouts push through the soil. This is the final act for the guilty, and the overture of rebirth. So let us march forth—for we are the ones who shall restore the fleur-de-lis to glory."
+ DD_FRA_ideas:"French Ideas"
+ DD_FRA_ideas_start:"French Traditions"
+ DD_FRA_ideas_bonus:"French Ambition"
+ DD_FRA_ideas_1:"Estates General"
+ DD_FRA_ideas_1_desc:"As our conflicts with the Empire and its colluding Papacy intensified, coupled with the severe devastation wrought upon the kingdom by years of warfare, when we gazed upon the banks of the Seine a century ago, all we saw and heard were wails and crumbling ruins. The royal authority painstakingly built over generations had waned once more, while debt-ridden finances reached dire straits, forcing the beleaguered monarchy to seek solutions at the brink of catastrophe - thus, the Estates General came into being. As a compromise with the nobility and rising urban class, clergy, nobles, and burghers formed an alliance under royal leadership, uniting to deliberate on state affairs and ultimately helping the kingdom survive the difficult postwar reconstruction. Now we can finally extricate ourselves from myriad affairs to address the vacillating southern dukes and the Channel alliance we previously had no time for, awaiting our heaven-sent opportunity."
+ DD_FRA_ideas_2:"Never Again the Tragedy of Poitou"
+ DD_FRA_ideas_2_desc:"In the past, the Emperor and his lackeys pieced together their unholy crusade against kin and countrymen, seizing southern lands that were rightfully part of France, and at Poitou, they shattered Capetian rule in France. This resulted not only from our miscalculation of imperial ambition and underhanded methods, but also from our ill-trained, ineffective armies - weaknesses further exposed in subsequent succession wars and campaigns for the five English provinces. Incompetent commanders caused needless casualties through poor tactics, while dispirited troops routed at the first strong resistance. During this century of transition, we intensified military drills and reformed officer selection. Now beneath the banner of vengeance against the Empire, our armies stand united with the bearing of a formidable force - proclaiming that the tragedy of Poitou shall never be repeated."
+ DD_FRA_ideas_3:"Lessons of the Magna Carta"
+ DD_FRA_ideas_3_desc:"After the disastrous defeat at Poitou, the former English lands once conquered by the glorious Norman dynasty rose in rebellion amidst the chaos, forcing the crumbling kingdom to sign the Magna Carta with the burghers of England, granting the five English provinces substantial autonomy. Yet, every loss brings its own gain. Though the establishment of the Magna Carta was humiliating, its provisions contained valuable insights—whether in its progressive legal principles or its emphasis on protecting commerce, aspects that previous kings and their councils had long neglected. Our advisors have drawn upon these lessons to shape new policies, allowing the winds of reform to sweep through the stagnant and archaic royal court once more."
+ DD_FRA_ideas_4:"Assimilation Act"
+ DD_FRA_ideas_4_desc:"Our eastward expansion was fiercely guarded against by the Emperor and his lackeys, while our advance south was blocked by the so-called 'Free Kingdoms' that once owed us fealty. Even dismantling the alliance between the northern Five Provinces and the Lowlands proved beyond our strength. With no other options, we reluctantly turned our gaze westward to the ocean. In the tales of bards, the distant seas held the promise of growth and hope—a pristine paradise untouched by strife. And indeed, the ships we sent forth with such hopes did not disappoint, eventually reaching the shores of that fabled land. Though it was another's paradise, it offered us the key to our predicament. Thus, we enacted the Assimilation Act—the Frankish ideal finally breaking free from its threefold shackles and finding new purpose. Though it was never our world to begin with, under the influence of the Assimilation Act, they shall one day share in our glorious future."
+ DD_FRA_ideas_5:"Divine Right of Kings"
+ DD_FRA_ideas_5_desc:"Whether it was Pepin the Short donating lands to the Pope or Charlemagne reigning over Europe, their legitimacy stemmed in part from the sanction of the Church—thus began the principle of the Divine Right of Kings. Times have changed; the Pope, once our close ally, has now fallen into corruption and lost his legitimacy, even turning his blades against his former benefactors. Yet the logic of divine right remains the foundation of our sovereignty and claims to the Frankish ancestral lands. As Catholicism fractures and Emperor and Pope turn on each other, we finally have the opportunity to redefine whose 'divine authority' grants royal legitimacy. Theologians in Paris have engaged in fervent debate, carving a new path separate from Rome and the Empire. Now, we stand with renewed conviction—ready to reclaim what was always rightfully ours."
+ DD_FRA_ideas_6:"The French Standing Army"
+ DD_FRA_ideas_6_desc:"Whether drawn from lessons of our past or warnings from fallen nations, all remind us of the need for a formidable standing army to meet the ever-present threat of war. When veterans grow weary and troops depleted, military strength cannot be assured; to rely on mercenaries is but to quench thirst with poison and heal wounds by cutting flesh. The strong make themselves stronger, while only the weak depend on others for survival. Thus, in the precious respite between ceaseless wars, we swiftly rebuilt a disciplined standing army—well-armored and sharply honed—to serve as the unshakable foundation of our diplomatic endeavors. With weapons sharpened and forces drilled to perfection, when the French army marches forth again, it shall sound the death knell for our enemies."
+ DD_FRA_ideas_7:"The Fleur-de-Lis Reborn"
+ DD_FRA_ideas_7_desc:"Sacred and pure... this was the original meaning of the fleur-de-lis, and the divine destiny of this ancient and holy Kingdom of France. From the moment Clovis I first grasped the scepter crowned with golden lilies, to the adoption of the fleur-de-lis as the emblem of the French royal house, these blossoms have carried France's glorious past while heralding her radiant future. Though after the tragedy of Poitou, our homeland fell, royal authority waned, and even the pristine fleur-de-lis was temporarily tarnished, lying dormant amidst broken lands. But the times have changed. After years of recovery, we have regrouped and returned to Europe's grand stage. The old order crumbles, while new sprouts push through the soil. This is the final act for the guilty, and the overture of rebirth. So let us march forth—for we are the ones who shall restore the fleur-de-lis to glory."
 
 FR1_ideas:"Franco-English Union Ideas"
 FR1_ideas_start:"Franco-English Union Traditions"
@@ -708,31 +708,96 @@ FR1_ideas_4_desc:"The age of the House of Anjou shall never end. Upon the Atlant
 FR1_ideas_5:"Legacy of the Norman Conquest"
 FR1_ideas_5_desc:"The Duke of Normandy's conquest of England stands as our most glorious and resplendent victory from ages past. William's enterprise provided us a secure foothold on the British Isles, while generations of stewardship laid the foundation for us to ride forth and conquer anew. The bonds between the Five Provinces and the Lowlands were severed in blazing artillery fire, Viking fervor faded with the last tide, and even the Highlands' epics dissolved into Scotland's mournful bagpipes. Now when we gaze back, the Channel lies undisturbed by waves; when we look around, our former mortal enemies tear at each other's throats. Some claim we cannot cross the Pyrenees, others insist we cannot restore the Carolingian legacy... But Duke William already showed us the way - just as he did, we shall brave the storm and reach that 'impossible' shore."
 
+ DD_FRA_mil_ideas:"French Ideas"
+ DD_FRA_mil_ideas_start:"French Traditions"
+ DD_FRA_mil_ideas_bonus:"French Ambition"
+ DD_FRA_ideas3_4:"Permanent National Defense State"
+ DD_FRA_ideas3_4_desc:"France was once a great nation, from Charlemagne to the Crusades, full of conquests and glory - until the coming of the Dark Ages. From the disastrous Albigensian Crusade to the Hundred Years' Civil War, this era became known as France's Dark Age. Endless wars and recurring calamities, coupled with bloody royal struggles in Paris, left the people in despair. Thus was born the French Restoration Society. Swearing before God the Father and our glorious ancestors, the Grand Marshal shall resurrect France and restore it to greatness. To this end, until true revival is achieved, France shall remain in a permanent national defense state, with the Grand Marshal wielding absolute power to mobilize all national resources and strength against our enemies."
+
+ DD_FRA_bro_ideas:"French Ideas"
+ DD_FRA_bro_ideas_start:"French Traditions"
+ DD_FRA_bro_ideas_bonus:"French Ambition"
+ DD_FRA_ideas3_3:"The Enlightenment of the Great Charter"
+ DD_FRA_ideas3_3_desc:"The establishment of the Great Charter represented our humiliating past, once the most glaring scar upon France's dominion over Europe. Yet we refuse to cling stubbornly to past shame, choosing instead to embrace temporary defeat before marching toward a hopeful future. When we again stand victorious over the continent, the Great Charter of old is no longer shackles that bind, but sails that carry us forward. Its clauses limiting royal power were transformed into moderate local autonomy, easing administrative burdens across our vast territories. Meanwhile, its provisions on rule of law and commerce were reinterpreted and preserved, becoming our textbook for dominating both land and sea. The old man lost his horse, but who could foresee it might be a blessing? And within our revitalized court still blows the winds of reform first stirred by the Great Charter centuries ago."
+
+ FRC_ideas:"Frankish Ideas"
+ FRC_ideas_start:"Frankish Traditions"
+ FRC_ideas_bonus:"Frankish Ambition"
+ FRC_ideas_1:"Frankish Century"
+ FRC_ideas_1_desc:"In Charlemagne's hands, the mighty empire bearing this name knew brief glory before foundering at its zenith. Discontent subjects refused to support a unified center, while Carolingian heirs reveled in opulent dreams, blind to the century of warfare and conflagration to come. Charlemagne's tale became but a minstrel's legend, his ephemeral empire crumbling within thirty years of his death. Even the despairing remnants lost faith in Frankish restoration, burying themselves in cold reality—until now. We have gathered the scattered crowns and united them anew; divided peoples rally once more beneath a single banner at our command; the backward practice of partition inheritance is abolished, with supreme power transitioning swiftly and smoothly. Under our rule, the people prosper in peace and society stands firm. The 'Frankish Century'—our era shall be remembered thus by posterity."
+
+ FRC_ideas_2:"Tempered Through Ages"
+ FRC_ideas_2_desc:"As times changed, the great empire faded into shadow, and its despairing remnants gradually abandoned hope of restoration amidst endless wars, while the dream of a unified Western Europe briefly fell silent. Yet generation after generation of determined men toiled tirelessly - with sword and scepter, through policy and poetry - each in their own way preserving the glory of the ancient empire. It was against the dark backdrop of the Middle Ages that Frankish culture and spirit ultimately rose like a phoenix from the flames, shining brighter than ever. Having revived Charlemagne's legacy, the reborn Frankish realm inherits its former imperial majesty without its past vulnerabilities. Our battle-hardened armies strike like tigers sweeping through withered grass, while our formidable morale turns fragile enemies into panic-stricken foes trembling at mere rumors. Though seas may change to mulberry fields, Frankish greatness shall forever stand proud against wind and snow - tempered through ages."
+
+ FRC_ideas_3:"Father of Europe"
+ FRC_ideas_3_desc:"Charlemagne, the 'Father of Europe'. As a great conqueror, he was crowned Emperor of the Romans in St. Peter's Basilica, and the divided realms of East, West, and Middle Francia became the prototypes of future Germany, Italy, and France. Starting from our ancestral lands, we toiled through hardship and finally, centuries later, recreated the great achievements of Charles the Great, reclaiming all territories of the ancient empire. From the Atlantic to the Danube, from the Baltic to the Apennines, our people prosper across this vast domain. The reborn empire, through its superior governance, has earned recognition from all Christendom - even heretics and heathens - enjoying unparalleled diplomatic prestige. Now with the three realms united, none can hinder our advance, and our monarch shall carry forward Charlemagne's will and ambition as the new 'Father of Europe'."
+
+ FRC_ideas_4:"Missionary Expansion"
+ FRC_ideas_4_desc:"Though Clovis may have initially adopted Christianity merely as a tool to consolidate power and gain support, his successors came to embrace it sincerely, consciously supporting the Papacy's development. Pepin the Short donated lands to the Pope, who in turn crowned Frankish monarchs - their close cooperation facilitated both the spread of Christianity and Frankish territorial expansion through religious assimilation. Though circumstances have changed, we remain the spiritual successors of that ancient empire, maintaining the same expansionist approach through missionary work. Even as today's Papacy lacks its former majesty and Christianity faces schism, Franks must still unite under the Christian banner - in this our resolve remains steadfast. Whether facing traitors or heathens, we shall crush their resistance, purify their minds, and guide them toward universal acceptance - achieving their complete spiritual conquest."
+
+ FRC_ideas_5:"Charlemagne's Legacy"
+ FRC_ideas_5_desc:"Both his supporters and detractors must concede one truth - Charlemagne was a great and successful conqueror. The empire's remnants still yearn for his rule, and his legacy endures. His methods of conquest, policies of assimilation, and governance structures left indelible marks across every land he touched. Even as glorious memories fade, his presence remains eternally engraved in the hearts of Frankish descendants. Thus when we raised the Frankish banner to reclaim our realm, the seeds of identity Charlemagne planted centuries ago finally bore fruit. These remnants actively participated in building our newly conquered territories, helping rebuild Frankish political identity. They never forgot that great empire, nor that mighty conqueror - and we are now the inheritors of his precious legacy."
+
+ FRC_ideas_6:"Paladins"
+ FRC_ideas_6_desc:"While the great conqueror's deeds were recorded in history, his undocumented exploits were embellished and passed down as legends of saints. The stories of the Emperor's Paladins were likewise preserved, inspiring generations of knights to strive for excellence. The past may be fleeting as the wind, yet the wind never ceases. Though the Paladins have ascended to heaven, their legacy of glory, justice, and faith lives on, crystallizing into a new chivalric spirit. Now that Francia has returned to European soil, her Paladins may finally come home. In the imperial camps, new orders of knights assemble. Clad in armor and burning with morale, they live for dignity and honor, offering courage and devotion to the Lord - let us then witness the birth of new Paladins amidst the battle horns of charging cavalry."
+
+ FRC_ideas_7:"Glorious Restoration" 
+ FRC_ideas_7_desc:"The world is but a grand stage, and we merely players dancing to God's script upon Europe's platform. Yet it was only after surviving countless mortal trials and breaking through fortified barriers that we finally ascended to this stage - now too small for our stature - becoming the undisputed protagonists in God's divine play. But Francia's restoration is not the finale, only the overture; our journey stretches far beyond. We are destined to surpass Charlemagne's achievements, to reunite Europe once more... and then pursue even grander designs. The road ahead is long, but our lost galleon has found its bearing amidst the fog. Onward we march until journey's end; before the gates engraved 'Undreamt Dreams', we shall never rest."
+
+
+#Replacing the original Brandenburg
+
+ BRA_ideas_4:"The German Civil War"
+ BRA_ideas_4_desc:"The German Civil War forever changed both the Holy Roman Empire and the German people. As one of the three main belligerents against the Hohenstaufens, Brandenburg not only led Northern Germany in casting off the Emperor's shackles, but also spearheaded the reconstruction of Northern German order. The civil war tempered Brandenburg through the cruelest baptism of fire, forging an elite army hardened by trial and creating Brandenburg's own sword of state."
+
+ BRA_ideas_5:"King in the North" 
+ BRA_ideas_5_desc:"With the Hohenstaufen constraint removed, Brandenburg has gradually become the undisputed King in the North, ruler of Northern Germany. Though losing influence within the Imperial Circles, the Northern German Confederation led by Brandenburg is emerging as a northern hegemon capable of counterbalancing the North Sea Empire, even checking its influence. As the frontline against barbarian incursions, Northern Germany stands firmly united under Brandenburg's banner, accepting the leadership of this authoritarian yet formidable King in the North."
+
+ BRA_ideas_6:"Elbe Trade Network"
+ BRA_ideas_6_desc:"With the Hanseatic League's support, Brandenburg gradually shook off imperial and Rhenish trade influence after being expelled from the Empire, establishing a new commercial web penetrating the entire north - the Elbe Trade Network. Though still in its infancy, this mercantile system has emerged as a formidable competitor in the struggle for North Sea trade dominance and eastern market penetration, backed by Hanseatic support and Anglo-Low Countries commerce, possessing limitless potential."
+
+ BRA_ideas_7:"Royal Military Council" 
+ BRA_ideas_7_desc:"Serving as both the Brandenburg monarch's private staff officers and the nerve center influencing the Northern German Confederation's military decisions, this French-inspired Royal Military Council comprises the king's most trusted and capable generals. This institution has become the cerebral core of Brandenburg's military policy and the sovereign's strategic think-tank. Gradually evolving into an indispensable component of both Brandenburg and Northern German armies, it functions as both brain and beating heart of Brandenburg's iron legions."
+
+DD_LOM_ideas:"Lombard Ideas"
+DD_LOM_ideas_start:"Lombard Traditions"
+DD_LOM_ideas_bonus:"Lombard Ambition"
+LOM_ideas_1:"Elegy of the Golden Age"
+LOM_ideas_1_desc:"During the Lombard League's zenith, technological innovation and arts flourished magnificently. Though the League now wanes, its legacy endures."
+
+LOM_ideas_2:"Dreamers Trapped in Yesterday"
+LOM_ideas_2_desc:"The Lombard League - a grand vision, an experiment ahead of its time - showed Italians our potential strength when united. Yet now this dream withers on its deathbed."
+
+LOM_ideas_3:"The Mirage of Liberty and Unity" 
+LOM_ideas_3_desc:"Once the League stood united against Hohenstaufen invasions, fighting for freedom. Today it fractures with internal strife. We must rouse our brethren to vigilance once more."
+
+LOM_ideas_4:"Alliance of Scripture and Ambition"
+LOM_ideas_4_desc:"Undercurrents surge among the League's factions, deeply influenced by the Papacy, the Empire, and regional powers. Yet the League shall never bow to their tyranny."
+
+LOM_ideas_5:"Exiled Saviors in Distress"
+LOM_ideas_5_desc:"Though Genoa was expelled from the League during power struggles, they remained faithful to the union's ideals. The 'League Guard' they lead shall become the nucleus of our national salvation."
+
+LOM_ideas_6:"Through Hardships to the Stars"
+LOM_ideas_6_desc:"'Per aspera ad astra' - our sufferings are not sins, but the necessary path to greatness. Shed no tears, for they would waste this noble anguish."
+
+LOM_ideas_7:"Dust Returns to Earth"
+LOM_ideas_7_desc:"'Memento Mori' - this ancient Latin maxim eternally reminds us that all men must die."
 
 DD_BG_ideas: "Ideas"
 DD_BG_ideas_start: "Traditions"
 DD_BG_ideas_bonus: "Ambition"
 
- DD_BG_ideas_1: ""
- DD_BG_ideas_1_desc: ""
- DD_BG_ideas_2: ""
- DD_BG_ideas_2_desc: ""
- DD_BG_ideas_3: ""
- DD_BG_ideas_3_desc: ""
- DD_BG_ideas_4: ""
- DD_BG_ideas_4_desc: ""
- DD_BG_ideas_5: ""
- DD_BG_ideas_5_desc: ""
- DD_BG_ideas_6: ""
- DD_BG_ideas_6_desc: ""
- DD_BG_ideas_7: ""
- DD_BG_ideas_7_desc:""
-
-#  德意志南北战争
-# 德意志南北战争永远地改变了神圣罗马帝国，也永远地改变了德意志民族。作为反抗霍亨施陶芬的三位战争主力之一，勃兰登堡不仅领导北德意志挣脱了皇帝的枷锁，也主导了北德意志秩序的重建。南北战争使得勃兰登堡经受住了最残酷的战火洗礼，磨砺出了一支久经考验的精锐铁军，打造出了一把属于勃兰登堡的利剑。
-# 北境之王
-# 失去了霍亨施陶芬的制约后，勃兰登堡已逐渐成为无人可挡的北境之王，北德意志之主。尽管失去了帝国圈内部的影响力，但勃兰登堡所领导的北德意志邦联正渐渐成为能够抗衡北海帝国的北方霸主，甚至能够钳制北海帝国的影响力。作为抗衡蛮族的前线，北德意志紧紧地团结在勃兰登堡的旗帜下，接受着这位专制而强度的北境之王的领导。
-# 易北河贸易网
-# 在汉萨同盟的支撑下，勃兰登堡在被逐出帝国后逐渐摆脱了皇帝与莱茵同盟的贸易影响，并组建了能够渗透整个北方的新贸易网络——易北河贸易网。这个简单的贸易网络尽管尚显稚嫩，但凭借着汉萨同盟的支持与英格兰-低地联盟的贸易，已经能够作为争夺北海贸易霸权与渗透东方市场的一位不可忽视的竞争者，拥有无限潜力。
-# 王家军事枢密院
-# 作为勃兰登堡国王的私人参谋军官团，乃至于影响整个北德意志邦联军事决策的核心，仿照法兰西军方而建立的王家军事枢密院由国王身边最信任也是最优秀的将军组成，是勃兰登堡的军事决策核心与国王的智囊团。这样的一个军事机关已逐步成为勃兰登堡甚至是北德意志军队不可缺少的一部分，成为勃兰登堡铁军的大脑与心脏。
+ BG_ideas_1:""
+ BG_ideas_1_desc:""
+ BG_ideas_2:""
+ BG_ideas_2_desc:""
+ BG_ideas_3:""
+ BG_ideas_3_desc:""
+ BG_ideas_4:""
+ BG_ideas_4_desc:""
+ BG_ideas_5:""
+ BG_ideas_5_desc:""
+ BG_ideas_6:""
+ BG_ideas_6_desc:""
+ BG_ideas_7:""
+ BG_ideas_7_desc:""

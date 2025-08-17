@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+primary_culture = xibei
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 2182
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Xun"
+		dynasty = "Zhang"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

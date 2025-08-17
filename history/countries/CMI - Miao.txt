@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = NYDD_tusi_reform
+primary_culture = miao_chi
+religion = confucianism
+religious_school = fengjiao_school
+technology_group = chinese
+capital = 2173	
+add_harmonized_religion = animism
+
+1444.1.1 = {
+	monarch = {
+		name = "Tongheng"
+		dynasty = "Yang"
+		birth_date = 1414.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}

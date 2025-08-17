@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = polish_great_sejm
+primary_culture = moravia_WS
+religion = catholic
+technology_group = eastern
+capital = 257
+add_accepted_culture = prussian_baltic
+add_truce_with = DNZ
+
+1444.10.1 = {
+	set_estate_privilege = estate_nobles_golden_liberty
+}
+1429.12.8 = {
+	#Boleslaw IV
+	#Piast
+	monarch = {
+		name = "Bolesław IV"
+		dynasty = "Piast"
+		birth_date = 1421.1.1
+		dip = 2
+		adm = 0
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = architectural_visionary_personality
+}
+1444.1.1 = {
+	#Konrad Rudy
+	#Piast
+	heir = {
+		name = "Konrad 'Rudy'"
+		monarch_name = "Konrad III 'Rudy'"
+		dynasty = "Piast"
+		birth_date = 1444.1.1
+		death_date = 1503.10.28
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

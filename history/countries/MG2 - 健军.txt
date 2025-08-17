@@ -1,0 +1,21 @@
+government = monarchy
+technology_group = nomad_group
+add_government_reform = steppe_horde
+primary_culture = hening_cul
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 1
+capital = 4222
+add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Zhen"
+		dynasty = "Ao"
+		birth_date = 1409.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}

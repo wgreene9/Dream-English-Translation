@@ -1,0 +1,28 @@
+technology_group = chinese
+primary_culture = khorasani
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+government_rank = 1
+capital = 446
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Xiangxian"
+		dynasty = "Qin"
+		birth_date = 1411.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+		leader = {
+			name = "Xiangxian Qin"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 3
+			siege = 2
+		}
+	}
+	clear_scripted_personalities = yes
+}

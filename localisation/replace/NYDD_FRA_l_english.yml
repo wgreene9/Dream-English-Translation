@@ -9,11 +9,13 @@
  DD_FRA_2_d: "The rebellion of the Cathar heresy remains an indelible stain upon the French nation, which sees itself as the heir to the Franks and Charlemagne—a divine retribution from God, with the southern lands destined to burn in the flames of sin. The atrocities of the heretics brought suffering, while the incompetence of the royal court and the disloyalty of southern dukes allowed the imperial court to extend their bloodstained hands into rightful French territories.\n\nNow, imperial intervention has finally bogged down in quagmire. Forces from all sides begin plotting to establish new authority over these blessed fleur-de-lis lands. The Parisian court has proclaimed sovereignty over the south—the chariot of French unification is unstoppable. Meanwhile, southern lords eagerly prepare northern campaigns after independence, amassing their own strength.\n\nRegardless, an unprecedented civil war is inevitable. Who shall claim the supreme glory of unifying France and the crown of fleur-de-lis? The Angevin king holding Paris' wealthy lands, or the ambitious southern dukes full of potential? The French people await with bated breath, while all Christendom watches closely."
  DD_FRA_2a: "God Save France!"
  DD_FRA_2a_tt: "Unlocks the §Y«Unification War of France»§! Casus Belli, allowing annexation of French provinces with §Greduced§! war score cost and aggressive expansion.\nOccupying §YFrench§! region provinces with this CB grants §Gautonomous territorial cores§!."
- DD_FRA_2b: ""
- DD_FRA_2b_tt: ""
+ DD_FRA_2b:"Perhaps we could invite the southern dukes to negotiate a peaceful resolution..."
+ DD_FRA_2b_tt:"§OBut what price are we willing to pay?§!\n"
+ DD_FRA_2b_tt2:"At least §Y2§! countries must agree to begin §Ynegotiations§!.\n"
  DD_FRA_3_t: "The Reunification of France"
  DD_FRA_3_d: "Our homeland is finally reunified under a mighty king—God's gift, the fleur-de-lis symbolizing light and freedom, bestowed upon [Root.Monarch.GetName], worthy to inherit Charlemagne's name and legacy.\n\nNobles' conspiracies are crushed, rebellious regions pacified, the Hohenstaufen's shameful remnants expelled. Their southern puppet states now belong to us, restored as part of glorious France.\n\nThroughout history, since Frankish times, we have led Europe. After the empire's division, Charlemagne's legacy faded like past great empires. Yet God grants us power to defy decline—we are destined to rule Europe, heal old wounds, and bring freedom and hope.\n\nFrom the Seine's beauty to the Loire's tranquility, France's glory shines equally upon every proud Frenchman. The ancient European hegemon returns, ready to reclaim its glory—from Alpine lands to Pyrenean conflict zones, even Norman-conquered Britain. A new legend begins, eternal."
  DD_FRA_3a: "Vive la France!"
+ DD_FRA_3a_tt:"The event '§YTaxation for France§!' will no longer trigger.\n"
  DD_FRA_4_t: "The Reunification of France"
  DD_FRA_4_d2: "The Occitan people's history is an epic of resistance against foreign aggression. Northern kings claiming divine right to rule us and all France—their centuries of arrogant claims and pathetic efforts to make the south their crown jewel—now dissolve into oblivion.\n\nSince Rome conquered Gaul, Occitans have fought for independence. Through dark ages—Visigoths, Franks, Arabs, Germans—their fleeting hegemonies vanished. The Occitan nation endures like an ageless tree, defying Europe's decline.\n\nNow we conquer our nominal overlords, march to Paris' riverside, and bring a strong new kingdom to freedom-seeking peoples. A new era dawns—Occitania, blessed by God's glory, shall lead France to greater futures."
  DD_FRA_4_d: "The Occitan people's history is an epic of resistance against foreign aggression. Northern kings claiming divine right to rule us and all France—their centuries of arrogant claims and pathetic efforts to make the south their crown jewel—now dissolve into oblivion.\n\nThe Hohenstaufen Emperor, undisputed European lord, liberated us from northern tyrants, declaring only the south may rule France and inherit Gaul's governance from Caesar and Augustus.\n\nNow under imperial leadership, we conquer our nominal overlords, march to Paris' riverside, and bring a strong new kingdom to freedom-seeking peoples. A new era dawns—Occitania, blessed by God's glory, shall bring France a brighter tomorrow under the Holy Roman Empire."
@@ -45,36 +47,1814 @@
  DD_FRA_11_d: "French troops enter Lorraine, clashing with imperial forces. Paris invokes the Treaty of Verdun, demanding imperial withdrawal. Imperial princes can no longer tolerate French arrogance—they demand war to reclaim rightful lands."
  DD_FRA_11a: "You leave me no choice."
  DD_FRA_11b: "Better to withdraw."
- DD_FRA_12_t: ""
- DD_FRA_12_d: ""
- DD_FRA_12a: ""
- DD_FRA_13_t: ""
- DD_FRA_13_d: ""
- DD_FRA_13a: ""
- DD_FRA_14_t: ""
- DD_FRA_14_d: ""
- DD_FRA_14a: ""
- DD_FRA_15_t: ""
- DD_FRA_15_d: ""
- DD_FRA_15a: ""
- DD_FRA_16_t: ""
- DD_FRA_16_d: ""
- DD_FRA_16a: ""
- DD_FRA_17_t: ""
- DD_FRA_17_d: ""
- DD_FRA_17a: ""
- DD_FRA_18_t: ""
- DD_FRA_18_d: ""
- DD_FRA_18a: ""
- DD_FRA_19_t: ""
- DD_FRA_19_d: ""
- DD_FRA_19a: ""
- DD_FRA_20_t: ""
- DD_FRA_20_d: ""
- DD_FRA_20a: ""
+ DD_FRA_12_t:"The Legacy of Champagne"
+ DD_FRA_12_d:"The Count of Champagne is advanced in years and has left no legitimate heir. His title originates from the ancient Frankish Empire, with lands adjacent to Île-de-France, making him one of the most important and powerful nobles in the kingdom. Our queen Elizabeth is the old count's only daughter. Should we press her claim to the County of Champagne, or seek a suitable new count for the region?"
+ DD_FRA_12_d2:"A farce requires a dutiful actor, a puppet dancing on strings - and Elizabeth is clearly no skilled dancer. She secretly dispatched numerous letters attempting to form an alliance against the Restoration Society to reclaim her royal authority. Unfortunately for her, the Society had specialists monitoring and censoring her correspondence. When the Lord Protector confronted her with a smiling inquiry, she immediately claimed to be the victim of a conspiracy and proposed transferring both the administrative control and revenues of her Champagne territories to the Restoration Society, to aid the grand cause of France's rebirth."
+ DD_FRA_12a:"Assume control of Champagne."
+ DD_FRA_12b:"Maintain the status quo."
+ DD_FRA_12c:"Satisfactory."
 
- DD_FRA_unite_title: "@FRA Unification of French Territories"
- DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empire. France is whole again!"
+ DD_FRA_13_t:"The Public Weal Alliance"
+ DD_FRA_13_d:"Recent events in France have forced us to remain vigilant. The new King of France will likely attempt to strip the nobility of their privileges. To prepare, we should consult with other nobles on how to counter Paris' centralization of power."
+ DD_FRA_13a:"It would be best to form a Public Weal Alliance against Paris."
+ DD_FRA_13b:"We cannot shoulder such responsibility."
+ DD_FRA_13a_tt:"Use §YDiplomatic Influence§!'s '§YInvite to Public Weal Alliance§!' to form a coalition against @FRA§YFrance§!.\n"
+
+ DD_FRA_14_t:"Undercurrents"
+ DD_FRA_14_d:"Our informants in the duchies report that the nobility is growing restless, forming an alliance against France. Clearly, other nobles don't intend to sit idly by. They know full well what [Root.Monarch.GetName] wants to do—and what they will do. Time is running short; we must identify their ringleader and put them in their place."
+ DD_FRA_14a:"Of all possibilities, the Capet in Picardy is the most suspicious..."
+ DD_FRA_14b:"Poitou has always been troublesome..."
+ DD_FRA_14c:"Could it be Elizabeth's doing..."
+ DD_FRA_14d:"The petty Count of Berry, perhaps..."
+ DD_FRA_14e:"The likeliest is often the unlikeliest—Nevers, it must be you..."
+ #Hah, and then I realized Nevers isn't even a fiefdom.
+
+ DD_FRA_15_t:"True Colors Revealed"
+ DD_FRA_15_d:"As the saying goes, secrets cannot withstand scrutiny. With just a casual investigation, the vermin of the Public Weal Alliance have shown their true colors. With the evidence we've gathered, we can now declare them traitors and strip their titles. We await only your command, Your Majesty."
+ DD_FRA_15a:"Watch for my signal."
+ DD_FRA_15a_tt:"Unlocks the decision '§YCrush the Public Weal Alliance§!'.\n"
+ DD_FRA_16_t:"Nothing Found"
+ DD_FRA_16_d:"Oh mon Dieu! Our search parties have turned the nobles' homes upside down without finding any evidence. It seems we've accused the wrong people."
+ DD_FRA_16a:"That's unfortunate."
+ DD_FRA_public_war_title:"Crush the Public Weal Alliance"
+ DD_FRA_public_war_desc:"Now that we've identified the leader of the Public Weal Alliance, only one solution remains."
+ DD_FRA_public_war_tt:"Other §YPublic Weal Alliance§! members will join this war!\n§g(Hover to see which nations have joined the Public Weal Alliance)§!\n"
+ PEACE_po_fra_crash_public_union:"Crush the Public Weal Alliance"
+ po_fra_crash_public_union:"Crush the Public Weal Alliance"
+ po_fra_crash_public_union_desc:"Disband the Public Weal Alliance. All rebellious fiefs will return as vassals of §Y[Root.GetName]§! and lose §G-50.0%§! liberty desire.\n"
+
+DD_FRA_17_t:"The Oath of the Golden Fleece"
+DD_FRA_17_d:"The Albigensian Crusade may have been France's doom, but it is Occitania's opportunity. The imperial invasion plunged France into terrible chaos, yet also revealed another chance for freedom and ambition—a way to cast off the throne's control. While the Emperor busies himself with imperial intrigues, the rival lords of the southern realms may expand their influence. But as the Empire withdraws from Occitania, Paris will surely bare its fangs against the traitors of the southern lands. We cannot wait idly—we must form a united league of Occitan dukes. [Root.GetName] has taken the lead, establishing the Oath of the Golden Fleece, symbolized by the mythical dragon-guarded fleece, binding its members to mutual defense against Parisian aggression."
+DD_FRA_17a:"We alone can protect ourselves!"
+DD_FRA_17a_tt:"When any §YOath of the Golden Fleece§! member is attacked by @FRA§Y[FRA.GetName]§!, all members without a truce with @FRA§Y[FRA.GetName]§! will be called to war.\n"
+wool_member_tt:"This nation is a member of the §YOath of the Golden Fleece§! and will call fellow members without a truce with @FRA§Y[FRA.GetName]§! to war if attacked by them.\n"
+
+DD_FRA_18_t:"Join the Oath of the Golden Fleece?"
+DD_FRA_18_d:"With Paris' threat looming, [Root.GetName] has established the Oath of the Golden Fleece—symbolized by the mythical dragon-guarded fleece—binding its members to mutual defense against Parisian invasion."
+DD_FRA_18a:"We shall join."
+DD_FRA_18b:"No, we'll face Paris alone."
+
+DD_FRA_19_t:"The King's Speech"
+DD_FRA_19_d:"'Gentlemen, I am pleased to gather with you today. Since the shameful and wicked Albigensian War, the doors of the Estates-General have been closed to us for centuries, as has Europe's stage of international politics. In these dark years, France has been dismembered, expelled, and humiliated. They said the homeless Gauls would rot like stray dogs in their graves.\n\nBut gentlemen, we have not. We did not yield to imperial threats, nor content ourselves with bread from the mud. For centuries we have never forgotten - our mother France's flesh remains torn from us, a great wall still divides us from our countrymen. How can one people, one kingdom, endure living in division and disgrace?\n\nToday I stand before you, begging your support for our cause and our homeland. We stand in Paris gazing at our sundered southern lands. Yesterday they divided us with betrayal and humiliation - today we shall reclaim what belongs to France with honor and blood! Support our mother France - we fight not for slavery, not for conquest, but for justice and honor—'"
+DD_FRA_19a:"'For France's liberty and dignity!'"
+DD_FRA_19a_modifier:"Eve of War"
+DD_FRA_19a_tt:"§YThe southern dukes may form a defensive alliance.§!\n"
+
+DD_FRA_199_t:"The Speech of National Humiliation"
+DD_FRA_199_d:"'Remember this day - today when the doors of the Estates-General reopen to France's children, just as the path to Europe's thrones reveals itself to France once more. Centuries ago, the Empire's lackeys broke France's spine - they burned our fields, ravaged our lands, slaughtered our countrymen, and violated our women. On the plains of Poitou, our ancestors gave their blood and souls to be buried with their homeland.\n\nToday, we too shall embark on this sacred path - a road of wrath and spiritual vengeance. A holy war awaits us! Let all oppression and debate cease as we march the sacred road to reclaim our lands! Drive the vicious invaders from our soil! Everywhere we see only the poverty, hunger, and grief they brought - carpenters endlessly hammering coffins. We who were once proud heirs of Charlemagne now lie slaughtered like stray dogs!\n\nThose southern traitors of old now lounge arrogantly upon their golden mountains of sin - wealth bought with the flesh and blood of France, their mother who nourished them! What reason, what excuse have we not to avenge France's suffering and injustice? So long as our hearts still beat, so long as our nation's spine remains unbroken, our overflowing wrath - our eternally burning heart of fury - shall forever burn for vengeance! Support me, gentlemen! Support our motherland! Let traitors, criminals, and the shameless taste France's fury! Let Europe burn as France burned a century ago!'"
+DD_FRA_199a:"'March southward! Advance toward undying glory!'"
+
+DD_FRA_20_t:"The Treaty of Paris"
+DD_FRA_20_d:"France is a splendid and beautiful flower, but beneath her intoxicating fragrance and tender buds swirls a maelstrom of chaos and greed. Richard III's father left him no prosperous kingdom - this English-raised king inherited a realm consumed by war and disorder. His father Richard II, having just received the fractured half-France of the Capetian legacy from his grandfather Edward III, immediately faced the scheming nobility of Paris.\n\nThat bloody succession war shattered the House of Anjou's efforts to restore the kingdom. The hastily signed Treaty of Paris left the crown powerless against noble influence - now the Angevins are merely first among nobles, not divinely-ordained Kings of France. To placate the aristocracy, the widowed Richard III was forced to marry Elizabeth of Valois, uniting both houses in a political alliance against the nobility. Now, as Richard III suffers failing health, his sole heir - motherless and undisciplined - has become a dissolute, weak-willed wastrel. France's future lies shrouded in mist..."
+DD_FRA_20a:"Our nation lacks the strength for further wars..."
+
+DD_FRA_21_t:"The Aftermath of Magna Carta"
+DD_FRA_21_d:"The bitter fruits of the Albigensian defeat forced Henry III to compromise with England's rebels, signing the Magna Carta that granted autonomy to French-controlled England. Yet these remnants of the English era remain unsatisfied. Sensing France's current weakness with an ailing king, the English have sparked a new rebellion.\n\nThe Dauphin Charles was commanded to lead troops to suppress the English revolt. On the British battlefield, a sword-wielding English soldier caught Charles' attention - this handsome young man bore uncanny resemblance to himself, fighting valiantly like a true knight. Charles brought this youth named Henry back to Paris, hoping his father might provide answers."
+DD_FRA_21a:"Oh... I suppose France now has a second option?"
+
+DD_FRA_22_t:"The Princes"
+DD_FRA_22_d:"Richard III stared in astonishment at the two strikingly similar young men before the throne. Leaning forward, his gaze fixed upon the glimmering silver cross hanging from the younger man's neck - a gift he had bestowed upon a beautiful maiden years ago. Like a ray of dawn, the sight pierced his illness-ridden heart, stirring memories of his youthful romance in England.\n\n'Henry... my son,' the king murmured as he slumped back onto the throne. He studied this handsome bastard son before him, seeing reflected the flawless English maiden of years past. Like a prisoner chained to his royal seat, he silently contemplated both princes for a long moment before finally waving his hand weakly, signaling the guards to escort them out. He sighed - sighed for his own fate and France's. Flowers bloom but briefly, and destiny waits for no man; neither he nor his kingdom could master their own fates."
+DD_FRA_22a:"None noticed how the Dauphin's expression remained hidden in the throne room's shadows."
+
+DD_FRA_23_t:"The Secret Rendezvous"
+DD_FRA_23_d:"The king's brother Malcolm clasped the woman's slender waist, fastening a crimson rose in her hair. The woman in his arms - Queen Elizabeth - giggled as her alabaster arms coiled around his neck, her lips brushing his ear in whispered secrets. 'Who would have thought... my brother had another child...' Malcolm gazed absently at the gardens beyond the pavilion.\n\n'Yes, Malco, our opportunity has come,' Elizabeth melted into the man's embrace, resting her head against his chest. 'That boy won't be able to restrain himself - this is more than he can swallow. He knows that Englishman is worth a hundred of him, that he's not the one who should be king.' 'Will he?' 'Oh he will...' Elizabeth lifted her face in his arms, cradling his cheeks before softly biting his lower lip."
+DD_FRA_23a:"'He most certainly will.'"
+
+DD_FRA_24_t:"Night"
+DD_FRA_24_d:"Dauphin Charles crept silently into the king's bedchamber, where the ruler of France lay sleeping. Clutching a silver ewer of poisoned wine, Charles approached his father's bedside. Pale moonlight seeped through the curtains, weaving a ghostly veil. The time had come - Charles stared resolutely at the slumbering king, steeling his resolve.\n\nSin! Vile, agonizing sin! Yet I shall bear no guilt for this - my foolish, shortsighted father will pay for his mistakes. The Dauphin tilted the ewer, pouring the poison into the king's ear. 'Farewell, father,' he whispered with a dark smile. 'Guards! Guards! The king is dead - betrayed by that English villain! Seize him and cast him into the dungeons!'\n\nA servant who arrived with the guards recoiled at the ghastly sight. Noticing the Dauphin's damp right sleeve, he locked eyes with the prince by candlelight before quickly bowing his head and retreating. Such terrible fate! Such black conspiracy! France will descend into hellfire over this... He must warn the queen at once, no matter the cost!"
+DD_FRA_24a:"This cannot be allowed to stand..."
+
+DD_FRA_25_t:"The Duel"
+DD_FRA_25_d:"Pale moonlight streamed through the narrow barred window into the icy dungeon. Louis raised his bound hands as the creaking iron door revealed a towering figure emerging from the flickering candlelight, gripping a long steel sword. 'Good evening, dear brother,' the visitor chuckled darkly before him. 'This is the last time you'll cheat Death from Fate's grasp. Submit to your destiny, Henry.'\n\n'With this single stroke,' the Dauphin raised his blade high above the condemned man, 'the tragic fate binding us both shall end!' Henry, refusing to yield, struggled to free himself and draw the dagger hidden at his waist—until another unexpected guest disrupted his brother's plans. 'Your schemes end here, Charles,' declared Malcolm in full armor, drawing his sword as he surveyed the two princes. 'Sinners shall pay for their crimes—both of you!'\n\n'Den of vipers...' Henry hissed, dagger in hand as he coiled low like a serpent eyeing his foes. All three claimants knew: the crown of France would demand blood as its price."
+
+DD_FRA_25a:"Charles' blade successfully shattered the throne's challengers."
+DD_FRA_25b:"Prince Henry fought his way through the ambush."
+DD_FRA_25c:"Malcolm thwarted the conspiracy and claimed his prize."
+DD_FRA_25d:"The crimson struggle yielded no victor..."
+
+DD_FRA_25a_tt:"§MCharles, the king's sole legitimate heir, shall continue guiding France steadily.§!\n"
+DD_FRA_25b_tt:"§OThe bastard son Henry—competent yet controversial—shall blend his English heritage into France's future.§!\n"
+DD_FRA_25c_tt:"§GThe king's mediocre brother Malcolm cares little for governance, but happily shares power with nobles.§!\n"
+DD_FRA_25d_tt:"§RFrance's fate continues drowning in blood and chaos.§!\n"
+
+DD_FRA_26_t:"The Crown of Iniquity"
+DD_FRA_26_d:"As dawn's first light pierced Paris, France's victor emerged from the kin-slaying struggle. The new king slumped against the dungeon's cold stones, breathing laboriously. The damp, fetid air scraped down his raw throat into exhausted lungs, laced with the searing tang of blood that set his windpipe aflame.\n\nBracing against his scabbard, Charles shoved the corpse aside and staggered upright. Louis, he thought glancing at his brother's still form on the flagstones, I'll likely forget you by tomorrow. Tearing a rag from another body's cloak, he wiped his gore-caked blade. Henceforth, he was France's king—a kingslayer. He knew it. He no longer cared."
+DD_FRA_26a:"A crown of iniquity, yet France's crown nonetheless."
+
+DD_FRA_26_d2:"France's king rose from the bath, toweling his scarred body vigorously. The steaming water cleansed grime but not the clinging metallic stench. That dungeon's chill still haunted him, gnawing at his heart like a persistent specter.\n\nOne month prior, he'd been a common English soldier. Now he sat upon France's throne, crowned over kinsmen's corpses. The draft through his half-shuttered window made Henry shiver in his robe. No time—a fractured kingdom and two embittered nations awaited their king."
+DD_FRA_26b:"He must be king, though the crown be forged in blood and treachery."
+
+DD_FRA_26_d3:"Malcolm blinked awake in silken sheets, observing the naked beauty beside him. His wine-fogged mind pieced together last night—ah yes... a delightful tryst, wild passion, and oh—that trifling massacre.\n\nHis queen stirred drowsily, amber eyes glazed as they met his. He chuckled darkly. What dreary thoughts—those whelps weren't worth remembering on such a glorious morning. He crushed Elizabeth's lips beneath his teeth until she gasped for air.\n\nThough truly, more concessions to the nobles were needed to secure his throne... Damned nuisance with dawn barely broken. Annoyed, he thrust his tongue deep into her mouth. Hah... this kingship... perhaps not worth the trouble."
+DD_FRA_26c:"Incest, injustice, and cruelty—the foundation of royalty."
+
+DD_FRA_26_d4:"Elizabeth sat helpless upon the throne, staring at her council. That bloody night of schemes had consumed all royal claimants—even Malcolm lay dead—and now she found herself inexplicably crowned amidst the chaos. This was never her design!\n\nThe overwhelmed queen now ruled a realm she scarcely understood, relying entirely on that officer beside her—the very man who'd orchestrated her rise. Noticing her gaze, the soldier-kingmaker tilted his head with a faint smile. 'Worry not, Your Grace,' he murmured, studying France's queen, 'I shall handle everything.'"
+DD_FRA_26d:"'I stand ever with France.'"
+
+DD_FRA_27_t:"Night in Paris"
+DD_FRA_27_d2:"Astonishing news from Paris spread throughout France, lifting a weight from the hearts of its nobility. The two French princes had slain each other in the dungeons. The king's brother, the Duke of Angoulême Malcolm, now proclaimed himself France's new monarch, promising greater privileges to the aristocracy to better govern the realm. Across France, glasses clinked as all sought to profit from this new arrangement."
+DD_FRA_27_d:"Disturbing tidings from Paris rippled across France, sending tremors through the card-house of noble power. Whispers told of a bloody palace struggle culminating in a new prince, [FRA.Monarch.GetName], ascending the throne while former Queen Elizabeth fled to her ancestral Champagne holdings. Unease gripped the land—none knew whether this king would prove France's salvation or ruin, nor how he'd handle the rebellious fiefdoms since the Treaty of Paris. All remained shrouded in uncertainty."
+DD_FRA_27_d3:"Shocking reports from Paris set every ambitious heart in France stirring. With both the heir and king's brother dead under mysterious circumstances, the widowed Queen Elizabeth now stood at the forefront—though every noble knew her to be but a puppet of the so-called French Restoration Society's officer cadre. Across the realm, conspiratorial whispers spread as aristocrats prepared their armies to contest the crown."
+DD_FRA_27a:"Pray for France."
+
+DD_FRA_28_t:"Brittany's Defiance"
+DD_FRA_28_d:"The Duke of Brittany [BRI.Monarch.GetName] declares his loyalty was sworn only to the former king, refusing to pledge fealty to the new monarch."
+DD_FRA_28a:"He'll come crawling back someday."
+
+DD_FRA_288_t:"Night in Paris"
+DD_FRA_288_d:"After the bloodshed in Paris, France has chosen a new king - which means our oaths to the previous monarch need no longer bind us."
+DD_FRA_288a:"Our time has come."
+DD_FRA_288b:"This is our chance to prove loyalty."
+
+DD_FRA_29_t:"Paris' Olive Branch"
+DD_FRA_29_d:""
+DD_FRA_29a:"Let's go! Move out!"
+DD_FRA_29b:"No! Absolutely not."
+
+DD_FRA_30_t:"The Twilight Knight"
+DD_FRA_30_d:"The de Stray family was a knightly house in gradual decline. Few remembered they once produced a Marshal of France who fought beside kings - Raoul de Stray, the Butcher of Poitou. Though he turned the tide at the bloody Battle of Poitou, he couldn't save the dying kingdom nor his liege. After the Albigensian defeat, the homeless Raoul returned to his ancestral lands, spending his remaining years in torment.\n\nIn Milet de Stray's childhood, his grandfather often recounted tales of this ancestor. In his final days, the former marshal's mind deteriorated until he forgot his own glory. 'How could I be marshal when I couldn't even be a proper soldier?' he'd exclaim. Yet sometimes he'd urgently issue battle commands for Poitou as if still trapped in that hellscape.\n\nTo Milet, his family shared France's fate - stripped of everything. They were knights of the twilight; France had lost half her lands, leaving only shame and hatred. Yet they remained knights, warriors sworn never to die unarmed. Only one path burned in Milet's heart: military service. For this minor French knight, it was the sole road to his nation's salvation."
+DD_FRA_30a:"Our glorious crest lies buried in dust, while only fire burns across our land."
+
+DD_FRA_31_t:"The French Restoration Society"
+DD_FRA_31_d:"All of Milet's superiors agreed - while Sir de Stray might not have been a proper knight, he was undoubtedly an exceptional soldier. His brilliant military talents overshadowed his cold and ruthless nature, with corpses on the battlefield forming the crimson steps of his ascent. The gifted Major de Stray successfully joined France's Military Privy Council, becoming a royal aide-de-camp.\n\nTo his surprise, Milet discovered many like-minded soldiers within the army. He joined the French Restoration Society - a militant group of patriotic officers thirsting for revenge and war. Inheriting leadership from a retiring general, he transformed this modest club of kindred spirits into a true political force.\n\nAt last, Milet's moment arrived. The weak-willed royals became embroiled in another ugly succession crisis, and with the military maintaining strict neutrality, no strong victor emerged. The Restoration Society swiftly seized the palace and Paris, installing a Valois puppet on the throne. France had finally returned to the path Milet envisioned - the avengers of a bygone era now stood ready to repay their invaders in kind."
+DD_FRA_31a:"The wheels of war have begun to turn."
+
+DD_FRA_32_t:"A Man of No Importance"
+DD_FRA_32_d:"To be blunt, Milet de Stray was but a down-at-heel knight. True, his lineage once produced an illustrious Marshal of France - but that glory belonged to bygone days, a crest long buried in parched earth. The Strays differed little from other Frenchmen: an unsatisfactory life, a failed nation, and a heart that still beat - Milet de Stray was nobody of consequence.\n\nYet it mattered not. Like millions of his failed generation, Milet yearned to save his country - as Charlemagne once did. In childhood, he'd often slip into the grain mill's tower, surveying his homeland below as if soaring free-winged over open fields. Beyond lay the maroon mountains at dusk, their razor-sharp horizon gilded gold, where wheat swayed and grasses danced.\n\nHe was but an ordinary French youth. Like millions, his restless heart already burned crimson. He wanted France aflame, wished his countrymen's numb hearts might kindle with equal fire. He understood - this nation's soul was forever chained in vengeance's furnace. Milet's insignificant life had reached its end. The French would remain eternally uniformed, yet France would march ever onward."
+DD_FRA_32a:"Death, o death, pale horse - bear me swift to the dead men's realm."
+
+DD_FRA_33_t:"Settling Accounts"
+DD_FRA_33_d:"The French nobility has always been one of the kingdom's greatest burdens. During the Valois rebellion, Richard II's Treaty of Paris elevated aristocratic power to unprecedented heights. On their vast estates, the crown's authority became virtually nonexistent. After the disastrous succession crisis, these nobles grew even more brazen in their defiance.\n\nNow that France has regained her strength, the time has come to reclaim what is ours. These disloyal lords - these vermin obstructing the kingdom's restoration - must be purged. Let us deliver our final ultimatum: they shall submit to Paris, or face us on the battlefield."
+
+DD_FRA_33_d1:"The French nobility has always been one of the kingdom's greatest burdens. During the Valois rebellion, Richard II's Treaty of Paris elevated aristocratic power to unprecedented heights. On their vast estates, the crown's authority became virtually nonexistent. After the disastrous succession crisis, these nobles grew even more brazen in their defiance.\n\nHow absurd - rather than surrendering upon hearing of the Restoration Society's control of Paris, the provincial lords flew into rage, refusing allegiance to the new king and mustering armies to march on the capital. Ah, what a waste of good French blood."
+
+DD_FRA_33_d2:"The French nobility has always been one of the kingdom's greatest burdens. During the Valois rebellion, Richard II's Treaty of Paris elevated aristocratic power to unprecedented heights. On their vast estates, the crown's authority became virtually nonexistent. After the disastrous succession crisis, these nobles grew even more brazen in their defiance.\n\nYet we have no choice. Our ill-gained king must compromise, granting nobles greater privileges to secure their support. The consequences for France will be immeasurable."
+
+DD_FRA_33a:"Let us begin."
+DD_FRA_33a_tt1:"§YThe Duke of Brittany§! has chosen to remain neutral for unknown reasons.\n"
+DD_FRA_33a_tt3:"Modified privilege '§YPowerful French Dukes§!':\nNoble influence: §Y+5.0%§!\n"
+DD_FRA_33a_tt4:"Required crown territory to annex §Yfiefdoms§! reduced by §G10.0%§!.\n"
+
+DD_FRA_34_t:"The Fate of Lesser Britain"
+DD_FRA_34_d:"The Bretons are descendants of Celtic tribes from the British Isles. Though centuries of Roman rule and assimilation following the conquest of Gaul have thoroughly Gallicized the Breton peninsula, they retain distinct Celtic traditions setting them apart from native Frenchmen.\n\nNow that we've regained control of Lesser Britain, we must restart Breton reintegration. We cannot tolerate such fiercely independent people at our doorstep - the inhabitants of Lesser Britain must join France's grand march. The only question remains: should we proceed gradually or with an iron fist?"
+
+DD_FRA_34a:"They shall submit."
+DD_FRA_34b:"Haste makes waste - patience bears sweeter fruit."
+
+DD_FRA_34a_tt:"§YSome will remember this choice.§!\n"
+DD_FRA_34b_modifier:"Assimilation Policy"
+desc_DD_FRA_34b_modifier:"Bretons in this province are being forcibly integrated into the French system."
+DD_FRA_34b_tt:"When provinces with this modifier §Mcomplete culture conversion§!, remove it and gain §G1§! random development.\n"
+
+DD_FRA_35_t:"Judgment Upon Traitors"
+DD_FRA_35_d:"Southern France had three dukes - Gascony, Provence, and Burgundy. They betrayed both king and country, trading our kingdom's future for gilded crowns and silken robes. We shall never forget that day when our great sovereign fell upon Poitou's blood-soaked fields as the crimson dusk descended.\n\nThey murdered our king. They defiled our crown. They reduced a mighty continental power to kneeling before emperors. Now our kingdom reclaims these lands, and all traitors shall face judgment. We will thoroughly purge these treasonous nobles and restore supreme royal authority. France shall not fall before rebellious vassals - every obstructing lord and collaborating traitor shall be accounted for. The Crown's majesty brooks no violation."
+
+DD_FRA_35_d2:"Southern France had three dukes - Gascony, Provence, and Burgundy. They enriched themselves by selling our motherland, trading France's very flesh for gilded crowns and silken robes. We shall never forget that day when our proud nation collapsed upon Poitou's blood-soaked fields beneath that crimson twilight.\n\nThey despoiled our homeland. They defiled our crown. Our glory was trampled into dirt, our weapons broken in disgrace. Today our legions return, and all traitors shall face judgment. Every injustice we suffered shall be repaid a hundredfold. France shall not yield to tyranny or brute force - every obstructing noble and collaborating traitor shall be accounted for. France's sovereignty brooks no violation."
+
+DD_FRA_35a:"France's iron march toward restoration strides forward."
+DD_FRA_35b:"We shall rule jointly with loyal nobles."
+DD_FRA_35c:"France's iron march toward greatness advances unceasing."
+
+
+DD_FRA_35a_modifier:"Great Victory"
+DD_FRA_35_reward_tt1:"Provinces we §Ycontrol§! that are §Mmission requirements§! will gain:"
+DD_FRA_35_reward_tt2:"All provinces we §Yown§! that are §Mmission requirements§! will gain:"
+DD_FRA_35a_modifier2:"Return to France"
+desc_DD_FRA_35a_modifier2:"This province has been occupied by France and is ready to return to French rule."
+DD_FRA_35a_tt:"£icon_ideas£ The §Y4th§! national idea '§YAssimilation Act§!' is replaced with '§YPermanent Defense State§!', with effects changed to:\nMilitary Tactics: §G+0.2§!\n"
+DD_FRA_35b_tt:"£icon_ideas£ The §Y3rd§! national idea '§YMagna Carta's Legacy§!' gains:\n[liberty_desire_from_subject_development]: §G-10.0%§!\n"
+DD_FRA_35b_tt2:"Penalties from §Rcompromise§! with southern nobles are reduced by §G-33.3%§! (§gexcept Minor Fief Privileges§!), provided their liberty desire remains below §G25.0%§!\n"
+
+GREAT_FRA:"Greater France"
+GREAT_FRA_ADJ:"French"
+UNITED_FRANCE:"United Kingdom of France"
+UNITED_FRANCE_ADJ:"United French Kingdom"
+
+DD_FRA_36_t:"The Mayoral Cabinet"
+DD_FRA_36_d:"With the new monarch of the United Kingdom crowned, it is time to appoint a Mayor of the Palace to lead the royal government. The Mayor shall be selected from among four traditional noble factions: the Royalist faction loyal to the crown, the Centralist faction guarding the eastern borders, the powerful Occitan faction of the south, and the Unionist faction representing western coastal minorities. The Mayor will serve both king and France, helping consolidate the central powers granted to the royal government by the nobility."
+
+DD_FRA_36a:"Royalist Faction"
+DD_FRA_36b:"Occitan Faction"
+DD_FRA_36c:"Unionist Faction"
+DD_FRA_36d:"Centralist Faction"
+
+DD_FRA_36a_modifier:"Royalist Mayor"
+DD_FRA_36b_modifier:"Occitan Mayor"
+DD_FRA_36c_modifier:"Unionist Mayor"
+DD_FRA_36d_modifier:"Centralist Mayor"
+
+DD_FRA_37_t:"The $YEAR$ Edict"
+DD_FRA_37_d:"As France gradually revives, state power is being recentralized, replacing the feudal rule of local nobles with royal officials dispatched from the capital. Paris is becoming the absolute political center of all France, from which all decrees emanate to the realm. Simultaneously, we shall cultivate our national identity and pride - let us vigorously promote and shape our national spirit, building a powerful centralized state."
+
+DD_FRA_37a1:"Humility"
+DD_FRA_37a2:"Honesty" 
+DD_FRA_37a3:"Mercy"
+DD_FRA_37a4:"Justice"
+
+DD_FRA_37b1:"Sacrifice"
+DD_FRA_37b2:"Valor"
+DD_FRA_37b3:"Compassion"
+DD_FRA_37b4:"Fearlessness"
+
+DD_FRA_37c1:"Conquest"
+DD_FRA_37c2:"Honor"
+DD_FRA_37c3:"Loyalty"
+DD_FRA_37c4:"Harmony"
+
+DD_FRA_37d1:"Zealotry"
+DD_FRA_37d2:"Maiming"
+DD_FRA_37d3:"Oppression"
+DD_FRA_37d4:"The Sea"
+
+DD_FRA_choose_sprit_title:"@FRA Select French National Spirit"
+DD_FRA_choose_sprit_desc:"Most glorious France."
+DD_FRA_has_read_sprit_tt:"\n§YNational Spirit§! alignment points represent the development and tendencies of the French state and people. When §Gavailable§! points exist, we may select a corresponding §YNational Spirit§! via decision.\n"
+DD_FRA_choose_sprit_ttt:"National Spirit alignment points available"
+
+DD_FRA_unlock_S_sprit_war_tt:"Unlocked special §OWar§!-aligned §YNational Spirit§!.\n"
+DD_FRA_unlock_S_sprit_peace_tt:"Unlocked special §JPeace§!-aligned §YNational Spirit§!.\n"
+
+DD_FRA_sprit_peace_tt:"Gain §G1§! §JPeace§! alignment point, exchangeable for:\n"
+DD_FRA_sprit_peace_tt1:"- Humility (§G+10.0%§! §Y[improve_relation_modifier]§!)"
+DD_FRA_sprit_peace_tt2:"- Honesty (§G+1.00§! §Y[diplomatic_reputation]§!)"
+DD_FRA_sprit_peace_tt3:"- Mercy (§G-1.00§! §Y[global_unrest]§!)"
+DD_FRA_sprit_peace_tt4:"- Justice (§G-10.0%§! §Y[stability_cost_modifier]§!)"
+
+DD_FRA_sprit_peace_tt1c:"- Conquest (§G-5§! §Y[years_of_nationalism]§!)"
+DD_FRA_sprit_peace_tt2c:"- Honor (§G+1.00§! §Y[legitimacy]§! §G+1.00§! §Y[monthly_splendor]§!)"
+DD_FRA_sprit_peace_tt3c:"- Loyalty (§G+10.0%§! §Y[liberty_desire_from_subject_development]§!)"
+DD_FRA_sprit_peace_tt4c:"- Harmony (§G+2§! §Y[num_accepted_cultures]§!)"
+
+DD_FRA_sprit_war_tt:"Gain §G1§! §OWar§! alignment point, exchangeable for:\n"
+DD_FRA_sprit_war_tt1:"- Sacrifice (§G+7.5%§! §Y[manpower_recovery_speed]§!)"
+DD_FRA_sprit_war_tt2:"- Valor (§G+5.0%§! §Y[infantry_power]§! §G+5.0%§! §Y[cavalry_power]§!)"
+DD_FRA_sprit_war_tt3:"- Compassion (§G-0.1§! §Y[war_exhaustion]§!)"
+DD_FRA_sprit_war_tt4:"- Fearlessness (§G-5.0%§! §Y[morale_damage_received]§!)"
+DD_FRA_sprit_war_tt1c:"- Zealotry (§G-5.0%§! §Y[province_warscore_cost]§!)"
+DD_FRA_sprit_war_tt2c:"- Maiming (§G+5.0%§! §Y[land_morale]§!)"
+DD_FRA_sprit_war_tt3c:"- Oppression (§G+10.0%§! §Y[vassal_manpower_bonus]§!\n          §G+10.0%§! §Y[vassal_income]§!)"
+DD_FRA_sprit_war_tt4c:"- The Sea (§G+1§! §Y[own_coast_naval_combat_bonus]§!)"
+
+DD_FRA_sprit_peace_tt_gain_all:"§Y[Root.GetName]§! has acquired all §JPeace§!-aligned National Spirits.\n"
+DD_FRA_sprit_war_tt_gain_all:"§Y[Root.GetName]§! has acquired all §OWar§!-aligned National Spirits.\n"
+DD_FRA_choose_sprit_ttt2:"We still have obtainable National Spirits"
+
+DD_FRA_37a_modifier1:"Humility"
+DD_FRA_37a_modifier2:"Honesty"
+DD_FRA_37a_modifier3:"Mercy"
+DD_FRA_37a_modifier4:"Justice"
+
+DD_FRA_37b_modifier1:"Sacrifice"
+DD_FRA_37b_modifier2:"Valor"
+DD_FRA_37b_modifier3:"Compassion"
+DD_FRA_37b_modifier4:"Fearlessness"
+
+DD_FRA_37c_modifier1:"Conquest"
+DD_FRA_37c_modifier2:"Honor"
+DD_FRA_37c_modifier3:"Loyalty"
+DD_FRA_37c_modifier4:"Harmony"
+
+DD_FRA_37d_modifier1:"Zealotry"
+DD_FRA_37d_modifier2:"Maiming"
+DD_FRA_37d_modifier3:"Oppression"
+DD_FRA_37d_modifier4:"The Sea"
+
+DD_FRA_37b_modifier1_2:"Homeland Defense"
+DD_FRA_37b_modifier4_2:"Unyielding Resolve"
+
+DD_FRA_37a1_tt:"Lose §G-25§! Aggressive Expansion.\n"
+DD_FRA_37a2_tt:"Unlocks diplomatic action '§YShow Sincerity§!', granting §G+50§! relations (only one country at a time).\n"
+DD_FRA_37a3_tt:"All owned provinces lose §G-5§! Separatism.\n"
+
+DD_FRA_37b1_tt:"When §Mwinning battles§! on home territory:\n§g(Not stackable)§!"
+DD_FRA_37b2_tt:"Doubles chance to gain traits:\n'§YBrave§!'([leader_land_shock]: §G+1.00§!)\n'§YTactical Genius§!'([leader_land_manuever]: §G+1.00§!)\n"
+DD_FRA_37b3_tt:"Negative event '§YThe Families Left Behind§!' trigger interval §Gdoubled§!.\n" #event The Families Left Behind aow_events.15
+DD_FRA_37b4_tt:"After §Moccupying provinces§!:\n§g(Not stackable)§!"
+
+DD_FRA_37c1_tt:"Government mechanic '§YWar Enthusiasm§!' minimum value adds:\nYears of Separatism: §G-10.0§!\n"
+DD_FRA_37c2_tt:"" #none
+DD_FRA_37c3_tt:"All §YFiefdoms§! or §YPrivileged Fiefdoms§! gain §G+20.0%§! National Tax modifier.\n"
+DD_FRA_37c4_tt:"Unlocks naval doctrine '§YWooden Wall§!'.\n"
+
+wooden_wall_ttt:"This naval doctrine is unlocked"
+
+DD_FRA_37d1_tt:"§YRecruiting generals§! grants additional §G5§! army tradition.\n"
+DD_FRA_37d2_tt:"When §Ybombarding walls§! during sieges, gain §G+1§! siege progress level.\n"
+DD_FRA_37d3_tt:"Each §Ysubject nation§! provides §G25§!£adm££dip££mil£ (max §G+500§!).\n"
+DD_FRA_37d4_tt:"§YRecruiting admirals§! grants additional §G5§! navy tradition.\n"
+
+DD_FRA_show_good:"Show Sincerity"
+DD_FRA_show_good_title:"Show Sincerity"
+DD_FRA_show_good_desc:"Spend §Y50§!£dip£ to increase relations with §Y[From.GetName]§! by §G+50§!.\n"
+DD_FRA_show_good_tooltip:"Spend §Y50§!£dip£ to increase relations with §Y[From.GetName]§! by §G+50§!.\n"
+
+DD_FRA_show_good_op:"Sincere Heart"
+
+DD_FRA_38_t:"The French National Constitution"
+DD_FRA_38_d:"Through years of effort, France has become a powerful centralized state. Gone are the days of humiliation and regional fragmentation. Our homeland now strides forward as a modern nation. Let us reorganize the Estates-General into a loyal parliament devoted to the state, drafting a grand constitution that defines the powers of all social estates and the structure of national authority - providing sacred legal foundation for our glorious rule."
+DD_FRA_38a:"France Supreme!"
+
+DD_FRA_39_t:"The Angevin Reconquest"
+DD_FRA_39_d:"Before France's calamities, our ancestors' ambitions reached across Britain. We were conquerors and undisputed lords of those isles. But we failed to maintain our glory, allowing barbaric Vikings to seize opportunity while ungrateful English rebels spurned our civilizing embrace.\n\nNow this ends. The Gallic Lion awakens from slumber - none shall withstand the storm of France! Across sea and fire we come, to bring unity and order once more: the Pax Francia. Let us teach them both civilization and war."
+
+DD_FRA_39a:"We shall rule England directly!"
+DD_FRA_39b:"We shall release a Britain loyal to us."
+DD_FRA_39c:"We shall reunite the two crowns once more."
+DD_FRA_39d:"Let our military government forge a new Britain."
+
+DD_FRA_39a_tt2:"Provinces in §YBritain§! gain:"
+DD_FRA_39a_modifier:"Anglophone Region"
+
+desc_DD_FRA_39a_modifier:"This province belongs to the Anglophone Region under French administration."
+
+DD_FRA_39a_tt:"British-culture provinces we control without separatism or rebellion will gradually convert to §YAngevin§! culture.\n"
+
+DD_FRA_39b_tt:"@ENG§YEnglish§!-held provinces will also spread §GAngevin§! culture, but receive no additional bonuses.\n"
+
+DD_FRA_39c_tt:"£icon_ideas£ The §Y2nd§! national idea '§YNever Again Poitou§!' is replaced with '§YFrench Land Dominance§!', adding:\nFire Damage: §G+5.0%§!\n\n£icon_ideas£ The §Y3rd§! national idea '§YLessions of Magna Carta§!' gains:\n[global_unrest]: §G-1.00§!\n\n£icon_ideas£ The §Y4th§! national idea '§YAssimilation Act§!' is replaced with '§YEnglish Naval Rule§!', changing effects to:\nNaval Morale: §G+15.0%§!\n\n£icon_ideas£ The §Y5th§! national idea '§YDivine Right§!' is replaced with '§YLegacy of Norman Conquest§!', adding:\nCore Creation Cost: §G+5.0%§!\n"
+
+ENG_MIL:"British Military District"
+ENG_MIL_ADJ:"British Military District"
+IRE_MIL:"Emerald Isle Military District"
+IRE_MIL_ADJ:"Emerald Isle Military District"
+
+DD_FRA_40_t:"The Irish Question"
+DD_FRA_40_d:"As the region most preserving Celtic tribal culture, Ireland stands distinct from other British lands. Though similarly invaded and ruled by Vikings, the island largely resisted these barbaric influences. The Emerald Isle remains a bastion of Celtic traditions.\n\nNow conquered alongside Britain, Ireland presents an administrative dilemma: should we integrate it into the British system, or preserve its unique political culture as a valued ally in our grand alliance?"
+
+DD_FRA_40a:"I hear potatoes echoing..."
+DD_FRA_40a_modifier:"Echoing Potatoes"
+DD_FRA_40a_tt:"Provinces in §YIreland§! gain:"
+desc_DD_FRA_40a_modifier:"Raged in anger, then just stayed angry."
+DD_FRA_40b:"Ireland makes a... decent ally?"
+DD_FRA_40c:"Let [ENG.GetName] handle this."
+DD_FRA_40d:"Welcome to the Angevin family!"
+DD_FRA_40d_tt:"§YAngevin§! culture will now spread in §YIrish§! culture provinces.\n"
+DD_FRA_40e:"Why not establish a united Gaelic realm?"
+
+HSC_MIL:"Goidelic Military District"
+HSC_MIL_ADJ:"Goidelic Military District"
+
+DD_FRA_400_t:"The Scottish Question"
+DD_FRA_400_d:"Scotland was once Celtic land, but gradually became a Viking playground after their invasions. In earlier times, the Scots were heavily influenced by England - hence why some of our English governors now demand equal treatment.\n\nThough conquered, what shall be Scotland's fate?"
+
+DD_FRA_400a:"Perhaps you should join the Irish in potato farming."
+DD_FRA_400b:"Best establish a separate Scottish state."
+DD_FRA_400c:"How about joining the Angevin family?"
+DD_FRA_400d:"The old way - English rule over Scots."
+
+DD_FRA_400c_tt:"§YAngevin§! culture will now spread in §YHighland Scottish§! culture provinces.\n"
+
+SCO_MIL:"Alba Military District" 
+SCO_MIL_ADJ:"Alba Military District"
+
+DD_FRA_41_t:"The Rising Military Class"
+DD_FRA_41_d:"As France gradually revives, our army and its officer corps have grown substantially. A militant club of young senior officers called the French Restoration Society has expanded significantly. This officer group, composed mostly of talented and ambitious young commanders, appears to have existed for years.\n\nDuring our campaigns, the Society's soldiers have distinguished themselves. Their collaboration has influenced France's entire military and populace. Increasingly, Frenchmen aspire to military service to save the motherland, while the army's standards continue rising."
+
+DD_FRA_41a:"Excellent French soldiers!"
+DD_FRA_41a_modifier:"French Restoration Society"
+
+DD_FRA_42_t:"Taxation for France"
+DD_FRA_42_d:"Following the Albigensian defeat, French kings instituted new taxes to rebuild the devastated nation and raise a powerful army. Beyond increasing traditional levies, Richard II established the French Defense Tax through the Estates-General during the Low Countries War and French Civil War.\n\nAfter a century's evolution, this has become a permanent military expansion fund rather than temporary emergency levy. For tax-exempt nobles, it matters little - some even profit handsomely. But for peasants and urban craftsmen, the Defense Tax remains deeply unpopular."
+
+DD_FRA_42a:"For France's renewed greatness."
+DD_FRA_42b:"We'll forgo collection this time."
+DD_FRA_42a_modifier:"Defense Tax"
+DD_FRA_42a_modifier2:"Defense Tax" 
+DD_FRA_42b_modifier:"Gratitude"
+
+DD_FRA_43_t:"Command of the Army"
+DD_FRA_43_d:"Our military marches toward modernization - a powerful, loyal force laying foundations for France's greatness. By reorganizing the Military Privy Council, we'll install trusted, capable officers in high command, fully consolidating control. The influential Restoration Society will pledge absolute loyalty, becoming our instrument. Henceforth, France's army shall be our sword, conquering wherever we point."
+
+DD_FRA_43_d2:"Our military marches toward modernization - a powerful, loyal force laying foundations for France's greatness. By reorganizing the Military Privy Council, we'll install trusted, capable officers in high command, fully consolidating control. Previously neutral officers will pledge absolute loyalty. Henceforth, France's army shall be our sword, conquering wherever we point."
+
+DD_FRA_43a:"Invincible!"
+DD_FRA_43a_modifier:"Privy Council"
+
+DD_FRA_44_t:"The Anti-French Coalition"
+DD_FRA_44_d:"As France's power grows, the wicked Emperor has finally recognized our threat anew. They seek to unite other nations in an encircling alliance against us, isolating us diplomatically. Without doubt, war with the Empire is inevitable - conflict cannot be avoided."
+DD_FRA_44a:"We must break through this encirclement!"
+DD_FRA_44a_tt:""
+
+DD_FRA_45_t:"Order in the Low Countries"
+DD_FRA_45_d:"For generations, French kings have sought to incorporate the prosperous Low Countries into our realm. Local resistance and Holy Roman Emperors' interference long thwarted these efforts. Now we've crushed all opposition to making these lands the crowning jewel of the Fleur-de-Lis crown. France stands as the Low Countries' sole master.\n\nAll thriving commercial cities shall contribute to France's greatness; their prosperous industries shall serve only us. Paris-appointed officials will govern these once-rebellious metropolises. This conquest forms an indispensable pillar of France's rise - we gain vast wealth for further expansion. Soon all Europe will bow to French hegemony."
+
+DD_FRA_45a:"We shall monopolize these fertile lands."
+DD_FRA_45b:"Let loyal locals govern autonomously."
+DD_FRA_45c:"We'll control the Netherlands' armies." 
+DD_FRA_45d:"Let's assist our old friends."
+
+DD_FRA_45a_tt:"Provinces in §YLow Countries§! gain:"
+DD_FRA_45a_modifier:"Low Countries' Prosperity"
+desc_DD_FRA_45a_modifier:"How beautiful the Low Countries are."
+
+DD_FRA_45d_tt:"Perhaps our ruler's connections can secure better opportunities for Low Countries merchants.\n\nUnlocks additional bonuses for great projects:\n'§YDutch Polders§!'and'§YAmsterdam Stock Exchange§!'\n§g(when conditions are met)§!.\n"
+
+DD_FRA_45d_KEY:"Connections"
+
+NED_MIL:"Low Countries Military District"
+NED_MIL_ADJ:"Low Countries Military District"
+
+DD_FRA_46_t:"King of the North"
+DD_FRA_46_d:"Today our armies cross the Rhine, extending French glory ever farther. German lands, long ravaged by war and tyranny, remain mired in endless quarrels - these Germans understand nothing of governance. Let we enlightened French bring civilization and order to these primitive barbarians. What Germans cannot achieve, France shall accomplish for them.\n\nNorthern Germany's chronic disorder shall end. These greedy, incompetent tyrants will be expelled as we bring true peace and order - under French leadership. The beastly era of territorial bloodshed concludes. Northern Germany shall know lasting peace - Pax Francia!"
+
+DD_FRA_46a:"Vive la France!"
+DD_FRA_46a_modifier:"Northern Intendancy"
+DD_FRA_46a_modifier2:"March of Victory"
+DD_FRA_46a_tt:"When conquering §YNorthern German§! or §YSouthern German§! provinces hereafter, they lose §G-5§! years of separatism.\n"
+
+DD_FRA_47_t:"Charlemagne's Legacy"
+DD_FRA_47_d:"Before Europe descended into endless wars, one monarch united the continent - Charles the Great, Father of Europe. His empire once spanned the land, his armies marched victorious, but his passing took with it a unified realm.\n\nCharlemagne's threefold inheritance became three warring nations, that glorious empire scattered to history's winds. Today, France - the Frankish Empire's true and sole heir - reunites the great Charles' legacy under one banner. French glory once again reigns over both seas! Now a mighty empire awakens from its grave, a great nation risen from defeat."
+
+DD_FRA_47c:"Born in desperation, standing against all odds."
+DD_FRA_47c_modifier:"France Never Yields"
+
+DD_FRA_47a:"We shall rebuild Francia!"
+DD_FRA_47b:"We shall restore Frankish borders!"
+DD_FRA_47b_tt:"§Y[Root.GetName]§! inherits subject nations @NED@BAV@RHL@GER@IT1.\n"
+
+DD_FRA_48_t:"Purchase of North American Territories"
+DD_FRA_48_d:"Recently, our Mississippi Company has proposed expansion - they wish to purchase our Eastern American colonies to better serve the crown."
+
+DD_FRA_48a:"If they pay the price."
+DD_FRA_48b:"Denied."
+
+DD_FRA_48a_tt:"All §YEastern American colonial§! provinces owned by us or our subjects will be ceded to §Y[From.GetName]§!, granting us §G50§!£icon_gold£ and 10£adm£\n"
+DD_FRA_48b_tt:"§Y[From.GetName]§! won't propose similar offers again.\n"
+
+DD_FRA_49_t:"Colonial Methods" 
+DD_FRA_49_d:"As our colonies expand across Africa and beyond, we must refine colonial governance. [Root.Monarch.GetName]'s advisors propose two approaches: enforced cultural/religious assimilation or local autonomy."
+
+DD_FRA_49a:"Enforce assimilation."
+DD_FRA_49a_tt:"§YHeathen§! provinces in §YTrade Companies§! gain:"
+DD_FRA_49b:"Implement local rule."
+
+DD_FRA_49a_modifier:"Assimilation"
+desc_DD_FRA_49a_modifier:"Missionaries flood this province while settlements multiply."
+
+DD_FRA_49b_modifier:"Autonomy" 
+desc_DD_FRA_49b_modifier:"Locals govern this province, even maintaining their own constabulary forces."
+
+DD_FRA_50_t:"The Red Eminence"
+DD_FRA_50_d:"Armand-Jean du Plessis de Richelieu studied at military academy and Collège de Calvi before being nominated as Bishop of Luçon. He entered politics through the Estates-General, rising to Secretary of War. After being elevated to Cardinal by the Papacy, Armand gained considerable influence in France, particularly within the military.\n\nLater serving as France's Minister of War and even Prime Minister, he was created Duke of Richelieu. He worked to strengthen Paris' control over provinces while diminishing noble privileges, dominating policy decisions. A proponent of raison d'état, Richelieu prioritized naval development, establishing the French Admiralty and eventually being named Marshal of France."
+
+DD_FRA_50a:"What an excellent statesman!"
+DD_FRA_50b:"Reappoint him as Prime Minister!"
+DD_FRA_50c:"Salute the Marshal!"
+DD_FRA_50b_modifier:"The Red Eminence"
+
+DD_FRA_51_t:"The Alpine Watchtower"
+DD_FRA_51_d:"Unlike other German states, the Swiss Confederation hidden in the Alps exists as a world apart from the Empire. Free Swiss cantons and ambitious Habsburg rulers have made this mountain realm a buffer between France and Germany.\n\nNow Switzerland must abandon its wavering neutrality. We shall help the Swiss unite their fractious confederation, binding them eternally to French leadership. This Alpine nation shall become our eastern advance post - Europe's watchtower atop the mountains."
+
+DD_FRA_51a:"We shall lead Switzerland."
+DD_FRA_51b:"Let the Confederation elect its own president."
+DD_FRA_51c:"The Royal Army will command the Alps."
+
+SWI_MIL:"Alpine"
+SWI_MIL_ADJ:"Alpine"
+
+DD_FRA_52_t:"Blood for Blood"
+DD_FRA_52_d:"The Germans brought fire and ruin upon our homeland - their invading cavalry like demons from hell, reducing our lands to ashes, leaving only famine and death. Survivors endured slavery and humiliation amidst France's ruins.\n\nNow France has crawled from hell's abyss, and these shameful invaders shall pay. We return as Europe's dominant power, this time claiming what's rightfully ours with perfect strength. The jackals of South Germany shall wash away our disgrace in blood."
+
+DD_FRA_52a:"France must triumph, and triumph she shall!"
+DD_FRA_52a_modifier:"Blood for Blood"
+DD_FRA_52a_tt:"Provinces we or our non-tributary subjects control in the §YHoly Roman Empire§! will immediately §Gleave the Empire§!.\n"
+DD_FRA_52a_tt2:"When occupying §YSouth German§! provinces, they gain:"
+DD_FRA_52a_modifier:"France's Terrifying Offensive"
+desc_DD_FRA_52a_modifier:"The people here beg for war's end."
+
+DD_FRA_53_t:"The Unification of Iberia"
+DD_FRA_53_d:"Since the fall of the Visigothic Kingdom, the Iberian Peninsula has been trapped in endless farce. Charles Martel's hammer shattered Muslim ambitions yet failed to extinguish their burning vengeance. This land bears forever foreign hues, claimed by diverse peoples struggling to survive in chaotic whirlpools.\n\nNow we may conclude God's work, giving this tiresome play a fitting finale. After centuries of bloodshed and intrigue, Iberia shall know unity under French leadership - her peoples united in peaceful prosperity."
+
+DD_FRA_53_d2:"Since the Visigothic Kingdom's collapse, Iberia has drowned in perpetual tragedy. Though Charles Martel crushed Muslim ambitions, their vengeful fires still burned. The peninsula bears indelible foreign stains, claimed by competing nations fighting for survival in turmoil.\n\nNow we conclude this Christian struggle, giving the tragic epic its deserved ending. After centuries of war, Iberia may finally pursue peace - negotiating a future benefiting all. Through French efforts, Iberian peoples will unite toward shared prosperity."
+
+DD_FRA_53a:"Incorporate the peninsula into our realm."
+DD_FRA_53b:"Iberians shall receive their deserved prosperity."
+DD_FRA_53c:"The military government will administer this land of chaos."
+
+DD_FRA_53a2:"Unity and cooperation is our shared path."
+DD_FRA_53b2:"We believe only in obedience."
+
+DD_FRA_53a2_tt:"Unlocks decision '§YFranco-Spanish Mutual Aid Pact§!', allowing mutual assistance every §Y10§! years.\n"
+DD_FRA_53b2_tt:"Unlocks decision '§YControl of Spain§!'.\n"
+
+DD_FRA_53a2_modifier:"Iberian Prosperity"
+desc_DD_FRA_53a2_modifier:"Thanks to French allies, this province thrives in freedom."
+
+DD_FRA_53a_modifier:"Iberian Administration" 
+desc_DD_FRA_53a_modifier:"Iberian warriors relish combat - we'll put their skills to use."
+
+DD_FRA_SPA_help_title:"@FRA@SPA Franco-Spanish Mutual Aid Pact"
+DD_FRA_SPA_help_desc:"Provide our good allies with needed arms, gaining insights into tercio tactics in return."
+DD_FRA_SPA_help_ttt:"Not used this decade"
+
+IBERIQUE:"Iberique"
+IBERIQUE_ADJ:"Iberique"
+SP8_MIL:"Iberique Military District"
+SP8_MIL_ADJ:"Iberique Military District"
+
+DD_FRA_54_t:"Return to England"
+DD_FRA_54_d:"Since William the Conqueror crossed the channel, England has been France's sacred territory. Yet these unruly English repeatedly challenged our authority, betrayed our mercy, compounding France's misfortunes.\n\nBy fate's grace, France has risen from ruins, crushing the Anglo-Dutch alliance. Now we return to judge this land of traitors, bandits, thieves and scoundrels - time to deliver verdict anew."
+
+DD_FRA_54a:"The English aren't to blame."
+DD_FRA_54b:"Let bygones be, push integration."
+DD_FRA_54c:"Angevin culture is the only answer."
+
+DD_FRA_54a_tt:"§JOur ruler's English blood fosters sympathy - perhaps compromise by helping reorganize their administration.§!\n\nUnlocks decision '§YPromote English Cultural Integration§!' to unify English cultures.\n"
+DD_FRA_54b_tt:"§YSome will remember this choice.§!\n"
+DD_FRA_54c_tt:"§YAngevin§! culture spread speed §Rhalved§!, no separatism required. Upon conversion, grants §G1§! random development.\n"
+
+DD_FRA_54b_tt2:"§YAngevin§! culture spread speed §Gdoubled§!.\n"
+DD_FRA_54b_tt3:"§GAccelerate Francization by enforcing French language in Angevin regions. Many English may simply change superficial identities.§!\n"
+DD_FRA_54c_tt2:"§OThe English aren't worthy - let French settlers claim their lands. Integration takes longer but requires only patience.§!\n"
+
+DD_FRA_55_t:"William Shakespeare"
+DD_FRA_55_d:"The French poet and playwright William Shakespeare, regarded as France's national poet and by many as the greatest dramatist of all time. His plays written for a small theater in late 16th and early 17th century now enjoy growing international acclaim. His contemporary Ben Jonson's prophecy - 'He was not of an age, but for all time' - has come true.\n\nHis most famous work remains 'The Tragedy of Errors', inspired by 15th century France's bloody royal struggles. This tragedy tells of a French prince meeting his English doppelgänger, triggering intertwined fates that transform the kingdom overnight into a realm of conspiracy and human misery."
+#《The Tragedy of Errors》
+DD_FRA_55a:"Another gem of French literature!"
+
+DD_FRA_56_t:"Lingering on Yesterday's Shore"
+DD_FRA_56_d:"The boy's childhood was spent in exile. Born in London, his family fled north when the French invaded - yet the armies followed like apocalyptic nightmares. Eventually, they resigned themselves to living under French rule like foxes surrendering to hunters, delivering their fate to France's demons.\n\nThose were dark days. The French mandated French in all schools, yet his parents secretly taught him English, whispering: 'Never forget you're English.' These deathbed words became eternal scars, part of his soul from womb to grave. The French took their lands, slaughtered their people, then proudly built a tower in London commemorating their 'glorious Norman Conquest'.\n\nNow he vows to make France tremble, to prove this land will never yield - France shall pay in blood."
+
+DD_FRA_56a:"Break her wings, cage her soul, drain her blood - until Britain sinks beneath the waves."
+DD_FRA_56a_tt:"Great Project '§YTower of London§!' grants an additional §G-2.5§! years of separatism per level.\n"
+DD_FRA_57a_tt:"Great Project '§YTower of London§!' grants an additional §G-0.8§! national unrest per level.\n"
+
+DD_FRA_57_t:"Wings Soaring Toward Tomorrow"
+DD_FRA_57_d:"The boy squeezed excitedly through the crowd until soldiers gently stopped him - no further. As clock towers chimed, cheers erupted for the new Franco-English Friendship Memorial. Hundreds gathered to honor those fallen in centuries of war, their bloodshed now etched in stone.\n\nAncient hatreds no longer chain hearts, but become wings lifting both peoples toward shared futures. Some ask: after so much war, how can anyone forsake vengeance for hope? The answer whispers on the wind: because we now ride the wings of tomorrow."
+DD_FRA_57a:"We live not in yesterday's sorrows, but facing tomorrow's dawn."
+
+DD_FRA_59_t:"The Revenge Pact"
+DD_FRA_59_d:"The Holy Roman Empire appears glorious, but grows isolated through endless expansion. Many watch and covet, awaiting its fall. Among them - North German allies exiled centuries ago during Hohenstaufen succession struggles, now forced to bitterly witness imperial resurgence. We share this enemy: the Hohenstaufen Empire. Let us propose an agreement with North German leaders, preparing joint action against our common foe."
+DD_FRA_59a:"Extend the invitation."
+DD_FRA_59b:"Unnecessary - we'll handle the Empire alone."
+
+DD_FRA_601_t:"Severing the Root of Evil"
+DD_FRA_601_d:"Once the Germans were but nameless subjects groveling at Charlemagne's feet - pathetic Germanic tribes, barbarians devoid of nobility. We gave them civilization, order, and statecraft, yet these ungrateful jackals betrayed their benefactors, boasting their tainted blood as noble proof. These foolish savages abandoned plows for swords turned against their masters.\n\nWe shall rebury these pretentious clowns beneath the earth. Fire will scorch their fields, blood will poison their rivers, and severed heads will replace city lights. The Franks' gift of freedom was pure folly - now French steel will crush their petty borders, dragging these delusional wretches from their laughable 'Empire'. We'll eradicate the German menace; henceforth, all authority flows solely from France!"
+DD_FRA_601a:"Salt shall follow sulfur and flame."
+DD_FRA_601b:"Germans shall remain our humble servants."
+DD_FRA_601c:"Our armies will teach obedience and humility."
+
+DD_FRA_60_t:"Southern Negotiations"
+DD_FRA_60_d:"We waited hopefully for an evening that would never come. The southern dukes hold not even a shred of respect for us. If peace cannot bring victory, then we must meet on the battlefield."
+DD_FRA_60_d2:"Southern delegates have arrived at Paris' court to negotiate terms for France's unification - the first independent Franco-Southern diplomacy since the Albigensian War without imperial oversight. At a Seine-side banquet, [Root.Monarch.GetName] raised a toast to southern representatives, receiving only polite applause."
+DD_FRA_60a:"A promising beginning."
+DD_FRA_60a_tt:"Agree to attend the conference.\n"
+DD_FRA_60b:"No alternative remains."
+DD_FRA_60b_tt:"§ROnly war can answer now.§!\n"
+
+DD_FRA_61_t:"Burgundy's Demands"
+DD_FRA_61_d:"As the wealthiest of southern dukes, Burgundy's envoy appears poised and confident. They demand monopoly over southern wine trade with royal charter, ensuring protected interests and unrestricted wealth accumulation."
+
+DD_FRA_61a:"Accept these terms."
+DD_FRA_61b:"Deny the privileges."
+DD_FRA_61b_tt:"§YWe require at least two dukes' support for legitimacy, otherwise facing §Radditional penalties§!.§!\n"
+
+DD_FRA_62_t:"Gascony's Demands" 
+DD_FRA_62_d:"Gascony, militarily strongest among southern dukes, seeks exemption from military obligations and exclusive rights to levy their populace. They view their subjects as assets to strengthen themselves rather than resources for Paris."
+
+DD_FRA_63_t:"Provence's Demands"
+DD_FRA_63_d:"The last southern duke's representative rises, proposing duty-free trade privileges for Provençal merchants and tax exemptions for their goods."
+
+DD_FRA_64_t:"Minor Lords' Demands"
+DD_FRA_64_d:"Beyond the three great dukes, numerous minor southern lords collectively seek Paris' guarantee of their autonomous rights and protected interests."
+
+DD_FRA_65_t:"The Stitched Bitter Heart"
+DD_FRA_65_d:"Imperial blades carved the proud rooster into fractured remnants, leaving France more divided than imagined. For this bitter unity, we sacrificed too much - gaining only a scarred, sutured heart. As the Hohenstaufen century's iron curtain fell, France unified yet splintered in agony.\n\nCompromises scattered royal power - local magnates still reign supreme. Privileges granted to nobles are seeds sown in soil, destined to bear fruit that will shock France. Chaos takes root in Fleur-de-Lis earth, waiting to bloom poisonous flowers. North/South, core/periphery - centuries of separation left countrymen estranged from peasants to lords."
+DD_FRA_65a:"Life's paths diverge north and south..."
+DD_FRA_65a_tt1:"Fortunately §Y[Root.Monarch.GetName]§! secured sufficient support.\n"
+DD_FRA_65a_tt2:"§RYet all proves futile, reduced to mockery.§!\n"
+
+DD_FRA_66_t:"The Scorching Tide"
+DD_FRA_66_d:"Hell's flames still consume indiscriminately, yet our nation - once willing fuel for this fire - burns out. As war drags on, famine and death ride unchecked across France. Merchants lament how no nation trades with war-torn France, while peasants and artisans cannot sustain production. Endless war has stolen ordinary Frenchmen's peaceful lives, taking loved ones and stability forever. France charges headlong into the scorching tide of collapse..."
+
+DD_FRA_66a:"Yet the war continues."
+DD_FRA_66a_modifier:"Disintegration" 
+DD_FRA_66a_tt:"While active, the government mechanic '§YWar Enthusiasm§!' provides §Rhalf§! its usual §Gbenefits§!.\n\nIf after §R10§! years we fail to reduce '§YWar Enthusiasm§!' below §Y75§!, we'll face §Rbankruptcy§! and §Rcollapse§!.\n"
+
+DD_FRA_67_t:"The Ebbing Tide"
+DD_FRA_67_d:"Restoration requires more than empty promises - peace remains but a fantasy. 'All who take the sword shall perish by the sword.' None can seize power through deceit then rest easy. From the moment the Restoration Society took control, France was doomed to endless war. The people follow not because they believe you noble, but because they trust you'll make France great. What mad France craves now isn't peace - it's war, death, and bloodshed."
+
+DD_FRA_67a:"Unrest spreads like plague."
+DD_FRA_67a_modifier:"Fervor Faded"
+DD_FRA_67a_tt:"While active, the government action '§YInflame War Enthusiasm§!' costs §Rdouble§!.\n"
+
+DD_FRA_68_t:"The Great Collapse"
+DD_FRA_68_d:"Oh fickle, mad, capricious France! We thought we could tame this wild stallion, only to be thrown violently from its back. The very tide that lifted us to power now destroys all we built. Wretched, selfish, crumbling France! They once spilled rivers of blood for land and slogans - now they raise swords against kin for bread and freedom. France's war chariot charges unceasing toward destruction. We ignited this wildfire, yet cannot extinguish it."
+
+DD_FRA_68a:"The tyrant reaps his harvest."
+
+DD_FRA_69_t:"Friends Beyond the Mountains"
+DD_FRA_69_d:"As the Crusade's frontline, our Reconquista advances fervently. Beyond the nearby Pyrenees, the French have achieved unity - we need strong allies at our back. They could become our reliable shield and sword. Shall we send an envoy to forge this alliance?"
+
+DD_FRA_69a:"Dispatch the envoy."
+DD_FRA_69b:"Not yet."
+
+DD_FRA_70_t:"The Reconquista Alliance"  
+DD_FRA_70_d:"An envoy from [From.GetName] arrives in Paris proposing an alliance. True, France could support the Reconquista to burnish our Christian reputation as defenders of the faith. Castilian holy warriors would make capable allies. Yet we might instead seize direct control of the peninsula - why be shackled by pitiful treaties when more territory beckons?"
+DD_FRA_70a:"We'll take this friendship."  
+DD_FRA_70b:"Reconquista? Never heard of it."  
+DD_FRA_CAS_ally:"Reconquista Alliance"  
+DD_FRA_70a_tt:"Missions related to §YIberia§! will §Mchange§!.\n"
+
+DD_FRA_71_t:"Letters"
+DD_FRA_71_d1:"Dear [Root.Monarch.GetTitle],\n\nYou never knew me, nor will remember me. Yet I write to thank you - France stands again because of your greatness. Uneducated as I am (only knowing letters from father's account books), I praise your name in Jesus. Without you, we'd still wallow in foreign oppression. From my heart - savior of France and her people!"
+
+DD_FRA_71_d2:"Dearest Mother,\n\nMy life finds purpose at last. I've joined noble knights striving for France's rebirth - no ranks between us, only justice. I understand neither politics nor statecraft, but know our homeland suffers. As you taught me in childhood, I'll stand for virtue.\n\nMay we meet in God's kingdom."
+
+DD_FRA_71_d3:"To My Noble Lord Duke,\n\nThough insignificant as dust to your grace, permit this impertinent letter. My lord, whether unseen or beneath notice, our peoples under this rule will never know the harmony of our youth.\n\nI mourn not the walls between us, nor friendships faded - but the death of hope between brothers who should have stood united. Why must one people serve or hate another?\n\nPerhaps my golden memories were always master/servant - just a childhood playmate, this worthless Englishman. France has no place for us, nor your life for me. I bid farewell, vanishing from your days - though England may haunt your twilight years."
+
+DD_FRA_71b:"—An unnamed Englishman."
+DD_FRA_71a:"This is why we fight."
+
+DD_FRA_72_t:"French Aid Arrives"
+DD_FRA_72_d:"Our dear French allies have supplied modern muskets, enabling formation of new firearm regiments."
+DD_FRA_72a:"We are deeply grateful."
+DD_FRA_72a_modifier:"French Muskets"
+DD_FRA_72a_modifier2:"French Muskets"
+
+DD_FRA_73_t:"Spanish Aid Arrives" 
+DD_FRA_73_d:"Our Spanish allies have shared their tactical knowledge, helping us replicate their famed tercio formations."
+DD_FRA_73a_modifier:"Spanish Tactics"
+DD_FRA_73a_modifier2:"Spanish Tactics"
+
+DD_FRA_74_t:"Italian Wars Rekindled"
+DD_FRA_74_d:"A century ago, Charlemagne repeatedly campaigned in Italy, bringing Frankish order to Lombard barbarians. Now Italy has become the Holy Roman Emperor's playground - his lapdog and breadbasket.\n\nWith papal-imperial tensions rising, Fortune beckons us back to Italy to restore French glory. Like wildfire across plains, ambition spreads - we may claim our share of Charlemagne's legacy. If Italy belongs to any garden, let it be France's alone."
+
+DD_FRA_74a:"Only blood can etch greatness."
+DD_FRA_74b:"If the Holy Father is threatened, we'll be his sword and shield!"
+DD_FRA_74c:"Satan's minions hold the Tiara - let's end this schismatic false papacy!"
+
+DD_FRA_74b_tt:"£yes£ Only if @PAP§Ythe Pope§! §Gaccepts§! will these benefits apply:"
+DD_FRA_74b_tt2:"Grants Casus Belli '§YItalian Wars§!' against nations holding §YItalian§! provinces with §G75.0%§! Aggressive Expansion impact and §G90.0%§! warscore cost.\n"
+DD_FRA_74a_tt:"Grants Casus Belli '§YItalian Wars§!' against nations holding §YItalian§! provinces with §G90.0%§! Aggressive Expansion impact and §G75.0%§! warscore cost.\n"
+DD_FRA_74c_tt:"All our §YCatholic§! subjects will also convert.\n"
+
+DD_FRA_74a_tt2:"We choose §Rmilitary intervention§! in Italy.\n"
+DD_FRA_74b_tt3:"We choose §Mpapal collaboration§! in Italy.\n" 
+DD_FRA_74c_tt2:"We choose §Oestablishing a new church§! in Italy.\n"
+
+DD_FRA_74a_modifier:"Italian Wars"
+
+DD_FRA_75_t:"France Vows to Defend the Papacy"
+DD_FRA_75_d:"France's [From.Monarch.GetName] assures the Pope they'll defend the Holy See as Charlemagne and Pepin did - humbly yet devoutly. The French pledge immediate intervention if Rome is threatened. But who's to say this isn't mere pretext for Italian ambitions?"
+
+DD_FRA_75a:"We believe France remains the Church's Eldest Daughter."
+DD_FRA_75b:"The Papacy needs no foreign protectors."
+
+DD_FRA_76_t:"Shakespeare's Globe Theatre"
+DD_FRA_76_d:"As French culture flourishes, our theatrical renaissance has inspired all Europe, drawing brilliant playwrights and actors to Paris. With royal patronage, famed French dramatist William Shakespeare and his "Lord Chamberlain's Men" have built an magnificent new playhouse - the Globe Theatre.\n\nThis opulent marvel has captivated European aristocracy since its recent completion. The inaugural performance features Shakespeare's new play 'The Tragedy of Errors', reportedly based on French court intrigues. His Majesty [Root.Monarch.GetName] graces this glorious occasion with his presence."
+DD_FRA_76a:"All the world's a stage, but Paris holds the principal role."
+
+DD_FRA_77_t:"Rome's Destiny"
+DD_FRA_77_d:"As our truly Christian armies advance through Tuscany, God's warriors have driven out Antichrist's minions to stand before Rome and Saint Peter's throne. The sacred Eternal City on seven hills need no longer fear defilement by profane enemies - we shall be Catholicism's shield and sword.\n\nSin shall be judged, justice served. We'll help purge the Church's corruption, establishing true faith and leadership. France will clear Christianity's path, serving Pope and Holy See with utmost devotion."
+
+DD_FRA_77a:"The Holy See may gladly transfer temporal affairs to us, focusing on sacraments."
+DD_FRA_77b:"Our Rome will end centuries of corrupt rule." 
+DD_FRA_77c:"We remain Rome's most faithful guardians."
+DD_FRA_77d:"Church, Rome and Italy shall follow our lead."
+
+DD_FRA_77d_tt:"Even if later events release @ITA§YItaly§!, §YRome§! will remain ours.\n"
+
+DD_FRA_77c:"We maintain excellent relations with the Pope."
+DD_FRA_77d_modifier:"Royal Palatine in Rome"
+desc_DD_FRA_77d_modifier:"So great a city demands our personal oversight."
+
+DD_FRA_78_t:"Italia, do not weep for me"
+DD_FRA_78_d:"Forgive me, mother. This is my last letter. The French will cross the river soon, I reckon we have but one more night, and those Tuscans are no better off. Those Gallic bastards have endless artillery, like demons from hell at night. I cannot sleep, nor catch my breath.\n\nMy right leg hurts terribly, God, it hurts so. The Milanese winter would be the death of me, and my poor old comrade took an arrow. The ground here is hard and cold, and as the last drop of wine burns my throat, I remember the soil of home, my sister. Dear God! May He protect you, mother. May God protect Italy and my soul.\n\nChrist, it's so cold here, cold enough to make my head spin. My mind feels clouded as if filled with ten pounds of wine. Italy is snowing, and our land will be buried beneath this white shroud. Glory, damnable glory - it shall drag down my life, my soul, Italy's very soul into the abyss, yet still I fight for it, scrambling for a miserable seat in Heaven, serving an Italy doomed to die like Isaac upon the altar.\n\nForgive me, mother. I think this cursed fever has me rambling. The Gauls' guns sound again across the river - I pray tonight won't be their final assault. Mother, please don't weep for me."
+DD_FRA_78a:"A wretched Italian."
+DD_FRA_78b:"A dying lamb."
+DD_FRA_78c:"A struggling soul."
+DD_FRA_78a_tt:"We shall establish a unified @IT1§YItalian§! vassal state.\n"
+DD_FRA_78b_tt:"We shall establish separate vassals in §YNorthern Italy§! and §YSouthern Italy§!.\n"
+DD_FRA_78b_modifier:"Italian Administration"
+DD_FRA_78c_modifier:"Italian Administration"
+SIC_NAME2:"Trinacria"
+SIC_NAME2_ADJ:"Trinacrian"
+
+DD_FRA_79_t:"Wave After Wave, Carrying Forward the Past and Ushering in the Future"
+DD_FRA_79_d:"[Root.Monarch.GetName] sat astride his horse as the army crossed the Pyrenees. Warriors from across Europe gathered here - some to avenge their fathers, some to spread the Gospel of Saint Peter, but most simply sought to return home, to the homeland of the Iberians. Once more, [Root.Monarch.GetName] thought, once more we set foot on this land. The unfinished work of Charles Martel still loomed like storm clouds - shattered rivers and mountains, blood rain beating upon broken reeds, bleaching bones piled for miles into desolate graves. This time, for the Holy Father's cause, to end a century of invasion and slaughter from hell, for the millions of lost lambs displaced by war and ruin, God's warriors gathered again beneath the crimson Holy Cross - for king, for God, to end Satan's wicked reign.\n\nToo long, [Root.Monarch.GetName] sighed, too long have heathens enslaved this peninsula. For centuries, chains have tightened around Christian necks, driven and banished in their own homeland, how many families torn apart, how many homes destroyed.\n\nThat day approaches. The prophesied victory, martyrdom and salvation, seven centuries of faith, doubt and suffering, all shall be cleansed in the tempest of Saint James! To break the shackles of bondage, to shatter the heathens' barriers, the Merciful Father shall deliver righteous judgment.\n\nBeyond this peak, [Root.Monarch.GetName] seemed to see the Lady of the Lake beckoning to him."
+DD_FRA_79a:"'I came not to bring peace, but a sword.'"
+DD_FRA_79a_tt:"§MGive them the sword, give me blood, and I shall grant you freedom.§!\n"
+DD_FRA_79a_modifier:"Divine Judgment"
+DD_FRA_79a_ttyes:"£yes£If any §YIberian§! nation is a §YCrusade target§!:"
+DD_FRA_79a_ttno:"£no£If any §YIberian§! nation is a §YCrusade target§!:"
+
+DD_FRA_80_t:"Triumphant Return from Germania"
+DD_FRA_80_d:"The French army flooded into German lands like a steel tide, their banners whipping in the wind before sinking into the churned mud behind the warhorses. A forest of pikes stood tall as destriers screamed. The German defenses, worn down by years of war, collapsed completely - the Emperor's forces scattered in flight, while the princes either surrendered or trembled behind their castle walls.\n\nNow victory horns resound along the Rhine, majestic military fanfares echo by the Main, joining the thunderous cadence of marching boots to herald France's eternal and glorious dominion. Soldiers parade through Frankfurt's streets, their boots trampling the lands Germans once took pride in, while the banners of France - no, the Frankish Empire - snap proudly along the Main's banks.\n\nTownsfolk stand forced to line the streets, silently watching this conquering army. Gleaming medals adorn splendid uniforms, glittering in sunlight. Soldiers hold their sabers high, marching with thunderous precision. Artillery caissons rumble past, their massive wheels crushing ancient cobblestones with ominous groans. German nobles stand with bowed heads on the reviewing platforms, witnessing it all - the city belonging to the victors, the humiliation reserved for the defeated."
+
+DD_FRA_80a:"War drums thunder, while Germania remains silent."
+DD_FRA_80a_tt1:"§MIn the palaces of Paris, victors and collaborators clink glasses, celebrating this grand era they share. Bavarian nobles preen with their affectedly elegant accents, speaking deliberately exaggerated French. Like strutting cocks, they display their plumed headdresses, spreading jewels and brocade like brilliant plumage. Their nationhood is but an ornament on their aristocratic collars - ready to be bartered for golden opportunities. As for German honor? Long since discarded like worn-out shoes.§!\n"
+DD_FRA_80a_tt2:"§YIf centuries later, someone speaks of France, of the German people's brothers and partners, of Europe's leader and elder sibling to all nations, Germans will feel gratitude - for the French taught them hatred and unity. France shall become Europe's order-restorer, liberator from all national oppression, arbiter of all injustice. We shall be exalted, beloved, upheld. But now? We are merely the destroyers Germans fear.§!\n"
+DD_FRA_80a_tt3:"§OFor France and Germany, the war is over. The wheat fields Germans once took pride in, their lush woodlands, thriving towns and villages - all reduced to salted Carthaginian ruins. Germany shall be eternally remembered as this century's defeated, never to rise again. We have shattered the unjust order built by the Empire and Germans, letting flames of vengeance consume their Iron Century. The war ends, but not the story of this land and its people - the defeated become war's embers, while victors reignite.§!\n"
+DD_FRA_80a_modifier3:"Order of the Black Eagle"
+DD_FRA_80a_modifier2:"Order of the Black Eagle"
+DD_FRA_80a_modifier:"Germany's Silence"
+desc_DD_FRA_80a_modifier:"The defeated become war's embers, while victors reignite."
+
+DD_FRA_81_t:""
+DD_FRA_81_d:""
+DD_FRA_81a:""
+DD_FRA_82_t:""
+DD_FRA_82_d:""
+DD_FRA_82a:""
+
+DD_FRA_83_t:"The Eternal Dance of the Fleur-de-Lis"
+DD_FRA_83_d:"If France is a land eternally bound to chaos, then the fleur-de-lis is the perpetual dancer amidst war and turmoil. War, famine, and plague - the eternal themes of French monarchy. Our nation was born amidst thorns, and so shall it descend into the grave adorned with blood. The nobles' privileges are like Christ's Crown of Thorns - symbolizing the fleur-de-lis' glory and majesty, yet dragging it into the abyss of injustice and darkness - they have become the cancer of the lily.\n\nTorrents of blood, inevitable madness, eternal death. If France still wishes to advance, it must stake chaos itself as its wager, sever the branches of feudalism, and step onto destiny's gambling table. The path to centralization inevitably brings storms - nobles clutching their privileges won't idly watch themselves become mere fertilizer for the lily. A rebel army determined to defy Paris has assembled, marching toward the garden of the fleur-de-lis, just as they did a century ago.\n\nOnce more, the throne of lilies is shrouded in shadow, and the night that will decide France's fate has come. Will the nobles become mere marionettes of centralized power, or will Paris' throne be reduced to the plaything of aristocrats? France dances eternally amidst the chaos."
+DD_FRA_83a:"The lily dances on."
+fra_noble_rebel_title:"Noble Rebels"
+fra_noble_rebel_desc:"The noble rebels seek to overthrow their monarch and establish an aristocratic republic. They possess better-trained troops and higher morale."
+fra_noble_rebel_name:"$COUNTRY$ Noble Rebels"
+fra_noble_rebel_army:"Aristocratic Army"
+fra_noble_rebel_demand:"Establish Aristocratic Republic"
+fra_noble_rebel_demand_desc:"French nobles intend to overthrow the king and establish a decentralized republic controlled by the aristocracy."
+
+DD_FRA_84_t:"The Last Lesson"
+DD_FRA_84_d:"'Julian, when you wake, you'll find everything changed. You'll discover the world is no longer kind, and ordinary days are gone forever. Forgive me, Julian - forgive me for not going with you. I am a Rhinelander, born here, raised here, and fated to die by the Rhine. I am a Rhinelander, child, a proud German. I devoted my life to God - at least let this wretched soul remain with my homeland at the end.\n\nFarewell, take care of the children. I'm sorry I lied - I can't check yesterday's lessons anymore. Not today, not tomorrow. In my youth I served the Emperor until an arrow pierced my knee on the battlefield, leaving this useless body to rot in the church. But I was glad to be your teacher, truly. Simple letters couldn't change our nation's defeated fate, but they could plant seeds of hope for tomorrow.\n\nNow, child, I must remove this priest's black robe, take up a sword and face the French. This is my final lesson to you - always, always love your homeland. We are Rhinelanders, Germany's children. You're the eldest and wisest among the church children - I hope you understand. One day even German doves may have to learn French, but remember - we are Germans.\n\nRun, Julian! Take the children across the beautiful Rhine, eastward. Don't stop until you reach another rushing river. Remember always - long live Germany!'\n\n- Father Lukas"
+DD_FRA_84a:"Run forward, don't look back!"
+
+DD_FRA_85_t:"Rhine Candlelight"
+DD_FRA_85_d:"The flag outside Abraham's study fluttered beneath Cologne Cathedral's spires, emblazoned with France's fleur-de-lis. Inside, the air carried the mingled scents of cedarwood and ledger parchment, while his eldest son Eli stumbled through Abelard's 'Historia Calamitatum' by the fireplace - an assignment from their Parisian tutor Leclerc. 'Father, why must we learn the conqueror's tongue?' Eli set down the book, candlelight dancing on his crumpled collar's velvet trim. 'The rabbi says this is shameful betrayal.'\n\nAbraham traced his finger over still-wet ink on the French contract in his ledger, answering his son's question with silence. Three weeks prior, he'd 'purchased' the French garrison commander's private wine stash at half-price - the price being half-share in his Rhineland-Alsace smuggling operations for the commander's mistress. French blades had hacked apart his business, livelihood and nation alike; now his wares needed Alsatian labels to sell, let alone discuss laughable notions like dignity or nationhood.\n\nYet his lips remained sealed as if waxed shut, mouth working mechanically without sound. He understood his son's struggle. Leclerc's teaching bordered on cruel. Each dawn, Eli had to recite in French - half a pastry deducted per mispronounced word.\n\nHe recalled passing the study one night, hearing his son weep in broken French: 'Monsieur, why...no German explanation first?' 'Because shame is the best teacher,' Leclerc had coldly replied. 'Did rioters explain in German when they looted your grandfather's Mainz shop?'\n\nThe silence stretched until Abraham finally spoke, voice strained but firm, meeting Eli's azure eyes: 'To reach higher stations, my son. To become...respected gentlemen.'"
+DD_FRA_85a:"You must climb higher...ever higher."
+
+DD_FRA_86_t:"Paradise Lost"
+DD_FRA_86_d:"News that shocked all Christendom spread across Europe, its impact on the Holy Father's flock far exceeding expectations - the Shepherd of Christ, Rome's Holy See, [PAP.Monarch.GetName] passed suddenly from apoplexy while returning from the Council of Constance where measures against the Imperial antipope were announced. The Church's leader had returned to our Heavenly Father's garden, leaving behind only a broken world.\n\nParis' royal court received word first, and like greedy wolves they refused to let this rare opportunity slip. By controlling over a third of the cardinals, France swiftly elected a new pope in Avignon, hoping to seize control of the Church and restore the lily's glory. But Rome's College of Cardinals, particularly the Italian cardinals, denounced them as Satan's hounds daring to steal the holy vestments.\n\nWhite smoke rose astonishingly fast over Rome - this time heralding not dawn and light, but war and sin. Since the 11th century East-West Schism under Michael, Christendom has again plunged into the abyss of strife and betrayal. The Empire, Avignon, and Rome - three popes now denounce each other as antipopes and excommunicate one another. Once the three pillars of Christendom have become a maelstrom tearing apart our unity and faith - a den of iniquity, a breeding ground for chaos."
+DD_FRA_86a:"'Between hope and despair, that narrow path called faith now trembles precariously.'"
+DD_FRA_87_t:"An Ordinary World"
+DD_FRA_87_d:""
+DD_FRA_87a:""
+
+DD_FRA_88_t:"The Undying Sun"
+DD_FRA_88_d:"'Almighty God, hear my prayer in your faithfulness, listen to my plea...'\n\nThe well-dressed man sat alone in the twilight church, his forehead pressed against the shadowed wood of the pew before him. Crimson dusk bled through stained glass saints, casting fractured light upon the marble floor. An ornate golden crucifix dug sharply into his palm as he clutched it with white-knuckled intensity.\n\n'Heavenly Father - absolve me of my sins,' he whispered. Against the darkening indigo sky, the bloody sun hung low, its fiery light filtering through the chapel windows to bathe the Virgin's pale hands in scarlet, draping the man's bowed head in crimson veils. 'Cleanse my sullied soul, bless me with the glorious sun's eternal radiance and peace...'\n\nHis words grew slower, heavier, dissolving into murmurs as intimate as lovers' whispers. Celestial requiems seemed to echo in his ears, lifting him toward the abyss of heaven. 'Kyrie eleison! Lord have mercy upon me. Have mercy...'\n\n'Monsieur Eli,' came the coarse French voice shattering the sanctity of dusk. The intruder's boots echoed rudely through the nave. 'The envoy from Paris demands your audience.' 'Je comprends,' Eli replied in flawless, aristocratic French, his tone polished yet glacial. The newly appointed German representative rose gracefully, stepping from the burning twilight shadows into the dying day beyond the chapel doors."
+DD_FRA_88a:"With a muffled metallic click, the crucifix disappeared beneath his coat once more."
+
+DD_FRA_89_t:"Dancer of the Mad Moon"
+DD_FRA_89_d:"What does it feel like to pierce vital organs? Perhaps like plunging a blade into fresh snow, only to find mountains resisting its withdrawal. Yet when Julian pulled his dagger from this unfortunate French sentry's heart, it came away with unnatural ease - as if some voice in his soul whispered this was his destiny, the purpose for which he was born and would die.\n\nLike with other victims, Julian tore a strip from the dead man's uniform to wipe stubborn blood from the blade's grooves. He crept toward the embassy parlor door, where fractured French phrases leaked through the keyhole, dancing with the speaker's agitation like a church's broken pipe organ wheezing into the frigid night, drifting toward the ghastly crescent moon.\n\nThe elegant door yielded silently to his touch. 'I said no disturbances—' the Parisian envoy's roar died as Julian's dagger flashed. A crimson fountain arced as the man collapsed like a slaughtered stallion, gurgling wordless screams.\n\nThe German representative opposite sat frozen. His body trembled first, Adam's apple bobbing soundlessly, then slumped back in resignation. With a bitter smile, he removed his spectacles and pocketed them calmly, awaiting the blood-splashed assassin.\n\n'You too were once a German like me.' Boots pounded down the corridor. Julian locked eyes with the man, hurled a fresh dagger into his thigh, and sprang toward the window. As soldiers flooded the room, Julian escaped with a dancer's grace, leaving only moonlit curtains billowing madly in his wake."
+DD_FRA_89a:"The silvered night howled, pouring relentless moonlight like pale tides through the window."
+
+
+DD_FRA_90_t:"The Dying Butterfly"
+DD_FRA_90_d:"Thirst that seeped into his bones, pain etched upon his soul - the blinding sun stabbed into his sunken eye sockets like thorns piercing his heart. His once-noble golden hair now lay matted with blood like wild grass, while a hair tie on his left wrist barely concealed deep gashes beneath. Those azure eyes stared vacantly, faintly reflecting fading tear tracks. Bound and silent, the man stood beneath the gallows like a dying butterfly caught in spider's silk.\n\n'You stand condemned for conspiring against the crown, meddling in succession, plotting against royalty, and treason,' declared the priest clutching his black-bound Bible. 'Will you repent, Charles?' With great effort, the man raised his head, the rough noose biting into his neck. His gaze pierced through the harsh sunlight, beyond the cerulean sky and clouds, as if seeking some distant starscape. Perhaps the answer had been written from the very beginning."
+DD_FRA_90a:"Beyond that vast and distant blue, one morning star still shines for you."
+
+DD_FRA_91_t:"Moon in the Puddle"
+DD_FRA_91_d:"'Why!' The middle-aged man collapsed on the ground, his once-magnificent brocade now tattered and dust-covered. 'How can you tolerate this! Such France, such family - have you no respect for our glorious name!'\n\n'Silence!' The elder on the steps thundered. 'Your life is spared only by virtue of that name. Take your son and begone - never return. Glory, family, bloodline - all ties to this name are severed.'\n\nIllness, wandering, suffering. From that night of exile, Charles and his father knew only rootless misery. Coughing blood once more, the man understood his time was short. 'Charles,' he whispered through pain-curled lips, yet his voice remained calm. 'I'll send you to an old friend. Be dutiful in his care.' 'Father—' 'Charles.' His tone turned firm. His hollow gaze fixed on the muddy puddle before them, where the moon's reflection floated pristine as jade amidst the filth. Yet try as he might, he could no longer discern his own face in those troubled waters.\n\n'Your bloodline, your homeland,' the man murmured, speaking to his son and himself alike, 'never forget your name, child. We may perish in wilderness, die unknown - but the fleur-de-lis's guiding star still shines for her descendants.'"
+DD_FRA_91a:"'My road ends here - now you must walk your own path.'"
+
+DD_FRA_92_t:"Nameless Star"
+DD_FRA_92_d:"Sylvia studied with curiosity the boy her father had brought home - this stranger who would now become her brother. His filthy clothes had been replaced, and his freshly washed golden hair still glistened with droplets that caught the starlight like scattered diamonds. Beneath his lowered brows hid azure eyes like dust-covered jewels - radiant yet pitiful.\n\nCharles. The boy's name fell like a pebble, sending ripples through Sylvia's sequestered heart. The surname he'd abandoned, the heart he'd locked away - this silent boy hung in her world like an unnamed star suspended in empty night. Yet Sylvia understood: he had simply cast both his moon and his name into some forgotten puddle. Moonlight had failed to illuminate his path, leaving only phantom veils of what might have been."
+DD_FRA_92a:"His hollow heart had even lost its ideals, yielding to cruel reality."
+
+DD_FRA_93_t:"The Azure Star of Eternal Night"
+DD_FRA_93_d:"Charles wearily set aside his scabbard and reached for the stone-cold tea. The cerulean sky burned crimson at its edges like smoldering garment hems - this twilight firmament mirrored his divided heart, half-cloaked in passionate scarlet, half-shrouded in cold indigo. 'You met with that Navarrese again, brother.' The clink of porcelain against china announced the young Countess's quiet interjection.\n\n'Yes, Sylvie.' Charles met those azure eyes briefly before looking away. 'I remain commander of the Royal Guard. They... you understand.' Golden strands cascaded like liquid silk over her shoulders as lowered lashes - delicate as folded fans - veiled the lake-clear gems of her eyes, obscuring all emotion. 'Was it... necessary?' 'I'm sorry, I—'\n\n'I see, Charles.' She raised those prismatic aquamarine eyes, their watery mirrors crinkling into crescent moons as dimples surfaced like rose petals on alabaster skin. The twin azure stars of her gaze shone through the moonlit dusk, luminous as guiding beacons, arresting Charles's attention completely."
+DD_FRA_93a:"'So you too have found something worth burning in hell for...'"
+
+DD_FRA_94_t:"The Silver Shore"
+DD_FRA_94_d:"Charles and his sister rode along the Normandy coast, their horses ambling by the foaming waves that crashed against jagged breakwaters. The rhythmic splashes mingled with clip-clopping hooves in the crisp night air. 'They've found the Englishman,' Charles finally said after long deliberation. 'He'll likely be brought to Paris soon.' 'Then I must go to Paris as well,' Sylvie replied. The restless sea breeze caressed her face, lifting strands of her golden hair like liquid metal.\n\n'Oh dear,' Sylvie reined in her horse with feigned distress. Though wearing a lady's gown, she sat astride like her brother. 'My skirt's caught in the stirrup.' With a sigh, Charles dismounted and deftly lifted the layers of white tulle, revealing slender legs and delicate ankles sheathed in lace-trimmed socks. 'I told you not to ride in a dress...'\n\nUnlike the fluttering fabric beneath her, Sylvie sat motionless, gazing at the moonlit sea. The crescent moon filtered through gauzy clouds, painting a shimmering silver path across the dark waters - a celestial road stretching toward distant azure stars, undulating with each gentle wave.\n\n'Charles,' the girl parted pale rose lips, 'when this is over... go straight to Toulouse. Don't wait for me—"
+DD_FRA_94a:"—They won't harm me. And I can buy you time.'"
+
+DD_FRA_95_t:"Igniting the Last Ember"
+DD_FRA_95_d:"Sylvie had lied.\n\nWhen matters concerned that accursed family, these throne-stealing hyenas recognized no innocence or exception. Dungeons, chains - they cast every spark of rebellion into the flames, let alone open revolt.\n\nShe saw the conflagration now. Torches formed blazing walls in the ink-black night, illuminating the city and encircling her estate. The acrid scent of burning already drifted on the wind with ember sparks - her doom approached.\n\nMoonlight pure as spring water filtered through the chaotic flames, while the Milky Way spanned the vast firmament. The firelight set her golden hair ablaze, dancing wildly in Parisian winds. She'd known this day would come since learning the boy's true name - that she would die for his moonlight. Or become his moonlight. It mattered little now.\n\nSuddenly, a carriage like a war chariot exploded through the manor gates with detonations. As the horseback youth reached down, pulling her up with fate's own grip, she felt her heart constrict with suffocating anguish.\n\nAh—what manner of sickness was this love? Burning cheeks, tangled thoughts, a heart pounding beyond control. Though she wished to scold him, her trembling heart blazed brighter than the surrounding fires, utterly captive to this figure haloed in flame and starlight."
+DD_FRA_95a:"'O ambitious Capet... why must your heart be the softest thing about you—'"
+
+DD_FRA_96_t:"The Moonlit Chase"
+DD_FRA_96_d:"Failure - perhaps this was indeed failure. Yet as the carriage careened wildly, Charles found his heart unexpectedly calm. The girl's warm form pressed against his back, her slender arms encircling his waist, the whisper of silk against his skin almost making him forget their pursuers. 'Why...' 'The lies we tell those closest need no artistry - isn't that what you'd say?'\n\nThe moonlight burned hot, his heart hotter still. Charles pressed the reins into Sylvie's hands, then reached up to stroke her radiant hair, gently removing her hair tie. Those golden tresses cascaded like stardust over her shoulders in the pearlescent glow. 'Keep this as my memento - surely you've not forgotten how to ride, Sylvie!'\n\nBefore she could answer, he leapt onto the carriage roof and severed the traces. The freed horses surged forward while the carriage skewed dangerously, blocking the narrow road in a shower of gravel. Charles de Capet drew his saber, its cold steel catching the pale moonlight as he leveled it at their royal pursuers - a crescent of deadly silver gleaming in the twilight."
+DD_FRA_96a:"Grant me no brilliant moonlight, only let me see its reflection in shattered glass..."
+DD_FRA_96a_tt:"§M...and that shall suffice for my scarred existence.§!\n"
+
+DD_FRA_97_t:"Justice Delayed"
+DD_FRA_97_d1:"When [Root.Monarch.GetName]'s cavalry arrived at the Duke of Brittany's grim manor, the heavy oak gates stood inexplicably ajar. A metallic scent mixed with dawn wind greeted them. In the shadowed foyer, a bloodied figure in tattered prison garb struggled to rise - none other than Marshal Gilles of France! Clearly fresh from brutal combat, surrounded by fallen ducal guards. The aged marshal looked up at [Root.Monarch.GetName], rheumy eyes flooding as his weathered face twisted between grief and relief. Staggering forward, he knelt with soldier's dignity: 'Your Majesty! The traitor is dead. This broken body still lives to serve France!'"
+
+DD_FRA_97_d2:"When [Root.Monarch.GetName] hurried into the Breton ducal residence, only eerie silence greeted [Root.Monarch.GetHerHim]. Overturned furniture and rumpled carpets whispered of panic frozen in time. Deep in the dank, cobwebbed cellar, guards found a tiny figure curled in shadows - a girl weeping herself to exhaustion, like rain-battered pear blossoms. Between shuddering sobs, the child lifted a tear-streaked face: 'Papa...Duke Charles...called him traitor...two days ago...they...' This was Jeanne, sole surviving daughter of the disgraced Marshal Gilles. The stone walls seemed to echo with innocent anguish."
+
+DD_FRA_97_d3:"When [Root.Monarch.GetName] entered the Breton manor alone, deathly stillness hung thick as velvet drapes. The lavish halls showed no disorder - as if last night's chaos had been but a dream - only cold ashes in the hearth. This calculated calm cloaked something sinister. [Root.Monarch.GetHerHis] footsteps rang unnaturally loud. At last, [Root.Monarch.GetHerHis] hand paused at the carved walnut door to the master chamber. As sunlight pierced the gloom, a butterfly with uncannily azure wings emerged from shadows, fluttering through stained glass toward leaden skies - never looking back."
+
+DD_FRA_97a:"My deepest apologies - I came too late."
+
+DD_FRA_98_t:"The Day of Fiery Judgment"
+DD_FRA_98_d:"Servant of the Servants of God, Bishop of Rome [AVI.Monarch.GetName]\n\nTo all who read this letter, grace, mercy and peace\n\n'But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly.' The Heavenly Father spoke creation into being, yet this world is not eternal. Those who betrayed Christ shall face fiery retribution for their sins. But should wayward souls repent before Judgment Day - confessing their heresies and doctrinal errors - salvation may yet be theirs.\n\nAt times, we are called to contemplate Divine Mercy more deeply, that we may become living testaments to God's grace. Just as Jesus forgave His doubting disciples, so too shall He pardon lambs led astray by wicked shepherds. Those who worshipped false idols and rebelled against the Holy See, if they now repent and return to the Church's embrace, shall find forgiveness - for whoever has seen the Son has seen the Father.\n\nO sinners, the Day approaches. 'For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble.' The unrepentant shall perish in refining fire. Thus I implore all who strayed from Canon Law: return to Mother Church, lest purgatorial flames consume you."
+DD_FRA_98a:"'Christ's Bride desires the balm of mercy, not the sword of punishment...'"
+DD_FRA_98a_tt:"As the §YReligious League War§! continues, should we aid the §YPapal Holy League§! to victory, the official faith of the Holy Roman Empire will change to §YCatholicism§!.\n"
+DD_FRA_99_t:"[From.GetName] Demands Church Union"
+DD_FRA_99_d:"[From.GetName] announces having occupied Rome and, after 'cordial discussions' with the Pontiff, declares the unification of both churches."
+DD_FRA_99a:"So be it..."
+DD_FRA_99b:"This we cannot accept."
+
+DD_FRA_100_t:"Act of Union"
+DD_FRA_100_d:"By the Grace of His Most Christian Majesty, the King of France, and by the Authority of the Parliament of England, be it enacted:\n\nArticle I: Union of Crowns and Realm\nFrom this Act's commencement, the Kingdoms of France and England shall be forever united into one body politic under the name 'United Kingdom of France-England' (Royaume-Uni de France-Angleterre). His Majesty the King of France and his lawful heirs shall henceforth bear the dual title of Kings of France and England in perpetuity.\n\nArticle II: Succession\nThe succession to the United Kingdom shall follow in strict accordance with the Salic Law of France. All former customs regarding English royal succession are hereby abolished to ensure perpetual continuity with the French royal line.\n\nArticle III: Supreme Governance\nThe Government of France shall constitute the sole supreme executive authority. The Conseil d'État shall reside permanently in Paris, exercising sovereign control over defense, foreign affairs, taxation, and maritime matters. The English Privy Council is dissolved, its advisory functions transferred to a Special Council of appointees.\n\nArticle IV: Parliamentary Structure\nA United Parliament shall convene at Versailles as the legislative body, wherein representatives of the French Estates-General shall automatically hold seats. Final assent to all legislation remains the prerogative of the French Crown.\n\nArticle V: English Legal Particularism\nEngland may retain its common law system and local jurisdictions, provided all judicial rulings remain subject to final review by the Parlement de Paris.\n\nArticle VI: Economic Union\nAll tariffs between both kingdoms are abolished. The livre tournois shall be the sole legal tender. Ports along the Thames and Seine shall operate under equal access, administered by the Amiral de France.\n\nThis Act, sealed with the Great Seal of France and countersigned by specially empowered representatives of the English Parliament, shall take effect from Whitsunday and endure until time's end."
+DD_FRA_100a:"In the name of France and England."
+DD_FRA_100a_tt:"All provinces of §YFrench§! and §YEnglish§! culture shall convert to §YAnglovan§! culture.\n"
+DD_FRA_100a_tt2:"All provinces of §YFrench§! culture shall convert to §YAnglovan§! culture.\n"
+DD_FRA_100a_modifier2:"Secondary Capital"
+desc_DD_FRA_100a_modifier2:"London shall serve as our administrative center for England and enjoy special status as one of its most prosperous cities."
+DD_FRA_100a_modifier:"United Kingdom"
+
+UNITED_KINGDOM:"United Kingdom"
+UNITED_KINGDOM_ADJ:"British"
+DD_FRA_101_t:"Francophobic Frenzy"
+DD_FRA_101_d:"In French-occupied territories, growing masses take to the streets. Those who lost homes and homeland now swell with irrepressible fury, sparking riot after riot. The people can no longer endure French arrogance and their army's depredations - a wave of anti-French hysteria rises.\n\nEuropean rulers who dread French expansion gradually unite, weaving a containment web against France. The Sun King's unabashed conquests and terrifying speed force all Europe to confront this menace. The continent needs a war - a war to end this warmonger nation."
+DD_FRA_101a:"Let them hate, so long as they fear."
+DD_FRA_101a_tt:"All nations with §Raggressive expansion§! against §Y[Root.GetName]§! will join this war! But should §Y[Root.GetName]§! prevail, their §Raggressive expansion§! will be §Greset§!.\n"
+DD_FRA_coalition:"Anti-French Coalition"
+DD_FRA_coalition_ttt1:"Each coalition member gains §R+0.1§! monthly"
+DD_FRA_102_t:"Shattering the Coalition"
+DD_FRA_102_d:"Before our unstoppable armies, the anti-French coalition crumbles member by member into war's ashes. After this lesson, surely none will dare oppose us again? Perhaps."
+DD_FRA_102a:"France Triumphant!"
+DD_FRA_102a_tt:"§GResets§! §Y[Root.GetName]§!'s aggressive expansion.\n"
+
+DD_FRA_103_t:"The Mundanity of War"  
+DD_FRA_103_d:"War, war, nothing but war. In our armories, craftsmen toil relentlessly yet never keep pace with the frontlines. Does this sound familiar? Every city, every village, every soul in France now lives this reality. All sacrifice for France's grand wars - until death claims them."  
+DD_FRA_103a:"Alas, brighter days shall come!"  
+DD_FRA_103b:"Alas, grant the people some respite then."  
+DD_FRA_103a_modifer:"Unending Strife"  
+DD_FRA_103b_modifer:"Reprieve"  
+
+DD_FRA_104_d:"In every French alleyway, women clutch husbands or sons destined for battle, whispering hesitant pleas - 'France has thousands to spare, but our home loses everything without you.' Men lecture sternly about patriotic duty, met only with tearful eyes. 'I love our nation, but who loves me in return?'"  
+DD_FRA_104a:"Weep, your tears shall flow."  
+DD_FRA_104b:"Weep, my tears shall join."  
+
+DD_FRA_105_t:"Beyond Reach"
+DD_FRA_105_d:"William had been beaten thrice today. The purple bruise on his left cheek came from a Frenchman who shoved him at dawn, while the lump on his forehead was courtesy of noon patrols - soldiers hunting rebels, though William merely sought breakfast when fists found him. Now the dazed man lay sprawled across the tavern's greasy floor, staring blankly at smoke-blackened beams.\n\nCrimson threads of blood oozed from his split lip, the cloying iron taste making him drunk with nausea though he'd touched no ale. His strength leaked away like a pricked bladder, limbs leaden as they thudded against floorboards - this time feeling no pain. The blurry world narrowed into comforting numbness, carrying him toward sweet dreams of a France aflame."
+DD_FRA_105a:"As consciousness sank into dark waters, William fancied he heard cheering crowds."
+
+DD_FRA_106_t:"Inevitable"
+DD_FRA_106_d1:"Rebellion - the wildfire of insurrection rages across France. Reports flood into Paris like blizzard snow, threatening to shatter the nation's wings mid-flight.\n\nMen forget their oaths, flocking to traitors' banners. For fleeting freedom? For scraps of bread? For dreams turned to dust? Or perhaps France's radiance has blinded them. They cast aside tradition, loyalty, and king like worn-out shoes, chasing puppet-show liberties and tomorrows unlike yesterday. Where shall this great nation stand when the storm passes? History awaits its answer."
+
+DD_FRA_106_d2:"Rebellion - the wildfire of insurrection rages across France. Reports flood into Paris like blizzard snow, threatening to shatter the nation's wings mid-flight.\n\nThe people accuse their king of betraying blood and soil, selling French interests to favored Englishmen - for the figure on the throne is no French monarch but England's pampered sovereign. Other regions chafe under Paris' yoke, treated as lesser than native French. Their sweat, blood, and souls fuel this glorious empire, yet they burn like discarded kindling, their ashes scattered after lifetimes of feeding the flames. Where shall this great nation stand when the storm passes? History awaits its answer."
+
+DD_FRA_106_d3:"Rebellion - the wildfire of insurrection rages across France. Reports flood into Paris like blizzard snow, threatening to shatter the nation's wings mid-flight.\n\nLand, power, privilege - these noble titles meant to adorn virtue now mask aristocratic vice. Highborn gamblers stake their dirty game with human pawns across the board of power. Is it any wonder the forgotten masses rise? France was never meant to be their card table or pleasure garden. These bloodstained players shall pay their debts in kind when destiny calls."
+
+DD_FRA_106_d4:"Rebellion - the wildfire of insurrection rages across France. Reports flood into Paris like blizzard snow, threatening to shatter the nation's wings mid-flight.\n\nSince the junta declared permanent martial law, dissent has simmered in the shadows. Even with external foes pacified, this 'permanent defense' grips France in eternal stranglehold. The powder keg ignites at last - after troops massacred peaceful protesters in Paris, armed revolts erupt nationwide. Rebels swear they'd welcome back the monarchy rather than endure this tyranny. The Lord Protector remains silent, marking maps with ever more circles of suppression."
+
+DD_FRA_106a:"France bleeds out."
+DD_FRA_106a_tt:"After completing the §YRestore Order§! mission, we may reclaim these §Yvassal states§!.\n"
+
+DD_FRA_107_t:"Brave New World"
+DD_FRA_107_d:"Bootsteps echoed outside her door, followed by thunderous knocking. She opened it, knowing full well what awaited. Would these once-loyal guards judge her pleas with fire in their eyes? That distant trumpet call - death's summons or angel's fanfare? Kaleidoscopic skies burst through her vision like butterflies, tracing fate's cruel arc across her eyelids."
+DD_FRA_107a:"'Might I beg one lullaby's length for my child who'll never grow?'"
+DD_FRA_107a_modifier:"Brave New World"
+
+DD_FRA_108_t:"Restore Power?"
+DD_FRA_108_d:"With war concluded, the Defense Government should dissolve - yet Napoleon clings to authority like a new Caesar in the making. The Republic's twilight deepens as imperial dawn beckons."
+DD_FRA_108a:"Ave Caesar!"
+DD_FRA_108b:"Better a Cincinnatus than a would-be dictator."
+
+DD_FRA_109_t:"War of the Public Weal"
+DD_FRA_109_d:"France's king has declared war on the League of the Public Weal's leaders. As allies, honor compels our participation in this feudal revolt against centralized tyranny."
+DD_FRA_109a:"Charge!"
+DD_FRA_109b:"Let bygones be bygones."
+
+DD_FRA_110_t:"Strange Doings in Brittany"
+DD_FRA_110_d:"Our spies report disturbing movements in Brittany - the disgraced Duke Charles secretly mustering forces. Yet with our own position precarious, should we dispatch troops to aid Marshal Gilles?"
+DD_FRA_110a:"Send a detachment to Gilles' aid."
+DD_FRA_110b:"Leave him to fate's mercy."
+
+DD_FRA_111_t:"Gilles' Return"
+DD_FRA_111_d:"Under French military escort, Marshal Gilles returned to Paris as he had left. In the royal palace, [Root.Monarch.GetName] graciously received the aged marshal. Overwhelmed with gratitude for Paris' timely reinforcements - which he credited with saving his life - Gilles humbly offered to continue serving France, should His Majesty permit."
+DD_FRA_111a:"Welcome home, old marshal!"
+
+DD_FRA_112_t:"Alter the Realm's Name"
+DD_FRA_112_d:"Our nation's greatness deserves an equally magnificent name - one we may choose as we see fit."
+DD_FRA_112a:"Adopt 'Kingdom of Anjou'"
+DD_FRA_112b:"Adopt 'France-England'"
+DD_FRA_112c:"Adopt 'United Kingdom'"
+DD_FRA_112d:"Adopt 'Dual Monarchy'"
+DD_FRA_112e:"Restore the original name"
+DD_FRA_112f:"Our decision is final (disables this option)"
+FRANCE_ENGLAND:"France-England"
+FRANCE_ENGLAND_ADJ:"Franco-English"
+DULAL_MONACHY:"Dual Monarchy"
+DULAL_MONACHY_ADJ:"Dual Monarchical"
+DD_FRA_112f_tt:"§RThe 'Alter Realm Name' decision will permanently disappear!§!\n"
+
+DD_FRA_113_t:"The Evolution of Warfare"  
+DD_FRA_113_d:"As time marches forward, our antiquated tactics and armaments have become obsolete. We must adapt with the times and develop new strategies. Where we once relied on longbows and heavy cavalry, the advancement of firearms now heralds a new era where gunpowder shall dominate the battlefield."  
+DD_FRA_113a:"Progress and innovation shall ever be our allies."  
+
+DD_FRA_114_t:"The Great Charter Renewed"  
+DD_FRA_114_d:"The Magna Carta, that century-old precedent, established England's autonomous status under our rule. Now with an Anglophile monarch upon the throne, we may offer substantial concessions to restore the allegiance of those free cities that once slipped from our grasp."  
+DD_FRA_114a:"So it shall be done."  
+DD_FRA_114b:"Let sleeping dogs lie."  
+
+DD_FRA_115_t:"The League's Rebellion"  
+DD_FRA_115_d:"We dismissed the League of the Public Weal as insignificant - what could these petty fiefdoms do against the mighty oak of France? Paris' centralization proceeds inexorably, with vast territories returning to royal dominion. Now at last they reveal their hand, delivering themselves unto judgment."  
+DD_FRA_115a:"What difference could your petty fiefdoms possibly make?"
+
+DD_FRA_116_t:"'What Truly Matters...'"
+DD_FRA_116_d:"Steady... Maël, steady. Your damn heart's pounding like a wild stallion, just because you're about to kill that son of a— The man took a shuddering breath, silencing his frantic muttering. His trembling hands could barely grip the musket as he crouched in shadows along the Lord Protector's route. That man - architect of all suffering, madman who chained France to the war machine - a thousand epithets fit the Lord Protector, yet none could save France. Must Frenchmen drown in their own blood? Must this nation endure endless bigotry and lies? They're mad! France— France has gone insane.\n\nThe clatter of hooves shattered his thoughts. A chestnut stallion approached, bearing its resplendent rider. Milk-white reins threaded through the horse's gleaming mane, held by the crimson-clad Protector. Maël sprang from shadows, leveling his blackened barrel. Guards surged forward in panic—\n\nOne grabbed at Maël's arm, but smoke already curled from the muzzle—a thunderclap of gunpowder. The bullet, born of saltpeter and flame, pierced through acrid clouds, slipped between scrambling bodies, and flew true toward its mark. Its destination..."
+DD_FRA_116a:"'...is simply a life.'"
+
+DD_FRA_117_t:"The Shot Heard Across Europe"
+DD_FRA_117_d:"The Lord Protector is dead. Despite summoning the finest physicians from France and beyond, none could reverse fate's decree. With the helmsman of Greater France suddenly departed, Parisian bureaucrats and generals grow restless. The scales of power tremble - the Protectorate left no clear successor. Reluctantly, the military once again assumes control amidst chaos, yet many officers question whether France's perpetual wartime governance was ever wise. Though more likely, their sudden doubts stem from aristocratic bribes and industrialists' patronage.\n\nIntellectuals, particularly Sorbonne scholars, advocate for a Republic. Old-guard nobles whisper of royal restoration - better suited to their interests. Regardless, France now stands at destiny's crossroads, awaiting her fate."
+DD_FRA_117a:"The Army Backs the Republicans"
+DD_FRA_117b:"The Army Restores the Monarchy"
+
+DD_FRA_118_t:"Born of Man"  
+DD_FRA_118_d:"Long ago, when this man was but a boy, he witnessed his nation's banners unfurl across the continent, igniting patriotic fervor; he saw Germans beaten in streets, denounced as invaders and vermin; he watched Parisian arms factories where workers' blood forged weapons of war; he observed lovers attempting to flee France, vanishing into eternal silence; he heard the Lord Protector's speeches preaching inherited hatred; he studied textbooks brimming with France's imagined humiliations; he watched wives and mothers send husbands and sons to battle; he witnessed peaceful protesters crushed by troops before Versailles. Too much—he saw this nation march step by deliberate step into calculated madness. France would be master of all peoples.\n\nYet what could he do? A nobody who dodged conscription by chance, clinging to his meager existence by luck... surviving. Now, at life's end, clarity comes."  
+DD_FRA_118a:"France needs protectors, not nobodies."
+
+DD_FRA_119_t:"Death of Tragedy"
+DD_FRA_119_d:"Clutching the cooling hand, [Root.Monarch.GetName] remained perplexed - why had this man stormed forth in fury only to take his own life? Perhaps years hence this mystery might unravel. The Permanent Secretary urged haste; France could not spare her [Root.Monarch.GetTitle]. Henceforth, royal guards would double. Searching the corpse for identifying marks proved futile.\n\nThat night, [Root.Monarch.GetName] pondered long until epiphany struck - like meteors arc across heavens, like galaxies turn their slow, eternal dance. Among infinite stars burning with unique brilliance, one alone stands fixed. So too among mortal men: though multitudes breathe and feel, only one's station remains unassailable, immutable against all storms. [Root.Monarch.GetName] is that fixed star."
+DD_FRA_119a:"'The fault is not in our stars, but in ourselves...'" #The fault is not in our stars, But in ourselves.
+
+DD_FRA_120_t:"The Noble Heart"
+DD_FRA_120_d:"Countrymen, dear compatriots! Lend me your ears in solemn council. For mine honor's sake, trust me; respect mine honor that you may believe. With wisdom judge me; let awakened reason render fair verdict.\n\n'The Permanent Defense must end.'\n\nWhen I beheld a Frenchman's dagger raised against me, my heart did shatter. He claimed I shed no tears for you, showed no mercy - called me ambition's slave craving freedom's extinction. Alas, O Reason! Thou hast fled to brutish beasts, and men have lost their faculty of discernment. Forgive me - if France demands my death, I shall upon this very blade fall. Good friends, noble citizens - declare what you desire!"
+DD_FRA_120a:"O noble Caesar!"
+DD_FRA_120b:"O traitor! Villain!"
+DD_FRA_120c:"O piteous spectacle!"
+DD_FRA_120c_tt:"§RNothing shall change - sometimes this is the wisest course.§!\n"
+
+DD_FRA_121_t:"The Hundred Days"
+DD_FRA_121_d:"Yet the new [Root.GetName] government proved fleeting - within mere hundred days, furious republicans stormed the halls of power once more. Now France finds herself ruled by committee."
+DD_FRA_121a:"Oh, not again."
+
+DD_FRA_122_t:"Hundred Days of Republic" 
+DD_FRA_122_d:"But the [Root.GetName] regime's tenure proved brief as a summer storm - within hundred days, republican fury swept the monarchy back into power, restoring the old order."
+DD_FRA_122a:"Alas, the wheel turns."
+
+DD_FRA_123_t:"The Constitutional Compromise"
+DD_FRA_123_d:"After cycles of coups and bloodshed, all factions recognized the futility. Under military supervision, republicans and old nobles negotiated a historic settlement: France would become a constitutional monarchy. The Prime Minister, drawn from the Estates-General's majority, would answer solely to Parliament. The Crown's powers were strictly limited - no royal veto over laws, no infringement on parliamentary taxation, no standing army without consent, no interference with legislative speech, no arbitrary arrests, and mandatory parliamentary sessions.\n\nThe military escorted a Capetian exile from Rhineland to Paris. Recognizing that French rule now extended beyond ethnic French lands - and that even Frenchmen recoiled at a French-named king - the monarch adopted 'Reinhard', a common German name. After swearing allegiance to the constitution and acknowledging parliamentary supremacy, this new king took residence at Versailles as figurehead of France's constitutional order."
+DD_FRA_123a:"The dawn of a new era."
+
+DD_FRA_124_t:"Revolutionary Tide"
+DD_FRA_124_d:"Under [Root.GetName]'s crushing taxes and omnipresent oppression, the people's patience has snapped. Peasants, merchants, and even garrison troops now unite in rebellion. Unless we crush this insurrection swiftly and decisively, this dangerous tide will spread to every province. Most alarming is how these seditious ideas - this poisonous craving for liberty - have already taken root among the masses."
+DD_FRA_124a:"So what?"
+
+DD_FRA_125_t:"Napoléon Bonaparte"
+DD_FRA_125_d:"The chaos of civil war and foreign threats created opportunities for ambitious young officers - opportunities seized by a Corsican artillery lieutenant named Napoléon Bonaparte. His battlefield successes drew attention, but his recent brutal suppression of the [Root.Capital.GetCapitalName] uprising - deploying heavy cannon in city streets - truly impressed the aristocracy. Many nobles now support promoting him to high command. Yet this man of boundless ambition proposes a dangerous bargain: let him establish a provisional Defense Government to crush the rebellions, after which power would theoretically return to the Crown."
+DD_FRA_125a:"An excellent proposal."
+DD_FRA_125b:"This is usurpation!"
+DD_FRA_125a_modifier:"Defense Government"
+
+DD_FRA_126_t:"\n\n\n\n\n\n\n\n£icon_french_rev£"
+DD_FRA_126_d:"\n\n\n\n\n\n\n\n\n"
+DD_FRA_126a:"The end of an era."
+DD_FRA_127_t:"\n\n\n\n\n\n\n\n£icon_brave_new_world£"
+DD_FRA_127_d:"\n\n\n\n\n\n\n\n\n"
+DD_FRA_127a:"I was, I am, I shall be!" #I was, I am, I shall be!
+DD_FRA_128_t:"\n\n\n\n\n\n\n\n£icon_french_rev_win£"
+DD_FRA_128_d:"\n\n\n\n\n\n\n\n\n"
+DD_FRA_128a:"Liberté! Égalité! Fraternité!"
+
+DD_FRA_129_t:"The Winds of Freedom Forever Blow"
+DD_FRA_129_d:"Atlantic breezes cross the Channel, sweep through fields, and whisper into Paris - this capital of liberty celebrating victory for France and all Europe. The city bathes in dawn's light, in revolution's glory, in freedom's cleansing winds.\n\nSpontaneous processions form, victory marches winding through streets lined with blossoms and cheering crowds. At their center walks a maiden in spotless white, crowned with golden lilies, bearing radiant fleurs-de-lis - no longer royal symbols, but emblems of France's prosperity and her people's egalitarian republic.\n\nJubilant hymns rise to cathedral vaults, mingling with stained-glass filtered psalms and floral perfumes. The wind of freedom caresses this wounded land and her resilient children. Shattered chains lie broken as doves carry French ideals afar. Unyielding France shall ride these winds toward a new European dawn.\n\nLet royalists dread our wrath, let tyrants face our might. Banners dance defiantly, hearts burn undimmed. However often darkness returns, however tides may turn - countless Sisyphuses, raise your stones anew! People of Europe, sound liberty's clarion call!"
+
+DD_FRA_129a:"March we united by sacred oath, Rather die than abandon our cause."
+DD_FRA_129a_tt:"Will you join in our crusade? Who will be strong and stand with me?\nSomewhere beyond the barricade, Is there a world you long to see?\nDo you hear the people sing? Say, do you hear the distant drums?\nIt is the future that they bring When tomorrow comes!\n\nLet the beating of your heart Echo the drum's revolutionary sound.\nOur day of glory has arrived - A new dawn breaking all around!\nTo the barricades, raise the scarlet standard high!\nFor those who fall shall never die - Their blood makes French flowers bloom!"
+DD_FRA_129a_modifier:"§JBrave New World§!"
+
+DD_FRA_130_t:"Wildfires Engulf the Bastille"
+DD_FRA_130_d:"'To the Bastille!' At dawn, thousands of Parisians surged toward the fortress - some bearing muskets, others brandishing blades. The people's wrath rolled forward like storm clouds, converging upon that symbol of oppression.\n\nThe Bastille, once Île-de-France's mightiest stronghold against foreign invasion, now loomed over Paris as the regime's watchtower. Its garrison guarded political prisoners, this Goliath of stone casting shadows across France. For generations, the people had hated this evil giant as much as the hated League government, longing to drag it down into oblivion.\n\nThe Chancellor's regime had long played the people for fools, while the League Parliament ensnared all Europe in its web, draining France's lifeblood. Years of brazen taxation finally ignited popular fury - wave after wave of revolts crashing against this kingdom of darkness.\n\n'Bring the cannon!' Artillery roared, their iron shot blasting masonry into clouds of dust and debris. Cheers erupted with each impact. When the walls crumbled, desperate defenders raised white flags. As the drawbridge lowered, insurgents stormed through residual gunfire. Though Governor de Launay ordered ceasefire to prevent massacre, the mob dragged him out, stabbing and beating the aristocrat before parading his severed head on a pike through the streets. Now revolutionary fires consume the Bastille's ruins."
+DD_FRA_130a:"Snow melts to ashes, steel clears its sheath."
+
+DD_FRA_131_t:"The Coalition of Order"
+DD_FRA_131_d:"The fall of the Bastille and revolutionaries' seizure of power has sent shockwaves through France's former dominions - a mixture of outrage and terror uniting the old order. These aristocrats have hastily formed a counter-revolutionary 'Coalition of Order', dreaming of strangling our revolution in its cradle. These powdered nobles, these squabbling courtiers who once vied for influence, now stand united as never before. They howl for our destruction, desperate to thrust us back into the mud, to drown us in yesterday's filth.\n\nYet we shall not yield! We refuse to grovel before these gilded parasites who once brandished our chains, these feasting lords who ignored their people's suffering! Millions of France's children - the oppressed, the downtrodden - this nation's true people shall never submit! Unyielding France! Glorious France! Now Coalition armies mass at our borders. To arms, citizens! We shall defend our nation! Our hopes! Our tomorrow!"
+DD_FRA_131a:"Though hope seems faint, we march without regret."
+DD_FRA_131a_modifier:"A United People Shall Never Be Vanquished"
+DD_FRA_131a_modifier2:"Fighting for Order"
+
+DD_FRA_132_t:"All Fall to Dust"
+DD_FRA_132_d:"The insurrection is crushed.\n\nBarricades lie broken, stone walls shattered, blood creeping silently along Parisian cobblestones. The capital is unrecognizable - embers smolder in streets choked with rubble, the air thick with death's stench and despair's suffocation.\n\nFrom surviving windows, black mourning cloths hang like funeral shrouds: profound black, silent black, hopeless black. Paris kneels in ruins as victorious troops march down the Champs-Élysées, past the Hôtel de Ville, through the rebels' graveyard. New purges begin; squares overflow with ghastly guillotines, baskets of heads, pools of crimson. The 'Bloody Week' trials stretch seven days, met only with tomb-like silence - no cries, no lamentations, no final defiance. Perhaps Paris has no tears or blood left to give.\n\nIt ends. The cannonades end. France's judgment ends. The people's future ends. All fall to dust.\n\n§RIt is finished.§!"
+DD_FRA_132a:"If fortune favors us, history may yet repeat."
+DD_FRA_132a_modifier1:"Bloodless Revolution"
+DD_FRA_132a_modifier2:"Bill of Rights"
+DD_FRA_132a_modifier3:"Triumph of the Crown"
+DD_FRA_132a_modifier4:"Spirit of Progress"
+DD_FRA_132a_modifier5:"Dual Continuity"
+DD_FRA_132a_modifier6:"Frankish Century"
+DD_FRA_132a_tt5:"Converts provinces of §YNorman§!, §YFrench§!, §YPicard§!, §YBreton§! and §YBrythonic§! culture groups to §YAnglovan§! culture.\n"
+DD_FRA_132a_tt6:"§GRemoves§! requirements for gaining the §YSun King§! trait and §Gdoubles§! its acquisition chance.\n"
+DD_FRA_132a_tt:"§O………………THE END………………§!\n§GThank you for playing @FRA§MFrance§!!§!\n"
+
+DD_FRA_133_t:"[From.GetName] Seeks to Reestablish Sphere of Influence"
+DD_FRA_133_d:"We were once part of France's dominion, but their civil war granted us unexpected independence. Now recovered, they demand we return under their yoke. The alternative is all too clear."
+DD_FRA_133a:"Return to us, my [From.GetName]."
+DD_FRA_133b:"Never again shall we submit!"
+
+DD_FRA_134_t:""
+DD_FRA_134_d:""
+DD_FRA_134a:""
+
+GAUL_MIL:"Gallic Military Junta"
+HOLY_FRA:"Holy Gallic Diocese"
+UNTIE_FRA:"Royal Confederation"
+REP_FRA:"Republican France"
+GAUL_MIL_ADJ:"Gallic Junta"
+HOLY_FRA_ADJ:"Holy Gallic"
+UNTIE_FRA_ADJ:"Royal Confederate"
+REP_FRA_ADJ:"Republican French"
+
+DD_FRA_134a_modifier:"For France We Fight"
+DD_FRA_134a_modifier2:"To the Barricades!"
+desc_DD_FRA_134a_modifier2:"Every city stands ready for last-ditch resistance - they'll hold out to the bitter end.\n\n§YThis province will be ceded immediately upon occupation!§!\n"
+DD_FRA_134a_modifier3:"Fight to the Last"
+desc_DD_FRA_134a_modifier3:"We shall fight to the end! We shall fight in the streets! We shall fight in the alleys! We shall fight house by house! We shall never surrender!"
+DD_FRA_135_t:"\n\n\n\n\n\n\n\n£icon_french_rev2£"
+DD_FRA_135_d:"\n\n\n\n\n\n\n\n\n"
+DD_FRA_135a:"For France, I embrace death without fear!"
+
+DD_FRA_136_t:"In the King's Name"
+DD_FRA_136_d:"'Order! Gentlemen, order!' The grand hall echoed with cacophonous debate, the ceaseless invective threatening to shake the vaulted ceilings. Felix sank deeper into his velvet cushions, pipe clenched between teeth, watching the Earl's gavel drown in this sea of aristocratic folly.\n\nSurrounded by cedarwood's gentle aroma, he reached for a match - damp sticks that only sputtered pathetically. One, two, an entire box wasted. These fools bicker over thrones while France rots - Anjou, Capet, or some other princely bastard, it mattered little to Felix.\n\n'Gentlemen,' his pipe struck the table with a crack, 'That madman's corpse still cools in Paris! France wallows in filth, and here we squabble like fishwives!' From his waistcoat came parchment, drawn like a dueling sword. 'What our kingdom needs isn't a crown, but an army. Once we've piled rebel bones high enough, play your royal games then.'\n\n'Now!' The scroll unfurled with a flick of his wrist, Felix's voice taking on heraldic gravity: 'By authority of God and the French Crown, I proclaim the Paris Regency Council to crush this treasonous rabble!'"
+DD_FRA_136a:"These insects shall relearn the weight of crown and tradition."
+DD_FRA_136a_tt2:"§YFrench§! region provinces gain:"
+DD_FRA_136a_tt:"§MOccupied§! provinces with this modifier are §Gimmediately ceded§!.\n"
+
+DD_FRA_137_t:"As Twilight Descends"
+DD_FRA_137_d:"Raphaël navigated cramped alleys through bustling crowds, his breathless secretary struggling to keep pace while clutching documents and reciting defense plans. The once-grand Champs-Élysées now lay obstructed by wagons and rubble, its barricades fortified with heavy stones. The Lord Protector's statue was being dragged away - molten metal for Paris' cannons.\n\n'Sir, time slips through our fingers. The Regency Council prepares its assault.' The secretary heaved papers onto the desk as they entered. 'Neither Church nor old army will stay neutral...' Raphaël merely patted his shoulder, gazing at twilight Paris. The city glowed copper-gold in dying light, its skyline like some colossal clockface; vermilion horizons pressed against the advancing hour. This shadowed metropolis strained every resource - fighting for liberty, gasping for republicanism's dream.\n\n'Never has our vision been so close,' Raphaël murmured, watching barricades rise. 'Freedom... from coercion, from oppression, from deception. Once mere phantoms in a fool's mirror...' His nails dug bloody crescents into palms. 'France's chance to shed her military straitjacket - her people's opportunity to break fate's chains—'"
+DD_FRA_137a:"With our burning souls as wager, France's ideal shall triumph."
+
+DD_FRA_138_t:"The Patriot's Fury"
+DD_FRA_138_d:"Inconceivable! Absolutely inconceivable! Marshal Giscard stared at the French map in the war room, his hat slammed onto the table. That the Lord Protector should meet such an end! And now these traitorous rats, these dishonorable curs dare exploit this tragedy to rebel? Unthinkable! These swine, these baseborn serfs, these shameless wretches—they're burning the Protector's legacy to ashes, destroying France's empire—France is dying in flames and chaos! France is dying!\n\nThe Marshal's chest bore rows of gleaming medals, hard-won honors for his service. Now the nation he proudly served, the country to which he devoted his life and soul, is being torn apart by ungrateful betrayers. Rebellion. Revolt. Giscard's France is cast into the fire—the ideals and efforts of the Restoration Society, that vision of an eternal and mighty nation on the map, now reduced to absurd dust.\n\nNo! Never! How can this stand? How can he watch his homeland march to ruin? Marshal Giscard has resolved: he will save France from these treasonous dogs, whatever the cost. The nobles, the Church, the people—all have betrayed France. No matter. The Marshal and his armies will defend France's last shreds of honor, washing away this disgrace in blood—just as they crossed the Rhine in triumph a century ago!"
+DD_FRA_138a:"Fight for France's destiny!"
+
+DD_FRA_139_t:"The Day to End All Wars"
+DD_FRA_139_d:"Marcelin's life had been unremarkable. As a French noble's fourth son, family estates were never his destiny. After mediocre studies at Paris Seminary, he became an ordinary priest. For forty years this churchman witnessed his nation march from war to war, victory to victory.\n\nIn that rural confessional, Marcelin heard every sorrow of the land - fears for loved ones at the front, guilt over first kills, grief for fallen kin, despair at abandoned fields. Yet he also saw joy in homecomings, harvest celebrations, hopes for tomorrow. These good people shouldn't die for others' ambitions.\n\nBut Frenchmen have no choice. Over decades, Marcelin watched familiar faces vanish - bright-eyed youths always marching off. Even now as Lyon's archbishop, he prays at midnight: How to save them? How to save France?\n\nNow God's answer comes. A black-robed monk hastens to Marcelin's side with Rome's decree. 'Your Grace, word from the Vatican!' Marcelin turns slowly. 'What says His Holiness?' The monk hesitates—"
+DD_FRA_139a:"'Do as you must.'"
+
+DD_estate_noble_FRA_paris:"Paris Accord"
+DD_estate_noble_FRA_paris_desc:"A compromise between the Angevin king and nobility, establishing feudal contracts delineating vassal rights and obligations."
+
+DD_estate_noble_super_strong:"Aristocratic Supremacy"
+DD_estate_noble_super_strong_desc:"As coronation concessions, the crown granted nobles extraordinary privileges. In some regions, local aristocrats wield more power than the king himself."
+DD_estate_noble_super_strong_tt:"§RProhibits§! annexation of §Yappanages§!.\n"
+
+DD_estate_noble_FRA_BUR_S:"Burgundian Appanage Privileges"
+DD_estate_noble_FRA_BUR_S_desc:""
+DD_estate_noble_FRA_BUR_S_tt:"If @BUR§Y[BUR.GetName]§! is not a §Yprivileged appanage§!, these privilege penalties are §Greduced by 33.3%§!.\n"
+
+DD_estate_noble_FRA_GUY_S:"Gascon Appanage Privileges"
+DD_estate_noble_FRA_GUY_S_desc:""
+DD_estate_noble_FRA_GUY_S_tt:"If @GUY§Y[GUY.GetName]§! is not a §Yprivileged appanage§!, these privilege penalties are §Greduced by 33.3%§!.\n"
+
+DD_estate_noble_FRA_PRO_S:"Provençal Appanage Privileges"
+DD_estate_noble_FRA_PRO_S_desc:""
+DD_estate_noble_FRA_PRO_S_tt:"If @PRO§Y[PRO.GetName]§! is not a §Yprivileged appanage§!, these privilege penalties are §Greduced by 33.3%§!.\n"
+
+DD_estate_noble_FRA_minor_S:"Minor Appanage Privileges"
+DD_estate_noble_FRA_minor_S_desc:""
+
+DD_FRA_unite_title: "@FRA Unification of French Territories"
+DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empire. France is whole again!"
  #Drawing inspiration from Shakespeare's plot, let's not say it's just from watching comedies.
 
  #The story involves Richard, the illegitimate son of the King's Governor of England, and Louis of France, along with his wife Elizabeth and her brother Malcolm. Originally, Louis was the legitimate heir. While suppressing the British rebels, he encounters Richard and is astonished to find that the two look almost like twins. (This could include a scene where bystanders mistake one for the other.) They then confront their father, only to discover the truth about Richard's illegitimate status. Fearing that his father might change his favor (since Richard is more courageous and intelligent compared to Louis, who is just an ordinary, even somewhat incompetent heir), Louis poisons and assassinates his father at night. Louis then ascends to the throne, declaring Richard the murderer and imprisoning him in the dungeon. Later, Malcolm, who has just arrived to stage a coup, confronts Louis. (The outcome depends on the situation.) Louis dies. Richard then ambushes and kills his uncle (they could also end up killing each other, in which case Elizabeth ascends to the throne). The survivor then takes the throne.
+
+ NYDD_FRA_army_title:"Reorganize the Army"
+ NYDD_FRA_army_desc:"After over a century of French civil war known as the 'Dark Ages', our army is now weak and corrupt. We must immediately reorganize and restore its combat effectiveness."
+ NYDD_FRA_britany_title:"Night of Lesser Britain"
+ NYDD_FRA_britany_desc:"The Duchy of Brittany near us should be ruled by the loyal Marshal Gilles. Yet for some unknown reason, he has recently lost contact and ceased all communications with Paris. We ought to investigate this matter."
+ NYDD_FRA_england_title:"Reclaim Anglovia"
+ NYDD_FRA_england_desc:"While the North Sea Empire is embroiled in self-destructive conflicts, this presents a perfect opportunity for us to reclaim all of Anglovia. March north at once!"
+ NYDD_FRA_rule_enland_title:"The Flowering\nFields"
+ NYDD_FRA_rule_enland_desc:"Once this was a battlefield where English states great and small fought to the death. But now, everything has changed. We, France, shall bring seeds of peace to this land, and from them shall grow flowers covering the hills and fields."
+ NYDD_FRA_payback_title:"An Eye for an Eye"
+ NYDD_FRA_payback_desc:"The Lowland merchants thought themselves secure under imperial protection, wantonly funding English rebellions. Though many say the Empire's hidden hand must be behind this again. Perhaps we should make the Lowlands our first target."
+
+ NYDD_FRA_north_german_title:"Wolves of the North"  
+ NYDD_FRA_north_german_desc:"To the north, the Germans are a pack of furious wolves. Since their defeat in the civil war and expulsion from the Holy Roman Empire, these princes have grown into a force that cannot be ignored. We could cooperate with them to overthrow the Empire—or simply deal with them as well."  
+ NYDD_FRA_north_german2_title:"Dominion Over the North"  
+ NYDD_FRA_north_german2_desc:"The princes of North Germany finally quieted when French armies marched into Berlin. Now, let us see what options remain."  
+ NYDD_FRA_berlin_title:"To the Elbe's Waters"  
+ NYDD_FRA_berlin_desc:"With the fall of Germany's great cities and the last of its warriors laying down their arms, France has declared a glorious victory over the Germans. Now, let us crown ourselves in the heart of the Empire—as Kings of Germany!"  
+ NYDD_FRA_war_effort_title:"Progress of War"  
+ NYDD_FRA_war_effort_desc:"As times change and warfare evolves, our arms and equipment must keep pace. The cannons that proved decisive in the Dark Ages, for instance, remain effective against modern fortifications—though their cost is steep."  
+ NYDD_FRA_musketer_title:"Royal Musketeers"  
+ NYDD_FRA_musketer_desc:"In the past, the French crown relied on noble levies to wage war—a system that proved cumbersome during the Dark Ages. Now, with the establishment of permanent taxation, we have ample revenue to raise a standing army."  
+
+ NYDD_FRA_calai_title:"The Calais Trade Port"
+ NYDD_FRA_calai_desc:"Calais is France's closest province to the British Isles, granting it unique opportunities for development, primarily as a hub for trade between the Low Countries, France, and England."
+
+ NYDD_FRA_netherland_develop_title:"Developing the Netherlands"
+ NYDD_FRA_netherland_develop_desc:"The Dutch economy is arguably the finest in Europe - let us exploit it thoroughly."
+
+ NYDD_FRA_our_channel_title:"Our Channel"
+ NYDD_FRA_our_channel_desc:"Behold, the Channel contains none but our ships - is this not what we might call 'Mare Nostrum'?"
+
+ NYDD_FRA_army_modifier:"Army Preparations"
+ NYDD_FRA_england_tt:"Unlocks the Great Project '§YTower of London§!' to commemorate our §Ggrand achievements§!.\n"
+ NYDD_FRA_england_modifier:"Integrating the English"
+ NYDD_FRA_war_effort_ttt:"Won (§G[Root.num_of_battles_won_var.GetValue]§!/§Y10§!) battles"
+ NYDD_FRA_musketer_modifier:"Royal Musketeers"
+ NYDD_FRA_calai_modifier:"Developing Calais Port"
+ desc_NYDD_FRA_calai_modifier:"Situated at the crossroads of the Low Countries, Britain, and France, the port of Calais thrives with commerce, making it ideal for development as our primary harbor."
+
+ NYDD_FRA_netherland_develop_modifier:"Dutch Trade"
+ desc_NYDD_FRA_netherland_develop_modifier:"This Dutch province enjoys exceptionally prosperous trade."
+
+ NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
+ NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
+
+ NYDD_FRA_netherland_develop_modifier2:"Dutch Subject"
+ 
+ NYDD_FRA_our_channel_modifier:"Channel Monopoly"
+ desc_NYDD_FRA_our_channel_modifier:"Now that we monopolize the entire Channel, we shall undoubtedly reap enormous profits."
+
+ NYDD_FRA_our_channel_tt:"As long as we control §Y[168.GetName]§! and have §Ydominant trade power§! in the §YEnglish Channel§!, all our provinces in the §YEnglish Channel§! trade node will gain:\n[trade_value_modifier]: §G+10.0%§!\n"
+
+ NYDD_FRA_our_channel_ttyes:"£yes£If the §YEnglish Channel§! is the §Ymost valuable§! trade node in the world:"
+ 
+ DD_FRA_channel_ptm:"Channel Monopoly"
+ desc_DD_FRA_channel_ptm:"As long as we control §Y[168.GetName]§! and have §Ydominant trade power§! in the §YEnglish Channel§!, all our provinces in the §YEnglish Channel§! trade node will gain:\n[trade_value_modifier]: §G+10.0%§!\n"
+
+ NYDD_FRA_musketer_modifier2:"Musketeer Training"
+ NYDD_FRA_musketer_tt:"Unlocks §M5§!th tier government reform: '§YTrain Musketeers§!'.\n"
+
+ NYDD_FRA_north_german_tt:"Unlocks the '§MCrossroads of Fate§!' interface, where we'll choose between '§YEstablish the Rhenish Confederation§!' or '§YForcefully Integrate the Rhineland§!'.\n§g(If not displaying, check mod compatibility)§!\n"
+
+ DD_FRA_release_RHL_completed_ttt:"Completed decision: '§YEstablish the Rhenish Confederation§!'"
+ DD_FRA_integrate_RHL_completed_ttt:"Completed decision: '§YForcefully Integrate the Rhineland§!'"
+ DD_FRA_expand_RHL_completed_ttt:"Completed decision: '§YExpand the Rhenish Confederation§!'"
+ DD_FRA_release_BAV_completed_ttt:"Completed decision: '§YInstall Bavarian Rule§!'"
+
+ DD_FRA_release_RHL_title:"£dip£Establish the Rhenish Confederation"
+ DD_FRA_release_RHL_desc:"In North Germany there exists a group of disaffected Germans who have grown so resentful of Hohenstaufen hegemony that they would rather collaborate with us French than endure Southern German dominance. This is good - there are no downsides."
+
+DD_FRA_integrate_RHL_title:"£mil£Forcibly Integrate the Rhineland"
+DD_FRA_integrate_RHL_desc:"When all is said and done, the Germans of North Germany will never truly share our cause. They merely seek to use our strength to break the Hohenstaufen's hold, only to inevitably turn and drive us out afterwards. This will not do. As the Eastern saying goes: 'Since they have come, they shall not leave.' Having come this far, we might as well settle along the Rhine."
+DD_FRA_integrate_RHL_tt1:"All qualifying §Yprovinces under our rule§! will §Rlose their cores§! and §Rbecome unclaimable§!, while gaining:"
+DD_FRA_integrate_RHL_tt2:"When this modifier expires or after we defeat rebels in the province, it will convert to the §YRhenani§! culture of the French culture group and remove this modifier.\n"
+
+DD_FRA_release_BAV_title:"£dip£Install Bavarian Rule"
+DD_FRA_release_BAV_desc:"Bavaria has long been the Emperor's staunch ally. Therefore, we must begin our work here - finding disloyal collaborators, helping them establish a friendly Bavarian Kingdom, and restoring the lands they lost during Barbarossa's invasion in exchange for their gratitude. Seems like a rather good deal, no?"
+
+DD_FRA_expand_RHL_title:"£adm£Expand the Rhenish Confederation"
+DD_FRA_expand_RHL_desc:"Since we established the Rhenish Confederation, Germans have been flocking to join in droves. Among them are fervent Germanization advocates who dream of unifying Germany - albeit under the French banner. But they likely don't care, so long as Germany triumphs, even if under another's roof."
+
+DD_FRA_release_BAV_tt:"This decision is §Rmutually exclusive§! with '§YExpand the Rhenish Confederation§!'.\n"
+DD_FRA_expand_RHL_tt:"This decision is §Rmutually exclusive§! with '§YInstall Bavarian Rule§!'.\n"
+DD_FRA_integrate_RHL_tt:"This decision is §Rmutually exclusive§! with '§YEstablish the Rhenish Confederation§!'.\n"
+DD_FRA_release_RHL_tt:"This decision is §Rmutually exclusive§! with '§YForcibly Integrate the Rhineland§!'.\n"
+
+DD_FRA_expand_RHL_tt2:"Qualifying provinces will be ceded to @RHL§Y[RHL.GetName]§!.\n"
+
+DD_FRA_integrate_RHL_modifier:"Unending Revolts"
+desc_DD_FRA_integrate_RHL_modifier:"The local populace is clearly discontent with French rule."
+
+gui_branch_DD_FRA_form_RHL_tt:"Unlocks the '§YEstablish the Rhenish Confederation§!' decision with following effects:\n"
+gui_branch_DD_FRA_integrate_RHL_tt:"Unlocks the '§YForcibly Integrate the Rhineland§!' decision with following effects:\n"
+
+gui_branch_DD_FRA_form_RHL_t:"§J'Grant Him eternal darkness, that glory which corrupts wisdom, that pride which forsakes divine grace, falling from paradise.'§!\n"
+gui_branch_DD_FRA_integrate_RHL_t:"§O'When the merciless angelic servants raise their hands, I behold this sulfur, pillar of salt and destruction.'§!\n"
+
+DD_branch_gui_bg_title:"Crossroads of Fate"
+gui_branch_DD_FRA_help_RHL_t:"§J'He said: I came not to send peace on earth, but a sword.'§!\n"
+gui_branch_DD_FRA_help_BAV_t:"§M'This proud devil, city of eternal woe! He shall make vanity a ladder to destined madness and torment.'§!\n"
+gui_branch_DD_FRA_control_SG_t:"§O'And I saw an angel descend from the abyss, who bound the ancient serpent called Satan in the bottomless pit, until eternal darkness embraced him.'§!\n"
+
+gui_branch_DD_FRA_help_RHL_tt:"Unlocks the '§YExpand the Rhenish Confederation§!' decision with following effects:\n"
+gui_branch_DD_FRA_help_BAV_tt:"Unlocks the '§YInstall Bavarian Rule§!' decision with following effects:\n"
+gui_branch_DD_FRA_control_SG_tt:"Continue maintaining §Ymilitary occupation§! of Southern Germany, perhaps permanently.\n"
+
+DD_FRA_control_SG_modifier:"Military Occupation"
+desc_DD_FRA_control_SG_modifier:"This province remains under the military control of its occupiers."
+
+NYDD_FRA_end_chaos_title:"End of Chaos"
+NYDD_FRA_end_chaos_desc:"The chaos brought by the Dark Ages and chain of mistakes has finally ended. The rebels have been vanquished, and now it's time to turn the page."
+NYDD_FRA_pacify_angloi_title:"Call Across the Channel" # Call from Across the Channel
+NYDD_FRA_pacify_angloi_desc:"Across the Channel, our Angevin governor is overwhelmed by endless English rebellions. Let us go and lend him a hand."
+
+NYDD_FRA_crash_union_title:"Shatter the Channel League" #Shatter the Channel Alliance
+NYDD_FRA_crash_union_desc:"The alliance between England and the Low Countries has severely hindered our plans - their delaying tactics nearly brought France to its knees last time. Now we shall break them piece by piece, starting with our closest neighbors in the Low Countries."
+
+NYDD_FRA_ireland_title:"Invade Ireland"
+NYDD_FRA_ireland_desc:"Our Angevin governors have repeatedly attempted expeditions to Ireland, all ending in failure. Now with Anglovia reclaimed, Paris has decided to launch another expedition - this time in the King's name."
+
+NYDD_FRA_wallon_fort_title:"Impregnable Bulwark"
+NYDD_FRA_wallon_fort_desc:"Given Wallonia's position on the Low Countries frontier, we must construct fortifications to prevent those pesky Low Country mercenaries from slipping through."
+
+NYDD_FRA_swiss_title:"Mountain Outpost"
+NYDD_FRA_swiss_desc:"Switzerland may be easy to defend but hard to attack... but since we're already here..."
+
+NYDD_FRA_downfall_empire_title:"The Empire's Fall"
+NYDD_FRA_downfall_empire_desc:"At last! At long last! Our arch-nemesis, the Holy Roman Empire, has finally met its well-deserved rest. We've waited so long for this day, enduring humiliations while preparing for war night and day. Now, with the Empire's fall, France will surely prosper... right?"
+
+NYDD_FRA_new_army_title:"Establish a Standing Army"
+NYDD_FRA_new_army_desc:"The unreliability of noble levies has been thoroughly demonstrated. Now that our treasury can bear the burden, we should create a royal standing army to maintain our military strength."
+
+NYDD_FRA_weapon_title:"Royal Armories"
+NYDD_FRA_weapon_desc:"To support our military expansion, the crown will invest in royal armories to sustain army development."
+
+NYDD_FRA_zongcan_title:"Establish a General Staff"
+NYDD_FRA_zongcan_desc:"As our army grows in size and complexity, relying solely on individual commanders has become inadequate. France will therefore create a General Staff to assist the Marshal in command. This staff will be divided into departments handling organization, equipment, medical services, planning, reconnaissance, intelligence, logistics, and other military matters."
+
+NYDD_FRA_normandy_title:"Normandy Coast"
+NYDD_FRA_normandy_desc:"Ah, the Normandy coast - such beautiful and pleasant scenery. As the crucial coastal connection to Britain, we must develop it properly."
+
+NYDD_FRA_develop_england_title:"Develop Anglovia"
+NYDD_FRA_develop_england_desc:"Even in Anglovia, we shall show no favoritism, implementing the same development plans as elsewhere."
+
+NYDD_FRA_building_title:"French Gardens"
+NYDD_FRA_building_desc:"French architecture is unparalleled in the world. From Paris to Provence, everywhere presents beautiful scenery."
+
+NYDD_FRA_end_chaos_modifier:"Temporary Victory"
+
+NYDD_FRA_pacify_angloi_modifier:"Preparing Naval Blockade"
+NYDD_FRA_crash_union_tt1:"Every @ENG§Y[ENG.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations, §Gremove§! §Yaggressive expansion§! against us, and begin §Ytransferring trade power§! to us.\n"
+NYDD_FRA_crash_union_tt2:"Every @EN3§Y[EN3.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations, §Gremove§! §Yaggressive expansion§! against us, and begin §Ytransferring trade power§! to us.\n"
+NYDD_FRA_crash_union_tt:"§YEngland§! can no longer §Rally§! with or §Rform trade leagues§! with §YLow Countries§!.\n"
+FRA_FEAR_CAN_NOT_ALLY:"Due to French threats, we cannot ally with §Y[From.GetName]§!"
+NYDD_FRA_crash_union_modifier:"Channel Monopoly"
+NYDD_FRA_wallon_fort_modifier:"Fortified Frontier"
+desc_NYDD_FRA_wallon_fort_modifier:"This province is a heavily fortified stronghold for border defense."
+NYDD_FRA_wallon_fort_modifier2:"Secure Border Fortress"
+desc_NYDD_FRA_wallon_fort_modifier:"This province contains an imperial frontier fortress that must be strongly protected."
+NYDD_FRA_new_army_tt:"From now on, §Yrecruiting generals§! grants an additional §G+0.5%§! army professionalism.\n"
+NYDD_FRA_weapon_tt:"Up to §Y5§! provinces can gain this modifier.\n"
+NYDD_FRA_weapon_tt2:"The event '§YSubstandard Uniforms§!' will no longer §Goccur§!.\n"
+
+NYDD_FRA_new_army_modifier:"First Standing Army"
+NYDD_FRA_weapon_modifier:"Royal Armory"
+desc_NYDD_FRA_weapon_modifier:"This province houses a French state-sponsored facility for mass production of military weapons."
+
+NYDD_FRA_new_army_ttt:"Has national idea '§YFrench Standing Army§!'"
+
+NYDD_FRA_normandy_modifier:"French Shipyard"
+desc_NYDD_FRA_normandy_modifier:"This province contains one of France's primary shipbuilding facilities."
+
+NYDD_FRA_normandy_modifier2:"Cloth Center"
+desc_NYDD_FRA_normandy_modifier2:"This province is one of France's main cloth production regions."
+
+NYDD_FRA_normandy_modifier3:"Diamond Crafting Refinement"
+desc_NYDD_FRA_normandy_modifier3:"Gems, what curious things."
+
+NYDD_FRA_normandy_tt:"If any owned province has the '§YDiamond District§!' modifier, this bonus will be §Gimproved§!.\n"
+
+NYDD_FRA_normandy_modifier4:"Glassworking Refinement"
+desc_NYDD_FRA_normandy_modifier4:"Glass, what beautiful things."
+
+NYDD_FRA_normandy_modifier5:"Diamond Crafting Refinement"
+desc_NYDD_FRA_normandy_modifier5:"Gems, what curious things."
+
+ned_transfer_dd_tt:"The '§YDiamond District§!' modifier will transfer to §Y[167.GetName]§!.\n"
+
+NYDD_FRA_develop_england_ttyes:"£yes£If @ENG§Y[ENG.GetName]§! is our §Msubject§!:"
+NYDD_FRA_develop_england_ttno:"£no£If @ENG§Y[ENG.GetName]§! is our §Msubject§!:"
+NYDD_FRA_develop_england_ttyes2:"£yes£If @IRE§Y[IRE.GetName]§! is our §Msubject§!:"
+NYDD_FRA_develop_england_ttno2:"£no£If @IRE§Y[IRE.GetName]§! is our §Msubject§!:"
+
+NYDD_FRA_zongcan_tt:"Unlocks §M7§!th tier monarchy government reform '§YGeneral Staff§!'.\n"
+
+NYDD_FRA_zongcan_modifier:"Joint Military Exercises"
+NYDD_FRA_zongcan_tt2:"Each §Gloyal§! §Ymarch§! subject now grants us:\nYearly army tradition: §G+0.1§!\n\nMaximum §G+1.00§!\n"
+NYDD_FRA_zongcan_tt3:"Each §Gloyal§! §Yprivileged march§! subject now grants us:\n[infantry_power]: §G+1.0%§!\n[cavalry_power]: §G+1.0%§!\n[artillery_power]: §G+1.0%§!\n\nMaximum §G+10.0%§!\n"
+
+NYDD_FRA_zongcan_modifier2:"March Military Assistance"
+NYDD_FRA_zongcan_modifier3:"Privileged March Military Assistance"
+NYDD_FRA_zongcan_modifier2_10:"March Military Assistance"
+NYDD_FRA_zongcan_modifier3_10:"Privileged March Military Assistance"
+NYDD_FRA_zongcan_modifier4:"General Staff"
+NYDD_FRA_zongcan_modifier5:"Personal Command"
+desc_NYDD_FRA_zongcan_modifier5:"Archer positions move 5 meters to the left."
+
+NYDD_FRA_zongcan_tt4:"§YRecruiting generals§! grants the following additional effects:"
+NYDD_FRA_zongcan_tt5:"This modifier can be §Gextended§!.\n"
+
+NYDD_FRA_downfall_empire_ttyes1:"£yes£If we have the '§YZealotry§!' modifier:"
+NYDD_FRA_downfall_empire_ttno1:"£no£If we have the '§YZealotry§!' modifier:"
+
+NYDD_FRA_develop_england_tt2:"£yes£Due to our §Ggoodwill§! towards the §YEnglish§!, all §YEnglish§! culture provinces in the §YBritish§! region will gain:"
+NYDD_FRA_develop_england_modifier:"Anglovian Prosperity"
+NYDD_FRA_develop_england_modifier3:"Irish Wrath"
+NYDD_FRA_develop_england2_modifier:"Heart of England"
+desc_NYDD_FRA_develop_england2_modifier:"We have won the favor of the English, making them more willing to accept our rule."
+
+NYDD_FRA_develop_england_modifier4:"England, Second Home"
+desc_NYDD_FRA_develop_england_modifier4:"With increasing trade and population movement across the Channel, England has become a second home for us French."
+
+NYDD_FRA_develop_england_modifier5:"England, Second Home"
+desc_NYDD_FRA_develop_england_modifier5:"With increasing trade and population movement across the Channel, England has become a second home for us French."
+
+NYDD_FRA_building_modifier:"Internal Development"
+desc_NYDD_FRA_building_modifier:"France, our homeland, must be properly developed."
+
+NYDD_FRA_building_tt:"Provinces with this modifier have a §G20.0%§! chance to gain an additional development point when increasing development. When development reaches §Y30§!, this modifier becomes §Gpermanent§!.\n"
+
+NYDD_FRA_chaos_rule_title:"Reign of Chaos"
+NYDD_FRA_chaos_rule_desc:"The crushing defeat of the Albigensian Crusade ushered in France's Dark Ages, and the subsequent century of civil war brought this era to its peak. Even now, a chain of misfortunes born from bizarre coincidences continues to unfold in Paris..."
+
+NYDD_FRA_blue_sea_title:"Azure Waves"
+NYDD_FRA_blue_sea_desc:"Oh, how blue the sea, look how blue this sea is. Just as blue as France's map color."
+
+NYDD_FRA_france_rise_title:"The Kingdom's New Century" # The Evangelic Kingdom's\nNew Century
+NYDD_FRA_france_rise_desc:"France was once a great nation. Though we endured the Dark Ages, we now lead her back to greatness. In this new era, in the name of God and our ancestors, we shall reclaim all that is rightfully ours!"
+
+NYDD_FRA_face_empire_title:"Confronting the Empire"
+NYDD_FRA_face_empire_desc:"The Empire has long been a thorn in our side. Now that we're no longer weak, dealing with the Empire becomes our primary objective. The time has come to act."
+
+NYDD_FRA_blood_for_blood_title:"Blood for Blood"
+NYDD_FRA_blood_for_blood_desc:"Our first task in dealing with the Empire is to shatter Hohenstaufen rule, making them pay for their invasion centuries ago!"
+
+NYDD_FRA_south_german_title:"Night of the Fall"
+NYDD_FRA_south_german_desc:"Every empire meets its end. With Swabian lands beneath our boots, the Empire's curtain call seems inevitable."
+
+NYDD_FRA_frank_strong_title:"Reclaiming Ancient Lands"
+NYDD_FRA_frank_strong_desc:"Ah, the lands of old - now all in our grasp."
+
+NYDD_FRA_light_title:"Dawn of Revival"
+NYDD_FRA_light_desc:"Having resolved internal chaos, France's revival must prioritize military development. How else can we protect ourselves without strong armed forces?"
+
+NYDD_FRA_shumi_title:"Reform the Privy Council"
+NYDD_FRA_shumi_desc:"Once merely an ordinary institution, we now elevate the Privy Council to royal cabinet status. Granting them proper authority will better serve France's needs."
+
+NYDD_FRA_paris_title:"Rebuild Paris"
+NYDD_FRA_paris_desc:"Since becoming France's capital, Paris has stood as our cultural and economic heart. Yet the Century of Civil War left deep scars. We must not only restore her, but expand - making her grander and more beautiful than ever."
+
+NYDD_FRA_carribean_title:"Colonize the Caribbean"
+NYDD_FRA_carribean_desc:"The Caribbean islands are vital stepping stones to the New World. We must seize this opportunity before others do."
+_title:""
+_desc:""
+_title:""
+_desc:""
+
+DD_FRA_mission_25_PP:"France, Rising"
+NYDD_FRA_blue_sea_modiifer:"Call of Wealth"
+NYDD_FRA_blue_sea_tt:"While this modifier is active, §Gupgrading§! a §Ytrade center§! grants §G1§! base production.\n"
+
+NYDD_FRA_chaos_rule_ttt:"This mission will automatically skip after completing the opening event chain."
+NYDD_FRA_chaos_rule_tt:"§YDecide France's future.§!"
+
+NYDD_FRA_face_empire_tt:"Unlocks the '§YShatter the Empire§!' casus belli against §YHoly Roman Empire§! nations, allowing province conquest with §Greduced§! aggressive expansion.\n"
+NYDD_FRA_face_empire_tt3:"£yes£With the '§YRevenge Against the Empire§!' modifier, the '§YShatter the Empire§!' casus belli gains additional §G-5.0%§! aggressive expansion impact and war score cost, and the '§YRevenge Against the Empire§!' modifier is §Jextended§! by §G10§! years.\n"
+
+NYDD_FRA_face_empire_modifier:"Zealotry"
+desc_NYDD_FRA_face_empire_modifier:"Blood for blood, eye for eye, tooth for tooth."
+
+NYDD_FRA_face_empire_tt2:"This modifier:\n- §MExtends§! §G0.5§! years per conquered §YHRE§! province\n- §MExtends§! §G1§! year per annexed §YHRE§! member\n- §MExtends§! §G2§! years when defeating the §YHRE Emperor§! in a major war\n- §MExtends§! §G20§! years when dismantling the §YHRE§!\n"
+
+NYDD_FRA_face_empire_modifier2:"Triumph"
+NYDD_FRA_south_german_tt:"Unlocks the '§MCrossroads of Fate§!' mechanic, allowing choice between '§YExpand Rhenish Confederation§!', '§YInstall Bavarian Rule§!' or '§YMaintain Military Occupation§!'.\n§g(If not displaying, check mod compatibility)§!\n"
+
+NYDD_FRA_face_empire_modifier3:"Triumphal Procession"
+NYDD_FRA_frank_strong_tt:"§GDisables§! the '§YAnti-French Coalition§!' disaster.\n"
+
+NYDD_FRA_light_modifier:"Moment of Revival"
+NYDD_FRA_shumi_tt:"Each level of £mil£§Ymilitary advisor§! grants an additional §G-0.3%§! army tradition decay.\n"
+
+NYDD_FRA_shumi_modifier:"His Majesty's Most Honourable Privy Council"
+
+NYDD_FRA_paris_tt:"Great Project '§YPalace of Versailles§!' additional effects:\n§MLevel 2§!:\n[reinforce_speed]: §G+10.0%§!\n§MLevel 3§!:\n[leader_land_fire]: §G+1.00§!\n[reinforce_speed]: §G+20.0%§!\n"
+
+NYDD_FRA_paris_modifier:"Rebuilding Paris"
+desc_NYDD_FRA_paris_modifier:"Oh, how beautiful Paris is! And look - isn't that the Palace of Versailles? My, how it's grown since last we met."
+
+NYDD_FRA_carribean_modifier:"Colonizing the Caribbean"
+
+NYDD_FRA_deal_with_subject_title:"Dealing with the Marches"
+NYDD_FRA_deal_with_subject_desc:"The French nobility have become the greatest obstacle to France's progress. Until we resolve the marches issue, royal decrees will never be properly enforced locally, let alone achieve true centralized power."
+
+NYDD_FRA_chambin_title:"Final Act of the Farce"
+NYDD_FRA_chambin_desc:"The noble problem that has plagued France for years must finally end. Through gradual reforms and careful application of carrots and sticks, the nobility have at last agreed to amend their charters."
+
+NYDD_FRA_crash_wool_union_title:"Dismantle the Wool Pact"
+NYDD_FRA_crash_wool_union_desc:"Upon hearing of Paris' bold plans for the south, the southern dukes in panic formed a defensive alliance called the 'Wool Pact' to resist French incursion."
+
+NYDD_FRA_lorrine_fort_title:"Eastern Ramparts"
+NYDD_FRA_lorrine_fort_desc:"As our border with the Empire, we must build impregnable defenses in Lorraine. After all, the Empire wouldn't possibly go around through somewhere else... right? Surely not?"
+NYDD_FRA_ASU_title:"[NYDD_FRA_ASU_title]"
+NYDD_FRA_ASU_desc:"[NYDD_FRA_ASU_desc]"
+NYDD_FRA_ASU_title1:"Snuff Out the Sparks"
+NYDD_FRA_ASU_title2:"Steadfast Ally"
+NYDD_FRA_ASU_desc1:"Sigh, the Spanish are causing trouble again. Will their fires never cease? Time for the French fire brigade to put them out."
+NYDD_FRA_ASU_desc2:"As steadfast allies in the Reconquista, we should send reinforcements to our Spanish friends."
+
+NYDD_FRA_in_the_name_of_god_title:"Divine Judgment"
+NYDD_FRA_in_the_name_of_god_desc:"Our rule over Italy is indisputable - these lands joined glorious France since Charlemagne's time. Now, surrounded on all sides, the Pope will surely welcome our arrival more than ever."
+NYDD_FRA_lombady_title:"Fall of Lombardy"
+NYDD_FRA_lombady_desc:"With Milan's fall, the core provinces of Lombardy shall come under French rule, generating continuous wealth for our realm."
+
+NYDD_FRA_golden_march_title:"Golden March"
+NYDD_FRA_golden_march_desc:"Italy's wealth is boundless, producing gold like a flowing river. We shall guide these shrewd merchants to France, to Paris - after all, they know full well what the alternative would be."
+
+NYDD_FRA_knight_title:"French Chivalric Order"
+NYDD_FRA_knight_desc:"France birthed true chivalry and honorable warfare. Yet times change, and chivalric ideals have faded into obscurity. We must resist this tide, ensuring knightly virtues are reborn in our courts and armies."
+
+NYDD_FRA_centralize_title:"Centralization Movement"
+NYDD_FRA_centralize_desc:"Centralization will strengthen our nation - thus we have every reason to pursue it."
+
+NYDD_FRA_new_world_title:"Discovery of the New World"
+NYDD_FRA_new_world_desc:"The rumors are true! Beyond the Pillars of Hercules lies a brand new continent. We must act swiftly!"
+
+NYDD_FRA_missipi_title:"Exploring the Mississippi"
+NYDD_FRA_missipi_desc:"The Mississippi is an eerie swamp. Yet legends speak of mysterious treasures here, drawing countless explorers."
+
+NYDD_FRA_viva_france_title:"Vive la France"
+NYDD_FRA_viva_france_desc:"A thick volume, reportedly compiled by regional governors celebrating France's might, containing phrases in every language they could gather. Each sentence conveys the same message - 'Long live France'."
+_title:""
+_desc:""
+_title:""
+_desc:""
+
+NYDD_FRA_chambin_ttt:"Crushed the Commonweal Alliance"
+NYDD_FRA_chambin_ttyes1:"£yes£If we completed the mission by §Mcrushing the Commonweal Alliance§!:"
+NYDD_FRA_chambin_ttno1:"£no£If we completed the mission by §Mcrushing the Commonweal Alliance§!:"
+
+NYDD_FRA_chambin_tt1:"All §Ymarch§! subjects participating in the §MCommonweal Alliance§! will have their territories §Grevoked§!.\n"
+
+NYDD_FRA_chambin_tt2:"\nAll core provinces of @CHP§Y[CHP.GetName]§!, @PIC§Y[PIC.GetName]§!, @PTU§Y[PTU.GetName]§!, @NEV§Y[NEV.GetName]§!,\n@BER§Y[BER.GetName]§! under our rule will lose their cores and gain:"
+
+NYDD_FRA_chambin_tt3:"The privilege '§YOverpowering Nobility§!' will §Gincrease§! its effect on §Ynoble loyalty§! by §G+50.0%§!, but §Rdouble penalties§! when §Ynobles are disloyal§!.\n\n§YFort§! buildings now provide §Ynoble loyalty§!.\n"
+
+NYDD_FRA_chambin_modifier:"Centralization Movement"
+NYDD_FRA_chambin_modifier2:"Loyal Marches"
+NYDD_FRA_chambin_modifier3:"Art of Compromise"
+
+NYDD_FRA_crash_wool_union_ttt:"Control all provinces of §YWool Pact§! members §g(highlight shows §YWool Pact§! members)§!"
+
+NYDD_FRA_in_the_name_of_god_tt:"After the §YReformation§!, we may have a better chance to §Ocontrol the Papacy§!."
+
+NYDD_FRA_lombady_tt:"£yes£With the §YPope's§! tacit approval, lose §G-20§! aggressive expansion.\n"
+NYDD_FRA_lombady_tt2:"War score cost for '§YItalian Wars§!' casus belli reduced to §G60.0%§!.\n"
+
+NYDD_FRA_holy_seat_tt2:"Aggressive expansion for '§YItalian Wars§!' casus belli reduced to §G60.0%§!.\n"
+NYDD_FRA_holy_seat_tt1:"Both war score cost and aggressive expansion for '§YItalian Wars§!' casus belli reduced to §G75.0%§!.\n"
+NYDD_FRA_holy_seat_tt:"§YConquering Rome§! and §Yvassalizing the Pope§! will not incur §Rpenalties§!.\n"
+NYDD_FRA_holy_seat_modifier:"Protection of Glory"
+
+NYDD_FRA_ASU_tt1:"We will invite excellent §YIberian Orders§! to France.\n"
+NYDD_FRA_ASU_tt2:""
+
+NYDD_FRA_knight_tt:"Unlocks §M5§!th tier government reform '§YGendarmes§!'.\n"
+
+NYDD_FRA_centralize_tt:"§YAnnexing subjects§! no longer requires §YDemand Crown Lands§!.\n"
+NYDD_FRA_centralize_modifier:"Centralization"
+NYDD_FRA_centralize_tt2:"§RThis will provoke extreme opposition from the nobility!§!\n"
+
+NYDD_FRA_courthouse_modifier:"Paris Supreme Court"
+NYDD_FRA_courthouse_modifier2:"State Parliament Bonus"
+desc_NYDD_FRA_courthouse_modifier2:"This province's state parliament miraculously doesn't occupy a factory slot!"
+NYDD_FRA_courthouse_tt:"§YState Parliament§! buildings §Gno longer consume§! factory slots.\n"
+
+NYDD_FRA_new_world_modifier:"First Steps of Colonization"
+NYDD_FRA_missipi_ttyes:"£yes£If @NW1§Y[NW1.GetName]§! is our §Msubject§!, they gain §G200§! additional starting settlers when colonizing §YLouisiana§! colonial region.\n"
+NYDD_FRA_missipi_ttno:"£no£If @NW1§Y[NW1.GetName]§! is our §Msubject§!, they gain §G200§! additional starting settlers when colonizing §YLouisiana§! colonial region.\n"
+NYDD_FRA_missipi_tt1:"§Y[Root.GetName]§! gains §G200§! additional starting settlers when colonizing §YLouisiana§! colonial region.\n"
+NYDD_FRA_missipi_modifier:"Immigrant Attraction"
+NYDD_FRA_viva_france_modifier:"World Hegemon"
+
+NYDD_FRA_care_noble_title:"Pacify the Nobility"
+NYDD_FRA_care_noble_desc:"As the greatest noble in the kingdom, the King's first task is to pacify the other aristocrats."
+
+NYDD_FRA_lorrine_delimma_title:"Lorraine Crisis"
+NYDD_FRA_lorrine_delimma_desc:"As our territory closest to the Empire and Swabia, the Duke of Lorraine has been fickle and difficult to control due to the region's remoteness. Now, with the death of our previously installed Duke, his heir may waver and choose the Empire - we must keep a close watch on him."
+
+NYDD_FRA_reunite_title:"France Reunited"
+NYDD_FRA_reunite_desc:"Our homeland is finally reunited under a strong king once more. The fleur-de-lis, God's gift symbolizing light and liberty, is bestowed again upon [Root.Monarch.GetName], a ruler worthy of Charlemagne's name and his immortal legacy."
+NYDD_FRA_cross_blns_title:"[NYDD_FRA_cross_blns_title]"
+NYDD_FRA_cross_blns_desc:"[NYDD_FRA_cross_blns_desc]"
+NYDD_FRA_restore_march_title:"[NYDD_FRA_restore_march_title]"
+NYDD_FRA_restore_march_desc:"[NYDD_FRA_restore_march_desc]"
+NYDD_FRA_iberia_title:"[NYDD_FRA_iberia_title]"
+NYDD_FRA_iberia_desc:"[NYDD_FRA_iberia_desc]"
+NYDD_FRA_cross_blns_title1:"Crossing the Pyrenees"
+NYDD_FRA_cross_blns_title2:"Friendship Beyond Mountains"
+NYDD_FRA_cross_blns_desc1:"Our rule cannot easily reach the Iberian nations beyond the Pyrenees. Yet we must not abandon them - once the mysterious green menace invaded French lands from here. We must take direct control to prevent such dangerous incursions from recurring."
+NYDD_FRA_cross_blns_desc2:"Our rule cannot easily reach the Iberian nations beyond the Pyrenees. Fortunately, humanity retains its virtues. While Iberian holy warriors busy themselves with crusades, we as the Eldest Daughter of the Church should set an example."
+
+NYDD_FRA_restore_march_title1:"Restore the March"
+NYDD_FRA_restore_march_title2:"Aid the Alliance"
+NYDD_FRA_restore_march_desc1:"The mighty Franks once established loyal marches in Barcelona, but over time these petty march-dukes slipped from control and dared proclaim themselves kings. Such usurpation cannot be tolerated - we must immediately educate them with iron what it means to be French."
+NYDD_FRA_restore_march_desc2:"The mighty Franks once established loyal marches in Barcelona, but over time these petty march-dukes declined, nearly dissolving under the green menace's assaults. To prevent another invasion by the mysterious green threat, we must aid our Iberian allies."
+
+NYDD_FRA_iberia_title1:"Iberian Campaigns"
+NYDD_FRA_iberia_title2:"Iberian Friendship"
+NYDD_FRA_iberia_desc1:"Iberia, what beautiful lands, especially being so close to France. Alas, despite multiple Crusades expending their all, the front remains stalemated. We have no choice but to lend our hand and protect them."
+NYDD_FRA_iberia_desc2:"Iberia, what beautiful lands. Our allies will guard this place for Christ (and for us), defending against invasions by the mysterious evil green threat."
+
+NYDD_FRA_holy_seat_title:"Vicar of the Holy See"
+NYDD_FRA_holy_seat_desc:"Your Holiness, your most most most most most most most most most most most most most filial child has arrived! Have you prepared gifts?"
+
+NYDD_FRA_italy_title:"Lord of the Iron Crown"
+NYDD_FRA_italy_desc:"Even the great Frederick I couldn't accomplish this feat, yet we have done it. Doesn't this prove France far surpasses the Hohenstaufens?"
+
+NYDD_FRA_college_title:"French Academy"
+NYDD_FRA_college_desc:"The universities of Paris have long been Europe's pinnacle, leading continental scholarship and thought."
+
+NYDD_FRA_law_title:"Legal Reforms"
+NYDD_FRA_law_desc:"From where does a monarch's right to rule derive? The answer lies in the law. We shall enshrine these divine rights in legal code, so our dear subjects cannot dispute them."
+
+NYDD_FRA_courthouse_title:"Paris Supreme Court"
+NYDD_FRA_courthouse_desc:"As the capital, Paris' court naturally holds supreme authority, setting the standard for all French courts."
+
+NYDD_FRA_strange_sea_title:"Mysterious Seas"
+NYDD_FRA_strange_sea_desc:"Some have attempted crossing the endless western ocean, but never with good results. Yet recent rumors from Spanish sailors raise questions... perhaps next time we should depart from Spain..."
+
+NYDD_FRA_assm_title:"Assimilation Act"
+NYDD_FRA_assm_desc:"There are too many natives to exterminate them all. Better to transform them into French people - then we can boast to other nations of both our compassion and populous realm."
+
+NYDD_FRA_nouvel_france_title:"New France"
+NYDD_FRA_nouvel_france_desc:"The people arriving in the New World named this land New France. Merchants quickly discovered the region's abundance of valuable furs, particularly beaver pelts rare in Europe. Thus many settlers journeyed to New France seeking fortune."
+_title:""
+_desc:""
+
+NYDD_FRA_care_noble_tt:"At the cost of §R-5§! §Ymaximum absolutism§!, penalties from the nobility estate privilege '§YParis Accord§!' are §Greduced by half§!.\n"
+
+NYDD_FRA_lorrine_delimma_ttt:"§YLorraine Crisis§! has erupted. §g(§YLorraine Crisis§! triggers after the starting Duke of Lorraine dies)§!"
+NYDD_FRA_lorrine_delimma_tt1:"If completing mission '§YConfronting the Empire§!' while this modifier exists, the obtained '§YShatter the Empire§!' casus belli will gain additional §G-5.0%§! aggressive expansion impact and war score cost.\n"
+NYDD_FRA_lorrine_delimma_tt2:"Rewards for completing mission '§YEastern Ramparts§!' will be §Gimproved§!.\n"
+
+NYDD_FRA_lorrine_delimma_tt1_yes:"£yes£If §YLorraine Crisis§! has erupted:"
+NYDD_FRA_lorrine_delimma_tt2_yes:"£yes£If @LOR§Y[LOR.GetName]§! is our §Msubject§!:"
+NYDD_FRA_lorrine_delimma_tt3_yes:"£yes£If @LOR§Y[LOR.GetName]§! is §Rnot§! our §Msubject§!:"
+NYDD_FRA_lorrine_delimma_tt1_no:"£no£If §YLorraine Crisis§! has erupted:"
+NYDD_FRA_lorrine_delimma_tt2_no:"£no£If @LOR§Y[LOR.GetName]§! is our §Msubject§!:"
+NYDD_FRA_lorrine_delimma_tt3_no:"£no£If @LOR§Y[LOR.GetName]§! is §Rnot§! our §Msubject§!:"
+
+NYDD_FRA_lorrine_delimma_modifier:"Revenge Against the Empire"
+NYDD_FRA_cross_blns_modifier:"Iberian Alliance"
+
+NYDD_FRA_cross_blns_tt1:"§YQualifying§! allies mutually gain §G10§! trust and:"
+NYDD_FRA_cross_blns_tt2:"§Y[Root.GetName]§! gains the '§YSubjugation§!' casus belli against Iberian Christian nations with development below §Y200§!.\n§Y[Root.GetName]§! gains the '§YHoly War§!' casus belli against Iberian heathen nations.\n"
+
+NYDD_FRA_restore_march_tt:"Unlocks the '§YRestore the Barcelona March§!' decision.\n§gThis decision will §Rdisappear§! after completing the '§YIberian Campaigns§!' mission.§!\n"
+
+NYDD_FRA_restore_march_modifier:"Barcelona March"
+desc_NYDD_FRA_restore_march_modifier:"This province was once part of the French Barcelona March, established to protect the border."
+
+NYDD_FRA_restore_march_ttt:"Our Iberian ally has the §Yhighest§! development in the Iberian region"
+NYDD_FRA_iberia_ttt:"Our Iberian ally owns §Y50§! provinces in the Iberian region"
+
+NYDD_FRA_restore_march_modifier2:"Barcelona March"
+desc_NYDD_FRA_restore_march_modifier2:"This province was once part of the French Barcelona March, established to protect the border."
+
+DD_FRA_restore_CAT_title:"£adm£Restore the @CAT Barcelona March"
+DD_FRA_restore_CAT_desc:"The mighty Franks once established a loyal march in Barcelona, but over time these petty march-dukes slipped from control and dared proclaim themselves kings. Such usurpation cannot be tolerated - we must immediately educate them with iron what it means to be French, and reestablish a Barcelona March."
+
+DD_FRA_SPA_subject_title:"£dip£Subjugate @SPA Spain"
+DD_FRA_SPA_subject_desc:"Allies remain merely allies, far inferior to subjects. Using our economic control over Spain and their trust in us, we can make Spain submit to our rule."
+
+NYDD_FRA_restore_march_modifier3:"Supporting Iberian Campaigns"
+NYDD_FRA_restore_march_modifier4:"French Assistance"
+
+NYDD_FRA_strange_sea_modifier:"Exploration Zeal"
+NYDD_FRA_strange_sea_ttt:"Has the '§YQuest for the New World§!' idea from §YExploration§! idea group"
+NYDD_FRA_strange_sea_tt:"For every §Ycoast§! §Ydiscovered§!, this modifier is §Jextended§! by §G90§! days.\n"
+
+NYDD_FRA_italy_modifier:"Control of Italian Trade"
+NYDD_FRA_italy_modifier2:"Control of Italian Banking"
+
+NYDD_FRA_assm_ttt:"Has national idea '§YAssimilation Act§!' or '§YEngland Rules the Waves§!'"
+NYDD_FRA_assm_tt:"When §Yestablishing colonies§!, gain additional starting settlers based on native population.\nFor every §Y1000§! natives, gain §G10§! additional settlers, up to §G100§! maximum.\n"
+NYDD_FRA_assm_modifier:"Assimilation Act"
+
+NYDD_FRA_nouvel_france_modifier:"New France Territory"
+NYDD_FRA_nouvel_france_tt:"Gain §G50§! additional settlers when establishing colonies in §YCanada§!.\n"
+
+NYDD_FRA_branch_3_2_title:"Branching Mission"
+NYDD_FRA_branch_3_2_desc:"Complete the previous mission to unlock this branch"
+NYDD_FRA_branch_3_3_title:"Branching Mission"
+NYDD_FRA_branch_3_3_desc:"Complete the previous mission to unlock this branch"
+NYDD_FRA_branch_3_4_title:"Branching Mission"
+NYDD_FRA_branch_3_4_desc:"Complete the previous mission to unlock this branch"
+NYDD_FRA_branch_3_2_ttt:"Complete the previous mission to unlock this branch"
+
+NYDD_FRA_call_of_duty_title:"Call of Duty"
+NYDD_FRA_call_of_duty_desc:"Alas, France's consecutive defeats have brought national humiliation to its peak. Now we must harness this sentiment, rallying more patriots to join the military and prepare for future vengeance."
+
+NYDD_FRA_war_never_change_title:"National Defense" # Permanent National Defense
+NYDD_FRA_war_never_change_desc:"Do you hear the people's cry? They don't want peace - they want war to wash away a century of French shame! But the King desires no war, only tranquil courtly life. Thus, the Lord Protector has no choice but to assume control, placing France in permanent national defense until all our enemies are vanquished!"
+
+NYDD_FRA_education_title:"Martial Education" # National Defense Education
+NYDD_FRA_education_desc:"As the saying goes, education must start young. The Revival Society will establish special funds for schools to instill patriotic ideals in children."
+
+NYDD_FRA_call_of_duty_tt:"The event '§YTaxation for France§!' will no longer trigger. The '§YNational Defense Tax§!' modifier becomes permanent and additionally provides §G+5.0%§! national tax modifier.\n"
+NYDD_FRA_call_of_duty_tt2:"Random §Y10§! provinces in the §YFrench region§! will §Ggain§! or §Jupgrade§! §YBarracks§! or §YRegimental Grounds§! buildings.\n"
+
+NYDD_FRA_war_never_change_tt:"Government mechanic '§YWar Fever§!':\nThe '§YUrge Restraint§!' interaction additionally grants:\n"
+NYDD_FRA_war_never_change_tt2:"The '§YIncite War§!' interaction additionally grants:\n"
+NYDD_FRA_war_never_change_tt3:"The next §RGreat Collapse§!, §RHeat Wave§!, or §RLow Tide§! caused by the '§YWar Fever§!' government mechanic will not occur.\n"
+NYDD_FRA_war_never_change_tt4:"War exhaustion §Rpenalties§! from the '§YWar Fever§!' government mechanic are §Greduced by half§!.\n"
+
+DD_FRA_68a_tt:"£yes£Fortunately, thanks to years of war propaganda, the people have decided to grit their teeth and endure a while longer.\n"
+
+NYDD_FRA_war_never_change_due_to:"£yes£Because we completed the '§YWar Fever§!' mission:"
+boost_DD_FRA_war_power_modifier:"Fervor"
+reduce_DD_FRA_war_power_modifier:"Restraint"
+
+NYDD_FRA_war_never_change_due_to_reduce:"§GExtends§! the '§YRestraint§!' modifier by §J10§! years."
+NYDD_FRA_war_never_change_due_to_boost:"§GExtends§! the '§YFervor§!' modifier by §J10§! years."
+
+NYDD_FRA_education_tt:"§GRemoves§! the §R+2.00§! [global_unrest] from the '§YNational Defense Tax§!' modifier.\n"
+NYDD_FRA_education_tt2:"Government interactions '§YUrge Restraint§!' and '§YIncite War§!' cost §Ghalved§!.\n"
+NYDD_FRA_education_tt3:"§Y[Root.GetName]§!'s §Y[Root.Monarch.GetTitle]§! received rigorous training in statecraft and thus §Gcannot gain negative traits§!.\n"
+
+DD_FRA_42a_modifier3:"National Defense Tax"
+
+NYDD_FRA_reconect_title:"Hearts Entwined"
+NYDD_FRA_reconect_desc:"We English are not eternal enemies. True, we were invaders crossing the Channel, but we also brought civilization and hope to the English - becoming their bulwark against the wicked Vikings. Now, a prince sympathetic to England shall open new possibilities between us."
+
+NYDD_FRA_unite_army_title:"United Armies"
+NYDD_FRA_unite_army_desc:"France's heavy cavalry is peerless, and when combined with the English longbowmen's mysterious ambush tactics, we become truly invincible."
+
+NYDD_FRA_unite_kindom_title:"E Pluribus Unum"
+NYDD_FRA_unite_kindom_desc:"The time has come to unite England and France as one nation. Both sides shall communicate as equals, free from oppression and servitude. This is the peace of our age."
+
+
+NYDD_FRA_reconect_modifier:"Favoritism"
+NYDD_FRA_reconect_tt:"While this modifier is active, developing §YAnglian§! or §YEnglish§! culture provinces has a §G20.0%§! chance to gain an additional point.\n\nAll owned §YAnglian§! or §YEnglish§! culture provinces lose §G-30§! years of separatism.\n"
+
+NYDD_FRA_unite_army_tt:"§YAnglian§! culture spread speed is §Gdoubled§!.\n"
+NYDD_FRA_unite_army_tt2:"§YThis modifier will change with eras.§!\n"
+
+NYDD_FRA_unite_army_modifier:"United Armies - Longbows & Heavy Cavalry"
+NYDD_FRA_unite_army_modifier2:"United Armies - Musketeers & Highlanders"
+NYDD_FRA_unite_army_modifier3:"United Armies - Age of Gunpowder"
+NYDD_FRA_unite_army_modifier4:"United Armies - Superior Firepower"
+
+NYDD_FRA_loyaty_to_law_title:"Duty Bound"
+NYDD_FRA_loyaty_to_law_desc:"Though the nobility wield great power, they remain bound by their sworn oaths - to king and country. These vows are their birthright: heavy lies the crown they must bear."
+
+NYDD_FRA_revoke_privilge_title:"Revoke Privileges" 
+NYDD_FRA_revoke_privilge_desc:"Yet the king won't sit idle. He schemes to shake off noble constraints. See how he plots another centralization campaign. But mark this - the nobles won't surrender without fight."
+
+NYDD_FRA_ashe_to_ashe_title:"Ashes to Ashes"
+NYDD_FRA_ashe_to_ashe_desc:"Pain, pain is life's epic poem. When the curtain falls, who remains on stage? The remorseful king compelled to act? Or oath-breaking nobles in revolt? Let us watch and see."
+
+NYDD_FRA_loyaty_to_law_modifier:"Sacred Oaths"
+NYDD_FRA_loyaty_to_law_tt:"Modified privilege '§YFrench Strong Duchies§!':\nDiplomatic relations: §G+1§!\n"
+
+NYDD_FRA_revoke_privilge_tt:"Unlocks diplomatic action to convert:\n- Regular §Yvassals§! to §Ymarches§!\n- §YMarches§! to §Yprivileged marches§!\n- §YPrivileged marches§! back to §Ymarches§!.\n"
+
+NYDD_FRA_ashe_to_ashe_modifier:"Belated Centralization"
+NYDD_FRA_ashe_to_ashe_modifier2:"Dawn of Republic"
+
+NYDD_FRA_set_tax_law_title:"Permanent Taxation"
+NYDD_FRA_set_tax_law_desc:"In old France, men lived freely without taxes - but the consequences were plain to see, as the feeble 'Isle de France' was crushed between greater powers. Though we've implemented temporary defense taxes through hardship, this won't solve future needs. The French king now uses this pretext to establish permanent, standardized taxation."
+
+NYDD_FRA_glory_title:"Glory Endures"
+NYDD_FRA_glory_desc:"Weep not, but hold your head high! A Frenchman such as you should never shed tears - men like you are born to make glory bow before you! What you cannot gain through war, you'll never win at the negotiating table!"
+
+NYDD_FRA_sunrise_title:"Rising Sun"
+NYDD_FRA_sunrise_desc:"See how they fall like columns, one after another. France is the rising sun that illuminates Europa, and the king who rules all nations has resolved to call himself the 'Sun King'."
+
+NYDD_FRA_set_tax_law_ttt:"The National Defense Tax has been abolished"
+NYDD_FRA_set_tax_law_modiifer:"Permanent Taxation System"
+
+NYDD_FRA_glory_ttt:"Won §Y25§! battles. (Current: §G[Root.num_of_battles_won_var.GetValue]§!)"
+NYDD_FRA_glory_ttt2:"Won §Y10§! wars. (Current: §G[Root.num_of_wars_won_var.GetValue]§!)"
+
+NYDD_FRA_sunrise_ttt:"Ruler has positive traits"
+NYDD_FRA_sunrise_tt:"Unlocks the '§YSun King§!' trait:\nCore creation cost: §G-10.0%§!\nYearly absolutism: §G+1.00§!\n\nOnly rulers with all skills §Y3§! or higher can gain this trait.\n"
+
+DD_sunking_personality:"Sun King"
+desc_DD_sunking_personality:"This ruler claims he was born to rule all."
+DD_sunking_personality_die_desc:"The monarch who led France to greatness has died. We shall forever remember his glorious achievements."
+
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+
+DD_FRA_invite_public_union:"Invite to Commonweal Alliance"
+DD_FRA_invite_public_union_title:"Invite to Commonweal Alliance"
+DD_FRA_invite_public_union_desc:"The French king's restlessness has unsettled the marches. We must secretly form an alliance against Paris.\n\nIf §Y[From.GetName]§! accepts, when the §YCommonweal War§! begins, §Y[From.GetName]§! will join §Y[Root.GetName]§!'s side. Otherwise, §Y[From.GetName]§! will remain loyal to §Y[FRA.GetName]§!.\n"
+DD_FRA_invite_public_union_tooltip:"The French king's restlessness has unsettled the marches. We must secretly form an alliance against Paris.\n\nIf §Y[From.GetName]§! accepts, when the §YCommonweal War§! begins, §Y[From.GetName]§! will join §Y[Root.GetName]§!'s side. Otherwise, §Y[From.GetName]§! will remain loyal to §Y[FRA.GetName]§!.\n"
+
+DD_FRA_make_vassal_to_appanage:"Convert Vassal to March"
+DD_FRA_make_vassal_to_appanage_title:"Convert Vassal to March"
+DD_FRA_make_vassal_to_appanage_desc:"Convert [From.GetName] into a march, costing us §Y100§!£dip£\n"
+DD_FRA_make_vassal_to_appanage_tooltip:"Convert [From.GetName] into a march, costing us §Y100§!£dip£\n"
+
+DD_FRA_make_appanage_to_vassal:"Convert March to Vassal"
+DD_FRA_make_appanage_to_vassal_title:"Convert March to Vassal"
+DD_FRA_make_appanage_to_vassal_desc:"Convert [From.GetName] into a vassal, costing us §Y100§!£dip£\n"
+DD_FRA_make_appanage_to_vassal_tooltip:"Convert [From.GetName] into a vassal, costing us §Y100§!£dip£\n"
+
+DD_FRA_make_appanage_to_S_appanage:"Grant March Privileges"
+DD_FRA_make_appanage_to_S_appanage_title:"Grant March Privileges"
+DD_FRA_make_appanage_to_S_appanage_desc:"Convert [From.GetName] into a privileged march, costing us §Y100§!£dip£ and §Y+1.00%§! crown land, while reducing their liberty desire by §G-25.0%§!.\n"
+DD_FRA_make_appanage_to_S_appanage_tooltip:"Convert [From.GetName] into a privileged march, costing us §Y100§!£dip£ and §Y+1.00%§! crown land, while reducing their liberty desire by §G-25.0%§!.\n"
+
+DD_FRA_make_S_appanage_to_appanage:"Revoke March Privileges"
+DD_FRA_make_S_appanage_to_appanage_title:"Revoke March Privileges"
+DD_FRA_make_S_appanage_to_appanage_desc:"Convert [From.GetName] into a regular march, costing us §R-1§! stability, §Y-1.00%§! crown land share, and §R-50§! nobility loyalty, while increasing their liberty desire by §R+50.0%§!.\n"
+DD_FRA_make_S_appanage_to_appanage_tooltip:"Convert [From.GetName] into a regular march, costing us §R-1§! stability and §Y-1.00%§! crown land share, while increasing their liberty desire by §R+50.0%§!.\n"
+
+DD_FRA_public_union_member_op:"Commonweal Alliance Member"
+DIPLO_OPPINION_FRA:"Opinion of France"
+
+cb_FRA_public_war_DD:"Commonweal War"
+cb_FRA_public_war_DD_desc:"The time has come to decide France's fate."
+cb_FRA_public_war_DD_wg:"Commonweal War"
+cb_FRA_public_war_DD_wg_desc:"War goal is to demonstrate hegemony."
+
+DD_FRA_what_is_EDG_BRI_march_subject:"§YTheater§! subjects are identical to §YGarrison States§!, occupying no diplomatic relations slot and providing no resources.\n"
+DD_FRA_what_is_ally_subject:"§YFrench Allied State§! is a subject economically dominated by its overlord, contributing §G20.0%§! of various resources. Similar to a regular ally, they only join wars when called by favors.\n"
+
+DD_FRA_unite_english_title:"@FR1 Promote English Integration"
+DD_FRA_unite_english_desc:"The English people still struggle. We should help them unify their homeland."
+DD_FRA_unite_english_tt:"§YNortumbrian§!, §YMercia§!, and §YAnglian§! cultures will be unified into §YEnglish§! culture.\n"
+
+DD_tower_of_london_modifier1:"Tower of London I"
+DD_tower_of_london_modifier2:"Tower of London II"
+DD_tower_of_london_modifier3:"Tower of London III"
+DD_tower_of_london_modifier_56_1:"Tower of London I"
+DD_tower_of_london_modifier_56_2:"Tower of London II"
+DD_tower_of_london_modifier_56_3:"Tower of London III"
+DD_tower_of_london_modifier_57_1:"Tower of London I"
+DD_tower_of_london_modifier_57_2:"Tower of London II"
+DD_tower_of_london_modifier_57_3:"Tower of London III"
+
+cb_FRA_hre_war_DD:"Shatter the Empire"
+cb_FRA_hre_war_DD_desc:"The Empire has threatened France for too long. It's time to end this threat once and for all."
+cb_FRA_hre_war_DD_wg:"Shatter the Empire"
+cb_FRA_hre_war_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_hre_war2_DD:"Shatter the Empire"
+cb_FRA_hre_war2_DD_desc:"The Empire has threatened France for too long. It's time to end this threat once and for all."
+cb_FRA_hre_war2_DD_wg:"Shatter the Empire"
+cb_FRA_hre_war2_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_italy_war1_DD:"Italian Wars"
+cb_FRA_italy_war1_DD_wg:"Let us recreate Charlemagne's conquests - may God bless [Root.GetName]!"
+cb_FRA_italy_war1_DD_desc:"Italian Wars"
+cb_FRA_italy_war1_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_italy_war3_DD:"Italian Wars"
+cb_FRA_italy_war3_DD_wg:"Let us repeat Charlemagne's great work - blood shall forge glorious steps, may the radiant fleur-de-lis soar upon celestial wings!"
+cb_FRA_italy_war3_DD_desc:"Italian Wars"
+cb_FRA_italy_war3_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_italy_war2_DD:"Italian Wars"
+cb_FRA_italy_war2_DD_wg:"Let us repeat Charlemagne's great work, in the name of the Almighty and Infallible Supreme Lord!"
+cb_FRA_italy_war2_DD_desc:"Italian Wars"
+cb_FRA_italy_war2_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_italy_war4_DD:"Italian Wars"
+cb_FRA_italy_war4_DD_wg:"Let us repeat Charlemagne's great work - souls and faith shall build bridges of salvation, France shall once again become God's sword and shield!"
+cb_FRA_italy_war4_DD_desc:"Italian Wars"
+cb_FRA_italy_war4_DD_wg_desc:"War goal is to seize provinces."
+
+cb_FRA_italy_war5_DD:"Italian Wars"
+cb_FRA_italy_war5_DD_wg:"Let us repeat Charlemagne's great work - souls and faith shall build bridges of salvation, France shall once again become God's sword and shield!"
+cb_FRA_italy_war5_DD_desc:"Italian Wars"
+cb_FRA_italy_war5_DD_wg_desc:"War goal is to seize provinces."
+
+NYDD_NW1_overlord:"§MOverlord§! gains:"
+NYDD_NW1_army_title:"Colonial Guard"
+NYDD_NW1_army_desc:"Our urgent task is to establish a company guard to protect the colony we've just acquired from the crown."
+NYDD_NW1_expand_title:"Expand Settlement"
+NYDD_NW1_expand_desc:"We're just a small town now, but one day we'll astonish the world! Probably."
+NYDD_NW1_build_title:"Develop Settlement"
+NYDD_NW1_build_desc:"To attract more settlers here rather than elsewhere, we should develop proper infrastructure."
+_title:""
+_desc:""
+_title:""
+_desc:""
+
+NYDD_NW1_exploration_title:"Swamp Exploration"
+NYDD_NW1_exploration_desc:"We know nothing of this land, but there are always brave souls willing to explore."
+NYDD_NW1_exploration2_title:"Swamp Skirmishes"
+NYDD_NW1_exploration2_desc:"For some reason, elusive natives in the swamps are severely hindering our settlement expansion - we must deploy garrison troops for protection!"
+NYDD_NW1_exploration3_title:"Smooth Operations"
+NYDD_NW1_exploration3_desc:"The Mississippi Company's North American plantations are running remarkably well. Now we just need to pay some taxes to our dear overlord."
+NYDD_NW1_north_war_title:"Northern War"
+NYDD_NW1_north_war_desc:"Bloody hell! Why are we seeing Englishmen in the New World? Apparently they fled tyranny in their homeland. Perfect timing - our plantations need laborers."
+
+NYDD_NW1_exploration3_tt:"Unlocks the '§YPurchase North American Territory§!' decision. If our overlord has established a colonial nation or owns provinces in §YEastern America§!, we can purchase them through this decision.\n"
+DD_FRA_NW1_buy_land_tt:"If they §Gagree§!, each province will cost us §G50§!£icon_gold£ and 10£adm£\n\nIf they §Rrefuse§!, we cannot make further purchase requests.\n"
+DD_FRA_NW1_buy_land_title:"£icon_gold£Purchase Eastern American Colonies"
+DD_FRA_NW1_buy_land_desc:"Our American expansion has progressed smoothly - now it's time to expand into Eastern America."
+
+NYDD_NW1_army_modifier:"Colonial Garrison"
+NYDD_NW1_expand_modifier:"Encouraged Settlement"
+NYDD_NW1_build_modifier:"Colony Development"
+NYDD_NW1_exploration_modifier:"Exploring the Unknown"
+NYDD_NW1_exploration2_modifier:"Northward Advance"
+NYDD_NW1_north_war_modifier:"North American Land Rights"
+NYDD_NW1_north_war_modifier2:"Mississippi Company Dividends"
+NYDD_NW1_exploration3_modifier:"Turning Profit"
+NYDD_NW1_exploration3_modifier2:"Mississippi Company Taxes"
+
+ALL_COUNTRIES_ITALY:"Italian States"
+italy_region_PROV:"Provinces in Italian region"
+
+DD_FRA_eng_path_change_country_name_title:"Change Country Name"
+DD_FRA_eng_path_change_country_name_desc:"We may change our country's name."
+
+DD_estate_burgher_FRA_ENG_S:"English Autonomy Statute"
+DD_estate_burgher_FRA_ENG_S_desc:"This statute allows English nobles to maintain certain autonomy under Paris' rule, though our merchants won't be pleased to share profits with English traders."
+DD_estate_burgher_FRA_ENG_S_ttt:"No subjects with capital in §YBritain§!"
+
+DD_FRA_civil_war:"French Civil War"
+
+NYDD_FRA_unknow_rev_misison_title:"Master of Europa"
+NYDD_FRA_unknow_rev_misison_desc:"The old world has died, a new one is born. France has Europa underfoot, ruling it with their characteristic dominance. Yet not all hope is lost - even in endless night, torchbearers emerge to light the darkness. The French people chase after pioneers who never arrived, smashing golden edicts carved in stone. The end of the story often circles back to its beginning."
+
+NYDD_FRA_unknow_rev_misison_ttt:"This mission will automatically complete later"
+
+NYDD_FRA_rev_win_title:"Revolution Triumphant"
+NYDD_FRA_rev_win_desc:"The French Civil War was but a small opportunity. Yet we succeeded. The monarchy, weary from suppressing rebellions, overlooked our movements. After storming the Bastille, the old order's 'Alliance of Order' counterattacked. United, we defeated all enemies and emerged victorious. France shall break free from feudal shackles and march toward a brighter tomorrow."
+
+NYDD_FRA_old_age_title:"Order Restored" 
+NYDD_FRA_old_age_desc:"The French Civil War was a pitiful rebellion. But we endured. With decisive blows, we crushed all traitors who dared challenge us, planting France's banner once more upon their lands. The French era shall continue uninterrupted into the next millennium."
+
+NYDD_FRA_old_age_tt:"All former §Ysubject nations§! will be demanded to return to §Y[Root.GetName]§!'s §Msphere of influence§!. If they §Rrefuse§!, we gain a '§YReclaim Sphere§!' casus belli against them.\n"
+
+fra_grande_armee_modifier_DD:"Grande Armée"
+
+PEACE_po_fra_reconquet_subject:"Reclaim Sphere"
+po_fra_reconquet_subject:"Reclaim Sphere"
+po_fra_reconquet_subject_desc:"§Y[From.GetName]§! will become §Y[Root.GetName]§!'s subject again.\n"
+
+cb_FRA_recouquet_subject:"Reclaim Sphere"
+cb_FRA_recouquet_subject_desc:"They rightfully belong in our sphere of influence."
+cb_FRA_recouquet_subject_wg:"Reclaim Sphere"
+cb_FRA_recouquet_subject_wg_desc:"War goal is to occupy capital."

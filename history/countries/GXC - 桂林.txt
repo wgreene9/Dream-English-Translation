@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_zongtongfu_reform
+technology_group = chinese
+primary_culture = zhuang_new
+religion = wu_confucianism
+religious_school = fengjiao_school
+government_rank = 1
+capital = 1840
+add_harmonized_religion = confucianism
+
+1444.1.1 = {
+	monarch = {
+		name = "Shouren"
+		dynasty = "Qin"
+		birth_date = 1401.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

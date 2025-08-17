@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = NYDD_xingzhitai_reform
+technology_group = chinese
+primary_culture = gan
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 683
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Wannian"
+		dynasty = "Liu"
+		birth_date = 1417.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

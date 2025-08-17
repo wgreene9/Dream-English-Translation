@@ -1,0 +1,21 @@
+technology_group = chinese
+primary_culture = hening_cul
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+government_rank = 3
+add_government_reform = NYDD_MG0_hening_reform
+capital = 4678
+add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Gengxin"
+		dynasty = "Liu"
+		birth_date = 1426.1.1
+		adm = 6
+		dip = 6
+		mil = 2
+	}
+}

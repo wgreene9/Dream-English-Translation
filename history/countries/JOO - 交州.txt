@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = NYDD_xingzhitai_reform
+technology_group = chinese
+primary_culture = vietnamese_new
+religion = confucianism
+religious_school = rangyi_school
+government_rank = 1
+capital = 613
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Wenji"
+		dynasty = "Hu"
+		birth_date = 1413.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

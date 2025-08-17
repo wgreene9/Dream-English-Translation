@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+primary_culture = al_iraqiya_arabic
+religion = shiite
+technology_group = muslim
+capital = 4290	# Haviza
+government_rank = 1
+religious_school = ismaili_school
+
+1442.1.16 = {
+	monarch = {
+		name = "Jiyue"
+		dynasty = "Dan"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+
+}

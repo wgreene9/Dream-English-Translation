@@ -265,7 +265,7 @@
  hessian:0 "Rhenish"
  highland_scottish:0 "Highlander"
  hindustani:0 "Hindustani"
- hungarian:0 "Hungarian"
+ hungarian:0 "Magyar"
  huron:0 "Huron"
  iberian:0 "Iberian"
  inca:0 "Quechua"
@@ -486,7 +486,7 @@
  catholic:0 "Roman Catholic"
  christian:0 "Christian"
  confucianism:0 "Confucian"
- eastern:0 "Buddhist" # Eastern
+ eastern:0 "Eastern" # Eastern / Buddhist
  hinduism:0 "Hindu"
  muslim:0 "Muslim"
  orthodox:0 "Orthodox"

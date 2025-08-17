@@ -2,6 +2,20 @@ government = monarchy
 add_government_reform = iqta
 government_rank = 1
 primary_culture = persian
-religion = shiite
+religion = muslim_confucianism
+religious_school = rangyi_school
+add_harmonized_religion = sunni
 technology_group = muslim
 capital = 433 # Kerman
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Zhi"
+		dynasty = "Liu"
+		birth_date = 1410.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

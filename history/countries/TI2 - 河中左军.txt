@@ -1,0 +1,32 @@
+technology_group = chinese
+primary_culture = hezhong_culture
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+government_rank = 1
+add_government_reform = NYDD_junzhen_reform
+add_harmonized_religion = sunni
+add_harmonized_religion = muslim_confucianism
+capital = 4343
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Zhengqing"
+		dynasty = "Chang"
+		birth_date = 1400.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+		leader = {
+			name = "Zhengqing Chang"
+			type = general
+			fire = 2
+			shock = 2
+			manuever = 4
+			siege = 4
+		}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+}

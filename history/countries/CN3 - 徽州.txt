@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_fanwang_reform
+technology_group = chinese
+primary_culture = wu
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 2147
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Chuzhen"
+		dynasty = "Ji"
+		birth_date = 1404.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

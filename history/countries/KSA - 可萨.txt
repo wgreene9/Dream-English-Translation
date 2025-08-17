@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = kesa_culture
+religion = jewish
+technology_group = nomad_group
+capital = 2201
+
+1444.1.1 = {
+	monarch = {
+		name = "She'er" 	
+		dynasty = "Ashina" 	
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1424.1.1
+	}
+}

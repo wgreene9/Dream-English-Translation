@@ -1,0 +1,19 @@
+government = monarchy
+technology_group = nomad_group
+add_government_reform = steppe_horde
+primary_culture = xiting_cul
+religion = vajrayana
+government_rank = 1
+capital = 713
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Jianhai"
+		dynasty = "Gao"
+		birth_date = 1406.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}

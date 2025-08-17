@@ -9,20 +9,46 @@ french = {
 	berrich_french = {}
 	limousin_french = {}
 	auvergnat_french = {}
-	DD_ARA_french = {
-		province = {
-			local_has_tercio = yes
-		}
-	}
-    DD_SP7_french = {
-		province = {
-			local_has_tercio = yes
-		}
-	}
+	swiss_french = {}
+	rhinland_french = {}
+	dutch_french = {}
+	frank_french = {}
+
+	DD_ARA_french = {}
+    DD_SP7_french = {}
+
 }
 germanic = {
 	#NYDD_ger_haiwai_culture = {}
 	romania_germanic = {}
+	markish_germanic = {}
+	mecklenburgisch_germanic = {}
+	elsasserditsch_germanic = {}
+	friso_saxon_germanic = {}
+	wallonien_germanic = {}
+	hessisc_germanic = {}
+	schlesien_germanic = {}
+	tirol_germanic = {}
+	styria_germanic = {}
+	salzburg_germanic = {}
+
+	east_germanic = {}
+	russland_germanic = {}
+	netherland_germanic = {}
+	frankish_germanic = {}
+	bohemia_germanic = {}
+	new_prussia_germanic = {}
+	east_prussia_germanic = {}
+	Uralschweiz_germanic = {} #乌拉尔
+	Winden_germanic = {} #斯洛伐克
+	Krain_germanic = {} #斯洛文尼亚
+	Donau_germanic = {} #多瑙 （匈牙利）
+	Norwegen_germanic = {} #挪威
+	Danemark_germanic = {} #丹麦
+	Schweden_germanic = {} #瑞典
+	Eisland_germanic = {} #冰岛
+	Nordseedeutsch_germanic = {} #北海
+	Sorben_germanic = {} #索布，索尔本
 }
 iberian = {
 	asutuliyasi = {}
@@ -36,14 +62,11 @@ iberian = {
 }
 #安达卢斯
 adulusian_cg = {
-	badahuosi_iberian = {}
-	granada_iberian = {}
-	saiweiliya_iberian = {}
 	balansiyyah = {}
 	burtughal = {}
 	castalla = {}
 	liyyun = {}
-	xenxir = {}
+	#xenxir = {}
 	mayurqa = {}
 	barshiluna = {}
 	yilliqiyya = {}
@@ -97,7 +120,12 @@ scandinavian = {
 	goltland_sca = {}
 }
 west_slavic = {
-
+	kaszubski_WS = {}
+	wend_WS = {}
+	mazowsze_WS = {}
+	vistulan_WS = {}
+	poznan_WS = {}
+	moravia_WS = {}
 }
 east_slavic = {
 	beloozero_es = {}
@@ -118,6 +146,7 @@ east_slavic = {
 }
 baltic = {
 	prussian_baltic = {}
+	samogitia_baltic = {}
 }
 
 byzantine = {
@@ -157,6 +186,7 @@ byzantine = {
 carpathian = {
 	wallachia = {}
 	moldavian = {}
+	szekelys = {}
 }
 
 gaelic = {
@@ -166,4 +196,29 @@ gaelic = {
 	briton = {}
 	dunuonia = {}
 	cymru = {}
+	gaul = {}
+	celtiberian = {}
+	alba_gaelic = {}
+	belgae_gaelic = {}
+	dunnonia = {}
+	pretani = {}
+	tectosagia = {}
+	calaecia = {}
+}
+
+altaic = {
+	kesa_culture = {}
+	hezhong_culture = {}
+	huihu_culture = {}
+
+}
+mongol_cg = {
+
+}
+east_asian = {
+	dihua_chi = {}
+	liao_chi = {}
+	dian_chi = {}
+	miao_chi = {}
+
 }

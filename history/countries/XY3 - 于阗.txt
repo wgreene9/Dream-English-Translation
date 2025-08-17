@@ -1,0 +1,18 @@
+technology_group = chinese
+primary_culture = huihu_culture
+religion = mahayana
+government = monarchy
+government_rank = 1
+capital = 710
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Yan"
+		dynasty = "Li"
+		birth_date = 1421.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}

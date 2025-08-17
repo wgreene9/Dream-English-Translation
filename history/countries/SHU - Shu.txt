@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+primary_culture = sichuanese
+capital = 679	#Chengdu
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Ling"
+		dynasty = "Li"
+		birth_date = 1410.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+}

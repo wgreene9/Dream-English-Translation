@@ -5,10 +5,10 @@ religion = vajrayana
 technology_group = chinese
 capital = 410	# Bagdad
 
-1439.1.1= {
+1444.1.1= {
 	monarch = {
-		name = "Hussein"
-		dynasty = "Jalayir"
+		name = "Vishu" # (Weishu?) Hussein
+		dynasty = "Cha" # Jalayir
 		adm = 3
 		dip = 4
 		mil = 4

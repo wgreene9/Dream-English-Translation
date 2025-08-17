@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = pirate_republic_reform
+technology_group = chinese
+primary_culture = chimin
+religion = confucianism
+religious_school = huaiming_school
+government_rank = 1
+capital = 2154
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Xianping"
+		dynasty = "Gu"
+		birth_date = 1408.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}

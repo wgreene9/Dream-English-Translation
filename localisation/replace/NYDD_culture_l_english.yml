@@ -9,9 +9,40 @@
  berrich_french: "Berrichon"
  limousin_french: "Limousin"
  auvergnat_french: "Auvergnat"
+ swiss_french: "Helvetian"
+ rhinland_french: "Rhenanian" #Rhenanie
+ dutch_french: "Pays-Bas" #Pays-Bas
+ frank_french: "Frankish"
 
  romania_germanic: "Siebenbürgen"
- 
+ markish_germanic: "Markish" #Marchian/Markish/Brandenburgisch
+ schlesien_germanic: "Schlesien" #Silesian
+ mecklenburgisch_germanic: "Mecklenburgisch"
+ friso_saxon_germanic: "East Frisian"
+ wallonien_germanic: "Wallonien" #Wallonian
+ elsasserditsch_germanic: "Elsässerditsch" #Alsatian
+ hessisc_germanic: "Hessian" #Hessian/Hessisch
+ tirol_germanic: "Tyrolean"
+ styria_germanic: "Styrian"
+ salzburg_germanic: "Salzburgisch"
+
+ east_germanic: "Ostdeutsch"
+ russland_germanic: "Russländisch"
+ netherland_germanic: "Niederländisch" # Netherlandish
+ frankish_germanic: "Fränkisch" # Frankish
+ bohemia_germanic: "Bohemien" #Bohemian
+ new_prussia_germanic: "Neo-Prussian"
+ east_prussia_germanic: "East Prussian"
+ Uralschweiz_germanic: "Uralschweiz" #Ural Swiss
+ Winden_germanic: "Windisch" # Windenish
+ Krain_germanic: "Krainer" # Carniolan
+ Donau_germanic: "Donauschwaben" # Danubian
+ Norwegen_germanic: "Norwegisch" # Norwegian
+ Danemark_germanic: "Dänisch" # Danish
+ Schweden_germanic: "Schwedisch" # Swedish
+ Eisland_germanic: "Isländisch"
+ Nordseedeutsch_germanic: "Nordseedeutsch" # North Sea German
+ Sorben_germanic: "Sorben" # Sorbian
  
  lusitania: "Lusitanian"
  asutuliyasi: "Asturian"
@@ -75,6 +106,13 @@
  island_sca: "Isles"
  goltland_sca: "Gotlander"
 
+ kaszubski_WS: "Kashubian"
+ wend_WS: "Wendish"
+ mazowsze_WS: "Masovian"
+ vistulan_WS: "Vistulan"
+ poznan_WS: "Poznanian" #should be Polan but indistinguishable from Polish in Chinese
+ moravia_WS: "Moravian"
+
  beloozero_es: "Belozersky" # Beloozero
  bomorui_es: "Pomeranian"
  suzidaer_es: "Suzdalsky" # Suzdal
@@ -125,11 +163,21 @@
  
  wallachia: "Wallachian"
  moldavian: "Moldavian"
+ samogitia_baltic: "Samogitian"
 
  manx: "Manx"
  briton: "Breton"
  dunuonia: "Dumnonian"
  cymru: "Welsh"
+
+ gaul: "Gallic"
+ celtiberian: "Celtiberian"
+ alba_gaelic: "Alban"
+ belgae_gaelic: "Belgic"
+ dunnonia: "Dumnonian"
+ pretani: "Pretannic"
+ tectosagia: "Tectosagian"
+ calaecia: "Gallaecan"
 
  kesa_culture: "Khazar"
  hezhong_culture: "Transoxian"

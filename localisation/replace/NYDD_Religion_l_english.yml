@@ -1,6 +1,6 @@
 ﻿l_english:
 
-DD_confucianism_group: "Confucian Religious Group"
+DD_confucianism_group: "Confucian"
 outward_confucianism: "Lixue" # Ritual Studies/Lixue/Li-Confucianism
 outward_confucianism_religion_desc: ""
 muslim_confucianism: "Hui-Ru" # Hui-Confucianism
@@ -60,6 +60,41 @@ luomuwa_pagan: "Romuva"
 luomuwa_pagan_religion_desc: "The last surviving Baltic pagan religion."
 suomi_pagan: "Suomenusko"
 suomi_pagan_religion_desc: "An ancient belief system of the Suomi region."
+
+# May overwrite vanilla definitions
+anglican:0 "Anglicanism"
+anglican_religion_desc:0 "Anglicanism, formally known as the Holy Gallican Church, recognizes the head of state as its supreme governor. Theologically and institutionally, Anglicanism retains many Catholic elements while incorporating influences from Reformed Puritanism and Continental Protestantism."
+
+# Religious mechanics
+
+# Imperial Catholicism, Holy Sites
+pick_empire_catholic_blessing: "He will wipe away every tear from their eyes. There will be no more death or mourning or crying or pain."
+empire_catholic_blessings: "'The Lord's Favor Upon You'"
+blessing_emp_warrior: "Imperial Warrior"
+blessing_emp_honor: "Imperial Honor"
+blessing_emp_rightful: "Rightful Rule"
+blessing_emp_faith: "Steadfast Faith"
+blessing_emp_harmory: "Sacramental Communion"
+blessing_emp_inter_trade: "Internal Trade"
+blessing_emp_reform: "Imperial Reforms"
+blessing_emp_defender: "Defender of the Empire"
+
+HOLY_SITE_1878_DESC: "Aachen, capital of the Frankish Empire, stood as the center of Charlemagne's power - the brightest jewel in the crown of the 'Father of Europe', the 'Cradle of Europe'. This city represents the sacred legacy and glorious traditions of the Holy Roman Empire through centuries, serving as both the heart of the double-headed eagle and a museum of Charlemagne's enduring heritage."
+
+HOLY_SITE_85_DESC: "As a Hanseatic member and seat of the Archbishop of Cologne, this city remained the economic and religious center of northern Germania, even serving once as capital of a Frankish kingdom. The Rhine's watery crossroads made Cologne perpetually vital to the Empire, particularly under its archbishop's influence."
+
+HOLY_SITE_1876_DESC: "Legend tells that after a defeat, Charlemagne retreated to the Main River where his army found no ford - until a doe appeared to guide them across. In gratitude, he founded Frankfurt ('Ford of the Franks'), which became the Frankish secondary capital and German political center, hosting Imperial Diets as a Free City."
+
+HOLY_SITE_80_DESC: "The episcopal seat of Trier, oldest city in Germania dating to Augustus' Rome, was chosen by Western Emperor Constantius I as his residence. These classical stones testify to the Holy Roman Empire's unbroken lineage from Rome, proclaiming its unquestionable legitimacy."
+
+HOLY_SITE_104_DESC: "Milan's cathedral safeguards Christendom's holiest relics - the Shroud, Holy Nails, and True Cross fragments. As political center of the Italian Kingdom (one of the Empire's four pillars), this city dominates northern Apennine commerce and faith alike."
+
+HOLY_SITE_118_DESC: "The Eternal City and sacred capital, Rome provides the Holy Roman Empire's divine legitimacy. Since Pepin's Donation, it has housed God's humblest shepherd - the Servant of Servants - making the Papacy's continued allegiance proof that the Empire remains Christendom's undisputed protector and arbiter."
+
+HOLY_SITE_266_DESC: "The City of a Hundred Spires and cultural capital, Prague once ranked among Europe's greatest political, economic and cultural centers. As capital of Bohemia (one of the Empire's four kingdoms), it stood as testament to West Slavic loyalty to the Imperial crown."
+
+eastern_religion_group: "Buddhist"
+#Remarkable that Eastern Europe tech group shares the same key value with Eastern religion group...
 
 JIAOHUA_NAME: "Civilizing Mission"
 

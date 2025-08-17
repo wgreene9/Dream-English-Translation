@@ -7,12 +7,12 @@ add_harmonized_religion = mahayana
 add_harmonized_religion = vajrayana
 add_harmonized_religion = sunni
 technology_group = chinese
-capital = 419 
+capital = 416
 
 1444.1.1 = {
 	monarch = {
-		name = "Tashizhan" # 塔失只罕?
-		dynasty = "Qubaini" # 丘拜尼?
+		name = "Chongguang" # Tashizhan
+		dynasty = "Chu" # Qubaini
 		birth_date = 1403.7.20
 		adm = 3
 		dip = 3

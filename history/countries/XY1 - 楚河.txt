@@ -1,0 +1,19 @@
+technology_group = chinese
+primary_culture = dihua_chi
+religion = outward_confucianism
+religious_school = rangyi_school
+government = monarchy
+government_rank = 1
+capital = 2126
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Huaibiao"
+		dynasty = "Tang"
+		birth_date = 1419.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}

@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = astrakhani
+religion = muslim_confucianism
+add_harmonized_religion = sunni
+technology_group = nomad_group
+capital = 464	
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Yan"
+		dynasty = "Liu"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

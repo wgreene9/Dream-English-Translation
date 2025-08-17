@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+primary_culture = jin
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 693
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Yanqing"
+		dynasty = "Fang"
+		birth_date = 1409.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

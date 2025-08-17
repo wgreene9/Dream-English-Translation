@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = georgian
+religion = greek_orthodox
+technology_group = eastern
+capital = 423 
+
+1433.1.1 = {
+	monarch = {
+		name = "Vakhtang IV"
+		dynasty = "Bagrationi"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

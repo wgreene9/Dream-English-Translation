@@ -553,3 +553,448 @@ TELEISHA = {
 		age = 16
 	}
 }
+
+DD_FRA_25a = {
+	define_ruler = {
+		name = "Charles V"
+		dynasty = "d'Anjou"
+		adm = 2
+		dip = 2
+		mil = 3
+		age = 19
+		claim = 90
+	}
+}
+DD_FRA_25b = {
+	define_ruler = {
+		name = "Henri II"
+		dynasty = "d'Anjou"
+		adm = 3
+		dip = 3
+		mil = 4
+		culture = anglois
+		age = 18
+		claim = 50
+	}
+}
+
+DD_FRA_25c = {
+	define_ruler = {
+		name = "Malcolm I"
+		dynasty = "d'Anjou"
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 38
+		claim = 75
+	}
+}
+DD_FRA_25d = {
+	define_ruler = {
+		name = "Vacant Throne"
+		adm = 3
+		dip = 3
+		mil = 3
+		regency = yes
+	}
+}
+DD_FRA_28a = {
+	define_consort = {
+		country_of_origin = CHP
+		name = "Elizabeth"
+		dynasty = "de Valois"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+		age = 35
+	}
+}
+
+DD_FRA_29a = {
+	define_ruler = {
+		name = "Elizabeth I"
+		dynasty = "de Valois"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+		age = 35
+	}
+}
+DD_FRA_29a2 = {
+	define_heir = {
+		name = "Elizabeth"
+		dynasty = "de Valois"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+		age = 35
+	}
+}
+DD_FRA_31a = {
+	define_ruler = {
+		name = "Milaix" #Mireille?
+		dynasty = "d'Estrées"
+		age = 41
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+DD_FRA_50a = {
+	define_advisor = {
+		name = "Armand de Richelieu"
+		type = diplomat
+		skill = 4
+		cost_multiplier = 0.25
+	}
+}
+DD_FRA_50c = {
+	define_ruler = {
+		name = "Armand"
+		dynasty = "de Richelieu"
+		adm = 5
+		dip = 5
+		mil = 5
+		age = 50
+	}
+}
+DD_GAL_11a = {
+	create_flagship = {
+		type = heavy_ship
+		name = "Esperanza" # Hope
+	}
+}
+NYDD_GAL_our_duty = {
+	486 = {
+		change_province_name = "Puerto Grande"
+		rename_capital = "Puerto Grande"
+	}
+	#Puerto Grande
+}
+
+EDG_flavor_BRI_mission_28_a_consert_effect = {
+	define_consort = {
+		name = "Francesca"
+		dynasty = "Prelati"
+		adm = 2
+		dip = 4
+		mil = 1
+		age = 21
+		female = yes
+	}
+}
+EDG_flavor_BRI_mission_30_a_heir_effect = {
+	define_heir = {
+		name = "Jeanne"
+		dynasty = "de Rais"
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 1
+		female = yes
+		block_disinherit = yes
+	}
+	add_heir_personality = EDG_personality_BRI_white_rangna
+}
+EDG_flavor_BRI_mission_31_a_heir_effect = {
+	define_heir = {
+		name = "Jeanne"
+		dynasty = "de Rais"
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+		age = 10
+		female = yes
+		block_disinherit = yes
+	}
+	add_heir_personality = EDG_personality_BRI_white_rangna
+}
+EDG_flavor_BRI_mission_31_a_regency_effect = {
+	define_ruler = {
+		name = "Charlotte Deleuze" # 夏洛特 德 德勒
+		adm = 3
+		dip = 4
+		mil = 4
+		age = 40
+		regency = yes
+	}
+}
+EDG_flavor_BRI_mission_44_a_consert_effect = {
+	define_consort = {
+		name = "Leo"
+		dynasty = "de Rennes"
+		adm = 4
+		dip = 4
+		mil = 6
+		age = 18
+	}
+	define_general = {
+		name = "Leo de Rennes"
+		fire = 4
+		shock = 4
+		manuever = 3
+		siege = 2
+	}
+}
+EDG_flavor_BRI_mission_433a_effect = {
+	define_ruler = {
+		name = "Charlotte I"
+		dynasty = "Deleuze"
+		adm = 3
+		dip = 4
+		mil = 4
+		age = 46
+	}
+	define_consort = {
+		name = "Jeanne"
+		dynasty = "de Rais"
+		adm = 1
+		dip = 1
+		mil = 1
+		age = 16
+		female = yes
+	}
+}
+
+DD_VAL_CSR_heir = {
+	define_heir = {
+		name = "Cesare"
+		dynasty = "Borgia"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1475.9.13
+		claim = 70
+	}
+	add_heir_personality =  intricate_web_weaver_personality
+	hidden_effect = {
+		set_heir_flag = DD_VAL_Cesare_OF_VALENCIA
+	}
+}
+
+DD_VAL_RO_heir = {
+	define_heir = {
+	    name = "Rodrigo"
+		dynasty = ROOT
+
+		claim = 40
+		birth_date = 1431.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+		block_disinherit = yes
+	}
+	add_heir_personality = patron_of_arts_personality
+}
+
+DD_VAL_Machiavelli_adm = {
+	define_advisor = {
+		type = philosopher
+		culture = tuscan
+		name = "Niccolo Machiavelli"
+		discount = yes
+		location = 116
+		skill = 2
+	}
+}
+
+DD_VAL_Machiavelli_dip = {
+	define_advisor = {
+		type = statesman
+		name = "Niccolo Machiavelli"
+		culture = tuscan
+		discount = yes
+		location = 116
+		skill = 2
+	}
+}
+# 1272 = { change_province_name = "La Manche" }
+# 1269 = { change_province_name = "Basse-C�te" }
+NYDD_FRA_our_channel = {
+	1272 = { change_province_name = "La Manche" }
+	1269 = { change_province_name = "Basse-Côte" }
+}
+# 236 = {
+# 	change_province_name = "Domaine Francais"
+# 	rename_capital = "Londres"
+# }
+NYDD_FRA_england = {
+	236 = {
+		change_province_name = "Domaine Francais"
+		rename_capital = "Londres"
+	}
+}
+DD_FRA_88a = {
+	define_advisor = {
+		name = "Eli"
+		type = treasurer
+		skill = 3
+		cost_multiplier = 0.33
+		religion = jewish
+		culture = rhinland_french
+	}
+}
+DD_FRA_55a = {
+	define_advisor = {
+		name = "William Shakespeare" #The greatest writer of all
+		location = 236 #London
+		skill = 3
+		type = artist
+		discount = yes
+	}
+	#William Shakespeare
+}
+DD_FRA_97a = {
+	define_general = {
+		name = "Gilles de Rais"
+		shock = 5
+		fire = 4
+		manuever = 4
+		siege = 2
+	}
+}
+DD_FRA_117a = {
+	define_ruler = {
+		name = "Paris Regency Council"
+		regency = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+DD_FRA_123a = {
+	define_ruler = {
+		name = "Reinhardt" #莱因哈特 Lionheart?
+		dynasty = "de Capet"
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		change_original_dynasty = yes
+		age = 20
+	}
+}
+DD_FRA_125a = {
+	define_ruler = {
+		name = "Napoleon"
+		dynasty = "Bonaparte"
+		change_adm = 4
+		change_dip = 4
+		change_mil = 4
+		max_age = 30
+		min_age = 20
+		change_original_dynasty = yes
+		regency = yes
+	}
+}
+DD_FRA_125a = {
+	define_ruler = {
+		name = "Napoleon"
+		dynasty = "Bonaparte"
+		change_adm = 4
+		change_dip = 4
+		change_mil = 4
+		max_age = 30
+		min_age = 20
+		change_original_dynasty = yes
+	}
+}
+flavor_fra_104a = {
+	define_advisor = {
+		type = theologian
+		name = "Jean Lagadec"
+		skill = 2
+		cost_multiplier = 0.5
+	}
+	#Jehan Lagadeuc
+}
+EDG_mission_BRI_1_25 = {
+	#1272 = { change_province_name = "Gaul Strait" }
+	#1269 = { change_province_name = "Basse-Côte" }
+	1272 = { change_province_name = "Gallic Strait" }
+	1269 = { change_province_name = "Basse-Côte" }
+}
+DD_FRA_134a_FR3 = {
+	define_ruler = {
+		name = "Guiscard"
+		adm = 3
+		dip = 3
+		mil = 6
+		claim = 100
+	}
+}
+DD_FRA_134a_FR8 = {
+	define_ruler = {
+		name = "Raphael"
+		adm = 5
+		dip = 5
+		mil = 5
+		claim = 100
+	}
+}
+DD_FRA_134a_FR9 = {
+	define_ruler = {
+		name = "Marcellin"
+		adm = 6
+		dip = 5
+		mil = 2
+		claim = 100
+	}
+}
+
+DD_VAL_CSR_heir = {
+	define_heir = {
+		name = " Cesare"
+		dynasty = "Borgia"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1475.9.13
+		claim = 70
+	}
+	add_heir_personality =  intricate_web_weaver_personality
+	hidden_effect = {
+		set_heir_flag = DD_VAL_Cesare_OF_VALENCIA
+	}
+}
+
+DD_VAL_RO_heir = {
+	define_heir = {
+	    name = "Rodrigo"
+		dynasty = ROOT
+
+		claim = 40
+		birth_date = 1431.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+		block_disinherit = yes
+	}
+	add_heir_personality = patron_of_arts_personality
+}
+
+DD_VAL_Machiavelli_adm = {
+	define_advisor = {
+		type = philosopher
+		culture = tuscan
+		name = "Niccolo Machiavelli"
+		discount = yes
+		location = 116
+		skill = 2
+	}
+}
+
+DD_VAL_Machiavelli_dip = {
+	define_advisor = {
+		type = statesman
+		name = "Niccolo Machiavelli"
+		culture = tuscan
+		discount = yes
+		location = 116
+		skill = 2
+	}
+}

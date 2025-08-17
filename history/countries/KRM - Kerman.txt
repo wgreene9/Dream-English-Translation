@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+primary_culture = persian
+religion = muslim_confucianism
+religious_school = rangyi_school
+add_harmonized_religion = sunni
+technology_group = muslim
+capital = 432 # Kerman
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Zongcheng"
+		dynasty = "Liu"
+		birth_date = 1405.1.1
+		adm = 6
+		dip = 4
+		mil = 2
+	}
+}

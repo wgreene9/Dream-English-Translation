@@ -1,16 +1,16 @@
 government = tribal
 add_government_reform = steppe_horde
 primary_culture = mishary
-religion = sunni
+religion = outward_confucianism
+religious_school = rangyi_school
 technology_group = nomad_group
-capital = 466	
-historical_rival = KAZ
+capital = 303
 religious_school = hanafi_school
 
 1432.1.1 = {
 	monarch = {
-		name = "Kuchuk Muhammad"
-		dynasty = "Borjigin"
+		name = "Yinchu" #Kuchuk Muhammad
+		dynasty = "Liu" #Borjigin
 		adm = 0
 		dip = 0
 		mil = 2
@@ -19,9 +19,9 @@ religious_school = hanafi_school
 
 1435.1.1 = {
 	heir = {
-		name = "Ahmad"
-		monarch_name = "Ahmad I"
-		dynasty = "Borjigin"
+		name = "De" # Ahmad
+		monarch_name = "De I" # Ahmad I
+		dynasty = "Liu" # Borjigin
 		birth_date = 1435.1.1
 		death_date = 1481.1.6
 		claim = 90

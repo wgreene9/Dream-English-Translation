@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_junzhen_reform
+technology_group = chinese
+primary_culture = jianghuai
+religion = confucianism
+religious_school = chuhuai_school
+government_rank = 1
+capital = 685
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Si"
+		dynasty = "Huang"
+		birth_date = 1402.1.1
+		adm = 3
+		dip =2
+		mil = 5
+	}
+}

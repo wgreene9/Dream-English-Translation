@@ -1,0 +1,18 @@
+primary_culture = beihai_cul
+religion = tengri_pagan_reformed
+government = monarchy
+technology_group = nomad_group
+add_government_reform = steppe_horde
+government_rank = 1
+capital = 1056
+
+1444.1.1 = {
+	monarch = {
+		name = "Ruyong"
+		dynasty = "Wang"
+		birth_date = 1416.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

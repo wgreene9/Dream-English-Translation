@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = NYDD_junzhen_reform
+technology_group = chinese
+primary_culture = gan
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 670
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Biao"
+		dynasty = "Zhu"
+		birth_date = 1427.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}

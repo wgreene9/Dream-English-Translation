@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = chinese_warlord
+technology_group = chinese
+primary_culture = korean_new
+religion = confucianism
+religious_school = tongde_school
+government_rank = 1
+capital = 735
+add_harmonized_religion = mahayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Zeyu"
+		dynasty = "Luo"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
