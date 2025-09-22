@@ -1,3 +1,72 @@
+8.14.25
+Dreams Unseen 1.1.0 Iron Century Preview Update
+Main Content
+	(1) France
+	- The war never ends. Amidst the chaos, a drama unfolds in Paris, entangling the fate of France. The lives and destinies of hundreds of thousands of Frenchmen now rest upon the crimson seat of the fleur-de-lis.
+	- War, famine, domination, and death. France shall return to the stage, embraced by sacrifice and blood. When all illusions and hopes are forever lost to the abyss, where will the French turn?
+	- Produced by NewYoung.
+
+	(2) Brittany
+	- The marshal of France now spends his remaining days in struggle and confusion, until his destined fate arrives as foretold...
+	- Cast the dice for Brittany—Celtic, Gallic, or French. Perhaps the outcome was decided from the very beginning.
+	- A crossover content piece by EDG’s Lazy Dog, featuring a new route compared to EDG’s version, with revised storyline.
+
+	(3) Valencia
+	- When the Prince of Aragon comes knocking, the council decides to place their trust in the Borgia family once more.
+	- Yet the Borgias harbor hidden ambitions, painting a far grander vision.
+	- Produced by CreeperKnight.
+
+Other Content
+	- Introduced new map settings for East Asia and Central Asia.
+	- Added the Imperial Catholicism mechanic (Holy Sites).
+	- Overhauled the Holy Roman Empire mechanics.
+	- Reworked the colonization mechanics.
+	- Refined the Germanic and West Slavic culture groups.
+	- Numerous bug fixes and text corrections.
+	- Other things I forgot.
+
+6.18.25
+- Added a very, very short mission tree and event chain for Galicia.
+- Fixed an issue where peace treaties could be proposed in certain events.
+- Conquistador armies will now adopt the Colonial Government reform after completing their conquests.
+
+6.03.25
+- The Tlemcen mission "Arabia Felix" will now unify the Arab culture.
+- Fixed the missing coastal development cost penalty removal in the Tlemcen mission "Develop the Homeland."
+- Buffed the effects of the Andalusian Administrative Center, adding an extra 10% manpower, tax, and production efficiency.
+- Slightly improved the starting ruler stats for Badajoz and Granada.
+- Fixed the issue where the Danelaw’s primary culture was not Yorkish.
+
+5.06.25
+Reintroducing the 1.0.5 Update.
+1. Aragon
+	- Resolve the endless internal strife and find your path amidst the conflicts of Iberia.
+	- Return to the glory of old and rebuild the domains of the Franks.
+	- Integrate into the new world and lead the restoration of the ancient empire.
+	- Then, forge a radiant century for Aragon.
+
+2. Al-Andalus
+	- Reclaim the legacy of the Umayyads and complete the Islamic Reconquista.
+	- Reform the Taifa governorate system or preserve the old ways.
+	- Trace the roots of Al-Andalus and shape a new identity.
+	- Rebuild the domains of Islam with sword and fire.
+
+3. Fez
+	- An ambitious regent and an exiled prince burning with rage are placed upon the scales.
+	- A soul sworn to eternity, a heart forever aflame with wrath.
+	- Crush the usurpers and reclaim the throne of Africa.
+	- Revive the ancient name of Mauretania.
+
+4. Algiers
+	- A governor fighting for survival and a broken oath—a battle witnessed in blood.
+	- An ideal built upon countless corpses, a fury that drives souls to sacrifice.
+	- Will you pay the price of loyalty and sink into oblivion? Or awaken the courage to sever ties and break with the past?
+	- Perhaps the outcome was decided from the very beginning.
+
+5. Others
+	- Added a decision to retain the Taifa color after forming Al-Andalus.
+	- Fixed several known bugs.
+
 4.30.25
 Version 1.0.5 Updates
 - Added Aragon mission tree

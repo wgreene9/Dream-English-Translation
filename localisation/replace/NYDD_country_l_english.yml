@@ -66,13 +66,14 @@
 
  FRC: "Francia"
  FR1: "Franco-British Commonwealth"
- FR2: "Farnce"
+ FR2: "France" # formerly Bretagne
  FR3: "Gaul"
  FR4: "East Francia"
  FR5: "Middle Francia"
  FR6: "United Kingdom of France"
  FR7: "Greater France"
  FR8: "France"
+ FR9: "Napoleonic Empire"
 
  R0M: "Rome"
  R1M: "Rûm" #arabic Roma
@@ -214,13 +215,14 @@ GXC: "Guilin"
 
  FRC_ADJ: "Frankish"
  FR1_ADJ: "Franco-British"
- FR2_ADJ: "Farncian"
+ FR2_ADJ: "French" # formerly Breton
  FR3_ADJ: "Gallic"
  FR4_ADJ: "East Frankish"
  FR5_ADJ: "Middle Frankish"
  FR6_ADJ: "Franco-British" # (or "United French" if referring specifically to France-UK union)
  FR7_ADJ: "Greater French"
  FR8_ADJ: "French"
+ FR9_ADJ: "Napoleonic"
 
  R0M_ADJ: "Roman"
  R1M_ADJ: "Rûmi" #arabic adjective for Rome

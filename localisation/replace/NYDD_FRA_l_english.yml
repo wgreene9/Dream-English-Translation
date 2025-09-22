@@ -80,6 +80,7 @@
  DD_FRA_public_war_desc:"Now that we've identified the leader of the Public Weal Alliance, only one solution remains."
  DD_FRA_public_war_tt:"Other §YPublic Weal Alliance§! members will join this war!\n§g(Hover to see which nations have joined the Public Weal Alliance)§!\n"
  PEACE_po_fra_crash_public_union:"Crush the Public Weal Alliance"
+ CB_ALLOWED_po_fra_crash_public_union:"Crush the Public Weal Alliance"
  po_fra_crash_public_union:"Crush the Public Weal Alliance"
  po_fra_crash_public_union_desc:"Disband the Public Weal Alliance. All rebellious fiefs will return as vassals of §Y[Root.GetName]§! and lose §G-50.0%§! liberty desire.\n"
 
@@ -366,9 +367,9 @@ DD_FRA_39a_modifier:"Anglophone Region"
 
 desc_DD_FRA_39a_modifier:"This province belongs to the Anglophone Region under French administration."
 
-DD_FRA_39a_tt:"British-culture provinces we control without separatism or rebellion will gradually convert to §YAngevin§! culture.\n"
+DD_FRA_39a_tt:"British-culture provinces we control without separatism or rebellion will gradually convert to §YAnglois§! culture.\n"
 
-DD_FRA_39b_tt:"@ENG§YEnglish§!-held provinces will also spread §GAngevin§! culture, but receive no additional bonuses.\n"
+DD_FRA_39b_tt:"@ENG§YEnglish§!-held provinces will also spread §GAnglois§! culture, but receive no additional bonuses.\n"
 
 DD_FRA_39c_tt:"£icon_ideas£ The §Y2nd§! national idea '§YNever Again Poitou§!' is replaced with '§YFrench Land Dominance§!', adding:\nFire Damage: §G+5.0%§!\n\n£icon_ideas£ The §Y3rd§! national idea '§YLessions of Magna Carta§!' gains:\n[global_unrest]: §G-1.00§!\n\n£icon_ideas£ The §Y4th§! national idea '§YAssimilation Act§!' is replaced with '§YEnglish Naval Rule§!', changing effects to:\nNaval Morale: §G+15.0%§!\n\n£icon_ideas£ The §Y5th§! national idea '§YDivine Right§!' is replaced with '§YLegacy of Norman Conquest§!', adding:\nCore Creation Cost: §G+5.0%§!\n"
 
@@ -387,7 +388,7 @@ desc_DD_FRA_40a_modifier:"Raged in anger, then just stayed angry."
 DD_FRA_40b:"Ireland makes a... decent ally?"
 DD_FRA_40c:"Let [ENG.GetName] handle this."
 DD_FRA_40d:"Welcome to the Angevin family!"
-DD_FRA_40d_tt:"§YAngevin§! culture will now spread in §YIrish§! culture provinces.\n"
+DD_FRA_40d_tt:"§YAnglois§! culture will now spread in §YIrish§! culture provinces.\n"
 DD_FRA_40e:"Why not establish a united Gaelic realm?"
 
 HSC_MIL:"Goidelic Military District"
@@ -401,7 +402,7 @@ DD_FRA_400b:"Best establish a separate Scottish state."
 DD_FRA_400c:"How about joining the Angevin family?"
 DD_FRA_400d:"The old way - English rule over Scots."
 
-DD_FRA_400c_tt:"§YAngevin§! culture will now spread in §YHighland Scottish§! culture provinces.\n"
+DD_FRA_400c_tt:"§YAnglois§! culture will now spread in §YHighland Scottish§! culture provinces.\n"
 
 SCO_MIL:"Alba Military District" 
 SCO_MIL_ADJ:"Alba Military District"
@@ -558,11 +559,11 @@ DD_FRA_54a:"The English aren't to blame."
 DD_FRA_54b:"Let bygones be, push integration."
 DD_FRA_54c:"Angevin culture is the only answer."
 
-DD_FRA_54a_tt:"§JOur ruler's English blood fosters sympathy - perhaps compromise by helping reorganize their administration.§!\n\nUnlocks decision '§YPromote English Cultural Integration§!' to unify English cultures.\n"
+DD_FRA_54a_tt:"§JOur ruler's English blood fosters sympathy - perhaps compromise by helping reorganize their administration.§!\n\nUnlocks decision '§YPromote English Cultural Integration§!' to unify English cultures.\n\n§RThis will also pause the spread of Anglian culture until completing the '§YPromote English Cultural Integration§!' decision.§!\n"
 DD_FRA_54b_tt:"§YSome will remember this choice.§!\n"
-DD_FRA_54c_tt:"§YAngevin§! culture spread speed §Rhalved§!, no separatism required. Upon conversion, grants §G1§! random development.\n"
+DD_FRA_54c_tt:"§YAnglois§! culture spread speed §Rhalved§!, no separatism required. Upon conversion, grants §G1§! random development.\n"
 
-DD_FRA_54b_tt2:"§YAngevin§! culture spread speed §Gdoubled§!.\n"
+DD_FRA_54b_tt2:"§YAnglois§! culture spread speed §Gdoubled§!.\n"
 DD_FRA_54b_tt3:"§GAccelerate Francization by enforcing French language in Angevin regions. Many English may simply change superficial identities.§!\n"
 DD_FRA_54c_tt2:"§OThe English aren't worthy - let French settlers claim their lands. Integration takes longer but requires only patience.§!\n"
 
@@ -937,6 +938,7 @@ DD_FRA_114b:"Let sleeping dogs lie."
 DD_FRA_115_t:"The League's Rebellion"  
 DD_FRA_115_d:"We dismissed the League of the Public Weal as insignificant - what could these petty fiefdoms do against the mighty oak of France? Paris' centralization proceeds inexorably, with vast territories returning to royal dominion. Now at last they reveal their hand, delivering themselves unto judgment."  
 DD_FRA_115a:"What difference could your petty fiefdoms possibly make?"
+DD_FRA_115a_tt:"Use the '§YCrush the Public Weal Alliance§!' peace treaty to complete the mission.\n"
 
 DD_FRA_116_t:"'What Truly Matters...'"
 DD_FRA_116_d:"Steady... Maël, steady. Your damn heart's pounding like a wild stallion, just because you're about to kill that son of a— The man took a shuddering breath, silencing his frantic muttering. His trembling hands could barely grip the musket as he crouched in shadows along the Lord Protector's route. That man - architect of all suffering, madman who chained France to the war machine - a thousand epithets fit the Lord Protector, yet none could save France. Must Frenchmen drown in their own blood? Must this nation endure endless bigotry and lies? They're mad! France— France has gone insane.\n\nThe clatter of hooves shattered his thoughts. A chestnut stallion approached, bearing its resplendent rider. Milk-white reins threaded through the horse's gleaming mane, held by the crimson-clad Protector. Maël sprang from shadows, leveling his blackened barrel. Guards surged forward in panic—\n\nOne grabbed at Maël's arm, but smoke already curled from the muzzle—a thunderclap of gunpowder. The bullet, born of saltpeter and flame, pierced through acrid clouds, slipped between scrambling bodies, and flew true toward its mark. Its destination..."
@@ -981,6 +983,7 @@ DD_FRA_124a:"So what?"
 DD_FRA_125_t:"Napoléon Bonaparte"
 DD_FRA_125_d:"The chaos of civil war and foreign threats created opportunities for ambitious young officers - opportunities seized by a Corsican artillery lieutenant named Napoléon Bonaparte. His battlefield successes drew attention, but his recent brutal suppression of the [Root.Capital.GetCapitalName] uprising - deploying heavy cannon in city streets - truly impressed the aristocracy. Many nobles now support promoting him to high command. Yet this man of boundless ambition proposes a dangerous bargain: let him establish a provisional Defense Government to crush the rebellions, after which power would theoretically return to the Crown."
 DD_FRA_125a:"An excellent proposal."
+DD_FRA_125a_tt:"Thanks to General §YNapoleon§!'s excellent methods, §Rrevolution§! is impossible while the §YDefense Government§! exists.\n"
 DD_FRA_125b:"This is usurpation!"
 DD_FRA_125a_modifier:"Defense Government"
 
@@ -1002,7 +1005,7 @@ DD_FRA_129a_tt:"Will you join in our crusade? Who will be strong and stand with 
 DD_FRA_129a_modifier:"§JBrave New World§!"
 
 DD_FRA_130_t:"Wildfires Engulf the Bastille"
-DD_FRA_130_d:"'To the Bastille!' At dawn, thousands of Parisians surged toward the fortress - some bearing muskets, others brandishing blades. The people's wrath rolled forward like storm clouds, converging upon that symbol of oppression.\n\nThe Bastille, once Île-de-France's mightiest stronghold against foreign invasion, now loomed over Paris as the regime's watchtower. Its garrison guarded political prisoners, this Goliath of stone casting shadows across France. For generations, the people had hated this evil giant as much as the hated League government, longing to drag it down into oblivion.\n\nThe Chancellor's regime had long played the people for fools, while the League Parliament ensnared all Europe in its web, draining France's lifeblood. Years of brazen taxation finally ignited popular fury - wave after wave of revolts crashing against this kingdom of darkness.\n\n'Bring the cannon!' Artillery roared, their iron shot blasting masonry into clouds of dust and debris. Cheers erupted with each impact. When the walls crumbled, desperate defenders raised white flags. As the drawbridge lowered, insurgents stormed through residual gunfire. Though Governor de Launay ordered ceasefire to prevent massacre, the mob dragged him out, stabbing and beating the aristocrat before parading his severed head on a pike through the streets. Now revolutionary fires consume the Bastille's ruins."
+DD_FRA_130_d:"'To the Bastille!' At dawn, thousands of Parisians surged toward the fortress - some bearing muskets, others brandishing blades. The people's wrath rolled forward like storm clouds, converging upon that symbol of oppression.\n\nThe Bastille, once Île-de-France's mightiest stronghold against foreign invasion, now loomed over Paris as the regime's watchtower. Its garrison guarded political prisoners, this Goliath of stone casting shadows across France. For generations, the people had hated this evil giant as much as the hated League government, longing to drag it down into oblivion.\n\nThe Parisian regime had long played the people for fools, while the League Parliament ensnared all Europe in its web, draining France's lifeblood. Years of brazen taxation finally ignited popular fury - wave after wave of revolts crashing against this kingdom of darkness.\n\n'Bring the cannon!' Artillery roared, their iron shot blasting masonry into clouds of dust and debris. Cheers erupted with each impact. When the walls crumbled, desperate defenders raised white flags. As the drawbridge lowered, insurgents stormed through residual gunfire. Though Governor de Launay ordered ceasefire to prevent massacre, the mob dragged him out, stabbing and beating the aristocrat before parading his severed head on a pike through the streets. Now revolutionary fires consume the Bastille's ruins."
 DD_FRA_130a:"Snow melts to ashes, steel clears its sheath."
 
 DD_FRA_131_t:"The Coalition of Order"
@@ -1020,7 +1023,8 @@ DD_FRA_132a_modifier3:"Triumph of the Crown"
 DD_FRA_132a_modifier4:"Spirit of Progress"
 DD_FRA_132a_modifier5:"Dual Continuity"
 DD_FRA_132a_modifier6:"Frankish Century"
-DD_FRA_132a_tt5:"Converts provinces of §YNorman§!, §YFrench§!, §YPicard§!, §YBreton§! and §YBrythonic§! culture groups to §YAnglovan§! culture.\n"
+DD_FRA_132a_tt5:"Converts provinces of §YNorman§!, §YFrancien§!, §YPicard§!, §YPoitevin§! and §YBritish§! culture to §YAnglois§! culture.\n" 
+#Converts provinces of §YNorman§!, §YFrench§!, §YPicard§!, §YBreton§! and §YBrythonic§! culture groups to §YAnglovan§! culture.\n
 DD_FRA_132a_tt6:"§GRemoves§! requirements for gaining the §YSun King§! trait and §Gdoubles§! its acquisition chance.\n"
 DD_FRA_132a_tt:"§O………………THE END………………§!\n§GThank you for playing @FRA§MFrance§!!§!\n"
 
@@ -1139,8 +1143,12 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
  NYDD_FRA_netherland_develop_modifier:"Dutch Trade"
  desc_NYDD_FRA_netherland_develop_modifier:"This Dutch province enjoys exceptionally prosperous trade."
 
- NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
- NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
+#  NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
+#  NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
+
+ NYDD_FRA_netherland_develop_tt:"Provinces with §YFlemish§!, §YDutch§!, §YFrisian§!, or §YNiederländisch§! culture will convert to §YPays-Bas§! culture.\n"
+ NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
+ NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
 
  NYDD_FRA_netherland_develop_modifier2:"Dutch Subject"
  
@@ -1150,6 +1158,7 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
  NYDD_FRA_our_channel_tt:"As long as we control §Y[168.GetName]§! and have §Ydominant trade power§! in the §YEnglish Channel§!, all our provinces in the §YEnglish Channel§! trade node will gain:\n[trade_value_modifier]: §G+10.0%§!\n"
 
  NYDD_FRA_our_channel_ttyes:"£yes£If the §YEnglish Channel§! is the §Ymost valuable§! trade node in the world:"
+ NYDD_FRA_our_channel_ttno:"£no£If the §YEnglish Channel§! is the §Ymost valuable§! trade node in the world:"
  
  DD_FRA_channel_ptm:"Channel Monopoly"
  desc_DD_FRA_channel_ptm:"As long as we control §Y[168.GetName]§! and have §Ydominant trade power§! in the §YEnglish Channel§!, all our provinces in the §YEnglish Channel§! trade node will gain:\n[trade_value_modifier]: §G+10.0%§!\n"
@@ -1170,7 +1179,7 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
 DD_FRA_integrate_RHL_title:"£mil£Forcibly Integrate the Rhineland"
 DD_FRA_integrate_RHL_desc:"When all is said and done, the Germans of North Germany will never truly share our cause. They merely seek to use our strength to break the Hohenstaufen's hold, only to inevitably turn and drive us out afterwards. This will not do. As the Eastern saying goes: 'Since they have come, they shall not leave.' Having come this far, we might as well settle along the Rhine."
 DD_FRA_integrate_RHL_tt1:"All qualifying §Yprovinces under our rule§! will §Rlose their cores§! and §Rbecome unclaimable§!, while gaining:"
-DD_FRA_integrate_RHL_tt2:"When this modifier expires or after we defeat rebels in the province, it will convert to the §YRhenani§! culture of the French culture group and remove this modifier.\n"
+DD_FRA_integrate_RHL_tt2:"When this modifier expires or after we defeat rebels in the province, it will convert to the §YRhénan§! culture of the French culture group and remove this modifier.\n"
 
 DD_FRA_release_BAV_title:"£dip£Install Bavarian Rule"
 DD_FRA_release_BAV_desc:"Bavaria has long been the Emperor's staunch ally. Therefore, we must begin our work here - finding disloyal collaborators, helping them establish a friendly Bavarian Kingdom, and restoring the lands they lost during Barbarossa's invasion in exchange for their gratitude. Seems like a rather good deal, no?"
@@ -1735,8 +1744,8 @@ cb_FRA_public_war_DD_desc:"The time has come to decide France's fate."
 cb_FRA_public_war_DD_wg:"Commonweal War"
 cb_FRA_public_war_DD_wg_desc:"War goal is to demonstrate hegemony."
 
-DD_FRA_what_is_EDG_BRI_march_subject:"§YTheater§! subjects are identical to §YGarrison States§!, occupying no diplomatic relations slot and providing no resources.\n"
-DD_FRA_what_is_ally_subject:"§YFrench Allied State§! is a subject economically dominated by its overlord, contributing §G20.0%§! of various resources. Similar to a regular ally, they only join wars when called by favors.\n"
+DD_FRA_what_is_EDG_BRI_march_subject:"§YMarquisate§! subjects are identical to §YMarches§!, but occupying no diplomatic relations slot and providing no force limit.\n"
+DD_FRA_what_is_ally_subject:"§YFrench Allied State§! is a subject economically dominated by its overlord, contributing §G20.0%§! of its Force Limit, Manpower, and Sailors. Similar to a regular ally, they only join wars when called by favors.\n"
 
 DD_FRA_unite_english_title:"@FR1 Promote English Integration"
 DD_FRA_unite_english_desc:"The English people still struggle. We should help them unify their homeland."
@@ -1851,8 +1860,10 @@ NYDD_FRA_old_age_tt:"All former §Ysubject nations§! will be demanded to return
 fra_grande_armee_modifier_DD:"Grande Armée"
 
 PEACE_po_fra_reconquet_subject:"Reclaim Sphere"
+CB_ALLOWED_po_fra_reconquet_subject:"Reclaim Sphere"
 po_fra_reconquet_subject:"Reclaim Sphere"
 po_fra_reconquet_subject_desc:"§Y[From.GetName]§! will become §Y[Root.GetName]§!'s subject again.\n"
+PEACE_po_fra_reconquet_subject:"Reclaim Sphere"
 
 cb_FRA_recouquet_subject:"Reclaim Sphere"
 cb_FRA_recouquet_subject_desc:"They rightfully belong in our sphere of influence."

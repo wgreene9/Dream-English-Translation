@@ -6,10 +6,13 @@ mechanic_EDG_enable_estate_edg_Interracial_ability_yes:0 "Enable §Y\"Foreigners
 EDG_string_start_BRI:0 ""
 
 EDG_SPACE_TT:0 " "
-FR2:0 "Farns"
-FR3:0 "Gaul"
-FR2_ADJ:0 "Farns"
-FR3_ADJ:0 "Gallic"
+# FR2:0 "Bretagne"
+# FR3:0 "Gaul"
+# FR2_ADJ:0 "Breton"
+# FR3_ADJ:0 "Gallic"
+BRETAGNE:"Bretagne"
+BRETAGNE_ADJ:"Breton"
+#While English "Brittany" should technically be 布列塔尼亚 and French should be 布列塔尼, the localization uses French translations. To highlight the difference, we've swapped the English and French renditions here.
 
 EDG_Gallic_autocratic_monarchy:0 "Gallic Autocratic Monarchy"
 EDG_Gallic_parliament_monarchy:0 "Gallic Parliamentary Monarchy"
@@ -47,16 +50,18 @@ EDG_Gallic_national_spirit_desc:0 "We have taken the revival of the Gallic natio
 EDG_Northern_Parliament:0 "Northern Parliament"
 EDG_Northern_Parliament_desc:0 "As our conquest of the British Isles progresses, numerous British affairs require attention. To truly understand what the people desire, we shall establish a special parliament in the north to govern these territories."
 
-FR2_ideas:0 "Farnsian Ideas"
-FR2_ideas_start:0 "Farnsian Traditions"
-FR2_ideas_bonus:0 "Farnsian Ambitions"
+### Possible cause of CTD
+FR2_ideas:0 "French Ideas"
+FR2_ideas_start:0 "French Traditions"
+FR2_ideas_bonus:0 "French Ambitions"
 EDG_FR2_1:0 "Successors of the Capetians"
 EDG_FR2_2:0 "Horn of Charge"
 EDG_FR2_3:0 "Establish the Estates-General"
 EDG_FR2_4:0 "Compagnies d'Ordonnance"
 EDG_FR2_5:0 "French Language"
 EDG_FR2_6:0 "Expand Natural Borders"
-EDG_FR2_7:0 "Académie Française"
+EDG_FR2_7:0 "Académie Francaise" #Académie Française
+### Possible cause of CTD
 EDG_FR2_1_desc:0 "We have defeated the Capetian dynasty and taken their place as Kings of France."
 EDG_FR2_2_desc:0 "The French are the most valiant on the battlefield. When our charge horn sounds, countless warriors surge forth like a tide to break enemy lines."
 EDG_FR2_3_desc:0 "Our Estates-General effectively represents the needs of nobles, clergy, and burghers. More importantly, our monarch can subtly manipulate the assembly to redirect domestic tensions."
@@ -205,7 +210,7 @@ EDG_estate_Interracial_trade_goods_force_province_modifier:0 "Foreigners' Corvé
 
 EDG_mission_BRI_2_2_trigger_tooltip:0 "We have hired an advisor of §Y[Root.Culture.GetName]§! culture"
 EDG_flavor_BRI_mission_1_a_flag_tt:0 "§YJeanne§! has decided to restore §Opast glories§!, finding a middle ground between French and Celtic - @FR3§YGaul§!.\n\nThis will strengthen §YCeltic§! tendencies, leading us down the path to form @FR3§YGaul§!.\n"
-EDG_flavor_BRI_mission_2_a_flag_tt:0 "§YJeanne§! has decided to continue her father's legacy by pursuing §MFrankification§!.\n\nThis will strengthen §YFrench§! tendencies, leading us down the path to form @FR2§YFarns§!.\n"
+EDG_flavor_BRI_mission_2_a_flag_tt:0 "§YJeanne§! has decided to continue her father's legacy by pursuing §MFrankification§!.\n\nThis will strengthen §YFrench§! tendencies, leading us down the path to form @FR2§YFrance§!.\n"
 DD_BRI_choose_branch_tt1: "Unlocks the '§MForked Paths§!' interface where we must choose between '§YCelticization§!' or '§YFrankification§!'.\n§g(If not displayed, please check mod compatibility)§!\n"
 
 EDG_BRI_EDG_mission_BRI_2_3_opinion:0 "Integrate into the French Cultural Sphere"
@@ -345,27 +350,27 @@ EDG_mission_BRI_3_16_tt_yes:0 "If we complete the mission through §Ysponsoring 
 EDG_estate_edg_nouvelle_enable_flag_tt:0 "Unlocks the §Y'New Army'§! estate"
 
 
-EDG_BRI_march:0 "March"
-EDG_BRI_march_title:0 "March"
-EDG_BRI_march_title_plural:0 "Marches"
-EDG_BRI_march_long_desc:0 "Marches §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
-EDG_BRI_march_is_our:0 "$NAME|Y$ is our March"
-EDG_BRI_march_state_action:0 "Demand to Become March"
-EDG_BRI_march_state_action_title:0 "Demand to Become March"
-EDG_BRI_march_state_action_desc:0 "Demand to Become March"
-EDG_BRI_march_state_action_tooltip:0 "Demand to Become March"
-EDG_BRI_march_state_action_alert_tooltip:0 "Demand to Become March"
-EDG_Transforming_into_EDG_EDG_BRI_march_action_enable_flag_tt:0 "Unlocks diplomatic action §Y'Promote to March'§!\nWe can promote §YMarches§! and §YVassals§! to §YMarches§!.\nMarches §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_BRI_march:0 "Marquisate"
+EDG_BRI_march_title:0 "Marquisate"
+EDG_BRI_march_title_plural:0 "Marquisates"
+EDG_BRI_march_long_desc:0 "Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_BRI_march_is_our:0 "$NAME|Y$ is our Marquisate"
+EDG_BRI_march_state_action:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_title:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_desc:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_tooltip:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_alert_tooltip:0 "Demand to Become Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_enable_flag_tt:0 "Unlocks diplomatic action §Y'Promote to March'§!\nWe can promote §YMarches§! and §YVassals§! to §YMarquisates§!.\nMarquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
 
-EDG_Transforming_into_EDG_EDG_BRI_march_action:0 "Promote to March"
-EDG_Transforming_into_EDG_EDG_BRI_march_action_title:0 "Promote to March"
-EDG_Transforming_into_EDG_EDG_BRI_march_action_desc:0 "We will appoint them as our §YMarch§!. Marches §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
-EDG_Transforming_into_EDG_EDG_BRI_march_action_tooltip:0 "We will appoint them as our §YMarch§!. Marches §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
-EDG_Transforming_into_EDG_EDG_BRI_march_action_alert_tooltip:0 "Promote to March"
-EDG_Transforming_into_EDG_EDG_BRI_march_action_dialog:0 "They have promoted us to their §YMarch§!."
+EDG_Transforming_into_EDG_EDG_BRI_march_action:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_title:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_desc:0 "We will appoint them as our §YMarquisate§!. Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_Transforming_into_EDG_EDG_BRI_march_action_tooltip:0 "We will appoint them as our §YMarquisate§!. Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_Transforming_into_EDG_EDG_BRI_march_action_alert_tooltip:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_dialog:0 "They have promoted us to their §YMarquisate§!."
 
 
-EDG_mission_BRI_3_19_flag_tt:0 "All our current and future §YMarch§! subjects will receive the following bonuses:"
+EDG_mission_BRI_3_19_flag_tt:0 "All our current and future §YMarquisate§! subjects will receive the following bonuses:"
 EDG_building_give_marketplace_or_upgrate_effect_tt:0 "If no §YMarketplace§! is present, construct one. If a §YMarketplace§! or similar building exists, §Yupgrade§! it. If a §YStock Exchange§! already exists, gain §G2§! £production£ §Ybase production§!."
 EDG_mission_BRI_3_23_tt:0 "All qualifying provinces we own will gain §M1§! point of §Ybase production§! and receive the following modifiers:"
 EDG_mission_BRI_4_22_tt:0 "Every province we own with a §YCathedral§! will provide §G10§!£adm£ and §G2§! §Yprestige§!."
@@ -1011,8 +1016,8 @@ EDG_mission_BRI_3_17_desc:0 "A new standing army is crucial - this is Europe's m
 EDG_mission_BRI_3_18_title:0 "Rennes Martial Academy" #Rennes Military Academy
 EDG_mission_BRI_3_18_desc:0 "Military academies are vital for training officer candidates - we must build several properly."
 
-EDG_mission_BRI_3_19_title:0 "Establish the March"
-EDG_mission_BRI_3_19_desc:0 "The March is our new strategic system - led by an excellent, obedient general wholly devoted to the motherland."
+EDG_mission_BRI_3_19_title:0 "Establish the Marquisate"
+EDG_mission_BRI_3_19_desc:0 "The Marquisate is our new strategic system - led by an excellent, obedient general wholly devoted to the motherland."
 
 EDG_mission_BRI_3_21_title:0 "Social Petition"
 EDG_mission_BRI_3_21_desc:0 "Our citizens willingly contribute to the state, voluntarily surrendering their incomes."

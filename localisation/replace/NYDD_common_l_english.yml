@@ -237,7 +237,15 @@ desc_DD_deadman_personality: "This person has lost all hope in life and shows no
 
 DD_has_papal_modifier_ttt: "Has the §YInvested in Papacy§! modifier"
 
+if_they_accept: "£yes£If they §Gaccept§!:"
+
+DD_FRA_nation_title: "@FRA Rebuild France"
+DD_FRA_nation_desc: ""
+DD_BYZ_nation_title: "@BYZ Rebuild Byzantium"
+DD_BYZ_nation_desc: ""
+DD_BYZ_nation_tt: "§YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§!, and §YAchaea§! will be unified into §YGreek§! culture.\n"
+
  #music Theme Songs
- CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
- DD_amazing_grace: "01.@SPAAmazing Grace"
- DD_our_kindom_will_fall: "02.@AFROur Kindom Will Fall"
+CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
+DD_amazing_grace: "01.@SPAAmazing Grace"
+DD_our_kindom_will_fall: "02.@AFROur Kingdom Will Fall"
