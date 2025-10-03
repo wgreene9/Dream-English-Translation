@@ -9,7 +9,7 @@
  DD_colony_2_t: "Colonial Standardization"
  DD_colony_2_d: "With the rise of colonial fervor and the wave of exploration in the new world, our colonies have grown significantly. It is time to establish specialized colonial institutions and local government organizations to standardize colonial administration. We can attract adventurers, private merchants, and speculators to form trading companies to manage the colonies, or formally appoint governors to oversee them, bringing the colonies under direct government control."
  DD_colony_2a: "Continue Direct Control."
- DD_colony_2a_tt: "§YWe shall maintain direct control of our colonies.§!\n§gWe can still establish Colonial Nations at any time by clicking the button in the upper left corner of the corresponding colonial province.§!\n\nThe modifier '§YColonial Self-Rule§!' will now only apply for the initial §Y10§! years, after which it will be replaced by '§YColonial Standardization§!' with these effects:\n[local_governing_cost]: §G-10.0%§!\n[min_local_autonomy]: §R+25.0§!\n"
+ DD_colony_2a_tt: "§YWe shall maintain direct control of our colonies.§!\n§gWe can still establish Colonial Nations at any time by clicking the button in the upper right corner of the corresponding colonial province.§!\n\nThe modifier '§YColonial Self-Rule§!' will now only apply for the initial §Y10§! years, after which it will be replaced by '§YColonial Standardization§!' with these effects:\n[local_governing_cost]: §G-10.0%§!\n[min_local_autonomy]: §R+25.0§!\n"
  DD_colony_2a_modifier: "Colonial Standardization"
  desc_DD_colony_2a_modifier: "This province has been integrated into the mother country's administrative system, though distance still allows considerable self-governance."
  DD_colony_2b: "Establish Governorates."

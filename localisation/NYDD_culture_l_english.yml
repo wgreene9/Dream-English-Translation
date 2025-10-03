@@ -1,148 +1,264 @@
-﻿l_english:
- NYDD_fra_haiwai_culture: "Outremer" # Overseas
- potiou_french: "Poitevin"
- champine_french: "Champenois"
- lorrine_french: "Lorraine"
- picard_french: "Picard"
- provencal_french: "Provençal"
- languedocien_french: "Languedocien"
- berrich_french: "Berrichon"
- limousin_french: "Limousin"
- auvergnat_french: "Auvergnat"
+﻿# l_english:
+#  NYDD_fra_haiwai_culture: "Outremer" # Overseas
+#  potiou_french: "Poitevin"
+#  champine_french: "Champenois"
+#  lorrine_french: "Lorraine"
+#  picard_french: "Picard"
+#  provencal_french: "Provençal"
+#  languedocien_french: "Languedocien"
+#  berrich_french: "Berrichon"
+#  limousin_french: "Limousin"
+#  auvergnat_french: "Auvergnat"
+#  swiss_french: "Helvetian"
+#  rhinland_french: "Rhénan" #Rhenanie/Rhenanian
+#  dutch_french: "Pays-Bas" #Pays-Bas
+#  frank_french: "Frankish"
 
- romania_germanic: "Siebenbürgen"
+#  romania_germanic: "Siebenbürgen"
+#  markish_germanic: "Markish" #Marchian/Markish/Brandenburgisch
+#  schlesien_germanic: "Schlesien" #Silesian
+#  mecklenburgisch_germanic: "Mecklenburgisch"
+#  friso_saxon_germanic: "East Frisian"
+#  wallonien_germanic: "Wallonien" #Wallonian
+#  elsasserditsch_germanic: "Elsässerditsch" #Alsatian
+#  hessisc_germanic: "Hessian" #Hessian/Hessisch
+#  tirol_germanic: "Tyrolean"
+#  styria_germanic: "Styrian"
+#  salzburg_germanic: "Salzburgisch"
+
+#  east_germanic: "Ostdeutsch"
+#  russland_germanic: "Russländisch"
+#  netherland_germanic: "Niederländisch" # Netherlandish
+# #  frankish_germanic: "Fränkisch" # Frankish
+#  frankish_germanic: "West Frankish" # West Franconian?
+#  bohemia_germanic: "Bohemien" #Bohemian
+#  new_prussia_germanic: "Neo-Prussian"
+#  east_prussia_germanic: "East Prussian"
+#  Uralschweiz_germanic: "Uralschweiz" #Ural Swiss
+#  Winden_germanic: "Windisch" # Windenish
+#  Krain_germanic: "Krainer" # Carniolan
+#  Donau_germanic: "Donauschwaben" # Danubian
+#  Norwegen_germanic: "Norwegisch" # Norwegian
+#  Danemark_germanic: "Dänisch" # Danish
+#  Schweden_germanic: "Schwedisch" # Swedish
+#  Eisland_germanic: "Isländisch"
+#  Nordseedeutsch_germanic: "Nordseedeutsch" # North Sea German
+#  Sorben_germanic: "Sorben" # Sorbian
+#  west_saxons: "West Saxon"
  
+#  lusitania: "Lusitanian"
+#  asutuliyasi: "Asturian"
+#  valencian: "Valencian"
+#  malueka_iberian: "Mallorcan"
+#  africa_culture: "African"
+#  tolou_iberian: "Tolosan"
+
+#  adulusian_cg: "Andalusian"
+#  badahuosi_iberian: "Badajozi"
+#  granada_iberian: "Granadan"
+#  saiweiliya_iberian: "Ishbiliyan" # Sevillan
+
+#  tulaytulah: "Tulaytulah"
+#  balansiyyah: "Balansiyyah"
+#  burtughal: "Burtughal"
+#  castalla: "Castalla"
+#  liyyun: "Liyyun"
+#  xenxir: "Xenxir"
+#  mayurqa: "Mayurqa"
+#  barshiluna: "Barshiluna"
+#  yilliqiyya: "Yilliqiyya"
+#  ubaydah: "Ubaydah"
+#  banbalunah: "Banbalunah"
+
+#  franja: "Franja"
+
+#  adalusi: "Andalusi"
+#  muzhalaipu: "Mozarabic"
+#  tripoli_maghrebi: "Libyan"
+#  italyya: "Italyyan" # Italian
+#  mulabite: "Murabit" #Almoravid? Murabitun?
+#  siqilliya: "Siqilliya"
+
+#  kexijia_culture: "Corsican"
+
+#  anxi: "Anxi"
+
+#  cuman: "Cuman"
+
+#  DD_haiwai_cg: "Outremer" # Overseas
+#  maolitaniya_culture: "Mauretanian"
+#  africa_culture: "African"
+#  koj_culture: "Jerusalemite"
+#  ati_culture: "Antiochian"
+#  tri_culture: "Tripolitanian"
+#  ads_culture: "Edessan"
+#  xln_culture: "Cyrenaican"
+
+#  arabic_culture: "Arabic"
+
+#  DD_new_english_culture: "New English"
+
+#  northumbria_british: "Northumbrian"
+#  mercia_british: "Mercian"
+#  anglish_british: "Anglian"
+#  wessex_british: "West Saxon"
+
+#  yovik_sca: "Jórvík"
+#  novagrad_sca: "Holmgard"
+#  island_sca: "Isles"
+#  goltland_sca: "Gotlander"
+
+#  kaszubski_WS: "Kashubian"
+#  wend_WS: "Wendish"
+#  mazowsze_WS: "Masovian"
+#  vistulan_WS: "Vistulan"
+#  poznan_WS: "Poznanian" #should be Polan but indistinguishable from Polish in Chinese
+#  moravia_WS: "Moravian"
+
+#  beloozero_es: "Belozersky" # Beloozero
+#  bomorui_es: "Pomeranian"
+#  suzidaer_es: "Suzdalsky" # Suzdal
+#  tver_es: "Tverian"
+#  smolenskian_es: "Smolensky"
+#  polotskian_es: "Polotsky"
+#  pinsk_es: "Minsky"
+#  qieerwen_es: "Chervenite" # Cherven
+#  wolun_es: "Volhynian"
+#  halich_es: "Halychan" # Halych
+#  kiev_es: "Kievan"
+#  temutalagan_es: "Tmutarakantsi" # Tmutarakan
+#  xieweier_es: "Byelorussian" # Sever? Chernihivian?
+#  vologda_es: "Vologzhanin" # Vologda
+#  bolgar_es: "Bulgar"
+
+#  prussian_baltic: "Pruthenian"
+
+#  BYZ_moxiya: "Moesian"
+#  BYZ_dulasiweng: "Dyrrhachian"
+#  BYZ_yililiya: "Illyrian"
+#  BYZ_daqiya: "Dacian"
+#  BYZ_nixiya: "Nicaean"
+#  BYZ_aiaoniya: "Ionian"
+#  BYZ_lvdiya: "Lydian"
+#  BYZ_likaoniya: "Lycaonian"
+#  BYZ_fulijiya: "Phrygian"
+#  BYZ_pafulageniya: "Paphlagonian"
+#  BYZ_kapaduoxiya: "Cappadocian"
+#  BYZ_lvxiya: "Lycian"
+#  BYZ_agean: "Aegean"
+#  BYZ_qiliqiya: "Cilician"
+#  BYZ_krete: "Cretan"
+#  BYZ_cyp: "Cypriot"
+#  BYZ_galatia: "Galatian"
+#  BYZ_maixiya: "Mysian"
+# #  BYZ_aopuxijin: "Opsikion"
+# #  BYZ_bithynia: "Bithynian"
+
+#  BYZ_thrace: "Thracian"
+#  BYZ_macadon: "Thessalonican"
+#  BYZ_yibilusi: "Epirote"
+#  BYZ_sesali: "Thessalian"
+#  BYZ_yagaiya: "Achaean"
+#  DD_ELY_culture: "Elysian"
+#  DD_NMC_culture: "New Macedonian"
+#  DD_acadia_culture: "Arcadian"
  
- lusitania: "Lusitanian"
- asutuliyasi: "Asturian"
- valencian: "Valencian"
- malueka_iberian: "Mallorcan"
- africa_culture: "African"
- tolou_iberian: "Tolosan"
- morrisco_iberian: "Morisco"
+#  wallachia: "Wallachian"
+#  moldavian: "Moldavian"
+#  samogitia_baltic: "Samogitian"
 
- adulusian_cg: "Andalusi"
- badahuosi_iberian: "Badajozi"
- granada_iberian: "Granadan"
- saiweiliya_iberian: "Ishbiliyan" # Sevillan
+#  manx: "Manx"
+#  briton: "Breton"
+#  dunuonia: "Dumnonian"
+#  cymru: "Welsh"
 
- tulaytulah: "Tulaytulah"
- balansiyyah: "Balansiyyah"
- burtughal: "Burtughal"
- castalla: "Castalla"
- liyyun: "Liyyun"
- xenxir: "Xenxir"
- mayurqa: "Mayurqa"
- barshiluna: "Barshiluna"
- yilliqiyya: "Yilliqiyya"
- ubaydah: "Ubaydah"
- banbalunah: "Banbalunah"
+#  gaul: "Gallic"
+#  celtiberian: "Celtiberian"
+#  alba_gaelic: "Alban"
+#  belgae_gaelic: "Belgic"
+#  dunnonia: "Dumnonian"
+#  pretani: "Pretannic"
+#  tectosagia: "Tectosagian"
+#  calaecia: "Gallaecan"
 
- franja: "Franja"
+#  kesa_culture: "Khazar"
+#  hezhong_culture: "Transoxian"
+#  huihu_culture: "Uyghur"
 
- adalusi: "Andalusi"
- muzhalaipu: "Mozarabic"
- tripoli_maghrebi: "Libyan"
- italyya: "Italyyan" # Italian
- mulabite: "Murabit" #Almoravid? Murabitun?
- siqilliya: "Siqilliya"
+#  mongol_cg: "Mongol"
+#  xiting_cul: "Western Court" 
+#  hening_cul: "Hening"
+#  kaiping_cul: "Kaiping"
+#  beihai_cul: "Beihai"
 
- kexijia_culture: "Corsican"
+#  dihua_chi: "Di"
+#  liao_chi: "Liao"
+#  miao_chi: "Miao"
+#  dian_chi: "Dian"
 
- anxi: "Anxi"
-
- cuman: "Cuman"
-
- DD_haiwai_cg: "Outremer" # Overseas
- maolitaniya_culture: "Mauretanian"
- africa_culture: "African"
- koj_culture: "Jerusalemite"
- ati_culture: "Antiochian"
- tri_culture: "Tripolitanian"
- ads_culture: "Edessan"
- xln_culture: "Cyrenaican"
-
- arabic_culture: "Arabic"
-
- DD_new_english_culture: "New English"
-
- northumbria_british: "Northumbrian"
- mercia_british: "Mercian"
- anglish_british: "Anglian"
- wessex_british: "West Saxon"
-
- yovik_sca: "Jórvík"
- novagrad_sca: "Holmgard"
- island_sca: "Isles"
- goltland_sca: "Gotlander"
-
- beloozero_es: "Belozersky" # Beloozero
- bomorui_es: "Pomeranian"
- suzidaer_es: "Suzdalsky" # Suzdal
- tver_es: "Tverian"
- smolenskian_es: "Smolensky"
- polotskian_es: "Polotsky"
- pinsk_es: "Minsky"
- qieerwen_es: "Chervenite" # Cherven
- wolun_es: "Volhynian"
- halich_es: "Halychan" # Halych
- kiev_es: "Kievan"
- temutalagan_es: "Tmutarakantsi" # Tmutarakan
- xieweier_es: "Byelorussian" # Sever? Chernihivian?
- vologda_es: "Vologzhanin" # Vologda
- bolgar_es: "Bulgar"
-
- prussian_baltic: "Pruthenian"
-
- BYZ_moxiya: "Moesian"
- BYZ_dulasiweng: "Dyrrhachian"
- BYZ_yililiya: "Illyrian"
- BYZ_daqiya: "Dacian"
- BYZ_nixiya: "Nicaean"
- BYZ_aiaoniya: "Ionian"
- BYZ_lvdiya: "Lydian"
- BYZ_likaoniya: "Lycaonian"
- BYZ_fulijiya: "Phrygian"
- BYZ_pafulageniya: "Paphlagonian"
- BYZ_kapaduoxiya: "Cappadocian"
- BYZ_lvxiya: "Lycian"
- BYZ_agean: "Aegean"
- BYZ_qiliqiya: "Cilician"
- BYZ_krete: "Cretan"
- BYZ_cyp: "Cypriot"
- BYZ_galatia: "Galatian"
- BYZ_maixiya: "Mysian"
-#  BYZ_aopuxijin: "Opsikion"
-#  BYZ_bithynia: "Bithynian"
-
- BYZ_thrace: "Thracian"
- BYZ_macadon: "Thessalonican"
- BYZ_yibilusi: "Epirote"
- BYZ_sesali: "Thessalian"
- BYZ_yagaiya: "Achaean"
- DD_ELY_culture: "Elysian"
- DD_NMC_culture: "New Macedonian"
- DD_acadia_culture: "Arcadian"
- 
- wallachia: "Wallachian"
- moldavian: "Moldavian"
-
- manx: "Manx"
- briton: "Breton"
- dunuonia: "Dumnonian"
- cymru: "Welsh"
-
- kesa_culture: "Khazar"
- hezhong_culture: "Transoxian"
- huihu_culture: "Uyghur"
-
- mongol_cg: "Mongol"
- xiting_cul: "Western Court" 
- hening_cul: "Hening"
- kaiping_cul: "Kaiping"
- beihai_cul: "Beihai"
-
- dihua_chi: "Di"
- liao_chi: "Liao"
- miao_chi: "Miao"
- dian_chi: "Dian"
+# DD_culture_1_t: "Prussian Germanization"
+# DD_culture_1_d: "Through our relentless efforts, not only have increasing numbers of German immigrants arrived in the lands of Prussia, but the local native Prussians have also begun to gradually integrate into our Germanic culture. The tide of Germanization is sweeping across Prussia, transforming this once-neglected wilderness into the beautiful homeland of the virtuous and industrious German nation.\n\nThe intermingling of Germans and Prussians has gradually formed a unique local culture. Due to frequent attacks from other pagan tribes in the past, both the arriving Germans and the native Prussians are natural warriors. This martial spirit may become a significant asset in our pursuit of global influence."
+# DD_culture_1a: "Let us wait and see."
+#  DD_culture_2_t:""
+#  DD_culture_2_d:""
+#  DD_culture_2a:""
+#  DD_culture_2a_tt:""
+#  DD_culture_2b:""
+#  DD_culture_2b_tt:""
+#  DD_culture_3_t:""
+#  DD_culture_3_d:""
+#  DD_culture_3b:""
+#  DD_culture_3a:""
+#  DD_culture_4_t:""
+#  DD_culture_4_d:""
+#  DD_culture_4a:""
+#  DD_culture_5_t:""
+#  DD_culture_5_d:""
+#  DD_culture_5a:""
+#  DD_culture_5b:""
+#  DD_culture_6_t:""
+#  DD_culture_6_d:""
+#  DD_culture_6a:""
+#  DD_culture_7_t:""
+#  DD_culture_7_d:""
+#  DD_culture_7a:""
+#  DD_culture_8_t:""
+#  DD_culture_8_d:""
+#  DD_culture_8a:""
+#  DD_culture_9_t:""
+#  DD_culture_9_d:""
+#  DD_culture_9a:""
+#  DD_culture_10a:""
+#  DD_culture_10_t:""
+#  DD_culture_10_d:""
+#  DD_culture_10a:""
+#  DD_culture_11_t:""
+#  DD_culture_11_d:""
+#  DD_culture_11a:""
+#  DD_culture_12_t:""
+#  DD_culture_12_d:""
+#  DD_culture_12a:""
+#  DD_culture_13_t:""
+#  DD_culture_13_d:""
+#  DD_culture_13a:""
+#  DD_culture_14_t:""
+#  DD_culture_14_d:""
+#  DD_culture_14a:""
+#  DD_culture_15_t:""
+#  DD_culture_15_d:""
+#  DD_culture_15a:""
+#  DD_culture_16_t:""
+#  DD_culture_16_d:""
+#  DD_culture_16a:""
+#  DD_culture_17_t:""
+#  DD_culture_17_d:""
+#  DD_culture_17a:""
+#  DD_culture_18_t:""
+#  DD_culture_18_d:""
+#  DD_culture_18a:""
+#  DD_culture_19_t:""
+#  DD_culture_19_d:""
+#  DD_culture_19a:""
+#  DD_culture_20_t:""
+#  DD_culture_20_d:""
+#  DD_culture_20a:""

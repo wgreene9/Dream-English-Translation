@@ -122,9 +122,10 @@
 DD_FEZ_ideas: "Fez Ideas"
 DD_MOT_ideas: "Mauritania Ideas"
 
-DD_ARA_shizijunzhiwang_personality: "Crusader King"
+# DD_ARA_shizijunzhiwang_personality: "Crusader King"
 DD_FEZ_YIGENAXIU_personality: "Ignatius"
-DD_FEZ_YIGENAXIU_personality_desc: ""
+DD_FEZ_YIGENAXIU_personality_desc: "Ignacio, meaning 'flame' in Spanish, is the son of the former African heir Alfonso. He fled to the West and bided his time after the Kingdom of Africa was usurped by the bastard Roderigo. He longs for the day he can return to Tunisia and slay his enemy..."
+DD_FEZ_YIGENAXIU_personality_die_desc: "Life like a brilliant flower, death like a flame."
 
 DD_FEZ_shezheng_decision_title: "Colonize Macaronesia"
 DD_FEZ_shezheng_decision_desc: "The islands of Macaronesia have been thoroughly explored. The time has come to settle our most loyal subjects upon these lands."
@@ -177,7 +178,7 @@ DD_FEZ.1.t: "Supreme of Iberia"
 DD_FEZ.1.d: "None could have foreseen that after eight centuries of Reconquista, it would be us - the apparent interlopers - who would bring it to its final conclusion. Cunning opportunists ignited the wildfires of conflict, yet proved incapable of ending the chaos. Thus we came, and before the unstoppable blades of our Crusade, neither Muslim nor Christian, neither ancient kingdom nor upstart warlord could stand. Iberia's fractured past ends today.\n\nFrom this moment forward, Iberia shall know but one crown and one emperor - [Root.Monarch.GetName]."
 DD_FEZ.1.a: "The old days are gone, the conflicts settled."
 DD_FEZ.1.a_buff: "True Emperor of All Iberia"
-DD_FEZ.1.a.t: "Combines and doubles the effects of §Y\"Chivalric Spirit\"§!, §Y\"Moorish Estates\"§!, and §Y\"False Imperial Crown\"§! into §Y\"True Emperor of All Iberia\"§! until end of game, granting:\nCavalry Combat Ability: §G+20.0%§!\nHeathen Tolerance: §G+2.00§!\nYearly Legitimacy: §G+2.00§!\nGoverning Capacity: §G+300§!"
+DD_FEZ.1.a.t: "Combines and doubles the effects of §Y'Chivalric Spirit'§!, §Y'Moorish Estates'§!, and §Y'False Imperial Crown'§! into §Y'True Emperor of All Iberia'§! until end of game, granting:\nCavalry Combat Ability: §G+20.0%§!\nHeathen Tolerance: §G+2.00§!\nYearly Legitimacy: §G+2.00§!\nGoverning Capacity: §G+300§!"
 
 DD_FEZ.2.t: "Days of Yore"
 DD_FEZ.2.d: "Mauritania - a name both foreign and familiar. Founded by a hero, yet no monarch since has been willing to shoulder its legacy. To the common folk, Mauritania resembles less a real historical kingdom and more an ethereal legend, a beautiful fable - anything but an actual nation, a people, or an identity.\n\nBut winds change direction. Kingdoms long fallen may rise again, and the forgotten shall return."

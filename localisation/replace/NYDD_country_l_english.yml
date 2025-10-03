@@ -28,6 +28,7 @@
  CAJ: "Egypt"
  DLB: "Tripoli"
  XLN: "Cyrenaica"
+ ZNG: "Zengids"
 
  JLR: "Jalayir"
 
@@ -49,6 +50,7 @@
  NSE: "North Sea Empire"
  LOM: "Lombardy"
  YWK: "Jórvík"
+ AQT: "Aquitaine"
 
  EN1: "Sussex"
  EN2: "Kent"
@@ -84,6 +86,15 @@
 
  LBK: "Lübeck"
  RHL: "Rhineland"
+
+ GR1: "Germany"
+ GR2: "Germany"
+
+ GR7: "German South Africa"
+ GR8: "German East Africa"
+ GR9: "German Central Africa"
+
+ SW1: "Sweden"
 
  #Eastern European Steppe
  CMN: "Cumania"
@@ -178,6 +189,7 @@ GXC: "Guilin"
  CAJ_ADJ: "Egyptian"
  DLB_ADJ: "Tripolitan"
  XLN_ADJ: "Cyrenaican"
+ ZNG_ADJ:"Zengid"
 
  JLR_ADJ: "Jalayir"
  FDM_ADJ: "Fatimid"
@@ -198,6 +210,7 @@ GXC: "Guilin"
  NSE_ADJ: "North Sea Empire"
  LOM_ADJ: "Lombard"
  YWK_ADJ: "Jórvík"
+ AQT_ADJ:"Aquitanian"
  
  EN1_ADJ: "Sussex"
  EN2_ADJ: "Kent"
@@ -232,6 +245,15 @@ GXC: "Guilin"
 
  LBK_ADJ: "Lübeckian"
  RHL_ADJ: "Rhenish"
+
+ GR1_ADJ:"German"
+ GR2_ADJ:"German"
+
+ GR7_ADJ:"German South African"
+ GR8_ADJ:"German East African"
+ GR9_ADJ:"German Central African"
+
+ SW1_ADJ:"Swedish"
 
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"

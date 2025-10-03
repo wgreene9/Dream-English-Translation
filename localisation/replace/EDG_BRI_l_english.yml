@@ -1,6 +1,6 @@
 ﻿l_english:
-mechanic_EDG_enable_estate_edg_Interracial_ability:0 "Enable §Y\"Foreigners\"§! Estate"
-mechanic_EDG_enable_estate_edg_Interracial_ability_yes:0 "Enable §Y\"Foreigners\"§! Estate"
+mechanic_EDG_enable_estate_edg_Interracial_ability:0 "Enable §Y'Foreigners'§! Estate"
+mechanic_EDG_enable_estate_edg_Interracial_ability_yes:0 "Enable §Y'Foreigners'§! Estate"
 
 
 EDG_string_start_BRI:0 ""
@@ -227,7 +227,7 @@ EDG_mission_BRI_1_10_culture_tt:0 "§YScottish§! culture will transform into §
 EDG_mission_BRI_1_9_STRONG_MERCHANTS:0 "Control the English Channel"
 
 EDG_Northern_Parliament_enable_flag:0 "Unlocked the 'Northern Parliament of England' Government Reform"
-EDG_Northern_Parliament_enable_flag_tt:0 "Unlocks §MGovernment Reform§! §Y\"Northern Parliament\"§! with the following effects:"
+EDG_Northern_Parliament_enable_flag_tt:0 "Unlocks §MGovernment Reform§! §Y'Northern Parliament'§! with the following effects:"
 EDG_mission_BRI_2_7_flag_modifier:0 "Breton-speaking Court"
 EDG_mission_BRI_2_7_a_modifier: "French-speaking Court"
 EDG_mission_BRI_2_9_tt:0 "Qualifying provinces owned by us and our subjects will gain the following effects:"
@@ -731,6 +731,7 @@ EDG_flavor_BRI_mission.30.a:0 "\"Your name shall be Jeanne.\""
 EDG_flavor_BRI_mission.30.b:0 ""
 EDG_personality_BRI_white_rangna:0 "White Jeanne"
 EDG_personality_BRI_white_rangna_desc:0 "Gilles married a woman of unknown origins named Francesca Prelati, who bore him a daughter before mysteriously vanishing. After Francesca's disappearance, Gilles named the infant Jeanne. Following Gilles' assassination, the orphaned Jeanne endured a tragic childhood under the cruel regency of Charlotte. Yet despite these hardships, she never abandoned her faith in God or hope for a better life - a quality that would define her reign and earn her the epithet 'White Jeanne'."
+EDG_personality_BRI_white_rangna_die_desc: "The great White Jeanne has passed away. We will miss her..."
 
 EDG_flavor_BRI_mission.31.title:0 "Charlotte's Conspiracy"
 EDG_flavor_BRI_mission.31.desc:0 "In the Breton wilderness beneath the darkening sky, stars flickered like unextinguished hopes before dawn. The joyous laughter of Duke Gilles de Rais and his family echoed through a manor outside Retz, candlelight gently illuminating the ornate dining table. For one night, the ducal family knew perfect happiness - yet such bliss proves ever fleeting.\n\nAs merriment filled the halls, young Jeanne de Rais spotted soldiers encircling the estate. Gilles rushed out to confront them, only to freeze at a familiar face among the troops.\n\n'Charlotte? Why are you here?' Gilles paled, never imagining his closest friend and chief military advisor would lead armed men against his family.\n\n'Your incompetent rule ends tonight, Gilles!' Charlotte roared. 'You usurping traitor - you and your kin shall perish here! What right has a mere warrior, some petty baron of Nantes, to rule Brittany? You even lay with Satan's witch! I, Charlotte de Dreux, am Brittany's rightful ruler!'\n\nAt Charlotte's command, flames engulfed the manor. Gilles watched his family perish, unable to comprehend how betrayal had corroded their bond. The tragedy struck like sudden tempest, scattering happiness to ashes. As fire and smoke consumed all, seeds of hatred took root in darkness - Death itself seeming to claim their souls' keys.\n\nIn desperation, Gilles hid his children - including little Jeanne - beneath an unlit fireplace, barricading it with iron furnishings. As he placed the final piece, a burning beam crushed his spine. With dying breath, he gazed at Jeanne and whispered indistinct words she would never forget."

@@ -49,6 +49,7 @@ germanic = {
 	Eisland_germanic = {} #冰岛
 	Nordseedeutsch_germanic = {} #北海
 	Sorben_germanic = {} #索布，索尔本
+	west_saxons = {} #西撒克逊，不列颠
 }
 iberian = {
 	asutuliyasi = {}

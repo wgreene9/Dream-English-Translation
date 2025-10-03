@@ -1,8 +1,8 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = NYDD_BRA_march_reform
 government_rank = 2
 technology_group = western
-primary_culture = saxon
+primary_culture = markish_germanic
 religion = catholic
 capital = 50	# Berlin
 
@@ -29,7 +29,7 @@ change_estate_land_share = {
 	add_heir_personality = inspiring_leader_personality
 	queen = {
 		country_of_origin = SAX
-		name = "Catherine"
+		name = "Katharina"
 		dynasty = "von Wettin"
 		birth_date = 1421.1.1
 		death_date = 1476.8.23

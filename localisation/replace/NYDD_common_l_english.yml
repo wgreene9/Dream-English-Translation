@@ -93,7 +93,8 @@
 
  NYDD_subject_modifier_desc_tt: "until they are no longer our subject"
  NYDD_owns_province_get_tt: "Qualifying provinces receive:"
- NYDD_modifier_affect_future_province_tt: "Modifiers also apply to future qualifying provinces.\n"
+#  NYDD_modifier_affect_future_province_tt: "Modifiers also apply to future qualifying provinces.\n"
+ NYDD_modifier_affect_future_province_tt: "The above modifier also applies to future provinces in the corresponding region that meet the conditions.\n"
  NYDD_event_will_give_tt: "\n§TEvent will grant:§!"
  NYDD_get_from_target_province: "From target province"
  NO_PREVIEM_MISSION_ttt: "Not shown in §Mmission preview§!"
@@ -233,6 +234,7 @@ until_not_subject: "Until they are no longer our subject"
 DD_special_ruler_modifier: "Plot-Critical Ruler"
 desc_DD_special_ruler_modifier: "This monarch is a key figure in events and thus cannot die."
 DD_deadman_personality: "Heart Like Dead Ash"
+DD_deadman_personality_die_desc: "They've actually been dead for a long time." # He|She
 desc_DD_deadman_personality: "This person has lost all hope in life and shows no interest in anything."
 
 DD_has_papal_modifier_ttt: "Has the §YInvested in Papacy§! modifier"

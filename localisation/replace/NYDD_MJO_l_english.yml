@@ -33,7 +33,7 @@ british_ADJ: "England" #British
 DD_MJO_7_t: "Act of Union"
 DD_MJO_7_d: "Although we have successfully reclaimed the land of Britain, and our power once again extends over the Atlantic, we sadly realize that we can never return to the past. Although the bonds of our people still exist, they are deeply divided by cultural gaps. Their frightened eyes seem to speak of the arrival of another conqueror, and though we search in panic, we cannot find its trace. Finally, we realize that we can no longer be called a unified nation, and our political system probably cannot bear such a divided country.\n\nTherefore, upholding the sacred bonds of friendship and the principle of blood unity, our Act of Union will rebuild an Anglo Federation led by us. We were once one nation, one family, and now we will unite as close partners in this unbreakable covenant. No matter how history and time divide us, the same blood flows in our veins!"
 DD_MJO_7a: "Our hearts still beat for each other."
-DD_MJO_7a_tt: "@IRE§Y[IRE.GetName]§! and @ENG§Y[ENG.GetName]§! will become §YAnglo Federation Members§!. Each §YAnglo Federation Member§! will grant us: \nDiplomatic Relations: §G+1§!\nNational Manpower Modifier: §G+2.5%§!\nTrade Steering: §G+2.5%§!\n\n§YColonial Nations§! will also be considered §YAnglo Federation Members§!.\n"
+DD_MJO_7a_tt: "@IRE§Y[IRE.GetName]§! and @ENG§Y[ENG.GetName]§! will become §YAnglo Federation Members§!. Each §YAnglo Federation Member§! will grant us: \nDiplomatic Relations: §G+1§!\nNational Manpower Modifier: §G+2.5%§!\nTrade Steering: §G+2.5%§!\n\n§YColonial Nations§! will also be considered §YAnglo Federation Members§!, but will not grant diplomatic relations slots.\n"
 DD_MJO_7a_modifier: "Anglo Federation"
 DD_MJO_7a_modifier2: "Anglo Federation Member"
 DD_MJO_8_t: "English Conquest"
@@ -235,3 +235,6 @@ EN9_wnd_local_tt: "Assigning this region to @EN9§RWynedd faction§! will increa
 
 BRITAIN_NAME: "Britain"
 BRITAIN_NAME_ADJ: "British"
+
+DD_MJO_7a_modifier3: "Member of the Anglo Federation"
+DD_MJO_7a_modifier3_2: "Member of the Anglo Federation"

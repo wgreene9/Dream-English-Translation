@@ -87,6 +87,7 @@
  DD_ALG_13z_tt: "§YCannot be changed for the next 10 years.§!\n"
 
  DD_ALG_taxes_title: "@ALG@AFR Negotiations"
+ DD_ALG_taxes_desc: ""
  DD_ALG_taxes_ttt: "No negotiations in the past §Y10§! years"
  DD_ALG_more_tax_flag_10: "Low Taxes"
  DD_ALG_more_tax_flag_20: "Medium Taxes"
@@ -130,7 +131,8 @@
  DD_ALG_188_d: "Blood. To gain independence from our former overlords, we paid a heavy price. Now you and your hands are drenched in blood - you can no longer tell whether it comes from enemies or countrymen. 'All who take the sword shall perish by the sword.' You have come to understand this well. No matter - the Franks at least left us one thing worth learning."
  DD_ALG_188a: "Merely a return to the days of old."
 #  DD_ALG_18a_modifier: "The Final Gate"
- DD_ALG_18a_modifier: "Profound Realization"
+ DD_ALG_188a_modifier: "Profound Realization"
+ DD_ALG_18a_modifier: "Fresh Lesson"
  desc_DD_ALG_18a_modifier: "You've arrived before the gate at journey's end, only lacking the key of truth."
  desc_DD_ALG_188a_modifier: "You have understood the inevitable end of all things, lacking only the courage for final farewells."
 

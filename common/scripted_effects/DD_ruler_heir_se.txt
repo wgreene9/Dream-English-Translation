@@ -530,7 +530,7 @@ DD_FEZ_4_1 = {
 }
 YIGENAXIU = {
 	define_heir = {
-		name = "Ignatius"
+		name = "Ignatio" # Ignatius
 		dynasty = "de Vivar"
 		adm = 4
 		dip = 3
@@ -998,3 +998,356 @@ DD_VAL_Machiavelli_dip = {
 		skill = 2
 	}
 }
+DD_BRA_orange = {
+	define_ruler = {
+		dynasty = "van Oranje"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_64a = {
+	define_ruler = {
+		dynasty = "Rurikovich"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_64b = {
+	define_ruler = {
+		name = "Alexander"
+		dynasty = "von Hohenzollern"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_main
+}
+DD_BRA_65c = {
+	define_ruler = {
+		name = "Béla"
+		dynasty = "Hunyadi"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_61a = {
+	define_ruler = {
+		dynasty = "de Hauteville"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_57a = {
+	define_ruler = {
+		dynasty = "von Habsburg"
+		max_age = 40
+		min_age = 20
+	}
+}
+DD_BRA_56b = {
+	define_ruler = {
+		name = "Wilhelm 'the Bastard'"
+		dynasty = "von Hohenzollern-Coburg"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_kebao
+}
+DD_BRA_56a = {
+	define_ruler = {
+		dynasty = "Wessex"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_53a = {
+	define_ruler = {
+		dynasty = "Haraldsson"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_48a = {
+	define_ruler = {
+		dynasty = "de Capet"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_local_monarch = yes
+}
+DD_BRA_48b = {
+	define_ruler = {
+		name = "Wilhelm"
+		dynasty = "von Hohenzollern-Poitiers"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Poitiers
+}
+DD_BRA_49c = {
+	define_ruler = {
+		name = "Johann"
+		dynasty = "von Hohenzollern-Poitiers"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Poitiers
+}
+DD_BRA_Hohenzollern_main = {
+	define_ruler = {
+		dynasty = "von Hohenzollern"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_main
+	custom_tooltip = DD_BRA_Hohenzollern_main_tt
+}
+DD_BRA_Hohenzollern_Nassau = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Nassau"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Nassau
+	custom_tooltip = DD_BRA_Hohenzollern_Nassau_tt
+}
+DD_BRA_Hohenzollern_Nuremberg = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Nuremberg"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Nuremberg
+	custom_tooltip = DD_BRA_Hohenzollern_Nuremberg_tt
+}
+DD_BRA_Hohenzollern_Tyrol = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Tyrol"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Tyrol
+	custom_tooltip = DD_BRA_Hohenzollern_Tyrol_tt
+}
+DD_BRA_Hohenzollern_Swabia = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Schwaben"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Swabia
+	custom_tooltip = DD_BRA_Hohenzollern_Swabia_tt
+}
+DD_BRA_Hohenzollern_Oldenburg = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Oldenburg"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Oldenburg
+	custom_tooltip = DD_BRA_Hohenzollern_Oldenburg_tt
+}
+DD_BRA_Hohenzollern_Haigloch = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Haigerloch"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Haigloch
+	custom_tooltip = DD_BRA_Hohenzollern_Haigloch_tt
+}
+DD_BRA_Hohenzollern_Prussia = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Preussen"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Prussia
+	custom_tooltip = DD_BRA_Hohenzollern_Prussia_tt
+}
+DD_BRA_Hohenzollern_Sigmaringen = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Sigmaringen"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Sigmaringen
+	custom_tooltip = DD_BRA_Hohenzollern_Sigmaringen_tt
+}
+DD_BRA_Hohenzollern_Poitiers = {
+	define_ruler = {
+		dynasty = "von Hohenzollern-Poitiers"
+		max_age = 40
+		min_age = 20
+	}
+	DD_BRA_get_german_monarch = yes
+	set_country_flag = DD_BRA_Hohenzollern_Poitiers
+	custom_tooltip = DD_BRA_Hohenzollern_Poitiers_tt
+}
+DD_BRA_79a = {
+	#change_province_name = "Wilhelmshaven"
+	change_province_name = "Wilhelmshaven"
+}
+DD_BRA_monarch_effect_1471 = {
+	define_ruler = {
+		name = "Albrecht III 'Achilles'"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1499 = {
+	define_ruler = {
+		name = "Joachim I 'Nestor'"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1535 = {
+	define_ruler = {
+		name = "Joachim II 'Hector'"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1571 = {
+	define_ruler = {
+		name = "Georg I"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1598 = {
+	define_ruler = {
+		name = "Joachim III"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1608 = {
+	define_ruler = {
+		name = "Georg II"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1619 = {
+	define_ruler = {
+		name = "Georg III"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1640 = {
+	define_ruler = {
+		name = "Friedrich Wilhelm I"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1688 = {
+	define_ruler = {
+		name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1713 = {
+	define_ruler = {
+		name = "Friedrich Wilhelm II"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1740 = {
+	define_ruler = {
+		name = "Friedrich IV"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+DD_BRA_monarch_effect_1786 = {
+	define_ruler = {
+		name = "Augustus I"
+		dynasty = "von Hohenzollern"
+		max_age = 30
+		min_age = 20
+		change_mil = 1
+		change_dip = 1
+		change_adm = 1
+		claim = 100
+	}
+}
+

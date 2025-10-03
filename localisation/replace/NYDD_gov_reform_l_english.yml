@@ -16,7 +16,7 @@
  mechanic_new_iqta_yes: "§GEnhances§! the §YIqta§! government interaction '§YTolerant Rule§!', granting either §G1§! stability or §G50§!£adm£."
  mechanic_empower_BDH_mil_yes: "§GEnhances§! the §YMilitarization§! government interaction '§YRigorous Training§!', recruiting generals with §Ghigher§! army tradition."
  mechanic_ADU_zongdu_gov_yes: "§YViceroyalty§! subjects gain §YMarch§! benefits"
- mechanic_disables_estate_dhimmi_yes: "Silences the §YDhimmi§! estate"
+ mechanic_disables_estate_dhimmi_yes: "Disable the §YDhimmi§! estate"
  mechanic_no_scholar_adm_cost_yes: "Inviting scholars no longer costs £adm£§Yadministrative points§!"
  mechanic_reduce_BDH_mil_yes: "The discipline bonus from '§YAndalusian Militarization§!' is §R-5.0%§!"
  mechanic_ALG_AFR_zongdu_plus_yes: "When a candidate sent by Africa is elected, randomly gain §G1§! monarch skill point and receive:\nMinimum Autonomy: §G-5.0§!\nMonthly Autonomy Change: §G-0.1§!\nLiberty Desire: §G-25.0%§!\n"
@@ -28,17 +28,29 @@
  mechanic_NYDD_FRA_musketer_modifier2_yes: "Special unit '§Y§YMusketeers§!§!' gain:\nArmy Drill Gain: §G+50.0%§!\nArmy Maintenance: §R+50.0%§!\n"
  mechanic_need_crownland_to_annex_or_seize_land_yes: "Requires at least §Y50.0%§! §YCrown Land§! or §YSeize Land§! once before §RAnnexing Appanages§!"
  mechanic_annex_appanages_down_to_40_crownland_yes: "§YAnnex Appanages§! crown land requirement reduced by §G10.0%§!"
- mechanic__yes: ""
- mechanic__yes: ""
+mechanic_holy_war_gloden_bull_ga_yes: "Can ignore era requirements to select the Golden Bull '§YWar for God§!'"
+mechanic_DD_GER_minister_election_yes: "Elect a Chancellor every §Y5§! years"
+mechanic_DD_GER_minister_election_power_yes: "The ruler will be called '§YChancellor§!'"
+mechanic_unlock_german_union_subject_yes: "Unlocks the diplomatic interaction '§YEstablish Bundesstaat§!', allowing us to set §YPersonal Unions§! as §MBundesstaats§! (League Members)."
+mechanic_NYDD_BRA_kaiser_union_reform_tt_yes: "The government mechanism '§YCultural Integration§!' can now integrate more cultures."
+mechanic_unlock_empire_state_holy_order_yes: "Unlocks the local organization '§YImperial Domain§!'"
+mechanic_NYDD_BRA_nationist_reform_yes: "Provinces of the §YGermanic§! culture group owned by you or your subjects gain:\nLocal Manpower Modifier: §G+10.0%§!\nLocal Tax Modifier: §G+10.0%§!\nLocal Production Efficiency: §G+10.0%§!\n"
+mechanic_cheaper_coastal_province_core_DD_yes: "Coastal provinces gain §G-25.0%§! governing cost and have a §G-25.0%§! reduction to coring cost."
  mechanic__yes: ""
  mechanic__yes: ""
  DD_not_normal_election_tt: "Has a unique election mechanism"
  use_caliph_title: "Ruler uses the §YCaliph§! title"
+gov_coastal_government_DD: "Coastal Province"
+desc_gov_coastal_government_DD: "This is a coastal province. Penalties are reduced due to our government mechanism."
 
  MAHDI_COUNTRY: "Mahdi State"
  MAHDI: "Mahdi"
  TLC_union: "Habrullah League"
  EMIR_OF_EMIR: "Grand Emirate"
+
+FED_EMPIRE: "Federal Empire"
+GER_MINISTER: "Chancellor"
+
  # Government Mechanics
  ability_DD_AFR_holy_war_mechanic: "§OHoly War Zeal§!"
  DD_AFR_holy_war_power: "Holy War Zeal"
@@ -227,6 +239,9 @@ NYDD_kindom_of_crusader_reform_desc: "Though our nation was founded as a Crusade
  NYDD_BOH_bishopric_reform: "Bohemian Chapter"
  NYDD_BOH_bishopric_reform_desc: ""
 
+NYDD_latin_empire_reform: "Latin Empire"
+ NYDD_latin_empire_reform_desc:""
+
  NYDD_FRA_mil_reform: "French Revival Society"
  NYDD_FRA_mil_reform_desc: "The French Revival Society is a military organization composed of patriotic officers thirsting for revenge and war. Since the disastrous defeat at Albi, the shame and bitterness of France has lingered unbearably. A group of influential French soldiers resolved to stand forth and save their homeland from both external enemies and internal torment. France, inevitably, rushes fervently toward the abyss under the leadership of these bellicose soldiers."
  NYDD_FRA_ENG_union_reform: "Franco-English United Kingdom"
@@ -255,6 +270,17 @@ NYDD_FRA_ally_subject_reform_desc: "France's little friends."
 
 NYDD_FRA_napol_empire_reform: "Napoleonic Empire"
 NYDD_FRA_napol_empire_reform_desc: "The committee meant to defend the nation instead usurped state power under Marshal Napoleon's direction, while Napoleon himself proclaimed himself Caesar of the new state and announced the establishment of a new empire."
+
+NYDD_BRA_march_reform: "Margraviate of Brandenburg"
+NYDD_BRA_march_reform_desc: "When the House of Hohenzollern took over the Margraviate of Brandenburg from the Ascania, they never imagined they would become a turning point of an era. Since the North-South War, the German lands have been inhabited by a divided people, divided nations, and divided families. Either born to be kings, or worth nothing. Now, the Second North-South War also appears on the horizon. Can the Hohenzollern monarchs still protect their state and, amidst the calls for unification, heal this discordant empire?"
+NYDD_BRA_north_fed_reform: "North German Confederation"
+NYDD_BRA_north_fed_reform_desc: "The Chairman of the North German Confederation, or by a more common name—the King of the North, is clearly the most powerful ruler north of the Holy Roman Empire. By leading a united and powerful northern alliance, the confederation's leading state can naturally become the dominant power in the North, albeit at the cost of bearing the responsibility and destiny of one day confronting the Empire."
+NYDD_GER_fed_reform: "German Federation"
+NYDD_GER_fed_reform_desc: "As the first empire of the Germans headed to its grave, the Second German Empire rose from the ruins of the Holy Roman Empire. This new homeland for the German people unified the peoples of the South and the North, granting all German lands equal status. The nascent Germany is a federal empire composed of seven states—North Germany, Rhineland, Bavaria, Baden, Austria, Württemberg, Franconia, and the Special Region of Bohemia—with the head of the House of Hohenzollern serving as the Emperor of the Empire."
+NYDD_GER_fed_reform2: "German Imperial Government"
+NYDD_GER_fed_reform2_desc: "Through the Chancellor system and Imperial government reforms, Germany now possesses a mature modern political system. The Kaiser holds the power to appoint and dismiss the Chancellor, the President of the Imperial Diet, and the Imperial Chief Justice, as well as to veto and pass laws. The Chancellor, the President, and the Chief Justice exercise executive, legislative, and judicial powers on behalf of the Emperor. The leader of the Imperial government, the Chancellor, is elected by the Imperial Diet and recommended to the Emperor, while the cabinet is confirmed after the Chancellor selects a list of candidates for the Emperor's appointment. The Imperial Chancellor has evolved from the initial chief minister serving the monarch into the Empire's leader assisting the Emperor today, becoming one of the dual political centers of the German Empire."
+NYDD_BRA_navy_reform: "Imperial High Seas Fleet"
+NYDD_BRA_navy_reform_desc: "Ruled by a group of shrewd naval admirals, escorting the high seas for the Empire."
 
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
@@ -292,6 +318,10 @@ NYDD_FRA_noble_reform_desc: "As France's true powerholders, regional nobles esta
 NYDD_FRA_knight_reform: "French Fleur-de-Lys Order"
 NYDD_FRA_knight_reform_desc: "Not all members bear swords - indeed, most regional chapters of this Revival Society-led organization focus on administration. Through top-down militarization and monastic discipline, the Order manages the populace with absolute loyalty to France."
 
+ #1.1
+NYDD_BRA_kaiser_union_reform: "Kaiserbund" # Kaiser's League
+NYDD_BRA_kaiser_union_reform_desc: "The Kaiser's League, evolved from the German Confederation, is the extension of German hegemony beyond the Imperial borders. By admitting other dependent states as closely cooperating 'League Members', Germany can establish our order through more efficient, peaceful, and civilized means. These allied states will deeply integrate politically, economically, and culturally with our nation, fostering a sense of identity and solidarity with us."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
@@ -318,6 +348,9 @@ NYDD_FRA_decentralize_reform_desc: "The vacuum of central bureaucracy has become
 
 NYDD_FRA_centralize_reform: "Parisian Centralization"
 NYDD_FRA_centralize_reform_desc: "Through a Paris-led bureaucratic system, noble powers across France are gradually reclaimed by the crown. As authority consolidates, an efficient centralized government emerges from the aristocracy's failure, crowning Paris with victory."
+
+NYDD_BRA_fed_law_reform: "German Federal Constitution"
+NYDD_BRA_fed_law_reform_desc: "\"His Majesty the King of Brandenburg, representing the North German Federation, His Majesty the King of Bavaria, His Majesty the King of Württemberg, His Royal Highness the Archduke of Austria, His Royal Highness the Grand Duke of Baden, His Royal Highness the Grand Duke of Franconia, the plenipotentiary representatives of the Grand Duchy of Hesse south of the Main River and by the Rhine, and the Special Region of Bohemia, in order to protect the federal territory and laws, and to care for the interests of the German people, conclude a perpetual federation. This federation shall be named the German Empire and shall have the following constitution...\"\n\nThe promulgation of the Imperial Constitution finally laid the foundation for the unification of a divided nation, reintegrating the heterogeneous German lands under a centralized political entity. Although the various state regions and ethnic minorities still exhibit significant differences, the constitution stipulates that all Germans share a common citizenship, and the nationals of each state are considered residents of every other state in the federation. Germany is advancing towards becoming a truly unified nation."
 
  #t4
 NYDD_ASU_religion_happy_reform: "Spanish Inquisition"
@@ -389,6 +422,9 @@ NYDD_ADU_parliament_reform_desc: "The Islamic Council nominally leads under the 
 NYDD_ADU_BDH_local_reform: "Meritocratic Appointments"
 NYDD_ADU_BDH_local_reform_desc: "As our territory expands, the military government's administration has become... let's say 'inadequate' rather than 'perfect'. Our advisors suggest returning to older practices of allowing local officers discretionary governance. While effective, this will undoubtedly leave our troops too occupied with administration to maintain proper training."
 
+NYDD_BRA_fed_parliament_reform: "Imperial Diet and Federal Council"
+NYDD_BRA_fed_parliament_reform_desc: "The Federal Council and the Imperial Diet are the governing bodies of the Empire. The Federal Council is composed of representatives from the federal members; each federal member can appoint representatives to the Federal Council based on its voting rights, but all votes from a single state must be cast by only one representative. The Imperial Diet is elected by secret ballot under a proportional system, with each term lasting three years and being unpaid. The Imperial Diet, representing all German people, is responsible for legislation and resolutions on major imperial affairs, while the Federal Council has the power to veto bills proposed by the Imperial Diet and form special committees for specific significant matters."
+
 # mechanic_iberia_region_less_governing_cost_yes: "§YIberian§! region provinces gain §G-10.0%§! governing cost.\n"
 # mechanic_cheaper_coastal_province_core_DD_yes: "§YCoastal§! provinces gain the following effects:\nGoverning cost: §G-25.0%§!\nCore creation cost: §G-25.0%§!\n"
 # mechanic_NYDD_EN9_tow_party_reform_yes: "Candidates gain §G+1§! to all base abilities."
@@ -408,6 +444,9 @@ NYDD_FRA_zongcan_reform_desc: "The General Staff Headquarters comprises multiple
 #9 Legitimacy 
 NYDD_FRA_sunking_reform: "Sun King"
 NYDD_FRA_sunking_reform_desc: "French governance philosophy distills to three principles: The unquestioned decision-maker, the nexus of all power, and the divine core of order. France's ruler must be - or convincingly appear to be - this flawless savior. Through absolutist court rule, centralized bureaucracy, and iron-fisted military might, this never-setting Sun King must become the focal point of France and indeed all Europe. Whether this Sun King bears the title of monarch or another designation matters little."
+
+NYDD_BRA_nationist_reform: "National Frontier"
+NYDD_BRA_nationist_reform_desc: "Germans, long divided, lacked shared political experiences and a unified national political platform. Thus, they could only rely on cultural elements such as common bloodlines, language, history, and customs—a platform of the 'primordial nation' (Volk)—to overcome the barriers of state separation and construct a German cultural nation.\n\nTherefore, when the wave of nationalism rose in Europe, a sense of cultural community born from Germany's unique culture and ethnic traditions—a cultural movement led by elites like intellectuals and scholars, centered on the ethnic community—took the place of ordinary nationalism. It flourished within the political framework constructed for it by the Kaiser's League.\n\nGerman cultural nationalism disregards the divisions, at least the internationally recognized state borders on the map. It focuses on the German ethnic cultural community, defined by shared bloodlines, history, and culture, viewing the entire German cultural world as a single national whole—a unified national frontier, not merely the borders of the German Empire."
 
 #10
 

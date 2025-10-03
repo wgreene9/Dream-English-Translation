@@ -635,3 +635,5 @@ AFR_plantation_set_button_tt: "Establish Moorish Estate"
 AFR_plantation_set_button_tt2: "There are simply too many Moors. If their mad, tide-like uprisings cannot be contained, our nation will perish. Therefore, we must set an example - past kindness has led to the current rebellion. No more mercy. Confirmed Moors will be sent to local plantations to enjoy the final days of their lives.\n"
 AFR_plantation_set_button_tt3: "§YMoorish Estate§! will be §Gmore effective§! in provinces with §Yslaves§! as trade goods.\n"
 AFR_plantation_set_button_tt4: "§YThis modifier will be removed if the province's religion or culture changes.§!\n"
+
+AFR_north_africa_autonomy_ptm: "Autonomy Trigger"
