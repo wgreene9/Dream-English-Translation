@@ -251,3 +251,7 @@ DD_BYZ_nation_tt: "§YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§
 CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
 DD_amazing_grace: "01.@SPAAmazing Grace"
 DD_our_kindom_will_fall: "02.@AFROur Kingdom Will Fall"
+
+# Miscellaneous
+DD_ES_recalim_nov_title: "Reclaim Novgorod"
+DD_ES_recalim_nov_desc: ""

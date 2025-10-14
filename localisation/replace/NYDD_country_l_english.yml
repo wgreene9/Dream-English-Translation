@@ -14,6 +14,7 @@
  IBM: "Hispania"
  MGB: "Maghreb"
  EN9: "New England"
+ UMA: "Umayyads"
 
  SP9: "Iberia"
  SP8: "French Crownlands"
@@ -176,6 +177,8 @@ GXC: "Guilin"
  MGB_ADJ: "Maghrebi"
  EN9_ADJ: "New English"
  SP9_ADJ: "Iberian"
+ UMA_ADJ: "Umayyad"
+
  HCR_ADJ: "Holy Cross"
  SP8_ADJ: "French Crownland"
  SP7_ADJ: "United Kingdoms of Iberia"

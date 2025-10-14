@@ -25,6 +25,14 @@ DD_armenian_religion_religion_desc: "Originating from the influence of Gregory t
 rus_orthodox: "Rus' Orthodox"
 rus_orthodox_religion_desc: "Beginning with the Baptism of Rus', Kiev has always been one of the centers of the Orthodox world. After the fall of Byzantium due to the Fourth Crusade, the Rus' Patriarchate became de facto independent, no longer subject to the Ecumenical Patriarch of Constantinople. Through a series of Slavic creations and developments, the Rus' Orthodox Church has become the de facto dominant force in Eastern Europe."
 
+icon_rus_fulajimier: "Icon of Saint Vladimir"
+icon_rus_fulajimier_desc: ""
+icon_rus_fulajimier_ttt: "The §YSaint Vladimir§! Icon has been activated"
+
+icon_rus_alex: "Icon of Saint Alexander"
+icon_rus_alex_desc: ""
+icon_rus_alex_ttt: "The §YSaint Alexander§! Icon has been activated"
+
 greek_orthodox: "Greek Orthodox"
 greek_orthodox_religion_desc: "Since the division of the Roman Empire, the Eastern Roman Empire inherited its portion of the church, with its theology rooted in the early Church Fathers and Byzantine culture. With the fall of Byzantium, the Orthodox world gradually moved towards complete fragmentation, and the authority of the Ecumenical Patriarch of Constantinople has waned. Today, the influence of the Greek Orthodox Church is mainly present in the Greek region."
 
