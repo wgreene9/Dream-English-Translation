@@ -45,6 +45,8 @@
  CST: "Constantinople"
 
  THR: "Thrace"
+ LSW: "Lesbos"
+
 # Europe
  PTU: "Poitou"
  DLW: "Danelaw"
@@ -162,6 +164,22 @@ JOO: "Jiaozhou"
 SNN: "Shaozhou"
 GXC: "Guilin"
 
+#Liandaomen (Circuits)
+HM0:"Nanhai Liandao"
+HM1:"Yungui Liandao"
+HM2:"Jinghu Liandao"
+HM3:"Bashu Liandao"
+HM4:"Yanliao Liandao"
+HM5:"Shanyou Liandao"
+HM6:"Guanlong Liandao"
+HM7:"Haidai Liandao"
+HM8:"Zhongyuan Liandao"
+HM9:"Tianshan Liandao"
+
+#Japan
+JP1:"Soga"
+JP2:"Daijo-kan"
+
 # Region: North Africa, Iberia
  AFR_ADJ: "African"
  MOT_ADJ: "Mauretanian"
@@ -207,6 +225,8 @@ GXC: "Guilin"
  CST_ADJ: "Constantinopolitan"
 
  THR_ADJ: "Thracian"
+ LSW_ADJ: "Lesbian"
+
  # Europe
  PTU_ADJ: "Poitou"
  DLW_ADJ: "Danelaw"
@@ -320,3 +340,19 @@ LII_ADJ: "Li"
 JOO_ADJ: "Jiaozhou"
 SNN_ADJ: "Shaozhou"
 GXC_ADJ: "Guilin"
+
+#Liandaomen (Circuits)
+HM0_ADJ:"Nanhai"
+HM1_ADJ:"Yungui"
+HM2_ADJ:"Jinghu"
+HM3_ADJ:"Bashu"
+HM4_ADJ:"Yanliao"
+HM5_ADJ:"Shanyou"
+HM6_ADJ:"Guanlong"
+HM7_ADJ:"Haidai"
+HM8_ADJ:"Zhongyuan"
+HM9_ADJ:"Tianshan"
+
+#Japan
+JP1_ADJ:"Soga"
+JP2_ADJ:"Daijo-kan"

@@ -45,6 +45,8 @@
  Nordseedeutsch_germanic: "Nordseedeutsch" # North Sea German
  Sorben_germanic: "Sorben" # Sorbian
  west_saxons: "West Saxon"
+
+ hungarian_germanic:"Hungarian" #Ungarisch?
  
  lusitania: "Lusitanian"
  asutuliyasi: "Asturian"
@@ -114,6 +116,7 @@
  vistulan_WS: "Vistulan"
  poznan_WS: "Poznanian" #should be Polan but indistinguishable from Polish in Chinese
  moravia_WS: "Moravian"
+ pannonia_WS:"Pannonian"
 
  beloozero_es: "Belozersky" # Beloozero
  bomorui_es: "Pomeranian"
@@ -132,6 +135,7 @@
  bolgar_es: "Bulgar"
 
  prussian_baltic: "Pruthenian"
+ samogitia_baltic: "Samogitian"
 
  BYZ_moxiya: "Moesian"
  BYZ_dulasiweng: "Dyrrhachian"
@@ -165,11 +169,11 @@
  
  wallachia: "Wallachian"
  moldavian: "Moldavian"
- samogitia_baltic: "Samogitian"
+ szekelys: "Székelys"
 
  manx: "Manx"
  briton: "Breton"
- dunuonia: "Dumnonian"
+#  dunuonia: "Dumnonian"
  cymru: "Welsh"
 
  gaul: "Gallic"

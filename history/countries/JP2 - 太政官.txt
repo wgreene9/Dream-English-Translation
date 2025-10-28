@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = NYDD_shogunate
+technology_group = chinese
+primary_culture = togoku
+religion = shinto
+government_rank = 2
+capital = 1028
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Fusatsugu"
+		dynasty = "Kamakura"
+		birth_date = 1402.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}

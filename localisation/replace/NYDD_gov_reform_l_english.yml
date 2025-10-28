@@ -462,7 +462,7 @@ NYDD_ILK_subject_reform_desc: ""
 
 NYDD_TIM_hezhong_reform: "Transoxiana Overseer's Office"
 NYDD_TIM_hezhong_reform_desc: ""
-NYDD_junzhen_reform: "Military Garrison System"
+NYDD_junzhen_reform: "Military Garrison" # Military Garrison System
 NYDD_junzhen_reform_desc: ""
 
 JUNZHANG: "Military Commander"
@@ -476,14 +476,19 @@ NYDD_yuanshuai_reform: "Marshal's Office"
 NYDD_yuanshuai_reform_desc: ""
 NYDD_zongtongfu_reform: "Presidential Office"  
 NYDD_zongtongfu_reform_desc: ""
-NYDD_xingzhitai_reform: "Mobile Administration Bureau"
+NYDD_xingzhitai_reform: "Administrative Bureau" # Mobile Administration Bureau
 NYDD_xingzhitai_reform_desc: ""
-NYDD_tusi_reform: "Tusi Chieftain System"
+NYDD_tusi_reform: "Tusi Chiefdom" # Tusi Chieftain System
 NYDD_tusi_reform_desc: ""
-NYDD_fanwang_reform: "Frontier Princes"
+NYDD_fanwang_reform: "Frontier Princedom"
 NYDD_fanwang_reform_desc: ""
-NYDD_biansai_reform: "Borderland Frontier Princes"
+NYDD_biansai_reform: "Borderland Frontier Princedom"
 NYDD_biansai_reform_desc: ""
+
+NYDD_shogunate:"Daijo-kan United Shogunate"
+NYDD_shogunate_desc:""
+NYDD_suwo_reform:"Soga Dynasty"
+NYDD_suwo_reform_desc:""
 
 YUANSHUAI: "Marshal"
 DAYUANSHUAI: "Grand Marshal"
@@ -497,11 +502,15 @@ FUREN: "Lady"
 ZHANGFU: "Lord"
 MIANSHOU: "Facial Guard"
 HUANGHOU: "Empress"
-ZHUHOU: "Feudal Lords"
+ZHUHOU: "Feudal Lordship"
 TIANCHAO: "Celestial Dynasty"
 TIANZI: "Son of Heaven"
 HUANGCHAO: "Imperial Dynasty"
 HUANGDI: "Emperor"
+
+DAIJIN: "Daijin"
+KANPAKU: "Kampaku"
+UNITE_SHOGUNATE: "United Shogunate"
 
 # Cultural Assimilation Reforms
 NYDD_ADU_law_reform2_turko_semitic_assimilated: "Unified Homeland"

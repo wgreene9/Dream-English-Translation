@@ -1,0 +1,29 @@
+government = monarchy
+government_rank = 1
+primary_culture = BYZ_agean
+religion = greek_orthodox
+technology_group = eastern
+capital = 4700
+
+1444.1.1 = {
+	monarch = {
+		name = "Konstantinos I"
+		dynasty = "Palaiologos"
+		birth_date = 1405.2.8
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+
+	#Caterina Gattilusio
+	queen = {
+        name = "Caterina"
+        dynasty = "Gattilusio"
+        birth_date = 1410.10.14
+        death_date = 1463.11.29
+        female = yes
+        adm = 4
+        dip = 2
+        mil = 2
+    }
+}

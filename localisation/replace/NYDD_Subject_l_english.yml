@@ -1,5 +1,13 @@
 ﻿l_english:
 
+DD_shouhu_subject: "Shugo"
+DD_shouhu_subject_title:0 "Shugo"
+DD_shouhu_subject_title_plural:0 "Shugos"
+DD_shouhu_subject_is_our:0 "$NAME|Y$ is our Shugo."
+DD_shouhu_subject_long_desc:0 "A Shugo is a subject state similar to a vassal, functioning identically in effect. The primary distinctions are that they do not consume diplomatic relations and their liberty desire is calculated separately. A Shugo is a regional samurai leader appointed by the Japanese central government to the position of Shugo, responsible for administering the granted territories."
+DD_shouhu_subject_no_overlord_dow:0 "You cannot declare war on your Shugo."
+DD_shouhu_subject_overlord_title:0 "Overlord"
+
 DD_zongdu_muslim_subject: "Governorate"
 DD_zongdu_muslim_subject_title:0 "Governorate"
 DD_zongdu_muslim_subject_title_plural:0 "Governorates"
@@ -38,13 +46,13 @@ DD_FRA_appanage2_title_plural:0 "Privileged Appanages"
 DD_FRA_appanage2_is_our:0 "$NAME|Y$ is our Privileged Appanage."
 DD_FRA_appanage2_long_desc:0 "A Privileged Appanage is a highly autonomous fiefdom that remains virtually independent. They do not join our wars, can conduct normal diplomacy with other appanages, and we must pay them §G5%§! of our income as compensation.\n"
 DD_FRA_appanage2_no_overlord_dow:0 "You cannot declare war on your Privileged Appanage."
-DD_FRA_appanage2_overlord_title:0 "Suzerain"
+DD_FRA_appanage2_overlord_title:0 "Overlord"
 
 DD_german_fed_subject: "German Confederate State"
 DD_german_fed_subject_title:0 "German Confederate State"
 DD_german_fed_subject_title_plural:0 "German Confederate States"
 DD_german_fed_subject_is_our:0 "$NAME|Y$ is our German Confederate State."
-DD_german_fed_subject_long_desc:0 "A German Confederate State is a nominally controlled subject that contributes no resources, only joins wars when called upon, and may declare war on other confederate states."
+DD_german_fed_subject_long_desc:0 "A German Confederate State is a nominally controlled subject that contributes no resources, only joins wars when called upon, and may declare war independently."
 DD_german_fed_subject_no_overlord_dow:0 "You cannot declare war on your German Confederate State."
 DD_german_fed_subject_overlord_title:0 "Confederation President"
 

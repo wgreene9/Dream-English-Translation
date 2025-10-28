@@ -10,11 +10,13 @@ add_harmonized_religion = mahayana
 
 1444.1.1 = {
 	monarch = {
-		name = "Su"
+		name = "Su 'Mingzhi'" # the Resounding One? Voice of the Realm?
 		dynasty = "Xiao"
 		birth_date = 1424.1.1
 		adm = 3
 		dip = 6
 		mil = 3
 	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = reformist_personality
 }

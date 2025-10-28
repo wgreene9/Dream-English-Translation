@@ -1,3 +1,30 @@
+10.12.2025
+- Implemented setup and content for the China, Mongolia, and Japan regions.
+- Brandenburg's German Settlement mechanic will now only spread to adjacent provinces if they are of Germanic culture or are already Settlements.
+- German Settlements will now retain their level when released as subject nations via events.
+- The "Princely Autonomy" mechanic no longer applies to Brandenburg's primary culture.
+- Hungary's succession events will now trigger as notifications visible to all.
+- Chagatai can no longer form Persia.
+- The AI will no longer change province culture.
+- Fixed several known bugs.
+- Other minor fixes and adjustments.
+
+10.06.2025
+National Day + Mid-Autumn Festival Update
+
+1. Liandao Ported
+- Fight against the evil Grand Marshal who usurped the Mandate of Heaven and restore China!
+- This time, only the good ending is available.
+
+2. Other
+- Added a new diplomatic path for France to form an alliance with Brandenburg.
+- Added the Lesbos Pirate state.
+- Protestantism and Imperial Catholicism are now triggered by separate, independent events. (The Religious War can still only trigger once).
+- Bohemia will no longer remain neutral in the Second North-South War due to not considering itself German.
+- German Tension will no longer be displayed after the conclusion of the North-South War.
+- War Enthusiasm for the Second North-South War has been changed to 25.
+- Other minor fixes and adjustments.
+
 10.01.25
 - Added a new decision for forming Umayyads (available to Menorca and Tlemcen).
 - Fixed a bug where Brittany would not lose all its Appanages after forming France.

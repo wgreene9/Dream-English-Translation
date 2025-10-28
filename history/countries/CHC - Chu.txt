@@ -9,7 +9,7 @@ capital = 681
 add_harmonized_religion = confucianism
 add_harmonized_religion = animism
 
-444.1.1 = {
+1444.1.1 = {
 	monarch = {
 		name = "Dexiao"
 		dynasty = "Shi"

@@ -8,7 +8,7 @@
  DD_FRA_2_t: "The Unification War of France"
  DD_FRA_2_d: "The rebellion of the Cathar heresy remains an indelible stain upon the French nation, which sees itself as the heir to the Franks and Charlemagne—a divine retribution from God, with the southern lands destined to burn in the flames of sin. The atrocities of the heretics brought suffering, while the incompetence of the royal court and the disloyalty of southern dukes allowed the imperial court to extend their bloodstained hands into rightful French territories.\n\nNow, imperial intervention has finally bogged down in quagmire. Forces from all sides begin plotting to establish new authority over these blessed fleur-de-lis lands. The Parisian court has proclaimed sovereignty over the south—the chariot of French unification is unstoppable. Meanwhile, southern lords eagerly prepare northern campaigns after independence, amassing their own strength.\n\nRegardless, an unprecedented civil war is inevitable. Who shall claim the supreme glory of unifying France and the crown of fleur-de-lis? The Angevin king holding Paris' wealthy lands, or the ambitious southern dukes full of potential? The French people await with bated breath, while all Christendom watches closely."
  DD_FRA_2a: "God Save France!"
- DD_FRA_2a_tt: "Unlocks the §Y«Unification War of France»§! Casus Belli, allowing annexation of French provinces with §Greduced§! war score cost and aggressive expansion.\nOccupying §YFrench§! region provinces with this CB grants §Gautonomous territorial cores§!."
+ DD_FRA_2a_tt: "Unlocks the '§YUnification War of France§!' Casus Belli, allowing annexation of French provinces with §Greduced§! war score cost and aggressive expansion.\nOccupying §YFrench§! region provinces with this CB grants §Gterritorial cores§!."
  DD_FRA_2b:"Perhaps we could invite the southern dukes to negotiate a peaceful resolution..."
  DD_FRA_2b_tt:"§OBut what price are we willing to pay?§!\n"
  DD_FRA_2b_tt2:"At least §Y2§! countries must agree to begin §Ynegotiations§!.\n"
@@ -194,7 +194,7 @@ DD_FRA_33_d2:"The French nobility has always been one of the kingdom's greatest 
 DD_FRA_33a:"Let us begin."
 DD_FRA_33a_tt1:"§YThe Duke of Brittany§! has chosen to remain neutral for unknown reasons.\n"
 DD_FRA_33a_tt3:"Modified privilege '§YPowerful French Dukes§!':\nNoble influence: §Y+5.0%§!\n"
-DD_FRA_33a_tt4:"Required crown territory to annex §Yfiefdoms§! reduced by §G10.0%§!.\n"
+DD_FRA_33a_tt4:"Required crownland to annex §Yfiefdoms§! reduced by §G10.0%§!.\n"
 
 DD_FRA_34_t:"The Fate of Lesser Britain"
 DD_FRA_34_d:"The Bretons are descendants of Celtic tribes from the British Isles. Though centuries of Roman rule and assimilation following the conquest of Gaul have thoroughly Gallicized the Breton peninsula, they retain distinct Celtic traditions setting them apart from native Frenchmen.\n\nNow that we've regained control of Lesser Britain, we must restart Breton reintegration. We cannot tolerate such fiercely independent people at our doorstep - the inhabitants of Lesser Britain must join France's grand march. The only question remains: should we proceed gradually or with an iron fist?"
@@ -457,6 +457,7 @@ NED_MIL:"Low Countries Military District"
 NED_MIL_ADJ:"Low Countries Military District"
 
 DD_FRA_46_t:"King of the North"
+DD_FRA_46_d2: "Today, the French nobility and the victors of North Germany gather together to discuss the future division of influence. As the victor of the Second North-South War, [north_fed_leader.GetName]'s [north_fed_leader.Monarch.GetTitle] [north_fed_leader.Monarch.GetName] grows aggressive, arrogantly declaring that Germany is the land of Germans and that France has no right to interfere in German territory, completely forgetting our crucial assistance during the civil war.\n\n[Root.Monarch.GetName] simply waved his hand. The Duke of Saxony, who had been waiting nearby, rushed forward with his guards. Amid the screams of [north_fed_leader.Monarch.GetTitle] [BRA.Monarch.GetName]—'I came for a meeting, what are you doing!'—he was forcibly removed from the proceedings. And [Root.Monarch.GetName]'s loyal followers shall be rewarded—by becoming the new King of the North."
 DD_FRA_46_d:"Today our armies cross the Rhine, extending French glory ever farther. German lands, long ravaged by war and tyranny, remain mired in endless quarrels - these Germans understand nothing of governance. Let we enlightened French bring civilization and order to these primitive barbarians. What Germans cannot achieve, France shall accomplish for them.\n\nNorthern Germany's chronic disorder shall end. These greedy, incompetent tyrants will be expelled as we bring true peace and order - under French leadership. The beastly era of territorial bloodshed concludes. Northern Germany shall know lasting peace - Pax Francia!"
 
 DD_FRA_46a:"Vive la France!"
@@ -586,15 +587,23 @@ DD_FRA_57_d:"The boy squeezed excitedly through the crowd until soldiers gently 
 DD_FRA_57a:"We live not in yesterday's sorrows, but facing tomorrow's dawn."
 
 DD_FRA_59_t:"The Revenge Pact"
-DD_FRA_59_d:"The Holy Roman Empire appears glorious, but grows isolated through endless expansion. Many watch and covet, awaiting its fall. Among them - North German allies exiled centuries ago during Hohenstaufen succession struggles, now forced to bitterly witness imperial resurgence. We share this enemy: the Hohenstaufen Empire. Let us propose an agreement with North German leaders, preparing joint action against our common foe."
+# DD_FRA_59_d:"The Holy Roman Empire appears glorious, but grows isolated through endless expansion. Many watch and covet, awaiting its fall. Among them - North German allies exiled centuries ago during Hohenstaufen succession struggles, now forced to bitterly witness imperial resurgence. We share this enemy: the Hohenstaufen Empire. Let us propose an agreement with North German leaders, preparing joint action against our common foe."
+DD_FRA_59_d:"The Holy Roman Empire appears glorious and triumphant, yet its relentless barbaric expansion is gradually isolating it. Countless observers wait, covet, and anticipate its downfall. Coincidentally, in Northern Germany, there exists a group of avengers who are unwilling to accept defeat. A century ago, they were expelled from the Empire following that ambitious war for the throne against the Hohenstaufens. Now, isolated in the desolate northern reaches, they painfully watch the Empire's rise. Clearly, we share a common enemy—the Empire under Hohenstaufen control, and that detestable, nauseating Iron Century. Therefore, we should attempt to reach an agreement with the Northern German leadership, preparing for a future joint assault on the Empire."
 DD_FRA_59a:"Extend the invitation."
 DD_FRA_59b:"Unnecessary - we'll handle the Empire alone."
+DD_FRA_59a_tt: "£yes£If they §Gaccept§!:\n§Y[Root.GetName]§! will intervene in the §YSecond North-South War§! on the side of the §YNorth German Confederation§!.\n"
+DD_FRA_599_t: "Pact of Vengeance"
+DD_FRA_599_d: "The French from distant Paris propose a secret pact to ally against the Holy Roman Empire. We are all aware of France's boundless ambition, but alone we cannot withstand the Empire. Perhaps this is a necessary evil?"
+DD_FRA_599a: "For a shared goal!"
+DD_FRA_599a_tt: "£yes£If we §Gaccept§!:\n§Y[Root.GetName]§! will intervene in the §YSecond North-South War§! on the side of the §YNorth German Confederation§!.\n\n§RThis will also damage our prestige among the German princes, making them less willing to support us.§!\n"
+DD_FRA_599a_op: "Pact of Vengeance"
+DD_FRA_599b: "Let's reconsider."
 
 DD_FRA_601_t:"Severing the Root of Evil"
 DD_FRA_601_d:"Once the Germans were but nameless subjects groveling at Charlemagne's feet - pathetic Germanic tribes, barbarians devoid of nobility. We gave them civilization, order, and statecraft, yet these ungrateful jackals betrayed their benefactors, boasting their tainted blood as noble proof. These foolish savages abandoned plows for swords turned against their masters.\n\nWe shall rebury these pretentious clowns beneath the earth. Fire will scorch their fields, blood will poison their rivers, and severed heads will replace city lights. The Franks' gift of freedom was pure folly - now French steel will crush their petty borders, dragging these delusional wretches from their laughable 'Empire'. We'll eradicate the German menace; henceforth, all authority flows solely from France!"
 DD_FRA_601a:"Salt shall follow sulfur and flame."
-DD_FRA_601b:"Germans shall remain our humble servants."
-DD_FRA_601c:"Our armies will teach obedience and humility."
+# DD_FRA_601b:"Germans shall remain our humble servants."
+# DD_FRA_601c:"Our armies will teach obedience and humility."
 
 DD_FRA_60_t:"Southern Negotiations"
 DD_FRA_60_d:"We waited hopefully for an evening that would never come. The southern dukes hold not even a shred of respect for us. If peace cannot bring victory, then we must meet on the battlefield."
@@ -1170,6 +1179,11 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
  NYDD_FRA_our_channel_title:"Our Channel"
  NYDD_FRA_our_channel_desc:"Behold, the Channel contains none but our ships - is this not what we might call 'Mare Nostrum'?"
 
+NYDD_FRA_north_german_ttt:"Formed the '§YPact of Vengeance§!' and won the §YSecond North-South War§!"
+NYDD_FRA_north_german_tt2:"Unlocks the decision '§YInfiltrate North Germany§!'.\n"
+NYDD_FRA_north_german2_ttt:"§Y[north_fed_leader.GetName]§!'s trust towards §Y[Root.GetName]§! reaches §G80§! OR has a §Y50§! spy network from §Y[Root.GetName]§!"
+NYDD_FRA_north_german2_tt2:"§Y[north_fed_leader.GetName]§!'s trust towards §Y[Root.GetName]§! reaches §G70§! OR has a §Y30§! spy network from §Y[Root.GetName]§!"
+
  NYDD_FRA_army_modifier:"Army Preparations"
  NYDD_FRA_england_tt:"Unlocks the Great Project '§YTower of London§!' to commemorate our §Ggrand achievements§!.\n"
  NYDD_FRA_england_modifier:"Integrating the English"
@@ -1450,8 +1464,8 @@ NYDD_FRA_deal_with_subject_desc:"The French nobility have become the greatest ob
 NYDD_FRA_chambin_title:"Final Act of the Farce"
 NYDD_FRA_chambin_desc:"The noble problem that has plagued France for years must finally end. Through gradual reforms and careful application of carrots and sticks, the nobility have at last agreed to amend their charters."
 
-NYDD_FRA_crash_wool_union_title:"Dismantle the Wool Pact"
-NYDD_FRA_crash_wool_union_desc:"Upon hearing of Paris' bold plans for the south, the southern dukes in panic formed a defensive alliance called the 'Wool Pact' to resist French incursion."
+NYDD_FRA_crash_wool_union_title:"Dismantle the Golden Fleece"
+NYDD_FRA_crash_wool_union_desc:"Upon hearing of Paris' bold plans for the south, the southern dukes in panic formed a defensive alliance called the 'Golden Fleece Pact' to resist French incursion."
 
 NYDD_FRA_lorrine_fort_title:"Eastern Ramparts"
 NYDD_FRA_lorrine_fort_desc:"As our border with the Empire, we must build impregnable defenses in Lorraine. After all, the Empire wouldn't possibly go around through somewhere else... right? Surely not?"
@@ -1503,7 +1517,7 @@ NYDD_FRA_chambin_modifier:"Centralization Movement"
 NYDD_FRA_chambin_modifier2:"Loyal Marches"
 NYDD_FRA_chambin_modifier3:"Art of Compromise"
 
-NYDD_FRA_crash_wool_union_ttt:"Control all provinces of §YWool Pact§! members §g(highlight shows §YWool Pact§! members)§!"
+NYDD_FRA_crash_wool_union_ttt:"Control all provinces of §YGolden Fleece Pact§! members §g(highlight shows §YGolden Fleece Pact§! members)§!"
 
 NYDD_FRA_in_the_name_of_god_tt:"After the §YReformation§!, we may have a better chance to §Ocontrol the Papacy§!."
 
@@ -1908,3 +1922,8 @@ cb_FRA_recouquet_subject:"Reclaim Sphere"
 cb_FRA_recouquet_subject_desc:"They rightfully belong in our sphere of influence."
 cb_FRA_recouquet_subject_wg:"Reclaim Sphere"
 cb_FRA_recouquet_subject_wg_desc:"War goal is to occupy capital."
+
+DD_FRA_control_BRA_title:"@BRA Infiltrate North Germany"
+DD_FRA_control_BRA_desc:"Thanks to our assistance in the Second North-South War, these Germans now trust us implicitly. Our spies and officers can roam freely through the streets of Berlin without attracting any attention."
+DD_FRA_control_BRA_tt1:"Reduces the requirements for the '§YDominate the North§!' mission.\n"
+DD_FRA_control_BRA_tt2:"\nIf we have a §YSpymaster§! advisor, the above costs will be §Ghalved§!.\n"
