@@ -1,17 +1,138 @@
 government = monarchy
-government_rank = 3
+add_government_reform = DD_SAN_Thessaloniki_Despotate_reform 
+government_rank = 2
 primary_culture = BYZ_macadon
 religion = greek_orthodox
 technology_group = eastern
 capital = 148
+add_accepted_culture = BYZ_yibilusi
 
-1444.5.29 = {
+1205.3.19 = {
 	monarch = {
-		name = "Michael VIII"
+		name = "Michael I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1176.4.20
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1215.10.29 = {
+	monarch = {
+		name = "Theodore I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1176.3.22
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1230.7.11 = {
+	monarch = {
+		name = "Michael II"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1205.3.22
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1271.4.4 = {
+	monarch = {
+		name = "Nikephoros I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1240.5.15
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1297.10.10 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1283.3.10
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1345.6.18 = {
+	monarch = {
+		name = "Konstantinos I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1310.5.4
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1355.2.20 = {
+	monarch = {
+		name = "Theodore II"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1314.6.28
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1361.6.7 = {
+	monarch = {
+		name = "Michael III"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1312.9.24
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1366.11.15 = {
+	monarch = {
+		name = "Michael IV"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1352.4.19
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1401.9.21 = {
+	monarch = {
+		name = "Isaac I"
+		dynasty = "Komnenos Doukas"
+		birth_date = 1387.4.19
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+
+1432.5.29 = {
+	monarch = {
+		name = "Michael V"
 		dynasty = "Komnenos Doukas"
 		birth_date = 1422.5.29
 		adm = 4
-		dip = 4
+		dip = 5
 		mil = 5
 	}
+}
+
+1440.2.13 = {
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+}
+1443.1.20 = {
+	add_ruler_personality = midas_touched_personality
 }

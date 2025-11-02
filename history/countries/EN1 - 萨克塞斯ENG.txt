@@ -1,9 +1,9 @@
 government = republic
-add_government_reform = merchant_republic
+add_government_reform = merchants_reform
 primary_culture = anglish_british
 religion = catholic
 technology_group = western
-capital = 4371	
+capital = 4371
 mercantilism = 25
 
 

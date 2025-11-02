@@ -1,0 +1,747 @@
+﻿l_english:
+LSK_mission_1_1_title:0 "Papal Bull"
+LSK_mission_1_1_desc:0 "To restore past glory, we must first secure papal recognition. The Holy See's words shall cloak our sovereignty in divine sanction, transforming all campaigns into extensions of God's will."
+
+LSK_mission_1_2_title:0 "Archbishopric of Thessalonika"
+LSK_mission_1_2_desc:0 "Thessalonika serves as both imperial secondary capital and ecclesiastical stronghold. Reestablishing its archbishopric in alignment with Latin rite will provide spiritual fortification for our rule."
+
+LSK_mission_religion_1_1_title:0 "Latin Patriarchate"
+LSK_mission_religion_1_1_desc:0 "Since the Great Schism, Greek and Roman paths have diverged. Now we possess the opportunity to reunite Greek heritage with Roman faith through our new Empire, establishing a Latin Patriarchate of our own."
+
+LSK_mission_religion_1_2_title:0 "Imperial Council"
+LSK_mission_religion_1_2_desc:0 "The Empire's foundation rests not solely on monarchy but also balance. Latin liturgy and Greek traditions require new institutions for harmonization. The Imperial Council shall symbolize this equilibrium, uniting administration, diplomacy, and military under ordered structure."
+
+LSK_mission_1_3_title:0 "Pacify Pindus"
+LSK_mission_1_3_desc:0 "The Pindus mountains have historically bred rebellion and banditry. Only through iron-fisted suppression can the Empire's heartland be secured from unrest."
+
+LSK_mission_1_4_title:0 "Dominate the Adriatic" # Dominance over the Adriatic
+LSK_mission_1_4_desc:0 "The Adriatic Sea represents the confluence of Latin and Greek worlds. Whoever controls the Adriatic commands the lifelines between Italy and the Balkans."
+
+LSK_mission_1_5_title:0 "Patrol Apulia"
+LSK_mission_1_5_desc:0 "Apulia and Southern Italy were once Byzantine provinces, now serving as our gateway into Italy. Naval patrols signify the restoration of former authority."
+
+LSK_mission_1_6_title:0 "Control Magna Graecia"
+LSK_mission_1_6_desc:0 "The ancient colonies of Magna Graecia represent where Roman and Greek cultures intertwine. Bringing them under imperial control would legitimize our claim to this dual heritage."
+
+LSK_mission_1_7_title:0 "Protect the Holy See"
+LSK_mission_1_7_desc:0 "The Roman Curia forms the heart of Catholicism. Now that our influence reaches its doorstep, we must demonstrate our majesty and piety by placing the Holy See under our protection."
+
+LSK_mission_1_8_title:0 "Crown of the Apennines"
+LSK_mission_1_8_desc:0 "When the Apennines bow again, we shall transcend being mere heirs of Greece to become masters of Rome."
+
+LSK_mission_1_9_title:0 "Dalmatian Coast"
+LSK_mission_1_9_desc:0 "Dalmatia's harbors are Adriatic pearls. We must ensure their submission to imperial order."
+
+LSK_mission_1_10_title:0 "Baptize Illyria"
+LSK_mission_1_10_desc:0 "Illyria has wandered in heresy and chaos. Now we shall return it to orthodoxy through holy water and steel."
+
+LSK_mission_1_11_title:0 "Confronting the Empire"
+LSK_mission_1_11_desc:0 "Between the Alps and Danube, the Holy Roman Empire still upholds its imperial crown. If we are to restore ancient Rome's glory, we must eventually face them directly."
+
+LSK_mission_1_12_title:0 "Holy Rome"
+LSK_mission_1_12_desc:0 "We are neither German vassals nor ancient electors. Should the Holy Roman Empire refuse to submit to our vision, we shall demonstrate through blood and fire who truly represents Rome."
+
+LSK_mission_1_13_title:0 "Northern Salvation"
+LSK_mission_1_13_desc:0 "In the frigid north, souls remain unilluminated by truth. Through faith and order, we shall bring salvation, gathering them under the Empire's protective wing."
+
+LSK_mission_mil_2_1_title:0 "Boost Foreign Recruitment" # Expand Mercenary Recruitment
+LSK_mission_mil_2_1_desc:0 "The Empire's foundations remain unstable; Latin knights and Greek soldiers alone cannot suppress surrounding rebellions. We must rely on mercenary companies, trading silver for steel to secure our nascent territories."
+
+LSK_mission_religion_2_1_title:0 "Patriarchate of Constantinople"
+LSK_mission_religion_2_1_desc:0 "To inherit Rome's legacy, we cannot remain confined to Thessalonika. The Patriarchate of Constantinople symbolizes the heart of the entire Orthodox world—restoring it will proclaim our legitimacy to all nations."
+
+LSK_mission_government_2_1_title:0 "Professionalize Bureaucracy" # Cultivate Professional Bureaucracy
+LSK_mission_government_2_1_desc:0 "For the Empire to transcend the old pattern of feudal fragmentation, we must move beyond governance reliant on families and knights. We need to develop professional bureaucrats loyal to the Empire rather than clans, empowering them with laws, finances, and documentation as weapons to maintain order instead of blades and bloodlines. Only through this can imperial administration achieve enduring stability, no longer shaken by the rise and fall of noble houses."
+
+LSK_mission_religion_2_2_title:0 "Christ's Protection"
+LSK_mission_religion_2_2_desc:0 "The conflict between Latin and Greek has dishonored Christ's name. We must establish a new order to protect all believers, allowing them to receive God's grace united under a single Empire."
+
+LSK_mission_2_3_title:0 "Subdue Attica"
+LSK_mission_2_3_desc:0 "Athens and the cities of Attica have always been the heart of Greece. Bringing them into the Empire would intimidate rebellious elements in the Peloponnese and Aegean islands."
+
+LSK_mission_2_4_title:0 "Peloponnesian Offensive"
+LSK_mission_2_4_desc:0 "The Peloponnesian peninsula serves as the last stronghold of Eastern Roman remnants. Conquering it would truly complete the unification of mainland Greece."
+
+LSK_mission_2_5_title:0 "Revive Athens"
+LSK_mission_2_5_desc:0 "Athens, where philosophers and saints once left their brilliance, now awaits restoration in its decline. By rebuilding its splendor, the Empire will gain unparalleled cultural and spiritual legitimacy."
+
+LSK_mission_2_6_title:0 "Quell the Strife"
+LSK_mission_2_6_desc:0 "Amidst the fusion of Latin and Greek traditions, we can rebuild scholarly heritage. Let scholastic philosophy and classical learning flourish once more within the Empire, reuniting the wisdom of Ancient Greece and Christianity."
+
+LSK_mission_2_7_title:0 "Legacy of the Old Empire"
+LSK_mission_2_7_desc:0 "We are not usurpers emerging from nothingness. Byzantine emperors established order across these lands. By inheriting their legacy, our Empire can truly be recognized as the old Empire's continuation, restoring the broken imperial succession."
+
+LSK_mission_2_8_title:0 "Flames of Purification"
+LSK_mission_2_8_desc:0 "The hatred from the Great Schism and shadows of heresy must be cleansed by sacred fire. Both heretics and traitors shall be consumed by flames, warning future generations of imperial majesty."
+
+LSK_mission_2_9_title:0 "Campaign Against Serbia"
+LSK_mission_2_9_desc:0 "Serbian mountain tribes often exploit chaotic times to strengthen themselves, harassing the Empire's northern borders. Only through forceful campaigns can they be subdued under imperial authority."
+
+LSK_mission_2_10_title:0 "Carpathian Defense Line"
+LSK_mission_2_10_desc:0 "The Carpathian Mountains form the gateway to the north. Establishing defensive lines here would eliminate fear of invasions from Hungarians and steppe peoples."
+
+LSK_mission_2_11_title:0 "Dnieper Mission"
+LSK_mission_2_11_desc:0 "The Dnieper River serves as both the lifeblood of Rus' and the source of Christian faith. By launching expeditions along this holy river, we can recreate the sacred journey of Rus' initial baptism."
+
+LSK_mission_2_12_title:0 "Patriarchate of Moscow"
+LSK_mission_2_12_desc:0 "If the Rus' principalities cannot correct themselves, we must intervene. Establishing Moscow as a patriarchate signifies we shall become their new spiritual leader and protector."
+
+LSK_mission_2_13_title:0 "Return Rus' to Orthodoxy"
+LSK_mission_2_13_desc:0 "The lands of Rus' suffer from strife, heresy, and division. By guiding them back to true faith, we shall unify the entire Eastern Christian world under our banner."
+
+LSK_mission_mil_3_1_title:0 "Thessalian Steeds"
+LSK_mission_mil_3_1_desc:0 "Since ancient times, the plains of Thessaly have produced renowned warhorses. By expanding our cavalry forces, the Empire can restore the glorious sight of Latin heavy knights and Greek cavalry charging side by side."
+
+LSK_mission_mil_3_2_title:0 "Reorganize the Infantry"
+LSK_mission_mil_3_2_desc:0 "While Latin knights possess valor, establishing a lasting Empire requires reliable local infantry. Through reorganization and training, we can create a new army combining Latin knightly charges with Greek infantry resilience."
+
+LSK_mission_3_1_title:0 "Return to Thessalonika"
+LSK_mission_3_1_desc:0 "The former royal capital of Thessalonika has changed hands multiple times. To restore dynastic dignity, we must return there, making Thessalonika the Empire's heart once more."
+
+LSK_mission_3_2_title:0 "Advance into Thrace"
+LSK_mission_3_2_desc:0 "The Thracian plains form the gateway to Constantinople. Securing this region will truly open the path to Empire."
+
+LSK_mission_3_3_title:0 "Master of Constantinople"
+LSK_mission_3_3_desc:0 "Since the Fourth Crusade, the Hagia Sophia of Constantinople has become a contested symbol. By reclaiming this ancient imperial capital, we can prove ourselves the legitimate successors of the New Roman Empire."
+
+LSK_mission_3_4_title:0 "Empire Under the Father"
+LSK_mission_3_4_desc:0 "Under the Heavenly Father's protection, Latin and Greek can finally unite as one. The Empire belongs not only to the sword but also to faith. We shall establish a new order beneath the Cross's shadow."
+
+LSK_mission_3_5_title:0 "Danubian Crusade"
+LSK_mission_3_5_desc:0 "The Danube serves as both the Empire's natural barrier and the frontline between Christianity and paganism/heresy. By launching a crusade to incorporate both banks into our domain, the Empire shall stand firm as Eastern Europe's bulwark once more."
+
+LSK_mission_3_6_title:0 "Chastise Bulgaria"
+LSK_mission_3_6_desc:0 "Bulgarian rulers have proven repeatedly treacherous, both raiding the Empire and aligning with heretics. Without thorough punishment, they will forever threaten our northern borders."
+
+LSK_mission_3_7_title:0 "Redemption of Tripolitania"
+LSK_mission_3_7_desc:0 "Remnants of Latin principalities still smolder along the Libyan and Tunisian coasts. By rebuilding our navy and crossing the Mediterranean to bring them under our wing, the Empire's domains will once again span two continents."
+
+LSK_mission_3_8_title:0 "Ark of the Covenant"
+LSK_mission_3_8_desc:0 "The Ark symbolizes the convergence of Old and New Testaments. Legends place its location somewhere in the East. Should we recover it, the Empire's theocratic authority will transcend worldly power."
+
+LSK_mission_3_9_title:0 "Fountain of Youth"
+LSK_mission_3_9_desc:0 "The holy spring outside Constantinople has long been regarded by pilgrims as a site of miracles. By restoring and consecrating it, the Empire's prestige within Christendom will ascend to new heights."
+
+LSK_mission_3_10_title:0 "Heaven on Earth"
+LSK_mission_3_10_desc:0 "We are the shepherds of the New Israel, the founders of the New Jerusalem; we hold the Ark and guard the Fountain of Youth; we are the viceregents of the King of Kings, the sole authority in Christendom; we have brought Rus', Greece, Syria, Egypt, and Arabia back to the light of truth, making Ethiopia and the children of the desert kneel together beneath the Cross; we have accomplished what saints and prophets left unfinished, establishing God's Kingdom on earth before the end times."
+
+LSK_mission_4_1_title:0 "Prosperous Thessaly"
+LSK_mission_4_1_desc:0 "The fertile plains and mountains of Thessaly nurture countless herds and crops. To restore the Empire's glory, we must first return this ancestral land to prosperity. Abundant grain, sturdy steeds, and diligent artisans will form the foundation of our resurgence."
+
+LSK_mission_4_2_title:0 "Revitalize the Wine Trade"
+LSK_mission_4_2_desc:0 "From the foothills of Olympus to the Aegean coast, vineyards have long been renowned. By reorganizing trade routes to ensure their distribution across the Adriatic and Italy, we can not only fill the treasury but also gain recognition from principalities and city-states."
+
+LSK_mission_4_3_title:0 "Mediterranean Trade" # Control Eastern Mediterranean Trade
+LSK_mission_4_3_desc:0 "From the ports of Thessalonika to the shipping lanes of Crete and Cyprus, Eastern Mediterranean trade forms the lifeblood of imperial wealth. To rival Venetians and Genoese, we must establish our presence throughout these waters."
+
+LSK_mission_dev_4_1_title:0 "The Highland Defense Line" # Consolidate the Highland Defense Line
+LSK_mission_dev_4_1_desc:0 "The Thessalian highlands provide not only pasturelands and villages but also natural defensive barriers. We must construct fortresses and establish military settlements here to ensure the Empire's heartland remains impregnable."
+
+LSK_mission_dev_4_2_title:0 "Heart of Macedonia"
+LSK_mission_dev_4_2_desc:0 "Macedonia has historically been the Balkan core. By securing Thessalonika and surrounding strongholds, we can truly command the southern Balkans, restoring this region as the Empire's center."
+
+LSK_mission_4_4_title:0 "Fortify Adrianople"
+LSK_mission_4_4_desc:0 "Adrianople has guarded Thrace since Roman times. Controlling this strategic point allows us to protect Constantinople's western gateway, ensuring the Empire's foundations remain unshaken."
+
+LSK_mission_4_5_title:0 "Advance into the Black Sea"
+LSK_mission_4_5_desc:0 "The wealth and granaries of the Black Sea have always been vital pillars of the Empire. We must break through the constraints of Thrace and the Bosphorus, extending our influence to Pontus and Crimea, so imperial sails may once again grace the Black Sea's waves."
+
+LSK_mission_4_6_title:0 "Patriarchate of Yerevan"
+LSK_mission_4_6_desc:0 "The faithful of the Armenian Highlands yearn for liberation from heresy and foreign oppression. By reestablishing the Patriarchate of Yerevan, we can bring the Cross's radiance to the Caucasus peaks in the Holy Father's name."
+
+LSK_mission_4_7_title:0 "Gospel of the Caucasus"
+LSK_mission_4_7_desc:0 "From the mountains of Georgia to the plains by the Caspian, the Caucasus represents a crossroads of civilizations and faiths. Spreading Latin rite and imperial order here will carry our prestige beyond these ranges throughout the East."
+
+LSK_mission_4_8_title:0 "Bosphorus Transit Tolls"
+LSK_mission_4_8_desc:0 "All maritime traffic between the Black Sea and Mediterranean must pass through the Bosphorus. By securing firm control over these straits, we can emulate past emperors in collecting transit duties, ensuring continuous wealth flows into the treasury."
+
+LSK_mission_4_9_title:0 "Secure the Sea Lanes"
+LSK_mission_4_9_desc:0 "Imperial vessels must navigate freely from the Aegean to the Adriatic, from Cyprus to Alexandria. We must eradicate piracy and clear shipping routes, restoring our maritime passages as conduits of both faith and commerce."
+
+LSK_mission_4_10_title:0 "A Foothold in Alexandria" # Establish Foothold in Alexandria
+LSK_mission_4_10_desc:0 "Alexandria serves not only as Egypt's gateway but also as a center of ancient wisdom and faith. Gaining a foothold here would grant us control over Nile wealth and win the allegiance of Eastern Christians."
+
+LSK_mission_4_11_title:0 "Reclamation of Egypt" # Divine Reclamation of Egypt
+LSK_mission_4_11_desc:0 "Egypt's churches and people have professed Christ for generations, yet now suffer under heathen dominion. By planting the Cross again along the Nile, we can proclaim the Empire's true restoration in the East."
+
+LSK_mission_4_12_title:0 "Patriarchate of Baghdad"
+LSK_mission_4_12_desc:0 "Baghdad once shone as the jewel of Islamic scholarship and faith. Reestablishing a patriarchate here would plant our banner at the heart of Mesopotamia, declaring that only the Cross brings salvation."
+
+LSK_mission_4_13_title:0 "Persian Campaign"
+LSK_mission_4_13_desc:0 "The Persian plains have been contested between Rome and foreign powers since antiquity. Conquering these lands would truly demonstrate that our new Empire is not merely an inheritor, but a transcendent force. Heaven's glory shall extend here to the farthest reaches of the East."
+
+LSK_mission_5_1_title:0 "Port of Almyros"
+LSK_mission_5_1_desc:0 "Almyros in Thessaly has historically served as the Aegean's gateway. To achieve ascendancy, we must first renovate its harbor to accommodate larger fleets and merchant vessels, ensuring the Imperial banner reappears across Aegean waves."
+
+LSK_mission_5_2_title:0 "Aegean Fleet"
+LSK_mission_5_2_desc:0 "The Aegean Sea, once an inland water for Christians and Romans, now teems with pirates and heathens. By building a powerful fleet, we can restore unimpeded navigation through these islands and straits."
+
+LSK_mission_5_3_title:0 "Command the Islands"
+LSK_mission_5_3_desc:0 "The Cyclades, Crete, Rhodes... these islands form maritime nexuses and Crusader strongholds. Controlling them will truly transform the Aegean into the Empire's internal lake."
+
+LSK_mission_dev_5_1_title:0 "Dawn in Anatolia"
+LSK_mission_dev_5_1_desc:0 "The heartland of former Byzantium remains under foreign occupation. Establishing our presence in Anatolia by restoring towns and supporting churches will ignite the new Empire's dawn."
+
+LSK_mission_dev_5_2_title:0 "Dawn in Syria"
+LSK_mission_dev_5_2_desc:0 "Antioch and the Syrian plains were once the lands of saints and apostles. By reclaiming this territory, we can proclaim Christ's light shining once more in the East."
+
+LSK_mission_5_4_title:0 "Cross the Straits"
+LSK_mission_5_4_desc:0 "The Bosphorus and Dardanelles form the gateway to Asia and the Holy Land. We must cross these natural barriers to extend imperial dominion back into historic Anatolia and Asia Minor."
+
+LSK_mission_5_5_pre_title:0 "Reclaim the Coast"
+LSK_mission_5_5_pre_desc:0 "Our forces have gradually reclaimed Asia Minor's coastline, making the road eastward toward the Holy City no longer distant."
+
+LSK_mission_5_5_title:0 "Restoration of Antioch"
+LSK_mission_5_5_desc:0 "Antioch stands among the East's great patriarchates, with surrounding Cilicia formerly an Armenian kingdom and crucial Crusader ally. Reclaiming this land will establish a firm imperial bridgehead in the East."
+
+LSK_mission_5_6_title:0 "Secure the Holy City"
+LSK_mission_5_6_desc:0 "Jerusalem, site of the Holy Sepulchre and heart of Christendom. By bringing the Holy City under imperial protection, we can earn recognition from all believers as Christ's guardians."
+
+LSK_mission_5_7_title:0 "Command the Crusades"
+LSK_mission_5_7_desc:0 "By establishing firm foundations in the Holy Land, the scattered knightly orders and principalities will acknowledge us as their true sovereign. Then we shall become not merely an Empire, but the leader of all Christendom's Crusades."
+
+LSK_mission_5_8_title:0 "March Across the Sands" # March Through the Sands
+LSK_mission_5_8_desc:0 "Crossing the deserts of Syria and Arabia presents a perilous expedition. Yet if we dare advance, we can plant the Cross upon desert oases."
+
+LSK_mission_5_9_title:0 "Arabian Campaign"
+LSK_mission_5_9_desc:0 "From Damascus to Mecca, from the Red Sea to the Persian Gulf, the Arabian Peninsula represents Islam's cradle. Bringing it to kneel would demonstrate the Imperial Cross symbolizes not just protection, but conquest."
+
+LSK_mission_5_10_title:0 "Heart of Islam"
+LSK_mission_5_10_desc:0 "Mecca and Medina, the Prophet's sanctuaries. Should we dare seize control over them, we would shatter Islam's spiritual foundation, establishing Christ's Cross as the world's sole authority."
+
+LSK_mission_5_11_title:0 "Final Expedition"
+LSK_mission_5_11_desc:0 "When the Aegean, Anatolia, Holy Land, and Arabia all fall under imperial dominion, we shall have surpassed both Latin and Byzantine achievements. The new Eastern Empire, uniting Cross and Crown, will lead the world toward a radiant future."
+
+enhenced_Lord_of_Latin_Empire_effect_tooltip:0 "All §YComitatus§! subject states' base bonuses are §Tdoubled§!.\n"
+SSL_is_catholic:0 "Is §YRoman Catholic§!"
+LSK_mission_3_1_effect_tooltip:0 "\nProvinces with '§YGospel of Thessalonika§!' that convert to §Y[ROot.Religion.GetName]§! gain '§YProsperous Thessalonika Diocese§!' until end of game, providing:\nLocal Tax Modifier: §G+10.0%§!\nLocal Manpower Modifier: §G+10.0%§!\nLocal Development Cost: §G-5.0%§!\n"
+LSK_mission_3_1_effect_tooltip2:0 "\n\nNegative effects of '§YImpoverished Duchy§!' are §Thalved§!."
+LSK_mission_3_5_effect_tooltip:0 "§TUnlocks§! special action '£LSK_icon1£§TPromote§! to §YCore Comitatus§!' in diplomatic §YInfluence§!.\n"
+LSK_mission_1_12_effect_enable_a_tooltip:0 "£yes£If we complete this mission by §Obecoming Holy Roman Emperor§!, then"
+LSK_mission_1_12_effect_disable_a_tooltip:0 "£no£If we complete this mission by §Obecoming Holy Roman Emperor§!, then"
+LSK_mission_1_12_effect_enable_b_tooltip:0 "£yes£If we complete this mission by §Tconquest§!, then"
+LSK_mission_1_12_effect_disable_b_tooltip:0 "£no£If we complete this mission by §Tconquest§!, then"
+LSK_mission_religion_1_2_tooltip_effect:0 "Unlocks §MTier 4§! government reform '§YImperial Council§!' with effects:"
+LSK_mission_5_7_tooltip_effect:0 "Unlocks §MTier 2§! government reform '§YCrusader Nobility§!' with effects:"
+
+LSK_mission_enhence_Lord_of_Latin_effect0:0 "When @PAP[PAP.GetName] is our §OComitatus§! with at least §G50§! development, @[Root.GetTag]§Y[This.GetName]§! gains:\nDiplomatic Reputation: §G+2.00§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect1:0 "Each §OComitatus§! with capital in the §YLevant subcontinent§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nYearly Army Tradition: §G+0.25§!\nYearly Navy Tradition: §G+0.25§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect2:0 "Each §OComitatus§! with capital in the §YPersian subcontinent§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nShock Damage: §G+2.5%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect3:0 "Each §OComitatus§! with capital in the §YEastern European Steppe, Ruthenia, or Russia regions§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nTolerance of the True Faith: §G+0.25§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect4:0 "Each §OComitatus§! with capital in the §YNorth or South Germany regions§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nReceived Shock Damage: §G-5.0%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect5:0 "Each §OComitatus§! with capital in the §YHorn of Africa region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nFort Defense: §G+5.0%§!\n"
+#LSK_mission_enhence_Lord_of_Latin_effect6:0 "Each §OComitatus§! with capital in the §YItaly region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nReceived Fire Damage: §G-5.0%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect7:0 "Each §OComitatus§! with capital in the §YIberia region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nShip Durability: §G+2.5%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect8:0 "Each §OComitatus§! with capital in the §YFrance or Low Countries regions§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nArtillery Combat Ability: §G+2.5%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect9:0 "Each §OComitatus§! with capital in the §YBritain region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nHeavy Ship Combat Ability: §G+2.5%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect10:0 "Each §OComitatus§! with capital in the §YBalkans or Carpathia regions§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nReinforce Speed: §G+5.0%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect11:0 "Each §OComitatus§! with capital in the §YMaghreb region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nGalley Combat Ability: §G+5.0%§!\n"
+LSK_mission_enhence_Lord_of_Latin_effect12:0 "\nEach §OComitatus§! with capital in the §YPoland region§! and at least §G50§! development provides @[Root.GetTag]§Y[This.GetName]§! with:\nCavalry Shock: §G+0.1§!\n"
+
+LSK_mission_3_2_effect:0 "\nAll §Jnon-state religion§! provinces in the §YThrace§! region under our rule gain modifier '§YSpreading the Gospel§!' until game end, providing:\nLocal Missionary Strength: §G+4.0%§!\nLocal Missionary Maintenance: §G-10.0%§!\n\nAll §M[Root.Religion.GetName]§! provinces in the §YThrace§! region under our rule, plus all provinces with '§YSpreading the Gospel§!' later converted to §M[Root.Religion.GetName]§!, gain modifier '§YRevitalized Greek Community§!' until game end, providing:\nLocal Development Cost: §G-10.0%§!\nLocal Production Efficiency: §G+10.0%§!\nSupply Limit Modifier: §G+10.0%§!\n"
+LSK_mission_3_3_effect:0 "\nAll §Jnon-state religion§! §TGreek§! culture group provinces under our rule gain modifier '§YSpreading the Gospel§!' until game end, providing:\nLocal Missionary Strength: §G+4.0%§!\nLocal Missionary Maintenance: §G-10.0%§!\n\nAll §M[Root.Religion.GetName]§! §TGreek§! culture group provinces under our rule, plus all provinces with '§YSpreading the Gospel§!' later converted to §M[Root.Religion.GetName]§!, gain modifier '§YRevitalized Greek Community§!' until game end, providing:\nLocal Development Cost: §G-10.0%§!\nLocal Production Efficiency: §G+10.0%§!\nSupply Limit Modifier: §G+10.0%§!\nProvinces subsequently §Tmeeting conditions§! while maintaining §PGreek§! culture group and §ORoman Catholicism§! will also gain this effect.\n"
+
+LSK_enforce_or_tolerate_enable_a_tooltip:0 "£yes£If we complete this mission through §Mforceful§! means, all province modifiers '§YSpreading the Gospel§!' will be replaced with '§YForced Conversion§!' providing:\nLocal Unrest: §R-4.00§!\nLocal Missionary Strength: §G+6.0%§!\nLocal Missionary Maintenance: §G-10.0%§!\n"
+LSK_enforce_or_tolerate_disable_a_tooltip:0 "£no£If we complete this mission through §Mforceful§! means, all province modifiers '§YSpreading the Gospel§!' will be replaced with '§YForced Conversion§!' providing:\nLocal Unrest: §R-4.00§!\nLocal Missionary Strength: §G+6.0%§!\nLocal Missionary Maintenance: §G-10.0%§!\n"
+LSK_enforce_or_tolerate_enable_b_tooltip:0 "£yes£If we complete this mission through §Vtolerance§!, all modifiers '§YSpreading the Gospel§!' will be replaced with '§YGranted Autonomy§!' providing:\nLocal Missionary Strength: §R-10.0%§!\nMinimum Local Autonomy: §R+15.00§!\nLocal Religious Unity Contribution: §Y-100.0%§!\n"
+LSK_enforce_or_tolerate_disable_b_tooltip:0 "£no£If we complete this mission through §Vtolerance§!, all modifiers '§YSpreading the Gospel§!' will be replaced with '§YGranted Autonomy§!' providing:\nLocal Missionary Strength: §R-10.0%§!\nMinimum Local Autonomy: §R+15.00§!\nLocal Religious Unity Contribution: §Y-100.0%§!\n"
+LSK_enforce_or_tolerate_disable_b_tooltip_ex:0 "With this modifier, all §Jnon-state religion§! §TGreek§! culture group provinces under our rule will slowly convert to §M[Root.Religion.GetName]§! through events.\nHaving at least §G+2§! stability, §G+75§! §OHoly Dedication§!, and §G+50§! §YPapal Influence§! will accelerate this process.\nWhen all Balkan, Anatolia, and Eastern European Steppe region §TGreek§! culture group provinces become §Y[Root.Religion.GetName]§!, the '§YWandering the Wrong Path§!' modifier will be removed.\n"
+
+LSK_enforce_or_tolerate_follow_upenable_a_tooltip:0 "£yes£If we completed the prerequisite mission through §Mforceful§! means, then:"
+LSK_enforce_or_tolerate_follow_updisable_a_tooltip:0 "£no£If we completed the prerequisite mission through §Mforceful§! means, then:"
+LSK_enforce_or_tolerate_follow_upenable_b_tooltip:0 "£yes£If we completed the prerequisite mission through §Vtolerance§!, then:"
+LSK_enforce_or_tolerate_follow_updisable_b_tooltip:0 "£no£If we completed the prerequisite mission through §Vtolerance§!, then:"
+
+LSK_mission_2_8_effect_tooltip:0 "If we win §G30§! battles after completing this mission, then:"
+
+LSK_mission_2_7_trigger_tooltip1:0 "We completed the prerequisite mission through §Mforceful§! means, and all required provinces have converted to §M[Root.Religion.GetName]§!."
+LSK_mission_2_7_trigger_tooltip2:0 "We completed the prerequisite mission through §Vtolerance§!, and have at least §Y100.00%§! religious unity and at least §G+2§! stability."
+
+SSL_Balkan_ATH_enable_tooltip:0 "£yes£If @ATH§Y[ATH.GetName]§! still owns [146.GetName], is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Balkan_ATH_disable_tooltip:0 "£no£If @ATH§Y[ATH.GetName]§! still owns [146.GetName], is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+SSL_Lord_of_Latin_PAP_enable_tooltip:0 "£yes£If @PAP§Y[PAP.GetName]§! still owns [118.GetName], is not at war, has total development less than §Y150§!, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Lord_of_Latin_PAP_disable_tooltip:0 "£no£If @PAP§Y[PAP.GetName]§! still owns [118.GetName], is not at war, has total development less than §Y150§!, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+SSL_Asia_Minor_conquest_trigger_tooltip:0 "All §YAnatolia§! region provinces (excluding §YAegean Islands§!, §YErzurum§!, §YKurdistan§! areas) belong to §Y[This.GetName]§! or its non-tributary subjects, with devastation below §Y1§!"
+
+SSL_Asia_Minor_conquest_effect_tooltip:0 "All §Tmission-related§! provinces gain modifier '§YAnatolian Transportation Network§!' until game end, providing:\nFriendly Movement Speed: §G+10.0%§!\nSupply Limit Modifier: §G+25.0%§!\n\n"
+
+SSL_forts_modifier_effect:0 "All §Teligible§! provinces gain modifier '§YHighland Bastion§!' until game end, providing:\nEnemy Attrition: §G+1.00§!\nLocal Defensiveness: §G+15.0%§!\nLocal Fort Maintenance: §G-25.0%§!\n"
+
+SSL_Balkan_ATH_enable_tooltip2:0 "\n£yes£If @ATH§Y[ATH.GetName]§! has opinion of §Y[This.GetName]§! above §G180§!, is §Y[This.GetName]§!'s subject, with liberty desire below §Y40§!; and our army size is at least §G30§!:"
+SSL_Balkan_ATH_disable_tooltip2:0 "\n£no£If @ATH§Y[ATH.GetName]§! has opinion of §Y[This.GetName]§! above §G180§!, is §Y[This.GetName]§!'s subject, with liberty desire below §Y40§!; and our army size is at least §G30§!:"
+
+SSL_Lord_of_Latin_ATI_enable_tooltip:0 "\n£yes£If @ATI§Y[ATI.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Lord_of_Latin_ATI_disable_tooltip:0 "\n£no£If @ATI§Y[ATI.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+SSL_Lord_of_Latin_ADS_enable_tooltip:0 "\n£yes£If @ADS§Y[ADS.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Lord_of_Latin_ADS_disable_tooltip:0 "\n£no£If @ADS§Y[ADS.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+SSL_Lord_of_Latin_DLB_enable_tooltip:0 "\n£yes£If @DLB§Y[DLB.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Lord_of_Latin_DLB_disable_tooltip:0 "\n£no£If @DLB§Y[DLB.GetName]§! has total development less than §Y100§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+SSL_Lord_of_Latin_KOJ_enable_tooltip:0 "\n£yes£If @KOJ§Y[KOJ.GetName]§! has total development less than §Y150§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+SSL_Lord_of_Latin_KOJ_disable_tooltip:0 "\n£no£If @KOJ§Y[KOJ.GetName]§! has total development less than §Y150§!, is not at war, is allied to §Y[This.GetName]§! or has opinion of @[Root.GetTag]§Y[This.GetName]§! above §G150§!, and has smaller army than §Y[This.GetName]§!, then:"
+
+LSK_mission_reform_unlock_tooltip_effect1:0 "Unlocks §MTier 3§! government reform '§YRoyal Chancery§!' with effects:"
+LSK_mission_reform_unlock_tooltip_effect2:0 "Unlocks §MTier 5§! government reform '§YFire-Forged Military System§!' with effects:"
+
+
+
+
+
+
+
+
+convert_subject_to_Lord_of_Latin_Empire_vassal_title:0 "£LSK_icon1£Convert to §YComitatus§!"
+convert_subject_to_Lord_of_Latin_Empire_vassal_tooltip:0 "Costs §G50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
+convert_subject_to_Lord_of_Latin_Empire_vassal_desc:0 "Costs §G50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
+
+convert_Lord_of_Latin_Empire_vassal_to_core_title:0 "£LSK_icon1£§TPromote§! to §YCore Comitatus§!"
+convert_Lord_of_Latin_Empire_vassal_to_core_tooltip:0 "Costs §G30§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
+convert_Lord_of_Latin_Empire_vassal_to_core_desc:0 "Costs §G30§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
+
+Lord_of_Latin_Empire_vassal:0 "Comitatus"
+Lord_of_Latin_Empire_vassal_title:0 "Comitatus"
+Lord_of_Latin_Empire_vassal_title_plural:0 "Comitatus"
+Lord_of_Latin_Empire_vassal_is_our:0 "§Y$NAME$§! is our Comitatus"
+Lord_of_Latin_Empire_vassal_long_desc:1 "As an institution maintaining rule and defense in the East, the Latin Empire established a new vassal system upon the ruins of Thessalonika and Constantinople. Similar to Byzantine themes, these subjects were granted rights to levy troops and maintain defenses within their territories, but their authority derived from papal recognition and imperial appointment rather than ancient Roman tradition. Through this arrangement, the Empire alleviated fiscal and logistical burdens while retaining flexibility against heathens and separatists. However, just as Byzantine strategoi once threatened imperial authority, Latin nobles gaining strength could likewise become hidden challenges to imperial power."
+Lord_of_Latin_Empire_vassal_no_overlord_dow:0 "You cannot declare war on your Comitatus."
+Lord_of_Latin_Empire_vassal_basic_modifer:0 "Comitatus"
+Lord_of_Latin_Empire_vassal_enhenced_modifer:0 "Comitatus"
+Lord_of_Latin_Empire_overlord_Patron_of_Holy_See_modifer:0 "Patron of the Holy See"
+Lord_of_Latin_Empire_near_east_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_persia_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_Russian_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_German_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_horn_of_africa_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_Italian_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_Iberia_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_France_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_british_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_Balkan_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_maghreb_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_poland_modifer:0 "Latin Garrison"
+Lord_of_Latin_Empire_overlord_modifer:0 "Sovereign of Kingdoms"
+Lord_of_Latin_Empire_overlord_basic_modifer:0 "Lord of Vassals"
+Lord_of_Latin_Empire_overlord_core_modifer:0 "Lord of Vassals"
+Lord_of_Latin_Empire_vassal_overlord_title:0 "Overlord"
+LSK_modifier0:0 "Impoverished Duchy"
+LSK_modifier0_half:0 "Impoverished Duchy"
+LSK_pro_modifier1a:0 "Gospel of Thessalonika"
+LSK_pro_modifier1b:0 "Prosperous Thessalonika Diocese"
+LSK_pro_modifier2a:0 "Spreading the Gospel"
+LSK_pro_modifier2b:0 "Revitalized Greek Community"
+LSK_modifier1:0 "Prosperous Thessaly"
+LSK_modifier2:0 "Thessalian Warhorses"
+LSK_modifier3:0 "Aegean Heavy Port"
+LSK_modifier4:0 "Restoration of the Queen of Cities"
+LSK_modifier5:0 "Bulwark of Thrace"
+LSK_modifier6:0 "Revived Athens"
+LSK_modifier7:0 "Heart of Macedonia"
+LSK_modifier8:0 "Bosphorus Transit Tolls"
+LSK_modifier9:0 "Bosphorus Transit Tolls"
+LSK_modifier10:0 "Mediterranean Grain Route"
+LSK_modifier11:0 "Rebirth of Constantinople"
+LSK_modifier12:0 "Mercenary Support"
+LSK_modifier13:0 "Key to the Empire"
+LSK_modifier14_a:0 "Scourge of the Father"
+LSK_modifier14_b:0 "Bosom of the Virgin"
+LSK_modifier14_b_religion_cov:0 "Wandering the Wrong Path"
+LSK_modifier15_a:0 "In God's Name"
+LSK_modifier15_b:0 "Governance Through Harmony"
+LSK_modifier16:0 "Reorganized Formations"
+LSK_modifier17_a:0 "Supremacy Over the Holy See"
+desc_LSK_modifier17_a:0 "Formerly, Papacy and Empire walked side by side, yet now circumstances have reversed. Imperial crown and scepter no longer depend on Rome's approval, but are crowned by sword and faith together. Bishops are summoned to court, swearing allegiance to the throne, while icons upon altars bow beneath power's shadow. Henceforth within the Empire, the Pope serves merely as God's spokesman, not secular master."
+LSK_modifier17_b:0 "Resurgent Hellenization"
+desc_LSK_modifier17_b:0 "Following religious unification and imperial reorganization, the fusion of Greek culture with Latin liturgy recalls the splendor Alexander inaugurated. A new Hellenistic age has dawned, where the Empire shall reunite the vast world through dual bonds of culture and faith."
+LSK_modifier18:0 "Imperial Protection"
+LSK_modifier19:0 "Gateway to Italy"
+LSK_modifier20:0 "Danube Campaign"
+LSK_modifier21:0 "Defended Shipping Lanes"
+LSK_modifier22:0 "Black Sea March"
+LSK_modifier23:0 "Pilgrimage"
+LSK_modifier24:0 "Desert Ordeal"
+LSK_modifier25:0 "Commanding the Carpathians"
+LSK_modifier26:0 "Steppe Advance"
+LSK_modifier27:0 "Don Crusade"
+LSK_modifier28:0 "Foothold in Egypt"
+LSK_modifier29:0 "Pacified Illyria"
+LSK_modifier_30:0 "Prosperous Epirus"
+LSK_modifier_31:0 "Thriving Ragusa"
+LSK_modifier_32:0 "Restored Kosovo"
+LSK_modifier_33:0 "Gateway to Dyrrhachium"
+LSK_modifier_34:0 "Flourishing Belgrade"
+LSK_modifier_35:0 "Consolidated Skopje"
+LSK_modifier_36:0 "Expanded Tarnovo"
+LSK_modifier_37:0 "Revived Philippopolis"
+LSK_modifier_38:0 "Monopoly on Eastern Trade"
+LSK_modifier_39:0 "Tempered Fleet"
+LSK_modifier_40:0 "Crossing the Cilician Gates"
+LSK_modifier_41:0 "Imperial Seaport"
+LSK_modifier_42:0 "Anatolian Transportation Network"
+LSK_modifier_43:0 "Imperial Naval Base"
+LSK_modifier_44:0 "Splendid Nicomedia"
+LSK_modifier_45:0 "Black Sea Haven"
+LSK_modifier_46:0 "Pearl of Pontus"
+LSK_modifier_47:0 "Cilician Hub"
+LSK_modifier_48:0 "Consolidated Konya"
+LSK_modifier_49:0 "Expanded Galatia"
+LSK_modifier_50:0 "Prosperous Syria"
+LSK_modifier_51:0 "Reclaimed Antioch"
+LSK_modifier_52:0 "Thriving Damascus"
+LSK_modifier_53:0 "Highland Bastion"
+LSK_modifier_54:0 "Iron Mountain"
+desc_LSK_modifier_54:0 "\"Mons Ferreus Populi, Fides Ferrea, Mons Ferreus Dei, Virtus Ferrea!\"\n\"The People's Iron Mountain, Faith of Iron, God's Iron Mountain, Valor of Iron!\"" # Mons Populi, Ferrum Fidei, Mons Dei, Ferrum Virtutis
+LSK_modifier_58:0 "Illustrious Knightly House"
+desc_modifier_58:0 "The de Montferrat family's return to their ancestral lands has restored these mountains and castles as symbols of knightly heritage. Montferrat's soldiers and people unite through ancient lineage, sworn to protect the house's honor."
+
+LSK_modifier_55:0 "Rebuilt Cappadocia"
+LSK_modifier_56:0 "Peloponnesian Offensive"
+LSK_modifier_57:0 "Revived Smyrna"
+LSK_modifier_84a:0 "Holy Land Vespers"
+LSK_modifier_84b:0 "Holy Land Baptism"
+LSK_modifier_84c:0 "Holy Land Privileges"
+LSK_modifier_85a:0 "Sword of Michael"
+LSK_modifier_85b:0 "Gabriel's Revelation"
+LSK_modifier_85c:0 "Raphael's Blessing"
+LSK_modifier_86a:0 "Rightful Sovereign"
+LSK_modifier_86b:0 "Trampling the False Crown"
+LSK_modifier_87:0 "Integration of Greek Scholars"
+LSK_modifier_88:0 "Ode to Expedition"
+LSK_modifier_89:0 "Divine Retribution Fire"
+LSK_modifier_89_ex:0 "Fire of Judgment"
+LSK_modifier_90:0 "Holy Cross of the Caucasus"
+LSK_modifier_91:0 "Eastern Mediterranean Sea Route"
+LSK_modifier_92:0 "Gospel of Egypt"
+LSK_modifier_93:0 "Command of the Crusades"
+LSK_modifier_94:0 "Return of Rus"
+LSK_modifier_95:0 "Legacy of the Eternal Empire"
+LSK_modifier_96:0 "Northern Crusade"
+LSK_modifier_97:0 "Great Expedition"
+LSK_modifier_98:0 "Miracle of the Father"
+LSK_modifier_99:0 "Guardian of the Fountain of Youth"
+LSK_modifier_100:0 "Kingdom of Heaven"
+
+SSL_restore_Thessalonica_kingdom_title:0 "@LSK Restore the Kingdom of Thessalonika"
+SSL_restore_Thessalonica_kingdom_desc:0 "Amidst the flames of the Fourth Crusade, Thessalonika was once regarded as a powerful kingdom rivaling the Latin Empire, symbolizing the extension of papal authority and chivalric spirit into Greece. Though the kingdom's glory has long faded, its holy name still heralds a great path of devotion. Now that we have regrouped in Thessaly, reclaiming Thessalonika and raising the royal banner there would mean not only inheriting the ancient city's prestige but also reestablishing ourselves as the vanguard of Eastern Crusades, bearing the mission to defend faith and expand holy war."
+
+LSK:0 "Thessalonika"
+LSK_ADJ:0 "Thessalonikan"
+LSK_ideas:0 "Thessalonikan Ideas"
+LSK_ideas_start:0 "Thessalonikan Traditions"
+LSK_ideas_bonus:0 "Thessalonikan Ambition"
+LSK_ideas_1:0 "Archbishopric of Thessalonika"
+LSK_ideas_2:0 "Thessalian Cavalry"
+LSK_ideas_3:0 "Mount Athos"
+LSK_ideas_4:0 "City of Victory"
+LSK_ideas_5:0 "Sacred Mission"
+LSK_ideas_6:0 "Macedonian Crossroads"
+LSK_ideas_7:0 "Eastern Crusaders"
+
+LSK_ideas_1_desc:0 "The Archbishopric of Thessalonika serves as the Latin spiritual bastion in Greece. As an ecclesiastical jurisdiction established in Greek lands, it brings Western faith and order to the East, granting us special favor in Holy See affairs."
+LSK_ideas_2_desc:0 "Thessalian cavalry are renowned for valor and mobility. Now dedicated to the Crusader cause, tempered by Western chivalric traditions, they will contribute unmatched combat prowess to defending the Catholic kingdom."
+LSK_ideas_3_desc:0 "Mount Athos, once a sanctuary for Greek monks, now shelters Latin orders under our protection. Where knowledge and faith converge, it aids spreading Catholic doctrine while diminishing heresy's influence."
+LSK_ideas_4_desc:0 "Thessalonika's name derives from Alexander the Great's half-sister, named after Philip II's victory in Thessaly. Thus the city carries 'victory' as its symbol—its name's meaning constantly inspires soldiers to fight courageously, extending our prestige throughout Greece and the Balkans."
+LSK_ideas_5_desc:0 "The Crusader mission involves not merely conquest but bringing true faith to misguided souls. Through this sacred calling, we enjoy greater credibility in Christendom, while in truly faithful lands, people willingly dedicate lives to Church and Kingdom."
+LSK_ideas_6_desc:0 "Thessalonika forms the nexus between Macedonia and the Aegean, controlling vital routes between Balkans and East. Leveraging this strategic position, we accumulate commercial benefits while protecting Christian shipping with resilient galley fleets."
+LSK_ideas_7_desc:0 "As an Eastern Crusader kingdom, Thessalonika bears the mission of resisting heathens. Conflict with pagan forces has become our raison d'être, enabling us to muster greater military strength for campaigning against enemies in the name of holy war."
+
+SSL_ideas:0 "Thessalian Ideas"
+SSL_ideas_start:0 "Thessalian Traditions"
+SSL_ideas_bonus:0 "Thessalian Ambition"
+SSL_ideas_1:0 "Land of Cavalry"
+SSL_ideas_1_desc:0 "Since ancient times, Thessaly has been renowned for its powerful cavalry. Our nobility takes pride in galloping across the plains, their martial prowess and mobility earning Thessalian horsemen fame throughout Greece and the Balkans."
+SSL_ideas_2:0 "Knights and Mercenaries"
+SSL_ideas_2_desc:0 "The combination of our cavalry traditions with Western mercenaries enables Thessaly to rapidly assemble formidable armies to address ever-shifting threats."
+SSL_ideas_3:0 "Compromise with Local Nobility"
+SSL_ideas_3_desc:0 "Compared to other Crusader states, Thessaly's aristocratic influence remains limited. Through pragmatic compromise and flexible governance, we maintain the local nobility's submission to our authority."
+SSL_ideas_4:0 "Twilight of Mount Olympus"
+SSL_ideas_4_desc:0 "In Thessalian lands, ancient Mount Olympus still stands majestic. Though the old gods have fallen silent, this territory's spiritual and symbolic power continues to inspire our people with unwavering resilience."
+SSL_ideas_5:0 "Border Defense"
+SSL_ideas_5_desc:0 "Though situated in Greece's heartland, Thessaly frequently faces threats from northern powers. We must establish thorough fortifications and mobilization systems to protect our homeland."
+SSL_ideas_6:0 "Latin Heritage"
+SSL_ideas_6_desc:0 "The Crusaders' legacy still glimmers in Thessaly. Despite our growing adaptation to Greek customs, Latin chivalric institutions and ecclesiastical traditions have left their mark, maintaining our strong military and religious connections with the West."
+SSL_ideas_7:0 "Contending for Greece"
+SSL_ideas_7_desc:0 "Greece's future remains undetermined. Various powers—Thessalonika, Epirus, Athens—hold divided territories. Though small, Thessaly shares this ambition to contend for supremacy, destined someday to secure its place among these realms."
+
+LAS_LAT_ideas:0 "Latino-Thessalonikan Ideas"
+LAS_LAT_ideas_start:0 "Latino-Thessalonikan Traditions"
+LAS_LAT_ideas_bonus:0 "Latino-Thessalonikan Ambition"
+LAS_LAT_ideas_1:0 "Patriarchate of Constantinople"
+LAS_LAT_ideas_1_desc:0 "With the true Latin Emperor restored to the throne, the Patriarchate of Constantinople has been established as the East's foremost spiritual bastion. This not only demonstrates our dominion over Greek lands but also forges an unbreakable bond between the Holy See and the Orient. Through this, we hold unparalleled status and favor in ecclesiastical matters."
+LAS_LAT_ideas_2:0 "Roman Knightly Orders"
+LAS_LAT_ideas_2_desc:0 "The cavalry traditions originating from Western European chivalry have now fully merged with Rhomanían equestrian arts. Under the Imperial banner, they have transcended regional warriors to become 'Roman Knights' defending Christendom, their valor and mobility projecting imperial might across Greece and Anatolia."
+LAS_LAT_ideas_3:0 "Cross of the Holy Mountain"
+LAS_LAT_ideas_3_desc:0 "Mount Athos now serves as an imperial monastic center. Monks have been incorporated into Latin religious orders, where knowledge and faith intertwine, making this our forefront for spreading Catholicism and suppressing heresy in the East. The Holy Mountain's Cross signifies the Empire's control over souls."
+LAS_LAT_ideas_4:0 "Divinely Inspired Glory"
+LAS_LAT_ideas_4_desc:0 "The Empire's victories stem not merely from human strategy and soldiers' valor, but from divine revelation and grace bestowed upon us. Every triumph manifests God's will; every victorious battle testifies to heavenly radiance. This divinely inspired glory not only drives our armies forward fearlessly but also makes the Empire's prestige shine like the sun across Christendom."
+LAS_LAT_ideas_5:0 "Universal Mission"
+LAS_LAT_ideas_5_desc:0 "The Empire's existence entails not just conquest but a universal mission: bringing true faith to all souls still wandering in error. Through this sacred calling, the Latin Empire becomes the hope of all Christendom, inspiring believers to dedicate their lives and loyalty to Church and Empire."
+LAS_LAT_ideas_6:0 "East-West Nexus"
+LAS_LAT_ideas_6_desc:0 "Constantinople and Thessalonika together form an unparalleled nexus between East and West. We control vital routes through the Balkans and Anatolia, where imperial commerce converges, while our fleets guard holy passages in the Mediterranean and Black Sea, making the Empire a bridge for Eastern and Western Christians."
+LAS_LAT_ideas_7:0 "Endless Crusade"
+LAS_LAT_ideas_7_desc:0 "The Latin Empire's mission is to perpetuate the Crusader cause in the East. We are the bulwark against heathens and schismatics, and the sword of the Holy See. Holy war defines the Empire's raison d'être and provides the banner rallying forces from all Europe. Under the Cross's name, the Empire shall sweep across the Orient."
+
+LSK_LATIN:0 "Romania" # Romania
+LSK_LATIN_ADJ:0 "Romanian"
+Regnum_Caeleste_in_Terra:0 "Celestial Empire on Earth"
+Regnum_Caeleste_in_Terra_ADJ:0 "Celestial Empire"
+desc_LSK_modifier_100:0 "\"We are God's kingdom on earth.\nDestined to rule the world unto eternity.\""
+DD_LSK.0.t:0 "Embers of Thessalonika"
+DD_LSK.0.dec:0 "Boniface de Montferrat, amidst the smoke of the Fourth Crusade, founded the Kingdom of Thessalonika through formidable courage and lofty prestige. He married Margaret of Hungary, widow of Isaac II Angelos. Through this union, he gained recognition from the remnants of Byzantine nobility and initial legitimacy in the eyes of the Greek people.\n\nYet the Latin Kingdom's foundations proved unstable. Boniface's sudden death, coupled with the oppression and forced conversion of Greek subjects by Latin lords, intensified internal turmoil. Over decades, Thessalonika faced multiple sieges, nearly fell to the Bulgarian Empire, and ultimately submitted to the Latin Empire amid shifting powers. The kingdom found respite under Boniface's son Demetrius, who eased internal conflicts and skillfully maneuvered for his second son Henry to inherit the Duchy of Thessaly, ruling these mountainous lands.\n\nThe Montferrat branch thus took root in Thessaly. Through centuries, we steadfastly guarded the kingdom's southern frontier, our bloodlines gradually blending with the land through generations of marriage with local nobles. Yet in the 1430s, the crown of Thessalonika finally collapsed under internal strife and external threats. The incompetent and cowardly William III was forced into exile in Italy, leaving us holding this remote corner. Fortunately, today's duchy has shed its former extremism, permitting Greek subjects to keep their faith while carefully maintaining relations with the Papacy. Our court preserves Latin Church traditions while incorporating Greek customs and etiquette. Thus, the local people gradually see us as protectors rather than foreigners.\n\nNow, the Empire of Thessalonika teeters on the brink, its rule over Epirus shattered through our machinations. The Komnenos Doukas family has lost control around the Pindus mountains, and our [Root.Monarch.GetTitle] [Root.Monarch.GetName] seizes this moment to rekindle the ambition of the [Root.Monarch.Dynasty.GetName] dynasty. Perhaps the embers of Thessalonika may yet burst into flames once more."
+DD_LSK.0.a:0 "Boniface's legacy lives on through us!"
+
+DD_LSK.1.t:0 "Danubian Crusade"
+DD_LSK.1.dec:0 "The Danube's torrents rush from the Alps, winding between the Balkans and Carpathians, forming a natural boundary between us and the heretics and barbarians. Since the Fourth Crusade, this land has been filled with unhealed grievances: Bulgarian rebellions, Serbian expansion, Hungarian noble ambitions—all viewing our Empire as outsiders. Now, [Root.Monarch.GetTitle] [Root.Monarch.GetName] orders the reorganization of knightly orders and mercenary companies, summoning clerics to preach along the riverbanks, shaping this war as the beginning of a great new crusade. War horns and hymns echo through military camps, where armored knights and pontoon bridges stand ready.\n\nThe Danube will no longer be just a barrier, but shall become a bridge for imperial expansion. Should we cross this river in the name of the Cross, the Empire will not only purge heresy and rebellion but bring the entire Balkans under Catholic order."
+DD_LSK.1.a:0 "God's will!"
+
+DD_LSK.2.t:0 "Imperial Rebirth"
+DD_LSK.2.dec:0 "The court of [This.GetName] has finally quelled the turmoil. The killings and plunder brought by the Fourth Crusade still sting in memory: it was a tearing of faith, a disgrace of fratricide, the nightmare of an empire's collapse, and many still whisper curses about those years of blood and fire.\n\nYet Boniface's legacy never truly died. From the moment he raised his royal standard in Thessalonika, our dynasty has borne the names of outsiders and usurpers, surviving with difficulty amid suspicion and hatred. The old divisions were forcibly healed through baptism by iron and blood, with brutal struggle bringing unified order. Though the path was strewn with thorns, a new empire now stands proudly upon the ruins. Generations have passed, and Latin blood has gradually blended with Greek soil. We inherit Roman Catholic traditions while using Greek customs to pacify the people. Through this cruel trial, we have finally taken root, becoming new guardians.\n\nNow the Empire under Latin rite has been reestablished. Former divisions were mended with iron and blood, brutal struggles bringing new unity. Rhomanía reappears in daylight—no longer a ghost of the past, but a kingdom in the present. The wound of the Great Schism may not heal easily, but the new empire stands upon the ruins, bearing Greek lineage and Latin faith, destined to recreate the prosperity, harmony, and splendor of the old Empire.\n\nMay our descendants remember not only the darkness of our internecine strife, but how we forged order and empire anew from flames and ruins."
+DD_LSK.2.a:0 "This is our disgrace, and our rebirth. We were scattered by suffering, yet united again beneath the Cross."
+
+DD_LSK.3.t:0 "Pilgrim Sea Route"
+DD_LSK.3.dec:0 "After securing the harbors of Thessaly and the Aegean islands, [Root.GetName] has established a transport route spanning the Eastern Mediterranean. Warships and merchant vessels shuttle continuously under escort fleet protection, carrying military supplies, knights, and provisions. In the ports of Constantinople and Thessalonika, shipwrights work day and night building galleys, while knights assemble in formation at the docks, ready for deployment. Merchant reports arrive: Egypt's fertile delta lies within reach, and Alexandria's port is the key to the Nile and Eastern trade routes.\n\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] gazes upon the blue sea and distant sails, knowing that capturing that ancient city would allow the Empire to completely control the Eastern Mediterranean's lifeline under the Cross's protection. The sea route is open; only the decisive step remains."
+DD_LSK.3.a:0 "The army shall arrive with the sea winds!"
+
+DD_LSK.4.t:0 "The Lord's Anointed"
+DD_LSK.4.dec:0 "Boniface de Montferrat was originally the consensus leader of the Fourth Crusade, possessing both lineage and prestige, sharing ancestry with the Kingdom of Jerusalem and marital ties with the former imperial family. When Constantinople fell, both knights from the West and remaining locals believed the imperial crown rightly belonged on his brow. Yet Venetian schemes and Frankish ambitions changed everything. Villehardouin and Brienne wove conspiracies, joining with Baldwin of Flanders to strip him of his rightful inheritance through manipulated elections, placing the crown upon the head of the aged but still ambitious 'blind' Enrico Dandolo. That moment of humiliation became deeply engraved in Montferrat family memory.\n\nToday, fortune's wheel has finally turned. Hagia Sophia's bells still echo, monastic chants resound, candle flames flicker, and gilded icons gleam. [Root.Monarch.GetName], as Boniface's descendant, slowly enters the sanctuary, draped in luxurious robes, wearing the sword and regalia inherited from the Kings of Thessalonika. Clerics chant Latin prayers, holding crosses and gospels; knights stand solemnly with banners, griffins and crosses interwoven. Though cold observers remain, they cannot diminish this moment's solemnity. The Archbishop solemnly raises the jeweled crown, places it upon his head, anoints his brow with holy oil, and proclaims him 'Emperor of the Romans, Lord of the Greeks.'\n\nThe crowd's reaction is complex yet fervent: some call this God's righteous repayment, redemption for past conspiracies; others fear whether old grievances and betrayals might reignite beneath this imperial crown. Yet the [Root.Monarch.GetTitle] remains solemn and resolute, knowing this act represents not only coronation glory but belated justice. Through worldly changes, the imperial scepter has ultimately returned to its true owner's hands."
+DD_LSK.4.a:0 "Fate has finally returned the crown that was rightfully ours!"
+
+DD_LSK.5.t:0 "Confronting the Empire"
+DD_LSK.5.dec:0 "After long campaigns, the banners of [Root.GetName] finally fly along the Sava River's banks, facing the double-headed eagle's emblem across the waters. This is the frontier of the Duchy of Styria, the borderland of the Holy Roman Empire. For the first time, the Roman successor of the East and the Holy Roman Emperor of the West gaze upon each other across the river.\n\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] inspects the fortresses and villages along the shore, realizing this river is no longer merely a geographical boundary, but a silent barrier between claims to Roman legitimacy. Reports from merchants and scouts confirm: Imperial forces stand vigilant on the opposite bank, not yet arrayed for open battle, but currents stir beneath the surface.\n\nThough bells and prayers still echo across the border, the air is thick with tension and suspicion. Yet within our ranks, knights and clerics sing hymns, proclaiming this a divine trial ordained by God, vowing to purify the double-headed eagle's hollow pretensions with holy flame."
+DD_LSK.5.a:0 "One day, our banners will cross the Rhine!"
+
+DD_LSK.6.t:0 "Fire of Judgment"
+DD_LSK.6.dec:0 "Amidst relentless campaigns and naval battles, our artisans and soldiers have tirelessly experimented with ancient techniques. The lost formula for Greek Fire, gradually recovered through countless failures and sacrifices, now reaches its perfected form. The flames erupt, unquenchable even by seawater, striking terror into enemy ranks. Monks call it the 'Fire of Judgment'—a symbol of God's verdict and a weapon of imperial might.\n\nWhile foes dread this blazing inferno, our people see within its glow a promise of rebirth: the Empire still commands the secret arts of our forebears. This fire is more than a weapon—it is the symbol of our unextinguished destiny, forged through trial."
+DD_LSK.6.a:0 "Face the judgment of fire."
+
+DD_LSK.7.t:0 "The Dnieper Mission"
+DD_LSK.7.dec:0 "As the Imperial banners are planted along the Dnieper River, the local Slavic communities cling steadfastly to their old ways. Ritual fires burn in wooded groves, wooden idols are anointed with animal blood, and Slavic Orthodox monks chant ancient hymns within humble chapels.\n\nYet the Empire views this land not as a mere wilderness, but as a stage for a trial of faith. Bishops and missionaries have arrived with the armies, erecting temporary altars upon the riverbanks, ready to welcome receptive souls with holy water and Mass. Knights stand guard over these rites, while local nobles watch cautiously, knowing their choices will determine their families' futures.\n\nSome advocate forced conversion by fire and sword, to swiftly bring the entire river valley under Rome; others urge gradual change, winning hearts through trade, intermarriage, and the slow replacement of rituals. Regardless, the waters of the Dnieper shall become a symbol of sanctification, revealing whether this land will truly embrace Christ's fold."
+DD_LSK.7.a:0 "The iron riders of [This.GetName] shall reshape order here."
+
+DD_LSK.8.t:0 "The Great Expedition"
+DD_LSK.8.dec:0 "The Arabian sands have fallen silent under the banner of the Cross, and the mountains of Persia have bowed to Imperial might. Once-proud emirs and khans now stand exiled or subjugated. Upon the ruins of holy cities and ancient kingdoms, knights and clerics proclaim: this is not the end, but a new beginning.\n\nIn the court, missionaries and cardinals cite scripture, claiming it is God's will for the Empire to carry the Crusade to more distant realms. They speak of pagan temples along the Indus River, calling for a great expedition east of Jerusalem. The knightly orders thirst for new glories and penance, while merchants dream of trade routes to lands of gold and spice.\n\nThough our domains stretch almost beyond governance, illuminated by sacred fire and echoed by hymns, we shall yet kindle new campaigns, ensuring the banner of the Cross flies over unknown worlds."
+DD_LSK.8.a:0 "Onward to farther frontiers!"
+
+DD_LSK.9.t:0 "Expanded Docks or New Shipyards"
+DD_LSK.9.dec:0 "After allocating funds for harbor repairs, the [Root.Monarch.GetTitle] and council meticulously reviewed the project plans. Recognizing the strategic importance of port infrastructure, senior officials unanimously agreed to increase investment to ensure the successful implementation of the naval reorganization plan. However, some divergence remains among executing departments regarding the project's primary focus, awaiting the [Root.Monarch.GetTitle]'s final decision."
+DD_LSK.9.a:0 "We must expand dock capacity to accommodate fleet expansion and sailors."
+DD_LSK.9.b:0 "New shipyards will empower our naval expansion."
+
+DD_LSK.10.t:0 "Supreme Devotion"
+DD_LSK.10.dec:0 "Through long years, our warriors have marched alongside the Church, demonstrating faith's power through rituals, crusades, religious orders, and pious devotion. Now all these efforts converge: the prayers of monks, the blood of knights, and the labor and alms of common folk unite toward a single purpose. The entire Empire seems bathed in divine radiance, with hymns echoing through palaces and churches, while jubilant celebration fills the streets.\n\nScholars call this an unprecedented revival of piety; clergy proclaim it as God's manifestation on earth. People firmly believe that through such devotion, [This.GetName] has transcended mere earthly kingdom to become the embodiment of faith and glory."
+DD_LSK.10.a:0 "May praise and glory forever belong to God!"
+
+DD_LSK.11.t:0 "Ambitious Usurper"
+DD_LSK.11.dec:0 "The reign of [Root.Monarch.GetName] has brought the Empire nothing but endless condescension, humiliation, and despair. Now [Root.Monarch.GetHerHim] possesses no remaining authority, and the people can no longer tolerate this [Root.Monarch.GetTitle] who has driven the Empire's fortunes to their lowest point.\n\nAfter completely losing support among the populace of [This.Capital.GetCapitalName], masses unwilling to accept this rule have rallied under the banner of a challenger seeking to seize the [Root.Monarch.GetTitle]'s throne. Enraged crowds gather in the streets chanting his name. Soon, assemblies have escalated into riotous rebellion, with citizens supporting the usurper looting and burning [Root.Monarch.GetName]'s properties and treasuries, seizing arsenals before marching on the imperial palace, further intensifying the nation's chaos."
+DD_LSK.11.a:0 "Demonstrate the [Root.Monarch.GetTitle]'s authority and crush them!"
+
+DD_LSK.12.t:0 "Key to Constantinople"
+DD_LSK.12.dec:0 "The gates of the Holy City finally open before us. Constantinople, the imperial capital that fell amidst flames and conspiracies, passing between heretics and usurpers, now lies under [This.GetName]'s control. Hagia Sophia's dome still towers above, candlelight flickering before icons, yet the air retains the scent of ruins and bloodshed.\n\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] cautiously enters this ancient sanctuary. Commoners and clergy watch with apprehension and suspicion, whispering about our legitimacy to establish the capital here; Latin knights raise their banners, anticipating restored former glory; while Greek monks gaze with complex emotions, yearning for order yet fearing repetition of past plunder.\n\nWe indeed hold the imperial capital, but this alone doesn't justify claiming the title Emperor of Rhomanía. The coronation remains unperformed, neighboring hostility still surrounds us, and the old imperial aristocracy remains incompletely subdued. At this moment, we stand as both conquerors and challengers. Though we hold Constantinople's key, the crown remains under God's scrutiny."
+DD_LSK.12.a:0 "The queen of cities, foundation of our ascent."
+
+DD_LSK.13.t:0 "Griko Communities"
+DD_LSK.13.dec:0 "Since ancient times, Southern Italy has been home to populations of Greek descent, whose ancestors crossed the sea from the Eastern Mediterranean, passing down their language and customs through generations here. Under the brief rule of the Byzantine Empire, they reconnected with the Greek world, but as Eastern Rome declined, these ties gradually faded, leaving them struggling to preserve their traditions amidst foreign kingdoms.\n\nNow, this land has returned to the Latin Empire's embrace. As both inheritors of Greek lineage and guardians of the Roman Catholic faith, we can offer the local Griko people new security. They no longer need to linger on the margins of identity, but can continue their cultural legacy under the Empire's order and protection. The support of the Griko people will significantly consolidate our rule in Southern Italy."
+DD_LSK.13.a:0 "Their traditions find renewed security within the Empire!"
+
+DD_LSK.14.t:0 "The Holy Cities Under the Cross"
+DD_LSK.14.dec:0 "The desert winds still echo with drums and horns, as knights raise the banners of [This.GetName] above the Kaaba. Mecca and Medina, Islam's holiest cities, now stand silent in the shadow of the Cross.\n\nSome at court vehemently argue: purify these places with fire and blood, to demonstrate the Messiah's power to the world; others urge that guarding these holy cities in Saint Michael's name could transform them from bastions of heresy into components of imperial order; still others caution that holy cities are not just centers of faith but convergence points for countless merchants, and that proclaiming peace and renewal with Gabriel's trumpet could make them hubs for the Empire's relations with various realms; yet another voice suggests applying Raphael's healing touch to soothe wounds and restore stability through安抚 and healing.\n\nAt this moment, the [Root.Monarch.GetTitle] must decide: shall the holy cities become altars consumed by flames, or be integrated into the new Roman order as symbols bearing the future?"
+DD_LSK.14.a:0 "Purify all in Michael's name!"
+DD_LSK.14.b:0 "Let Gabriel's trumpet resound through the desert!"
+DD_LSK.14.c:0 "Soothe the cities with Raphael's hand."
+
+DD_LSK.15.t:0 "The Baptism of Egypt"
+DD_LSK.15.dec:0 "The ancient temples and pyramids along the Nile have taken on new meaning under our governance. Horns and prayers echo through the desert as knights process into the sanctuaries of Memphis and Cairo, the sprinkling of holy water and Latin liturgy symbolizing Egypt's millennia-old civilization being gathered into Christ's flock.\n\nThe old gods and beliefs recede amid flames and hymns, while monks raise high the cross, proclaiming the complete eradication of heresy. Local congregations, whether compelled or willing, kneel before the altars to receive the Crusaders' 'rebirth.' Some call this a brutal purge, a victory of fire and iron; others firmly believe it is the Holy Father's favor upon the Empire, bringing the children of the Nile into the one true faith. Regardless, Egypt is no longer what it once was, but has become sacred ground under God's dominion."
+DD_LSK.15.a:0 "May holy water cleanse the people of the Nile."
+
+DD_LSK.16.t:0 "Pilgrimage to the Holy City"
+DD_LSK.16.dec:0 "Our armies slowly deploy outside the Holy City, the Crusader ranks advancing toward Jerusalem in silent solemnity. The gates open amid tense quietude, as Latin knights and accompanying clergy gradually enter this millennia-old sanctuary. There are no roaring cheers, only hushed prayers and watchful gazes, as if fearing to disturb this hallowed ground. The [Root.Monarch.GetTitle] has been recognized by various realms as the Crusade's leader, making this city's possession not merely another conquest, but the restoration of the entire Christian world after blood and fire. Monks raise the cross before the Church of the Holy Sepulchre, reading papal decrees proclaiming Jerusalem henceforth under Imperial protection; knights carefully secure key routes and sanctuaries, strictly forbidding looting to preserve the Holy City's dignity.\n\nCitizens watch from a distance, both apprehensive and confused, uncertain what the new order portends. But for the Crusaders, this moment represents the destination and new beginning for which generations have marched. Jerusalem has returned to Christian hands once more, and the Empire, as its leader, extends the Cross's authority throughout the Orient."
+DD_LSK.16.a:0 "We are the Lord's sword and shield."
+
+DD_LSK.17.t:0 "The Conversion of the Slavs"
+DD_LSK.17.dec:0 "The old Slavic Orthodox and pagan traditions still tenaciously endure. Wooden icons, rural sacrificial fires, and the whispers of monks subtly resist the Latin Mass and papal decrees. Yet the Empire's rule relies not solely on iron and blood. Missionaries carry gospels and icons, spreading the Roman faith village by village, town by town; Latin knights preside over rites in the towns, bestowing holy water and chrism; while local nobles who accept conversion are granted privileges and lands to secure their loyalty.\n\nMany former monasteries have been converted into cathedrals, reconsecrated by clergy using Latin liturgy, and in rural marketplaces, new feast days gradually replace ancient celebrations. Though resistance and schism persist, generations of youth increasingly regard Roman Catholicism as the sole true path.\n\nNow, the Slavic lands begin to transform under the Cross's protection, the Empire's authority strengthened through religious unity. Subjects may still harbor misgivings, but history will record this as the moment they returned to the true faith."
+DD_LSK.17.a:0 "Perseverance and piety change hearts more effectively than blades."
+
+DD_LSK.41.t:0 "Twilight Vow"
+DD_LSK.41.dec:0 "To my dear child, Demetrius:\n\nIt was at twilight, with candlelight flickering on stone walls and hymns echoing slowly through the hall, that I married your mother—a daughter of the exiled Mélissenoi. Her family had fallen in strife, her brothers driven out in power struggles, and she herself was sent by fate's currents into my precarious duchy. That day held no laughter nor music, only solemnity and restraint.\n\nTo be frank, it was no romantic union. Between us lay no past admiration or tenderness, only the necessity of bloodline continuation and the silent calculations between noble houses. Yet as she slowly approached me, her robe sweeping across cold flagstones, I saw the glimmer of tears and stubborn pride in her eyes. In that moment, my heart stirred—not with passionate love, but with a warmth like a winter hearthfire. Perhaps in her heart, I appeared the same: a stranger, yet someone she must rely upon.\n\nYou must understand, my child, in my younger days I traveled to Italy for study, walking Milan's stone paths, residing in Pavia's colleges, leaving footprints in Piedmont's valleys, witnessing legal debates in Bologna's halls, and hearing theologians' lectures in Padua. I delighted in poets' rhythms and immersed myself in historians' chronicles. In those days, I believed words and ideals could shape destiny; I debated eloquently in grand halls, confident such wisdom and rhetoric could persuade allies and convert foes.\n\nYet such scholarly brilliance ultimately failed to teach me how to face conspirators' whispers or withstand cold steel cavalry. They became my background, making me understand through harsh reality that life consists not merely of poetry and rhetoric, but of weighty vows paid for in blood and tears. Thus your birth sprang not solely from cold transaction. Your mother's tenderness and my oath intertwined in that twilight, forming a subtle, hidden affection. Silent, yet it continues bloodlines; fragile, yet it withstands storms. Remember this: our house endures not through fleeting pleasures, but through suffering, vows, and that small, inextinguishable spark of love.\n\n—John de Montferrat"
+DD_LSK.41.a:0 "This is fate, yet also twilight's warmth."
+
+DD_LSK.42.t:0 "A Faint Glimmer"
+DD_LSK.42.dec:0 "To my dear child, Demetrius:\n\nYou were born on a cold and silent dawn. At that time, my state of mind resembled this crumbling duchy—filled with shadows and numbness. Beyond the city gates, the threat of Thessalonika still loomed; allies had betrayed us, the family was fractured, and I had nearly ceased to believe fate would ever favor us again.\n\nBut when your cry pierced the night, clear as a bell echoing between stone walls and vaulted ceilings, a long-absent tremor stirred within my heart. In that moment, I saw your mother's weary yet peaceful smile, and saw how your swaddling clothes seemed to ignite the room's final light. I understood then that fate had not entirely abandoned us—it had left a new beginning in you.\n\nI named you 'Demetrius,' after the patron saint of Thessalonika. This signifies not only protection but also a solemn mission. You carry not just the bloodlines of Mélissenoi and Montferrat, but this war-torn land's yearning for the future. My child, you are the brightest torch in my life. May your path be less tortuous and dark than mine has been.\n\n—John de Montferrat"
+DD_LSK.42.a:0 "Can I become a true guardian?"
+
+DD_LSK.43.t:0 "A Tainted Victory"
+DD_LSK.43.dec:0 "To my dear child, Demetrius:\n\nI am no longer that silently enduring young man. The opportunity finally arrived—I secretly contacted disaffected nobles around Kastoria and Epirus, reaching agreements. Within these undercurrents, we wove a web of conspiracy. That night, I broke the oath I had sworn to the Emperor of Thessalonika, raising the banner of rebellion alongside them.\n\nThe Komnenos Doukas family abruptly lost their lands in Epirus and Thessaly. At dawn, as our banners flew once more upon the battlements, I seemed to see our ancestors' shadows watching me. Though achievements were finally made—I had thought this would stir my soul with triumph—my heart found no peace. For I understood this was victory through betrayal, a 'tainted victory' undeserving of honor.\n\nThose conspiratorial whispers, those shattered oaths, those abandoned former allies... all left their mark upon my soul. I often gaze into your mother's eyes at night, yet dare not speak. She is a daughter of the Mélissenoi, who should take pride in honor and loyalty, yet now lives shadowed by my betrayal. I fear even more for you—that one day men might call you the conspirator's son, burdening you with shame not your own.\n\nMy child, should you inherit these lands one day, I pray you never face my predicament—compelled to secure victory through subterfuge, to build achievements upon betrayal. May you stand upon my shoulders to earn the imperial crown through justice and mercy, making men follow from admiration rather than fear or calculation. May you walk upright, truly worthy before God.\n\n—John de Montferrat"
+DD_LSK.43.a:0 "Success carries its own disgrace."
+
+DD_LSK.44.t:0 "Belated Solace"
+DD_LSK.44.dec:0 "To my dear child, Demetrius:\n\nWhen I entered the gates of Thessalonika once more, my heart felt not the nobility and glory sung in heroic tales, but only profound release. Years of exile and humiliation seemed finally soothed at this moment. For I could now walk these streets with head held high—a scion of the long-declined Montferrat branch, who found opportunity amidst marginalization and oppression to raise the royal banner of Thessalonika once more. To me, this was nothing short of miraculous grace.\n\nLong-absent cheers filled the streets, church bells echoed beneath the dome. I no longer need to avoid the tears in your mother's eyes, nor fear you being called the conspirator's son. Seeing the welcoming smiles of the people, hearing their devout prayers, my heart simply thought: perhaps now I can use this city to protect you, allowing the bloodlines of Mélissenoi and Montferrat to continue here in peace.\n\nDemetrius, this is not the justice praised by the world, but my belated solace—the dignity I could win for you and your mother. Our name should not forever be written in chapters of decline. If all we have today was gained through fortune, then tomorrow, you must make it truly secure and glorious.\n\nMay you earn the world's admiration through courage and integrity, washing away the conspiracy and betrayal I carried. May you never survive through shame and calculation as I did, but walk your path without fear or regret.\n\n—John de Montferrat"
+DD_LSK.44.a:0 "At least he used it to protect those he loved."
+
+DD_LSK.45.t:0 "Crown and Calling"
+DD_LSK.45.dec:0 "To my dear child, Demetrius:\n\nI never dared hope that one day I would truly sit upon the Latin Empire's throne. From inheriting the ducal title, I knew I could only struggle for survival amidst storms; preserving Thessaly and Thessalonika alone would have been heaven's generous gift. Yet today, beneath Hagia Sophia's dome, hearing bells and hymns resound for me, feeling that jeweled crown rest upon my brow, I finally understand: striving with all one's might against fate can indeed yield achievements beyond imagination.\n\nThis is no mere fortune, but the weight of calling. For I know deeply that this honor belongs not to me alone, but to your mother's steadfastness through darkest hours, to the names of Mélissenoi and Montferrat flowing in your blood. It was our shared sacrifices and perseverance that raised this crown from past humiliation. My child, my greatest joy lies not in being called Emperor by the world, but in being able to proudly tell you and your mother: from this day forward, you need never lower your heads again to rumors and shame. The moment of your birth gave me courage to persevere, and now I wish to make this crown the foundation for your future.\n\nMay you inherit not merely my position, but this duty of guardianship. When you come of age, may you rule with integrity and mercy, earning the world's respect through wisdom and faith. Should you one day be crowned within this same sanctuary, I pray God witnesses you shining more brilliantly and blamelessly than your father.\n\n—John de Montferrat"
+DD_LSK.45.a:0 "Thus did he assume the crown."
+
+DD_LSK.46.t:0 "The New King's Coronation"
+DD_LSK.46.dec:0 "To my dear son, Demetrius:\n\nWhen you read this letter, I may already be at rest, unable to witness the man you will become. My voice will fall silent, but my love and thoughts will remain with you like an enduring candle flame. In this life, I exhausted myself for family and city, surviving amidst blades and undercurrents, persisting through schemes and betrayals. Though achievements were made, they often carried shame. I hope you inherit my devotion to protecting our bloodline, but not my ignoble methods. May you walk a brighter path, making men follow through mercy rather than fear, earning glory through integrity rather than conspiracy.\n\nYet before parting, I must speak of your mother. My child, always remember—she is this family's true pillar. During my campaigns, she alone remained, bearing every burden. She taught you prayers in childhood, taught you reading and writing; through perilous times, her resilience and tenderness comforted you and all in our household. She poured her youth and gentleness into this family, while I too often left her in my shadow. Though my love never wavered, what I gave her was often solitude and waiting.\n\nIf one thing burdens me with lasting regret, it is failing to grant her equal honor and peace. Child, protect and remember her in my stead. May you inherit both your mother's fortitude and compassion, and my determination to safeguard our house. When you tread paths I could not complete, may you bear no shame, but rightfully wear that crown—making the world follow from admiration, not submission from fear. Should you one day be crowned, may God watch over you, making you worthy of your parents' hopes and this war-torn land.\n\n—John de Montferrat"
+DD_LSK.46.a:0 "My father's final wish guides my path forward."
+
+DD_LSK.47.t:0 "Final Words"
+DD_LSK.47.dec:0 "In a quiet twilight, Demetrius accidentally discovered a yellowed parchment within a dusty casket in the palace. The handwriting had faded with time, yet remained faintly discernible as a letter left by his father.\n\n\n『To my dearest son, Demetrius:\n\nIf one day you stand beneath the dome of Hagia Sophia, with bells and hymns resounding for you; if one day the Patriarch anoints your brow with holy oil, solemnly placing that crown upon your head—remember, this is not my personal victory, but the restoration of our family and people, indeed the rebirth of the entire Christian world.\n\nYet this crown is not merely glory, but also shackles. It calls you to transcend all baseness, to sustain it not through conspiracy, to rule not through fear, but to establish it upon foundations of justice and mercy. Do not forget the hunger of the poor, the loyalty of warriors, the prayers of the Church. The Empire belongs not solely to the monarch, but to millions of souls.\n\nThe imperial crown upon your brow is also the cross upon your shoulders. May you bestow mercy upon the people, restore dignity to the Church, and lend authority to the imperial diadem. Let men call you true Emperor of the Romans—not by bloodline, not by conspiracy, but because you have rightfully earned recognition from God and mankind. May the Holy Father watch over you, making your name shine upon the earth like stars.\n\n—John de Montferrat』"
+DD_LSK.47.a:0 "I shall remember the weight of both crown and cross."
+
+DD_LSK.48.t:0 " Lingering Warmth"
+DD_LSK.48.dec:0 "While on his royal progress, Demetrius lodged at the Larissa palace of the former Duchy of Thessaly. This was where his mother had often retreated for quiet convalescence before her final illness, and the very air seemed to retain her presence. At dusk, while casually perusing old archives, he unexpectedly found, tucked within a yellowed devotional text, an unsent letter. The handwriting was elegant yet slightly unsteady, seemingly the final words his mother had left behind.\n\n『To my dear son, Demetrius:\nMy child, I never shared your father's inclination for recording the past, yet before God's summons, I still wish to leave you some words.\n\nI still remember the day I first met your father. I was young then, forced to leave my homeland and kin. My retinue was sparse, the wedding arrangements bleak and oppressive; hymns echoed through the empty hall, yet held no joy. I maintained proper decorum and dress, but couldn't conceal the trepidation and sorrow in my heart. Your father was taciturn, his brow shadowed with gloom, and he offered no words of comfort. In that moment, filled with resentment, I believed myself merely a sacrificial offering from a declining family.\n\nYet time gradually softened my bitterness. I saw how he swallowed humiliation and struggle alone, how he paced through countless nights until dawn, and how, at the moment of your birth, he showed for the first time an awkward yet genuine smile. Only then did I understand—he wasn't cold, but bore all pain within, unwilling to share the burden with us.\n\nDemetrius, your father gave you bloodline and name, while I gave you day-and-night guardianship. It was I who guided your small hand to form its first letters, who taught your first prayers by flickering candlelight. Your father was often away; feasts and revelry never belonged to this home, and all domestic burdens fell upon me. I never complained, for seeing you sleep peacefully was my deepest consolation.\n\nMy child, my sole wish is this: whatever position you may hold, never lose warmth. The Empire's swords may strike enemies, but you must learn to protect hearts. May you inherit your father's fortitude while preserving some of your mother's tenderness. When you were young, I often whispered: \"You need not retread the paths we walked.\" Today, I write these words, hoping you remember them always.\n\n—Eudokia Melissene』"
+DD_LSK.48.a:0 "Her handwriting remains meticulously precise."
+
+DD_LSK.50.t:0 "Shadow Over Hagia Sophia"
+DD_LSK.50.dec:0 "Since Constantinople's submission, this city once called 'New Rome' has not found the peace many hoped for. Though Hagia Sophia's dome still stands majestic, the prayers beneath it have split into two languages and two rites. Latin altars stand alongside Greek icons, yet none truly share the same Eucharist. Greek monks continue chanting their hymns in hidden chapels, refusing to pray alongside Latin priests; while military chaplains demand the faithful submit to Roman Catholicism through holy oil and iron discipline.\n\nCity districts grow distant over liturgical differences, religious communities fragmenting. Trust between neighbors vanishes, former congregants now denouncing each other as heretics. Streets fill with rumors and resentment, as if the city still burns with Crusader flames—only now the fire is faith's rupture. Constantinople, meant to be a symbol of unity, has become a nucleus of division and unrest. Unless this rift can be healed, the new rule shall forever remain precarious."
+DD_LSK.50.a:0 "Our rule hangs by a thread."
+
+DD_LSK.51.t:0 "The Bosom of the Virgin"
+DD_LSK.51.dec:0 "Under our policy of tolerant governance, the inhabitants of [Root.GetName] have faced neither forced conversion nor compelled abandonment of their faith under threat of sword. Instead, they have received freedom to worship in their own churches, preserving their language, customs, and traditions. Within this atmosphere of gradually fading hostility, local clergy and Latin priests have increasingly engaged in dialogue, sharing more frequent moments of joint prayer and sacraments.\n\nAs years passed, former divisions transformed into trust. Today, the people of [Root.GetName] voluntarily adopt Latin rites, accept episcopal guidance, and participate in blessings and festivals within Catholic churches. They perceive this not as loss of tradition, but as embracing a broader community—the unity of Rome and Christendom. Within the Virgin's merciful embrace, their faith has transformed from a conqueror's mark into a sincere personal choice."
+DD_LSK.51.a:0 "They have returned to the Holy See."
+
+DD_LSK.52.t:0 "A New Age"
+DD_LSK.52.dec:0 "The catastrophe of the Fourth Crusade once left Greek lands long struggling with hatred and division. Foreign knights and local populace distrusted each other, while Latin clergy and Greek monks exchanged mutual condemnations. The Papacy and Western realms continually doubted our worthiness to bear the imperial title.\n\nYet times have changed. The Cross now hangs above Greek churches, with the Eucharist reverently celebrated before altars in every province. Former conflicts have gradually quieted, as Latin rite and Greek spirit find their home within a unified faith.\n\nNow that the final Greek lands have embraced Catholicism, skepticism from within and without has finally dissolved. None still regard us as usurpers, heretics, or traitors. We are the Empire under Roman Catholicism, the confluence where Greek and Latin meet. A new age dawns, and we bear the mission to unite Christendom and restore imperial glory."
+DD_LSK.52.a:0 "Catholicism has become one with our bloodline!"
+
+DD_LSK.53.t:0 "Return to Montferrat"
+DD_LSK.53.dec:0 "For centuries, the House of de Montferrat wandered through distant lands. Our ancestor Boniface de Montferrat departed for Greece with the Fourth Crusade, never to return. Yet today fortune's wheel has turned full circle—[Root.Monarch.GetTitle] [Root.Monarch.GetName] leads triumphant armies back to Montferrat's hills. Though weathered by time, the ancient castles and stone walls still stand resolute, as if awaiting their rightful lord's homecoming. The people gather by city gates and mountain paths with mingled astonishment and apprehension, whispering: Can this foreign ruler truly become their protector once more?\n\nThe de Montferrat lineage has been renowned since medieval times as a house of chivalry, its bloodline flowing with valor and honor. Today knights raise the family banners, icons and crosses gleaming in sunlight. Old retainers and new allies assemble here, vowing to restore Montferrat's prestige. Where the house was once famed for iron resolve and courage, they shall now bear the epithet 'Iron Mountain,' symbolizing unshakable foundation and glory. The Empire endures not only in foreign lands, but takes root anew in its ancestral home."
+DD_LSK.53.a:0 "The Iron Mountain stands once more!"
+
+DD_LSK.97.t:0 "Crown of Italy"
+DD_LSK.97.dec:0 "After countless wars and conspiracies, the [Root.Monarch.GetTitle] has finally accomplished what predecessors could not—the banners of [Root.GetName] now fly over every city in the Italian peninsula. Formerly divided principalities, arrogant republics, and stubborn duchies have all bowed to Imperial authority.\n\nAs the Iron Crown is solemnly placed, [Root.Monarch.GetName] is no longer merely [Root.Monarch.GetTitle], but inherits the mantle of Caesar and Augustus, bearing the honorific of Basileus with the majesty befitting King of Kings. This is both an echo of the old era and the dawn of a new age; it proclaims that a unified Empire has been reborn at the confluence of East and West. The Crown of Italy represents not merely territorial dominion, but the restoration of authority and civilization.\n\nWith the gem-studded Iron Crown reverently placed upon the brow, the Empire's prestige reaches its zenith once more. Rome and Greece, East and West, seem finally united as one at this moment. The Empire's history turns a new page, and Rome's scepter shall once again point toward the entire world."
+DD_LSK.97.a:0 "We shall rule over all!"
+
+DD_LSK.98.t:0 "The Ark of the Covenant"
+DD_LSK.98.dec:0 "For over a millennium, the Ark of the Covenant remained concealed from mortal sight, its contents unseen by any. To countless faithful and clergy, it had become little more than a legendary relic. Yet now, by divine providence, we stand as triumphant defenders of the faith, privileged to reopen this long-dormant vessel of the covenant.\n\nWhen our esteemed [Root.Monarch.GetTitle] personally unsealed this gold-overlaid sacred ark, the chamber fell into profound solemnity: the two stone tablets bearing the Ten Commandments, Aaron's staff, and the jar of manna appeared before mortal eyes, exactly as scripture records. Present clergy raised prayers in loud voices, praising the Lord's greatness and His favor upon the Empire of [This.GetName].\n\nFrom that moment, [This.GetName] has been enveloped in an unprecedented divine radiance. The [Root.Monarch.GetTitle] feels God's hand guiding state affairs, and the people firmly believe the Empire has become an instrument of the Lord's personal favor."
+DD_LSK.98.a:0 "The Heavenly Father's glory manifests here!"
+
+DD_LSK.99.t:0 "Fountain of Youth"
+DD_LSK.99.dec:0 "Amidst the towering mountains of Ethiopia, the legendary 'Fountain of Youth' has finally been unveiled by our explorers. For millennia, countless whispers have spoken its name, claiming it grants mortals eternal vitality and undying vigor. When sunlight falls upon its surface, the clear waters surge between stone crevices, gleaming like the touch of the Heavenly Father upon earth. All present bow in reverence, declaring this another divine miracle bestowed by God.\n\nAs our esteemed [Root.Monarch.GetTitle] approaches the springside, the waters shimmer with crystalline brilliance, as if reflecting heavenly glory upon the mortal realm. Clergy murmur prayers, soldiers stand in breathless solemnity, and all firmly believe: through this sign, God reveals that the Empire of [This.GetName] is not merely Christianity's protector, but heaven's very reflection and vessel on earth. Henceforth, the entire Empire basks in unprecedented hope. We shall guard this sacred spring with utmost sincerity and piety until Judgment Day arrives, ensuring the Empire's destiny endures alongside eternal light."
+DD_LSK.99.a:0 "We guard this place as we guard the Kingdom of God."
+
+DD_LSK.100.t:0 "Heaven on Earth"
+DD_LSK.100.dec:0 "Centuries have turned, glory faded, empires risen and fallen; earthly renown has always proved fleeting as morning dew, sinking like twilight. But henceforth, future hymns shall mark this as their starting point—the Heavenly Father's will has been manifested on earth.\n\nUnder our protection, Jerusalem and Constantinople sing praises in unison, the strayed peoples of Syria and Egypt have returned to orthodox rites, while the deserts of Arabia and highlands of Ethiopia have converted under the Cross's radiance. The princes of Rus bow to the Holy See's authority; even the Holy Roman Empire's crown dims before our majesty.\n\nThe Ark's reappearance, the Fountain of Youth's surge—the prophecies of saints are fulfilled in our age. Miracles are no longer distant legends but heralds of a new realm. Men no longer call us [This.GetName], for upon this earthly plane, the Kingdom of Heaven has descended, and we have become—the Celestial Empire on Earth."
+DD_LSK.100.a:0 "Thy Kingdom come!"
+
+DD_LSK_Latin_Empire_reform_tooltip:0 "\nAllows us to transform subject states meeting specific conditions into §YComitatus§!.\n"
+LSK_council_focus_modifer_1:0 "Administrative Focus"
+LSK_council_focus_modifer_2:0 "Diplomatic Focus"
+LSK_council_focus_modifer_3:0 "Military Focus"
+LSK_defend_the_catholic_league_ct:0 "provinces in North German, South German, Balkan, and Italian regions follow §Y[Root.Religion.GetName]§!."
+LSK_defend_the_catholic_league_bt:0 "provinces in North German, South German, Balkan, and Italian regions are owned by §Y[Root.Religion.GetName]§! nations."
+LSK_Latin_Patriarchate_of_Constantinople:0 "Latin Patriarchate of Constantinople"
+LSK_Latin_Patriarchate_Moscow:0 "Latin Patriarchate of Moscow"
+LSK_Latin_Patriarchate_Antioch:0 "Latin Patriarchate of Antioch"
+LSK_Latin_Patriarchate_Baghdad:0 "Latin Patriarchate of Baghdad"
+LSK_Latin_Patriarchate_Yerevan:0 "Latin Patriarchate of Yerevan"
+LSK_Latin_Patriarchate_Alexandria:0 "Latin Patriarchate of Alexandria"
+LSK_Latin_Patriarchate_Jerusalem:0 "Latin Patriarchate of Jerusalem"
+LSK_pro_modifier2a_type1:0 "Forced Conversion"
+LSK_pro_modifier2a_type2:0 "Granted Autonomy"
+LTE_NE_Dis_recent_culture_modifier:0 "Recent Popular Unrest"
+LTE_NE_Dis_recent_religion_modifier:0 "Recent Religious Turmoil"
+enable_LTE_nominal_empire_dis_tooltip:0 "The disaster '§YA Nominal Empire§!' may erupt."
+LTE_nominal_empire_dis_happend_tooltip:0 "§YReligious Zealots§! and §YDisloyal Nobles§! will periodically incite regional unrest.\n\nCompleting the mission '§YLegacy of the Old Empire§!' will end this disaster."
+disable_LTE_nominal_empire_dis_tooltip:0 "The disaster '§YA Nominal Empire§!' will no longer erupt."
+enable_potential_LTE_nominal_empire_dis_tooltip:0 "When our development reaches §Y120§!, religious unity falls below §Y100.00%§!, and we hold fewer than §Y50.00%§! provinces following the §MRoman Catholic§! faith, the disaster '§OA Nominal Empire§!' will begin §Remerging§!.\n"
+LTE_nominal_empire_dis:0 "A Nominal Empire"
+desc_LTE_nominal_empire_dis:0 "Since Constantinople fell under Crusader banners, Hagia Sophia's bells no longer unite hearts. Former Orthodox altars have been reconsecrated for Latin Mass, while Byzantine monks and clergy mutter curses; Latin bishops and knights proclaim this God's will. City districts, markets, families, even households are fractured along religious lines.\n\nAmid this fragmented religious landscape, Greek subjects secretly support rebels, local nobles seize opportunities to raise armies, and the Empire's foundations tremble. Unless we can either安抚 Greek communities through tolerant governance or fully convert them to Roman Catholicism, our new Empire will ultimately be consumed by this storm of faith."
+
+DD_LTE_nominal_empire_dis_event.1.t:0 "Empire Under Gloom"
+DD_LTE_nominal_empire_dis_event.1.dec:0 "Since a regime enforcing Roman Catholicism as the state religion took control of Constantinople, widespread discontent has simmered among the populace regarding various Latin rites and Masses. Greek monks mutter curses in the streets, Orthodox commoners refuse to participate in Latin liturgies. Clashes between knights and citizens over religious conflicts occur frequently, while council chambers echo with endless debates. Though we hold the imperial scepter, it dangles over flames, ever at risk of melting away."
+DD_LTE_nominal_empire_dis_event.1.a:0 "This is our original sin."
+
+DD_LTE_nominal_empire_dis_event.2.t:0 "Light of the Theotokos"
+DD_LTE_nominal_empire_dis_event.2.dec:0 "After years of turmoil, the religious rift has finally healed. The Hagia Sophia once again stands as a symbol of imperial unity. Whether through forceful conversion by iron and blood, or tolerant governance, we have ultimately restored order to the Empire. Icons and crosses now stand side by side, as the Empire enters a new era rebuilt upon faith and authority."
+DD_LTE_nominal_empire_dis_event.2.a:0 "A new order is established."
+
+DD_LTE_nominal_empire_dis_event.3.t:0 "Popular Uprising"
+DD_LTE_nominal_empire_dis_event.3.dec:0 "In Greek towns and valleys, resentment against Latin rule has been steadily accumulating. The arrival of tax collectors and soldiers ignited the spark—peasants and artisans gather to overthrow local administrations and raid manors. Market clamor transforms into rebellious shouts as they tear down decrees, brandish crude weapons, and cry out in the name of the old Empire and its icons. Without suppression, this rebellion may sweep across broader lands."
+DD_LTE_nominal_empire_dis_event.3.a:0 "Dispatch knights and men-at-arms to crush them."
+DD_LTE_nominal_empire_dis_event.3.b:0 "Appease them by reducing taxes and corvée labor."
+
+DD_LTE_nominal_empire_dis_event.4.t:0 "Monastic Resistance"
+DD_LTE_nominal_empire_dis_event.4.dec:0 "Orthodox monks preach in towns and countryside, denouncing the Latin Mass as heresy and urging people to refuse taxes and labor service while坚守 icons and old rites. Restless nobles rapidly conspire using these monks' influence, kindling flames of unrest in valleys and towns. Angry faithful, directed by lords and monks, clash with Latin knights in marketplaces, while monasteries become gathering points for resistance. If allowed to spread, imperial rule will be torn asunder."
+DD_LTE_nominal_empire_dis_event.4.a:0 "Suppress them!"
+DD_LTE_nominal_empire_dis_event.4.b:0 "Appropriate leniency can alleviate popular resentment."
+
+DD_LSK_14_event_tooltip:0 "Gain different modifiers based on event choice."
+DD_LSK_num_of_centers_of_trade_develop:2 "§T8§! provinces under our rule with §YTrade Centers§! will gain a total of §G1§! base production."
+DD_LSK_distribute_0_10_0_dev_in_manufactories:2 "§T10§! provinces under our rule with §YManufactories§! will gain a total of §G10§! base production."
+SSL_Wine_value:0 "Wine Trade Route"
+SSL_prod_from_wine:0 "From §G10§! years of §YWine§! production.\n"
+DD_LSK_distribute_0_10_0_dev_in_manufactories_trigger:0 "At least §T10§! provinces possess §YManufactories§!"
+SSL_Monferrato_trigger_tt:0 "Ruling dynasty is §Ode Montferrat§!"
+
+
+DD_SAN_Thessaloniki_Despotate_reform:0 "Despotate of Thessaloniki"
+DD_SAN_Thessaloniki_Despotate_reform_desc:0 "The Despotate of Thessaloniki is a nascent polity formed by remnants of the former Despotate of Epirus. Unlike many former rivals, Epirus originally possessed a relatively weak aristocratic class, with most old noble families having fled to Anatolia during the city's fall. The lack of powerful nobles反而 provided Epirus an advantage in implementing reforms and strengthening centralization. The Despot could govern more directly through military and bureaucratic systems."
+
+ability_ERO_revanchism_power_mechanic:0 "§ORevanchism§!"
+monthly_DD_ERO_revanchism_power: "Monthly §ORevanchism§!"
+DD_ERO_revanchism_power:0 "§ORevanchism§!"
+DD_ERO_revanchism_power_desc:0 "§ORevanchism§! reflects a prevailing ideological tendency in §Y[This.GetName]§! society focused on recapturing Constantinople, expelling invaders, and restoring the dignity of the Empire and Orthodox Church."
+
+DD_Thessaloniki_Latin_reform:0 "Hellenized Crusader State"
+DD_Thessaloniki_Latin_reform_desc:0 "After generations of intermarriage with Greek nobility, our royal house no longer maintains pure Western bloodlines. Court language, etiquette, customs, and education have gradually acquired Greek hues. Yet in critical moments, we remain loyal to the Holy See. This unique court atmosphere enables us to maintain a delicate balance between Greek populace and Latin world."
+
+DD_LSK_Latin_Empire_reform:0 "Latin Empire of Thessalonika"
+DD_LSK_Latin_Empire_reform_desc:0 "The Latin Empire of Thessalonika is a feudal-theocratic polity established and expanded by Crusaders in Greece, ruled by an Emperor supported jointly by Western European knights and localized nobles. Under papal protection, it controls the patriarchates of Constantinople and Thessalonika, relying on military orders and Western vassals as its military and political pillars while diminishing the influence of local Greek aristocracy. It views itself as 'the Holy See's arm in the East,' grounding its legitimacy in the Crusader mission and the Roman title."
+DD_LSK_crusader_nobility_reform:0 "Crusader Nobility"
+DD_LSK_crusader_nobility_reform_desc:0 "The Latin Empire has now become the true leader among the Crusader states in the Levant. Crusaders represent a powerful combat force; therefore, perhaps we should consider inviting these zealous holy warriors to settle in our lands. Consolidating our rule through Crusader nobility would benefit both the governance of the Holy Land and the strengthening of our armies."
+unlock_DD_LSK_crusader_nobility_reform_tt:0 "Unlocks the '§YCrusader Nobility§!' government reform."
+
+LSK_lation_empire_council_reform:0 "Imperial Council"
+LSK_lation_empire_council_reform_desc:0 "After prolonged turmoil and division, imperial authority has been reestablished as the Empire's supreme foundation. Yet the new governance model is not mere autocracy, but integration through the 'Imperial Council.' Presided over personally by the Emperor, its members include high nobility and bishops holding key imperial offices, who deliberate state affairs within the council chamber. Though nobles retain some voice, with clerical participation and imperial presidency, the Council has become an instrument for strengthening—not constraining—imperial power.\n\nThrough this system, the Empire maintains broad governance legitimacy while avoiding power fragmentation. Thus the Council becomes an extension of imperial will, a hall uniting faith and administration."
+LSK_council_focus_interactions_desc:0 "Imperial Council Focus"
+unlock_LSK_lation_empire_council_reform_tt:0 "Unlocks the '§YImperial Council§!' government reform."
+ability_LSK_lation_empire_council_mechanic:0 "§OImperial Council§!"
+ability_LSK_holy_dedication_power_mechanic:0 "§OHoly Dedication§!"
+monthly_DD_LSK_holy_dedication_power: "Monthly §OHoly Dedication§!"
+
+DD_LSK_holy_dedication_power:0 "§YHoly Dedication§!"
+DD_LSK_holy_dedication_power_desc:0 "We regard ourselves as God's kingdom on earth. By conquering heathens, protecting holy sites, and offering wealth in sacrifice, we demonstrate our devotion to the Heavenly Father. The accumulation of §OHoly Dedication§! reflects the Empire's sacred authority in both religious and political spheres.\n\n§OHoly Dedication§! can be increased through:\n- Winning major wars against heathens or heretics: §G+10.00§!\n- Monarch-led armies winning wars: §G+3.00§!\n- Having at least 1 cardinal: §G+0.01§!\n- Having at least 5 cardinals: §G+0.05§!\n- Controlling holy site [118.GetName] (self or non-tributary subjects): §G+0.03§!\n- Controlling holy site [379.GetName] (self or non-tributary subjects): §G+0.03§!\n- Controlling holy city [358.GetName] (self or non-tributary subjects): §G+0.02§!\n- Controlling holy city [151.GetName] (self or non-tributary subjects): §G+0.02§!\n- Controlling holy city [2313.GetName] (self or non-tributary subjects): §G+0.02§!\n- Each §YComitatus§! owned: §G+0.01§!\n"
+LSK_gov_modifier_1:0 "Consecrated Labor I"
+LSK_gov_modifier_1_ex:0 "Consecrated Labor II"
+LSK_gov_modifier_2:0 "Grand Conquest I"
+LSK_gov_modifier_2_ex:0 "Grand Conquest II"
+LSK_gov_modifier_3:0 "Zealous Warriors I"
+LSK_gov_modifier_3_ex:0 "Zealous Warriors II"
+LSK_gov_max_modifier:0 "Divine Favor"
+
+LSK_interactions_1:0 "Call for Crusade Donations"
+LSK_interactions_1_desc:0 "Clergy and knights are summoned before sacred altars to contribute wealth supporting the holy war. Through this measure, we accumulate necessary treasure to sustain armies, procure supplies, and demonstrate our loyalty to the Cross's holy name."
+LSK_interactions_2:0 "In God's Name"
+LSK_interactions_2_desc:0 "Whether launching new campaigns or quelling domestic discontent, actions taken in God's name receive divine justification. This not only consolidates royal prestige but makes subjects willingly accept all sacrifices."
+LSK_interactions_3:0 "Mobilize Crusaders"
+LSK_interactions_3_desc:0 "When horns sound and crusader banners rise again, warriors among the people will lay down plows and take up swords, answering the call to holy war. They are not professional soldiers, but crusaders united by fervent faith, willing to sacrifice lives for the sacred cause."
+
+LSK_council_focus_interactions_1:0 "Imperial Administrative Council"
+LSK_council_focus_interactions_1_desc:0 "The Imperial Administrative Council bears responsibility for deliberating fiscal, legislative, and civil affairs. Archbishops and high-ranking clergy participate, lending sacred legitimacy to laws and decrees; selected nobles and civil officials oversee implementation of administration and taxation across the Empire. The Council both assists imperial decision-making and ensures governmental continuity, balancing centralized authority with institutional governance."
+LSK_council_focus_interactions_2:0 "Imperial Diplomatic Council"
+LSK_council_focus_interactions_2_desc:0 "Amidst encircling threats and complex foreign relations, the Imperial Diplomatic Council provides broad strategic counsel. Patriarchs and clergy shape the Empire's moral standing in Christendom through doctrine and faith; while councilors from noble and merchant backgrounds advise on relations with Italian city-states, Crusader kingdoms, and Eastern neighbors. The Council's purpose isn't checks-and-balances, but unifying diverse perspectives under imperial judgment, preserving both religious prestige and core interests on the diplomatic stage."
+LSK_council_focus_interactions_3:0 "Imperial Military Council"
+LSK_council_focus_interactions_3_desc:0 "The Empire's survival depends on martial readiness. The Military Council operates under direct imperial control, comprising princes, renowned commanders, and monastic advisors. Clergy provide blessings and crusading significance to campaigns, while nobles contribute fiefs and knightly retinues. The Council reviews military expenditures, deploys feudal and mercenary forces, and advises on campaign strategies—yet final authority remains with the Emperor, making the Council both an integration channel for resources and a war chamber dominated by imperial power."
+
+mechanic_enhence_Latin_Empire_authority_effect_yes:0 "All §YComitatus§! subject states gain:\nInfantry Combat Ability: §G+5.0%§!\nCavalry Combat Ability: §G+5.0%§!\nDiscipline: §G+2.5%§!\n"
+LSK_lation_empire_bureaucracy_reform:0 "Royal Chancery"
+LSK_lation_empire_bureaucracy_reform_desc:0 "Hammers build cities, but ink consolidates realms. To elevate the Empire beyond the turmoil of dynastic changes, we must cultivate a professional bureaucracy loyal to legal codes and skilled in accounting. The Royal Chancery will recruit learned youths, establishing curricula in taxation, census, law, and diplomacy—ensuring governance operates through regulation and efficiency rather than clan rivalries. This will stabilize the state and advance administration, though establishing such systems requires significant time and silver."
+LSK_lation_empire_military_doctrines_reform:0 "Fire-Forged Military System"
+LSK_lation_empire_military_doctrines_reform_desc:0 "The secret fire arts inherited from the old Empire have been reborn in our hands. Greek Fire's formulas and traditions, enhanced by new foundries and gunpowder artisans, now integrate with matchlock muskets and siege artillery. Imperial battle formations no longer rely solely on knightly lances and plate armor, but reshape the battlefield with flame and lead. Foes dread the sacred flames erupting from our warships and fear the increasingly devastating thunder of our firearms. Through fire-forged power, we shall surpass our ancestors' legacy, ensuring the Imperial banner flies eternally in the radiance of fire and iron."
+mechanic_enhence_Latin_holy_dedication_adm_effect_yes:0 "§OHoly Dedication§! at maximum provides:\nTechnology Cost: §G-10.0%§!\nAdministrative Efficiency: §G+5.0%§!\n"
+mechanic_enhence_Latin_holy_dedication_mil_effect_yes:0 "§OHoly Dedication§! at maximum provides:\nArtillery Fire: §G+1.00§!\n"
+
+
+DD_LSK.101.t:0 "In the Name of Empire"
+DD_LSK.101.dec:0 "As we march upon Constantinople, we have become a great empire. It is time to claim a resounding name for our imperial domain."
+DD_LSK.101.a:0 "We have always been Latins."
+DD_LSK.101.b:0 "The land of the Romans sounds fitting."
+DD_LSK.101.c:0 "Adopt this land's ancient name."
+DD_LSK.101.d:0 "Remain the Kingdom of Thessalonika."
+
+LSK_mission_3_1_tt:0 "§MGain§! §Gterritorial cores§! on §YGreek§! culture group provinces in the §YBalkans§! and §YAnatolia§! regions when §Moccupying§! them.\n"

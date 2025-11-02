@@ -1,5 +1,5 @@
 government = republic
-add_government_reform = merchant_republic
+add_government_reform = merchants_reform
 primary_culture = picard_french
 religion = catholic
 technology_group = western

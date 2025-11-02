@@ -39,7 +39,7 @@
  LAT: "Romania" # Latin Empire
  SAN: "Thessalonica"
  SSL: "Thessaly"
- KLX: "Karasid"
+ KLX: "Karasids"
  SEL: "Seljuks"
  CLC: "Cilicia"
  CST: "Constantinople"
@@ -98,6 +98,9 @@
  GR9: "German Central Africa"
 
  SW1: "Sweden"
+
+ BO1: "Greater Luxembourg"
+ BO2: "Lands of the Crown of Saint Wenceslas"
 
  #Eastern European Steppe
  CMN: "Cumania"
@@ -277,6 +280,9 @@ JP2:"Daijo-kan"
  GR9_ADJ:"German Central African"
 
  SW1_ADJ:"Swedish"
+
+ BO1_ADJ:"Greater Luxembourger"
+ BO2_ADJ:"Wenceslausian"
 
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"

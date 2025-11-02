@@ -36,8 +36,12 @@ mechanic_NYDD_BRA_kaiser_union_reform_tt_yes: "The government mechanism '§YCult
 mechanic_unlock_empire_state_holy_order_yes: "Unlocks the local organization '§YImperial Domain§!'"
 mechanic_NYDD_BRA_nationist_reform_yes: "Provinces of the §YGermanic§! culture group owned by you or your subjects gain:\nLocal Manpower Modifier: §G+10.0%§!\nLocal Tax Modifier: §G+10.0%§!\nLocal Production Efficiency: §G+10.0%§!\n"
 mechanic_cheaper_coastal_province_core_DD_yes: "Coastal provinces gain §G-25.0%§! governing cost and have a §G-25.0%§! reduction to coring cost."
+mechanic_iberia_region_less_governing_cost_yes: "Provinces in the §YIberia§! region under our rule gain:\nGoverning Cost: §G-10.0%§!\n"
+mechanic_developing_10_devprov_more_yes: "When §Mdeveloping§! provinces with development below §Y15§!, §G25.0%§! chance to gain additional development"
+mechanic_accept_culture_2_unrest_nationlism_yes: "§YAccepting a culture§! grants all §Ynon-primary culture§! provinces under our rule §G-2§! unrest and §G-5§! years of separatism.\n§RExpelling a culture§! imposes §R+2§! unrest and §R+5§! years of separatism on all §Ynon-primary culture§! provinces under our rule.\n"
  mechanic__yes: ""
  mechanic__yes: ""
+
  DD_not_normal_election_tt: "Has a unique election mechanism"
  use_caliph_title: "Ruler uses the §YCaliph§! title"
 gov_coastal_government_DD: "Coastal Province"
@@ -140,6 +144,68 @@ boost_DD_FRA_war_power_tt: "Unleash the people's fury, let the flames rage freel
 monthly_DD_FRA_war_power: "Monthly War Fervor"
 DD_FRA_war_power_gain_modifier: "War Fervor Gain Modifier"
 
+ability_DD_BOH_holy_mechanic: "§YMonastic Strife§!"
+DD_BOH_holy_power: "Theocracy vs. Militarism"
+DD_BOH_holy_power_desc: "Within Bohemia, local bishops and knightly order commanders are locked in constant dispute. The bishops aim to transform Bohemia into a peaceful and holy universal monastic order, while the knightly commanders wish to inherit the Maiden's legacy and continue the crusade to save the world. While the Maiden was still alive, both sides could contain their ambitions. But after the Maiden was called to God, everything spiraled out of control...\n\n§YWe can assign provinces to bishops or commanders by managing local organizations§!.\n\nBefore the §TWinds of Change§! arrive, the balance of power is crucial. Once it reaches §Y+50§! or §Y-50§!, we will face the §Rwrath§! of the opposing faction.\n\nAt minimum value, the following effects apply:\nTrue Faith Tolerance: §G+2.00§!\nMissionary Strength: §G+2.0%§!\nYearly Devotion: §G+0.5§!\n"
+monthly_DD_BOH_holy_power: "Monthly Theocracy vs. Militarism Change"
+
+ability_DD_BOH_LUX_mechanic: "§YLuxembourg Dynasty Glory§!"
+DD_BOH_LUX_power: "Dynastic Glory"
+DD_BOH_LUX_power_desc: "Luxembourg Dynasty Glory represents the legitimacy and recognition of our family's powerful rule, the most direct manifestation of our royal domain's expansion and sacred governance, symbolizing the value of the Luxembourg name.\n\nThe following actions affect §ODynastic Glory§!:\n- Each personal union subject (§G+0.05§!)\n- Being the §YHoly Roman Emperor§! (§G+0.1§!)\n- §YRe-electing§! the emperor (§G+10.0§!)\n- Per point of ruler £dip£ skill (§G+0.05§!)\n- §RNegative§! prestige (§R-0.1§!)\n- Legitimacy §Rbelow 50§! (§R-0.1§!)\n"
+monthly_DD_BOH_LUX_power: "Monthly Dynastic Glory"
+DD_BOH_LUX_power_personal_union_modifier: "Dynastic Glory from Personal Unions"
+DD_BOH_show_glory: "Display of Glory"
+DD_BOH_show_glory_desc: ""
+DD_BOH_dip_action: "Diplomatic Action"
+DD_BOH_dip_action_desc: ""
+DD_BOH_annex_subject: "Efficient Integration"
+DD_BOH_annex_subject_desc: ""
+DD_BOH_show_glory_modifier: "Displaying Glory"
+desc_DD_BOH_show_glory_modifier: "Showcasing the glory of our dynasty to the masses.\n"
+DD_BOH_dip_action_modifier: "Diplomatic Master"
+desc_DD_BOH_dip_action_modifier: "Subduing the princes with exceptional diplomatic skill.\n"
+DD_BOH_annex_subject_modifier: "Integration Action"
+desc_DD_BOH_annex_subject_modifier: "Having diplomats work diligently to integrate subjects.\n"
+
+ability_DD_BOH_nationalism_mechanic: "National Reconciliation"
+DD_BOH_nationalism_power: "National Reconciliation Level"
+DD_BOH_nationalism_power_desc: "The Czech National Reconciliation Level represents the intensity and degree of resolution of ethnic conflicts under the rule of the Kingdom of Bohemia. It directly reflects the kingdom's stability and ethnic integration, symbolizing the unity and strength of the Bohemian people.\n\nThe following actions affect §YNational Reconciliation Level§!:\n- Per point of ruler £adm£ skill (§G+0.05§!)\n- §YAccepting§! a culture (§G+10§!)\n- §RExpelling§! a culture (§R-10§!)\n- Having more than §Y1§! rebel faction in §Ynon-accepted culture§! provinces (§R-0.1§!)\n"
+monthly_DD_BOH_nationalism_power: "Monthly National Reconciliation Level"
+
+ability_DD_BOH_nationalism_mechanic_decen: "§YDecentralization Actions§!"
+DD_BOH_new_law: "Confirm Constitutional Implementation"
+DD_BOH_new_law_desc: ""
+DD_BOH_new_law_modifier: "Strict Law Enforcement"
+desc_DD_BOH_new_law_modifier: "Dispatch administrators to our newly conquered lands to ensure the implementation of our constitution locally.\n"
+DD_BOH_new_law_tt: "All provinces under our rule lose §G-20.0%§! autonomy.\n"
+DD_BOH_nation_union: "Listen to State Reports"
+DD_BOH_nation_union_desc: ""
+DD_BOH_nation_union_modifier: "Disciplining the States"
+desc_DD_BOH_nation_union: "Other states periodically come to our capital to report, which is also a good opportunity to discipline them.\n"
+DD_BOH_multi_army: "Assign Army Interpreters"
+DD_BOH_multi_army_desc: ""
+DD_BOH_multi_army_modifier: "Multicultural Army"
+desc_DD_BOH_multi_army_modifier: "Our army is composed of diverse ethnicities, necessitating multiple interpreters to convey commands. In a way, this helps achieve tactical surprise, as our enemies cannot easily predict our actions.\n"
+DD_BOH_multi_army_tt: "While this modifier is active, §YNational Reconciliation Level§! does not provide §Y[manpower_in_own_culture_provinces]§!, but at maximum value grants up to §G+5.0%§! discipline.\n"
+
+ability_DD_BOH_nationalism_mechanic_cen: "§YCentralization Actions§!"
+DD_BOH_iron_punch: "Iron Fist Strike"
+DD_BOH_iron_punch_desc: ""
+DD_BOH_central_special: "Secure Central Privileges"
+DD_BOH_central_special_desc: ""
+DD_BOH_royal_army: "Form a Pure Army"
+DD_BOH_royal_army_desc: ""
+DD_BOH_iron_punch_modifier: "Iron Fist Strike"
+desc_DD_BOH_iron_punch_modifier: "Dispatch guards to various regions to ensure and supervise the normal operation of local administrations.\n"
+DD_BOH_central_special_modifier: "Remote Control of the Nation"
+desc_DD_BOH_central_special_modifier: "An excellent centralized system allows the ruler to govern the entire nation without leaving the capital.\n"
+DD_BOH_central_special_tt: "Provinces outside the §Ycapital§! region gain:"
+DD_BOH_central_special_modifier2: "Discontent"
+desc_DD_BOH_central_special_modifier2: "Due to the arbitrary decisions of the central government, the people in this province are very unhappy."
+DD_BOH_royal_army_modifier: "Army of Purity"
+desc_DD_BOH_royal_army_modifier: "Form an elite, pure Czech army, using other auxiliary forces as expendable vanguards.\n"
+DD_BOH_royal_army_tt: "While this modifier is active, §YNational Reconciliation Level§! does not provide §Y[manpower_in_accepted_culture_provinces]§!, but inversely grants up to §G+5.0%§! discipline.\n"
+
 # Government Reforms
 
  #t1
@@ -236,8 +302,8 @@ NYDD_kindom_of_crusader_reform_desc: "Though our nation was founded as a Crusade
  JUNZHENGFU: "Military Government"
  DUJUN: "Military Governor"
 
- NYDD_BOH_bishopric_reform: "Bohemian Chapter"
- NYDD_BOH_bishopric_reform_desc: ""
+#  NYDD_BOH_bishopric_reform: "Bohemian Chapter"
+#  NYDD_BOH_bishopric_reform_desc: ""
 
 NYDD_latin_empire_reform: "Latin Empire"
  NYDD_latin_empire_reform_desc:""
@@ -282,6 +348,25 @@ NYDD_GER_fed_reform2_desc: "Through the Chancellor system and Imperial governmen
 NYDD_BRA_navy_reform: "Imperial High Seas Fleet"
 NYDD_BRA_navy_reform_desc: "Ruled by a group of shrewd naval admirals, escorting the high seas for the Empire."
 
+NYDD_BOH_LUX_dy_reform: "Luxembourg Dynasty"
+NYDD_BOH_LUX_dy_reform_desc: "Starting with John of Luxembourg, this ancient family gradually ascended onto the stage of European history. From the tiny territory of Luxembourg to the forests of Bohemia and the wilderness of Hungary, this dynasty rose from their vast lands and became an assertive power."
+NYDD_BOH_LUX_dy_reform2: "United States of Greater Luxembourg"
+NYDD_BOH_LUX_dy_reform2_desc: "Starting with John of Luxembourg, this ancient family gradually ascended onto the stage of European history. From the tiny territory of Luxembourg to the forests of Bohemia and the wilderness of Hungary, this dynasty rose from their vast lands and became an assertive power.\n\nNow the Luxembourg dynasty has unified the crownlands. These diverse peoples will pledge loyalty to a single symbol, unite under one banner, and live within one nation—the United States of Greater Luxembourg."
+NYDD_BOH_LUX_dy_reform2_cen: "United States of Greater Luxembourg"
+NYDD_BOH_LUX_dy_reform2_cen_desc: "Starting with John of Luxembourg, this ancient family gradually ascended onto the stage of European history. From the tiny territory of Luxembourg to the forests of Bohemia and the wilderness of Hungary, this dynasty rose from their vast lands and became an assertive power.\n\nNow the Luxembourg dynasty has unified the crownlands. These diverse peoples will pledge loyalty to a single symbol, unite under one banner, and live within one nation—the United States of Greater Luxembourg. As centralization advances, they will eventually shed their individual constraints and devote themselves to a common struggle."
+NYDD_BOH_LUX_dy_reform2_decen: "United Federation of Greater Luxembourg"
+NYDD_BOH_LUX_dy_reform2_decen_desc: "Starting with John of Luxembourg, this ancient family gradually ascended onto the stage of European history. From the tiny territory of Luxembourg to the forests of Bohemia and the wilderness of Hungary, this dynasty rose from their vast lands and became an assertive power.\n\nNow the Luxembourg dynasty has unified the crownlands. These diverse peoples will pledge loyalty to a single symbol, unite under one banner, and live within one nation—the United Federation of Greater Luxembourg. We grant them freedom; they offer us loyalty."
+NYDD_BOH_elective_reform_cen: "Bohemian Diarchy"
+NYDD_BOH_elective_reform_cen_desc: "To better control other states, the parliament had to compromise with the monarchy, ceding more power to the king in the name of the nation and its people. Soon, the king successfully bypassed the parliament and established his own influence to counterbalance it. Predictably, Bohemia's future will still be dominated by a reluctant diarchy."
+NYDD_BOH_elective_reform_decen: "Bohemian Oligarchy"
+NYDD_BOH_elective_reform_decen_desc: "As noble parliamentary elections in Bohemia gradually became routine and legally entrenched, they effectively became the masters of Bohemia. The ruler pushed to the forefront is merely a puppet of the parliament, an elegant rubber stamp. The Sejm, composed of upper nobility, actually governs the state, orchestrating everything."
+NYDD_BOH_bishopric_reform: "Bohemian Church"
+NYDD_BOH_bishopric_reform_desc: "From Charles I elevating Prague to an archdiocese to the reform movement of Jan Hus, the Bohemian Church gradually became an independent diocese. Today, the Bohemian Church is an independent church co-led by the Archbishop of Prague and the Maiden Joan alongside her Bohemian Order. While theologically aligned with Rome's leadership, it is rarely subject to interference in practice."
+NYDD_BOH_bishopric_reform_mil: "Bohemian Order"
+NYDD_BOH_bishopric_reform_mil_desc: "The Bohemian Order is a military religious order composed of warriors and monks who followed the Maiden Joan, evolving from the Bohemian religious community that participated in the Hussite Crusade. They are dedicated to completely eradicating the influence of heresy in Bohemia and across Europe, governing Bohemia through the governmental form of a knightly military order."
+NYDD_BOH_bishopric_reform_theo: "All-Bohemian Ecclesiastical Council"
+NYDD_BOH_bishopric_reform_theo_desc: "The All-Bohemian Ecclesiastical Council was originally a special institution under the independent Bohemian Church, composed of bishops from its various dioceses, discussing and handling affairs of the Bohemian Church. As the church grew and developed, the Council expanded its scope from theology and archbishop elections to administrative management, representing the interests of local churches, religious orders, monasteries, and regions."
+
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
  NYDD_ML1_equal_reform_desc: "In doctrine, Islam holds that believers, regardless of race, wealth, or status, are all children of Allah and have equal status. It also advocates forgiveness and tolerance towards infidels 'Kafir,' and even those who do not follow Allah's commandments, promoting peaceful coexistence. Historically, the concept of equality was directly applied to the establishment of the 'Ummah' (meaning 'community'). In the 'Ummah,' Muslim members regard each other as brothers, with equal social status. The Kharijites adhere to the principle of equality in doctrine, implementing justice to the fullest."
@@ -322,6 +407,11 @@ NYDD_FRA_knight_reform_desc: "Not all members bear swords - indeed, most regiona
 NYDD_BRA_kaiser_union_reform: "Kaiserbund" # Kaiser's League
 NYDD_BRA_kaiser_union_reform_desc: "The Kaiser's League, evolved from the German Confederation, is the extension of German hegemony beyond the Imperial borders. By admitting other dependent states as closely cooperating 'League Members', Germany can establish our order through more efficient, peaceful, and civilized means. These allied states will deeply integrate politically, economically, and culturally with our nation, fostering a sense of identity and solidarity with us."
 
+NYDD_BOH_form_german_noble_reform: "Implement German Feudal Law"
+NYDD_BOH_form_german_noble_reform_desc: "Bohemia's feudal laws are quite narrow, requiring even barons to pledge direct allegiance to the king. This approach is somewhat inefficient and overstretching. By introducing the superior feudal laws of the German nobility, with their layered subcontracting and system of obligations between lords and vassals, we can more effectively govern larger territories, expanding our governmental administrative capacity and efficiency."
+NYDD_BOH_mantain_tradition_reform: "Maintain Bohemian Office System"
+NYDD_BOH_mantain_tradition_reform_desc: "The Bohemian office system is essentially a unique form of aristocratic administration. Bohemian nobles do not inherit their offices; positions from marshals to bishops are appointed and dismissed directly by the king, rather than determined by birthright or ancestral titles. Nonetheless, most high-ranking offices are still held by prominent noble families. Although lower nobles can secure promotion by contributing a significant sum, the hierarchy remains strict. All nobles are registered by name, and these records are unalterable. Through the appointment and coordination of members from various families, this system achieves a certain balance and management of the great noble houses."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
@@ -343,6 +433,7 @@ NYDD_BRA_kaiser_union_reform_desc: "The Kaiser's League, evolved from the German
 NYDD_ALG_real_election_reform: "Fair Elections"
 NYDD_ALG_real_election_reform_desc: "We tolerate no corruption or backroom deals. Only transparent, impartial elections are permitted. Every candidate may freely present their platform, with winners determined by electoral vote."
 
+ #1.1
 NYDD_FRA_decentralize_reform: "Aristocratic State"
 NYDD_FRA_decentralize_reform_desc: "The vacuum of central bureaucracy has become a tempting cake, completely devoured by regional nobles wielding real power. Aristocratic officials permeate all levels of French society - from villages to cities, farmlands to royal courts. Parisian authority has been fragmented into departments, distributed among regional noble-bureaucrats who govern through decentralized power."
 
@@ -351,6 +442,9 @@ NYDD_FRA_centralize_reform_desc: "Through a Paris-led bureaucratic system, noble
 
 NYDD_BRA_fed_law_reform: "German Federal Constitution"
 NYDD_BRA_fed_law_reform_desc: "\"His Majesty the King of Brandenburg, representing the North German Federation, His Majesty the King of Bavaria, His Majesty the King of Württemberg, His Royal Highness the Archduke of Austria, His Royal Highness the Grand Duke of Baden, His Royal Highness the Grand Duke of Franconia, the plenipotentiary representatives of the Grand Duchy of Hesse south of the Main River and by the Rhine, and the Special Region of Bohemia, in order to protect the federal territory and laws, and to care for the interests of the German people, conclude a perpetual federation. This federation shall be named the German Empire and shall have the following constitution...\"\n\nThe promulgation of the Imperial Constitution finally laid the foundation for the unification of a divided nation, reintegrating the heterogeneous German lands under a centralized political entity. Although the various state regions and ethnic minorities still exhibit significant differences, the constitution stipulates that all Germans share a common citizenship, and the nationals of each state are considered residents of every other state in the federation. Germany is advancing towards becoming a truly unified nation."
+
+NYDD_BOH_royal_ecomic_reform: "Royal Fiscal Committee"
+NYDD_BOH_royal_ecomic_reform_desc: "An institution established by the king to oversee the nation's financial affairs. Court bodies closely associated with the monarch also hold special status, further reflecting the unified nature of the Bohemian state. For instance, the Court Judge, Court Marshal, and Court Chamberlain all belong to this category of institutions."
 
  #t4
 NYDD_ASU_religion_happy_reform: "Spanish Inquisition"
@@ -372,6 +466,10 @@ NYDD_ASU_religion_tolerance_reform_desc: "Though we triumphed in the Reconquista
 
 #  NYDD_ALG_real_election_reform: "Fair Elections"
 #  NYDD_ALG_real_election_reform_desc: "There's no room left for corruption or backroom deals. We shall have only fair, just and transparent elections. Every candidate may freely express their views, and the electors shall decide through their votes."
+
+ #1.1
+NYDD_BOH_sub_utraque_specie_reform: "Religious Reconciliation"
+NYDD_BOH_sub_utraque_specie_reform_desc: "Latin 'sub utraque specie'\nMeans 'equality for all,' originating from the famous Hussite Utraquist faction. After the death of Jan Hus, his followers, the Utraquists, gradually became the dominant religious faction in Bohemia, advocating for church reform. As the Hussite Wars concluded, it is time for us to heal the internal divisions within the nation, maintaining consensus and cooperation with Rome—including communion in both kinds, free preaching of the Gospel, reduction of church lands, and clerical discipline reforms."
 
 # #t4
 # NYDD_ASU_religion_happy_reform: "Inquisition"
@@ -401,7 +499,10 @@ NYDD_ADU_mubarizun_reform_desc: "Mubarizun, meaning duelists. Elite units in Mus
 NYDD_ADU_old_general_reform: "Badajoz Military Academy"
 NYDD_ADU_old_general_reform_desc: "The officer corps has always been our core strength. Therefore, investing in an advanced military tactics academy to train better generals is fully justified."
 
-#t6
+NYDD_BOH_hussite_order_reform: "Hussite Order"
+NYDD_BOH_hussite_order_reform_desc: "A knightly order founded in the name of Jan Hus, initially dedicated to healing and aiding the wounded, now gradually evolving into a military religious order for crusading against heretics and pagans."
+
+#t6 Conciliar Bodies
 NYDD_ASU_zixunhui_good_reform: "Empowered Advisory Council"
 NYDD_ASU_zixunhui_good_reform_desc: "In past political practices, the kingdom's advisory council has proven its irreplaceable ability as an auxiliary governing body. A monarch may make mistakes, but a council formed by the collective will and wisdom of the people will maximize the accuracy of political decisions, improve governance, and assist in domestic and foreign affairs. A strong advisory council will reflect the needs of the populace and benefit the construction of the kingdom."
 NYDD_ASU_absulute_reform: "Iberian Absolutism"
@@ -422,8 +523,12 @@ NYDD_ADU_parliament_reform_desc: "The Islamic Council nominally leads under the 
 NYDD_ADU_BDH_local_reform: "Meritocratic Appointments"
 NYDD_ADU_BDH_local_reform_desc: "As our territory expands, the military government's administration has become... let's say 'inadequate' rather than 'perfect'. Our advisors suggest returning to older practices of allowing local officers discretionary governance. While effective, this will undoubtedly leave our troops too occupied with administration to maintain proper training."
 
+ #1.1
 NYDD_BRA_fed_parliament_reform: "Imperial Diet and Federal Council"
 NYDD_BRA_fed_parliament_reform_desc: "The Federal Council and the Imperial Diet are the governing bodies of the Empire. The Federal Council is composed of representatives from the federal members; each federal member can appoint representatives to the Federal Council based on its voting rights, but all votes from a single state must be cast by only one representative. The Imperial Diet is elected by secret ballot under a proportional system, with each term lasting three years and being unpaid. The Imperial Diet, representing all German people, is responsible for legislation and resolutions on major imperial affairs, while the Federal Council has the power to veto bills proposed by the Imperial Diet and form special committees for specific significant matters."
+
+NYDD_BOH_general_snemu_reform: "General Sejm Assembly"
+NYDD_BOH_general_snemu_reform_desc: "The General Sejm Assembly is composed of representatives from local councils and members of the great feudal noble landowners of Bohemia, serving as a collective authority representing the interests of all noble estates. It primarily collaborates with the king to approve wars and taxes, and to advance the formulation and implementation of agendas and laws. A foreign king who fails to gain the assembly's recognition will find it impossible to govern effectively in Bohemia."
 
 # mechanic_iberia_region_less_governing_cost_yes: "§YIberian§! region provinces gain §G-10.0%§! governing cost.\n"
 # mechanic_cheaper_coastal_province_core_DD_yes: "§YCoastal§! provinces gain the following effects:\nGoverning cost: §G-25.0%§!\nCore creation cost: §G-25.0%§!\n"
@@ -436,10 +541,18 @@ NYDD_BRA_fed_parliament_reform_desc: "The Federal Council and the Imperial Diet 
 # mechanic__yes: ""
 
 #7 Administration
+ #1.1
 NYDD_FRA_zongcan_reform: "General Staff Headquarters"
 NYDD_FRA_zongcan_reform_desc: "The General Staff Headquarters comprises multiple departments handling organization, equipment, medical services, planning, reconnaissance, intelligence, logistics and other military affairs, primarily serving to assist the Marshal in command."
 
+NYDD_BOH_royal_office_reform: "Czech Royal Chancellery"
+NYDD_BOH_royal_office_reform_desc: "Established by the king, the Czech Royal Chancellery responsible for administering the entire Bohemian state serves as the highest institution of the civil government in the Kingdom of Bohemia. Headed by the Supreme Chancellor (nejvyšší kancléř), it coordinates the operation of national administrative tasks and handles all official documents issued by or addressed to the ruler (including various decrees, proclamations, and orders), functioning de facto as the king's advisory body and administrative center."
+
 #8 Economy
+
+ #1.1
+NYDD_BOH_invite_german_reform: "Invite German Settlers"
+NYDD_BOH_invite_german_reform_desc: "There remain vast uninhabited forests and developable farmland within Bohemia. We should invite landless German peasants to settle and cultivate Bohemian lands. This will help develop Bohemia's expansive territories, augment feudal resources and manpower. Simultaneously, we can learn techniques from German craftsmen and, incidentally, levy substantial taxes on them."
 
 #9 Legitimacy 
 NYDD_FRA_sunking_reform: "Sun King"
@@ -448,11 +561,15 @@ NYDD_FRA_sunking_reform_desc: "French governance philosophy distills to three pr
 NYDD_BRA_nationist_reform: "National Frontier"
 NYDD_BRA_nationist_reform_desc: "Germans, long divided, lacked shared political experiences and a unified national political platform. Thus, they could only rely on cultural elements such as common bloodlines, language, history, and customs—a platform of the 'primordial nation' (Volk)—to overcome the barriers of state separation and construct a German cultural nation.\n\nTherefore, when the wave of nationalism rose in Europe, a sense of cultural community born from Germany's unique culture and ethnic traditions—a cultural movement led by elites like intellectuals and scholars, centered on the ethnic community—took the place of ordinary nationalism. It flourished within the political framework constructed for it by the Kaiser's League.\n\nGerman cultural nationalism disregards the divisions, at least the internationally recognized state borders on the map. It focuses on the German ethnic cultural community, defined by shared bloodlines, history, and culture, viewing the entire German cultural world as a single national whole—a unified national frontier, not merely the borders of the German Empire."
 
+NYDD_BOH_Saint_Wenceslas_reform: "Crown of Saint Wenceslas"
+NYDD_BOH_Saint_Wenceslas_reform_desc: "The Crown of Saint Wenceslas is the ruling symbol of the Kingdom of Bohemia. As Bohemia's first Christian monarch, Saint Wenceslas represents the absolute symbol of the kingdom's rule. Nobles across the land pledge allegiance to the Crown itself rather than to the monarch personally. The king merely borrows the crown from Saint Wenceslas to govern the kingdom on his behalf. On one hand, this allegiance prevents abuse of royal power; on the other, it ensures the sanctity and legitimacy of the monarch's rule."
+
 #10
 
 #Titles & Government Names
 
 DD_SILING: "Imperial Commander"
+HOLY_FEM: "Holy Maiden"
 
 # Persia and Central Asia
 NYDD_ILK_reform: "Ilkhanate"

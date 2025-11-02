@@ -1,0 +1,26 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = czech
+religion = catholic
+elector = yes
+capital = 266 # Praha
+technology_group = western
+add_accepted_culture = moravia_WS
+add_army_professionalism = 0.1
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
+
+1439.10.27 = {
+	monarch = {
+		name = "Territorial Peace Conference" 
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+

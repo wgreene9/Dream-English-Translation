@@ -413,6 +413,7 @@ DD_BOH_1a = {
 		mil = 3
 		culture = czech
 		age = 25
+		change_original_dynasty = yes
 	}
 }
 DD_BOH_1b = {
@@ -423,6 +424,7 @@ DD_BOH_1b = {
 		adm = 4
 		dip = 3
 		mil = 3
+		change_original_dynasty = yes
 	}
 }
 DD_BOH_1c = {
@@ -433,7 +435,9 @@ DD_BOH_1c = {
 		mil = 6
 		age = 33
 		female = yes
+		force_republican_names = yes
 	}
+	set_country_flag = DD_BOH_rangna_flag
 	SOR = {
 		define_ruler = {
 			name = "Jan Zizka"
@@ -442,6 +446,15 @@ DD_BOH_1c = {
 			mil = 5
 			age = 68
 		}
+	}
+}
+DD_BOH_6a = {
+	define_general = {
+		name = "Jan Zizka"
+		shock = 5
+		fire = 4
+		manuever = 4
+		siege = 2
 	}
 }
 DD_ADU_19b = {
@@ -1351,3 +1364,64 @@ DD_BRA_monarch_effect_1786 = {
 	}
 }
 
+DD_WUU_1a = {
+	define_ruler = {
+		name = "Yanxin"
+		dynasty = ROOT
+		age = 20
+		change_mil = 4
+		change_dip = 4
+		change_adm = 4
+		claim = 100
+	}
+}
+DD_4726_veligrad_name = {
+	#Veligrad
+	4726 = {
+		change_province_name = "Veligrad"
+		rename_capital = "Veligrad"
+	}
+}
+
+DD_start_prov_name_change = {
+	#Eastern Europe
+	310 = {
+		change_province_name = "Holmgard"
+		rename_capital = "Holmgard"
+	}
+	306 = {
+		change_province_name = "Novgorod"
+		rename_capital = "Novgorod"
+	}
+	#East Asia
+	1821 = {
+		change_province_name = "Chengtian"
+		rename_capital = "Chengtian"
+	}
+	1028 = {
+		change_province_name = "Tokyo" #Tokyo or Dongjing
+		rename_capital = "Tokyo"
+	}
+}
+DD_BOH_22a = {
+	define_heir = {
+		name = "Charles"
+		dynasty = ROOT
+		change_adm = 3
+		change_dip = 3
+		change_mil = 3
+		age = 1
+		claim = 100
+	}
+}
+DD_FRA_97b = {
+	define_consort = {
+		name = "Jeanne"
+		dynasty = "de Rais"
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 14
+		female = yes
+	}
+}

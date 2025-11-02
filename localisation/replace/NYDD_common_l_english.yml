@@ -212,7 +212,7 @@ cb_great_conqust_wg_desc: "The war goal is to demonstrate hegemony."
  transfer_occupation_from_ally_button_ttt3: "This province requires at least §Y2§! favors to request a transfer.\n"
  transfer_occupation_from_ally_button_ttt4: "They are a human player, so they can decide whether to give you this province. Please use your mouth or keyboard to tell them you want this province.\n"
  transfer_occupation_from_ally_button_tooltip: "Click to request a wartime ally to transfer control of this province to you."
- toggle_subject_coloration_textbox: "Subject Coloration"
+ toggle_subject_coloration_textbox: "Subject Color"
  toggle_subject_coloration_button_text: "Color non-§Ycolonial nations§!, §Ytributary states§!, and §Ydaimyo subjects§! with your color.\n"
 
  core_all_full_toggle_ttt1: "If this button is selected, clicking §YCore All§! will only create cores in §Ynon-core§! provinces.\n"
@@ -253,5 +253,7 @@ DD_amazing_grace: "01.@SPAAmazing Grace"
 DD_our_kindom_will_fall: "02.@AFROur Kingdom Will Fall"
 
 # Miscellaneous
-DD_ES_recalim_nov_title: "Reclaim Novgorod"
-DD_ES_recalim_nov_desc: ""
+# DD_ES_recalim_nov_title: "Reclaim Novgorod"
+# DD_ES_recalim_nov_desc: ""
+
+DD_END: "----------------------------------------\n"

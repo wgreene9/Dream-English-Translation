@@ -1,5 +1,11 @@
 ﻿l_english:
 
+
+DD_call_favor_subject_into_war_tooltip: "Automatically call subjects who owe favors into wars. Only triggers on the next declaration of war and if the subject has sufficient favors."
+DD_call_favor_subject_into_war_text: "Automatically Call Subjects into War"
+DD_call_favor_subject_into_war_tt1: "Currently: §ROff§!"
+DD_call_favor_subject_into_war_tt2: "Currently: §GOn§!"
+
 DD_shouhu_subject: "Shugo"
 DD_shouhu_subject_title:0 "Shugo"
 DD_shouhu_subject_title_plural:0 "Shugos"

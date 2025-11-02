@@ -24,7 +24,7 @@
  DD_FRA_5_d: "The Duchy of Lorraine—core of the Frankish Empire, lands of Lotharingia—faces fierce competition for its ducal title. Despite shifting ownership during Henry IV's chaotic reign, the Duke of Lorraine remained an undisputed Imperial Diet member.\n\nYet Lothair's bloodline extends beyond the empire. The House of Metz, Angevin vassals of the French king, inherited Lorraine's dukedom. The Emperor cannot tolerate Lothair's legacy leaving the empire, nor will France bow again. The Papacy mediated—the Treaty of Verdun affirmed Lorraine's status as French vassals, but France renounced claims to southern territories.\n\nWith the old duke's death, France's centralization drags vassals onto Paris' war chariot. The wavering new duke hesitates to surrender his crown, seeking imperial allegiance. Imperial troops mass at Lorraine's borders—Lothair's crown beckons bloodshed again. Storm clouds gather over empire and kingdom."
  DD_FRA_5a: "We won't bow to Paris—contact the Emperor!"
  DD_FRA_5b: "France is our destiny..."
- DD_FRA_5a_tt: "We shall become a §Yvassal§! of §YHoly Roman Emperor [emperor.GetName]§!.\n\n§RThis may cause war with France!§!\n"
+ DD_FRA_5a_tt: "We shall become a §Yvassal§! of the §YHoly Roman Emperor§!, §Y[Emperor.GetName]§!.\n\n§RThis may cause war with France!§!\n"
  DD_FRA_5b_tt: "We shall remain a §Yvassal§! of §YFrance§!.\n\n§RThis may cause war with the Holy Roman Emperor!§!\n"
  DD_FRA_6a: "The die is cast..."
  DD_FRA_7_t: "Lorraine's Oath of Fealty"
@@ -595,7 +595,7 @@ DD_FRA_59a_tt: "£yes£If they §Gaccept§!:\n§Y[Root.GetName]§! will interven
 DD_FRA_599_t: "Pact of Vengeance"
 DD_FRA_599_d: "The French from distant Paris propose a secret pact to ally against the Holy Roman Empire. We are all aware of France's boundless ambition, but alone we cannot withstand the Empire. Perhaps this is a necessary evil?"
 DD_FRA_599a: "For a shared goal!"
-DD_FRA_599a_tt: "£yes£If we §Gaccept§!:\n§Y[Root.GetName]§! will intervene in the §YSecond North-South War§! on the side of the §YNorth German Confederation§!.\n\n§RThis will also damage our prestige among the German princes, making them less willing to support us.§!\n"
+DD_FRA_599a_tt: "£yes£If we §Gaccept§!:\n§Y[From.GetName]§! will intervene in the §YSecond North-South War§! on the side of the §YNorth German Confederation§!.\n\n§RThis will also damage our prestige among the German princes, making them less willing to support us.§!\n"
 DD_FRA_599a_op: "Pact of Vengeance"
 DD_FRA_599b: "Let's reconsider."
 
@@ -840,6 +840,7 @@ DD_FRA_97_d2:"When [Root.Monarch.GetName] hurried into the Breton ducal residenc
 DD_FRA_97_d3:"When [Root.Monarch.GetName] entered the Breton manor alone, deathly stillness hung thick as velvet drapes. The lavish halls showed no disorder - as if last night's chaos had been but a dream - only cold ashes in the hearth. This calculated calm cloaked something sinister. [Root.Monarch.GetHerHis] footsteps rang unnaturally loud. At last, [Root.Monarch.GetHerHis] hand paused at the carved walnut door to the master chamber. As sunlight pierced the gloom, a butterfly with uncannily azure wings emerged from shadows, fluttering through stained glass toward leaden skies - never looking back."
 
 DD_FRA_97a:"My deepest apologies - I came too late."
+DD_FRA_97b: "Things have come to this... would you like to be queen?"
 
 DD_FRA_98_t:"The Day of Fiery Judgment"
 DD_FRA_98_d:"Servant of the Servants of God, Bishop of Rome [AVI.Monarch.GetName]\n\nTo all who read this letter, grace, mercy and peace\n\n'But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly.' The Heavenly Father spoke creation into being, yet this world is not eternal. Those who betrayed Christ shall face fiery retribution for their sins. But should wayward souls repent before Judgment Day - confessing their heresies and doctrinal errors - salvation may yet be theirs.\n\nAt times, we are called to contemplate Divine Mercy more deeply, that we may become living testaments to God's grace. Just as Jesus forgave His doubting disciples, so too shall He pardon lambs led astray by wicked shepherds. Those who worshipped false idols and rebelled against the Holy See, if they now repent and return to the Church's embrace, shall find forgiveness - for whoever has seen the Son has seen the Father.\n\nO sinners, the Day approaches. 'For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble.' The unrepentant shall perish in refining fire. Thus I implore all who strayed from Canon Law: return to Mother Church, lest purgatorial flames consume you."
@@ -1182,7 +1183,9 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
 NYDD_FRA_north_german_ttt:"Formed the '§YPact of Vengeance§!' and won the §YSecond North-South War§!"
 NYDD_FRA_north_german_tt2:"Unlocks the decision '§YInfiltrate North Germany§!'.\n"
 NYDD_FRA_north_german2_ttt:"§Y[north_fed_leader.GetName]§!'s trust towards §Y[Root.GetName]§! reaches §G80§! OR has a §Y50§! spy network from §Y[Root.GetName]§!"
+NYDD_FRA_north_german2_ttt2:"§Y[north_fed_leader.GetName]§!'s trust towards §Y[Root.GetName]§! reaches §G70§! OR has a §Y30§! spy network from §Y[Root.GetName]§!"
 NYDD_FRA_north_german2_tt2:"§Y[north_fed_leader.GetName]§!'s trust towards §Y[Root.GetName]§! reaches §G70§! OR has a §Y30§! spy network from §Y[Root.GetName]§!"
+
 
  NYDD_FRA_army_modifier:"Army Preparations"
  NYDD_FRA_england_tt:"Unlocks the Great Project '§YTower of London§!' to commemorate our §Ggrand achievements§!.\n"
@@ -1372,10 +1375,11 @@ NYDD_FRA_downfall_empire_ttyes1:"£yes£If we have the '§YZealotry§!' modifier
 NYDD_FRA_downfall_empire_ttno1:"£no£If we have the '§YZealotry§!' modifier:"
 
 NYDD_FRA_develop_england_tt2:"£yes£Due to our §Ggoodwill§! towards the §YEnglish§!, all §YEnglish§! culture provinces in the §YBritish§! region will gain:"
-NYDD_FRA_develop_england_modifier:"Anglovian Prosperity"
 NYDD_FRA_develop_england_modifier3:"Irish Wrath"
-NYDD_FRA_develop_england2_modifier:"Heart of England"
-desc_NYDD_FRA_develop_england2_modifier:"We have won the favor of the English, making them more willing to accept our rule."
+
+NYDD_FRA_develop_england_modifier:"Anglovian Prosperity"
+NYDD_FRA_develop_england_modifier2:"Heart of England"
+NYDD_FRA_develop_england_modifier2_modifier:"We have won the favor of the English, making them more willing to accept our rule."
 
 NYDD_FRA_develop_england_modifier4:"England, Second Home"
 desc_NYDD_FRA_develop_england_modifier4:"With increasing trade and population movement across the Channel, England has become a second home for us French."

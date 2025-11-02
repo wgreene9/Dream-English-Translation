@@ -1,3 +1,20 @@
+10.28.2025
+1. Bohemia
+- Make a choice between the local nobility, the Luxembourg dynasty, and Jeanne d'Arc to lead the Czech people to greatness.
+- Face a second decisive choice for the future between Administrative Reorganization (Monarchy) and Winds of Change (Theocracy)!
+
+2. Thessaly
+(Will be moved to the 1.2 bookmark in the future; currently located in the Mini-Update bookmark)
+- Reclaim the crown that rightfully belongs to the House of de Montferrat and restore the glory of the Crusaders!
+- Content created by Blade Chanter, author of "Alexiad: Komnenos' Glorious Finale". Special thanks!
+
+3. Other
+- Refined the setup and content for the Balkans region. (Special thanks to Blade Chanter for his assistance).
+- Added new events for the Cuman Invasion and the Elysian starting situation.
+- Added the "Charles University" (Univerzita Karlova) Great Project.
+- Fixed several bugs.
+- Other minor fixes and adjustments.
+
 10.12.2025
 - Implemented setup and content for the China, Mongolia, and Japan regions.
 - Brandenburg's German Settlement mechanic will now only spread to adjacent provinces if they are of Germanic culture or are already Settlements.

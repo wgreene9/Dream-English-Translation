@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = schlesian
+religion = hussite
+capital = 2966
+
+1444.1.1 = {
+	monarch = {
+		name = "Mira I"
+		dynasty = "Premysl"
+		birth_date = 1428.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}

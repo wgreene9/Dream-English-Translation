@@ -1,6 +1,6 @@
 primary_culture = beihai_cul
 religion = tengri_pagan_reformed
-government = monarchy
+government = tribal
 technology_group = nomad_group
 add_government_reform = steppe_horde
 government_rank = 1

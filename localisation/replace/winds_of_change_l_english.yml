@@ -4741,7 +4741,7 @@
  czech_nationalism2_desc:0 "The Czech people have survived everything the world has thrown at them, we have shown our resilience."
  #Reforms
  vozove_hradby_reform:0 "Wagenburg Tactics"
- vozove_hradby_reform_desc:1 "During the Hussite Wars, the Hussites revolutionized the use of armored wagons during battles, which allowed them to claim victories against very unfavorable odds. No matter what our stance towards the Hussites is, it would be unwise to leave this successful tactic a thing of the past."
+ vozove_hradby_reform_desc:1 "During the Hussite Wars, Jan Žižka revolutionized the use of armored wagons during battles, which allowed him to claim victories against very unfavorable odds. No matter what our stance towards the Hussites is, it would be unwise to leave this successful tactic a thing of the past."
  bergordnung_reforms_reform:0 "Bergordnung Reforms"
  bergordnung_reforms_reform_desc:1 "New uses for coal are being discovered that could revolutionize the face of industry throughout the world. We should reform our mining laws so that we can start producing coal at peak efficiency."
  unlock_bergordnung_reforms_reform_tt:0 "Unlock '§YBergordnung Reforms§!' Tier 8 government reform, giving the following effects:\nProduction Efficiency: §G+10.0%§!\n\nThis reform also includes the following government mechanic:\nDeveloping provinces with a §YManufactory§! has a §G+10.0%§! chance of granting §G1§! bonus development."

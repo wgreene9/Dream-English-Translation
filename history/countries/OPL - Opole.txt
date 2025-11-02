@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = schlesian
+religion = hussite
+capital = 4723
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Vaclav I" # Vik / Václav
+		dynasty = "Premysl"
+		birth_date = 1427.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
