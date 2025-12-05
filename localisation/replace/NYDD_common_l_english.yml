@@ -83,6 +83,10 @@
  NYDD_complete_by_transfer_culture_tt_no: "£no£If completed through §Mculture conversion§!:"
  NYDD_complete_by_accept_culture_tt_yes: "£yes£If completed through §Mculture acceptance§!:"
  NYDD_complete_by_accept_culture_tt_no: "£no£If completed through §Mculture acceptance§!:"
+ NYDD_complete_by_spy_tt_yes: "£yes£If we complete the mission through §Mespionage actions§!:"
+ NYDD_complete_by_spy_tt_no: "£no£If we complete the mission through §Mespionage actions§!:"
+ NYDD_complete_by_hre_tt_yes: "£yes£If we are a member of the §YHoly Roman Empire§!:"
+ NYDD_complete_by_hre_tt_no: "£no£If we are a member of the §YHoly Roman Empire§!:"
 
  NYDD_complete_by_else_tt_yes: "£yes£§TOtherwise§!:"
  NYDD_complete_by_else_tt_no: "£no£§TOtherwise§!:"
@@ -230,7 +234,7 @@ NSE_CANT_ALLY_1450: "Before 1450 the North Sea Empire is in turmoil and thus can
 is_north_ger_fed_member_ttt: "Member of the North German Confederation"
 has_dismantle_hre_ttt: "The Holy Roman Empire has been dismantled"
 
-until_not_subject: "Until they are no longer our subject"
+until_not_subject: "until they are no longer our subject"
 DD_special_ruler_modifier: "Plot-Critical Ruler"
 desc_DD_special_ruler_modifier: "This monarch is a key figure in events and thus cannot die."
 DD_deadman_personality: "Heart Like Dead Ash"
@@ -257,3 +261,6 @@ DD_our_kindom_will_fall: "02.@AFROur Kingdom Will Fall"
 # DD_ES_recalim_nov_desc: ""
 
 DD_END: "----------------------------------------\n"
+
+UNTIL_AT_PEACE: "until at peace"
+UNTIL_AT_WAR: "until at war"

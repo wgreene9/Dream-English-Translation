@@ -397,7 +397,7 @@ mongol_cg = {
       "Pürevsüren" 	# Pürevsüren
       "Ganbaatar" 	# Ganbaatar
       "M?nkhtsetseg" 	# M?nkhtsetseg
-      "M?nkhbat" 	# M?nkhbat
+      "Mönkhbat" 	# M?nkhbat
       "M?nkh-Erdene" 	# M?nkh-Erdene
       "Jalair" 	# Jalair
       "Sartuul" 	# Sartuul
