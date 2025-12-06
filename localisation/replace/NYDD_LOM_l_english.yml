@@ -2,3 +2,564 @@
 DD_LOM_1_t: "The Dissolution of the Lombard League"
 DD_LOM_1_d: "No matter how much the Italians hoped for this day to come or desperately prayed for it not to, the collapse of the Lombard League was inevitable. Since Venice withdrew from the league and the emperor's threat receded, internal conflicts within the league have grown. After the ambitious Duke of Milan expelled Genoa from the alliance, the Genoese Doge could no longer unite the league.\n\nNow, the members of the league are either under the control of the Duke of Milan or have withdrawn from the league. The once-mighty giant has crumbled, and the Italian states have finally gone their separate ways. This means the political balance in the Apennines will be disrupted, and a new power reshuffle is imminent."
 DD_LOM_1a: "One can never control the tides of the times."
+
+
+ DD_LOM_2_t:""
+ DD_LOM_2_d:""
+ DD_LOM_2a:""
+ DD_LOM_2b:""
+ DD_LOM_3_t:""
+ DD_LOM_3_d:""
+ DD_LOM_3a:""
+ DD_LOM_3b:""
+ DD_LOM_4_t:""
+ DD_LOM_4_d:""
+ DD_LOM_4a:""
+ DD_LOM_5_t:""
+ DD_LOM_5_d:""
+ DD_LOM_5a:""
+ DD_LOM_5b:""
+ DD_LOM_6_t:""
+ DD_LOM_6_d:""
+ DD_LOM_6a:""
+ DD_LOM_7_t:""
+ DD_LOM_7_d:""
+ DD_LOM_7a:""
+ DD_LOM_8_t:""
+ DD_LOM_8_d:""
+ DD_LOM_8a:""
+ DD_LOM_9_t:""
+ DD_LOM_9_d:""
+ DD_LOM_9a:""
+
+DD_LOM_empire_pai_control_prov:"§Y[This.GetName]§! will be controlled by the §OImperial Faction§!.\n"
+DD_LOM_republic_pai_control_prov:"§Y[This.GetName]§! will be controlled by the §YRepublican Faction§!.\n"
+DD_LOM_holy_pai_control_prov:"§Y[This.GetName]§! will be controlled by the §MSanctuary Faction§!.\n"
+
+DD_LOM_winter_disater:"Dissolution of Lombardy"
+DD_LOM_empire_pai_angry_disater:"Imperial Faction Dissatisfaction"
+DD_LOM_republic_pai_angry_disater:"Republican Faction Dissatisfaction"
+DD_LOM_holy_pai_angry_disater:"Sanctuary Faction Dissatisfaction"
+
+DD_LOM_republic_pai_modifier_uncor:"Republican Faction - §RHostile§!"
+DD_LOM_republic_pai_modifier_happy:"Republican Faction - §JCooperative§!"
+DD_LOM_republic_pai_modifier_netur:"Republican Faction - §MNeutral§!"
+
+desc_DD_LOM_republic_pai_modifier_uncor:"This province is controlled by city-states supporting the Republican Faction."
+desc_DD_LOM_republic_pai_modifier_happy:"This province is controlled by city-states supporting the Republican Faction."
+desc_DD_LOM_republic_pai_modifier_netur:"This province is controlled by city-states supporting the Republican Faction."
+
+DD_LOM_empire_pai_modifier_uncor:"Imperial Faction - §RHostile§!"
+DD_LOM_empire_pai_modifier_happy:"Imperial Faction - §JCooperative§!"
+DD_LOM_empire_pai_modifier_netur:"Imperial Faction - §MNeutral§!"
+
+desc_DD_LOM_empire_pai_modifier_uncor:"This province is controlled by city-states supporting the Imperial Faction."
+desc_DD_LOM_empire_pai_modifier_happy:"This province is controlled by city-states supporting the Imperial Faction."
+desc_DD_LOM_empire_pai_modifier_netur:"This province is controlled by city-states supporting the Imperial Faction."
+
+DD_LOM_holy_pai_modifier_uncor:"Sanctuary Faction - §RHostile§!"
+DD_LOM_holy_pai_modifier_happy:"Sanctuary Faction - §JCooperative§!"
+DD_LOM_holy_pai_modifier_netur:"Sanctuary Faction - §MNeutral§!"
+
+desc_DD_LOM_holy_pai_modifier_uncor:"This province is controlled by city-states supporting the Sanctuary Faction."
+desc_DD_LOM_holy_pai_modifier_happy:"This province is controlled by city-states supporting the Sanctuary Faction."
+desc_DD_LOM_holy_pai_modifier_netur:"This province is controlled by city-states supporting the Sanctuary Faction."
+
+DD_LOM_10_t:"Winter of Chaos"
+DD_LOM_10_d:"Domenico Doria sat in his lavish Doge's office, his face clouded with worry over the reports before him. The situation was spiraling out of control, worsening by the day. Unrest stirred by guilds and artisans grew increasingly frequent, yet the city guards showed no willingness to maintain order. Everyone knew the reason behind this—the commander of the guards, Alliance Field Marshal Duke Filippo Maria Visconti, was the mastermind behind it all. He and his unscrupulous Imperial Faction were tearing the nation apart, and Domenico felt powerless.\n\nA biting cold wind seeped through the cracks in the window and swept into the office, making Domenico shiver. After Genoa's expulsion from the alliance, he, now without support, felt like a bewildered jailer, imprisoned in Milan alongside his enraged people. This could not continue. Before the situation descended into utter chaos, he had to do something.\n\n"Luigi!" The Doge called his secretary in and handed him two letters, sealed with a complex and ornate wax stamp in crimson red—the emblem of the alliance government. "Deliver this letter to the Archbishop of Milan. As for the other..." He glanced at the flustered young man before him and hesitated, pulling his hand back."
+DD_LOM_10a:""...The other can wait. Go quickly, and make sure no one knows!""
+DD_LOM_10a_modifier:"The Lombard Winter"
+desc_DD_LOM_10a_modifier:"Lombardy is ensnared in a terrible conspiracy."
+
+DD_LOM_11a_tt:"In the struggle against the authority of the £hre£ §YHoly Roman Emperor§!, the city-states of Northern Italy, upon the advice of @GEN §Ythe Genoese§!, formed the §YLombard League§! in resistance. Today, the @LOM §YLombard League§! is internally divided into three factions—\n\n§OImperial Faction§!: Led by the Duke of Milan, the Emperor's lackeys, colluding secretly with the Emperor, hoping for the dissolution of the Lombard League. In truth, they aim to realize his ambition of annexing other states.\n\n§JRepublican Faction§!: Primarily composed of the Genoese Doge and other city-state rulers who wish to maintain the status quo. They hope the Lombard League can endure to preserve precious autonomy and freedom.\n\n§MSanctuary Faction§!: The Pope's informants, who have long sought to extend the Pope's temporal rule back into Lombardy, remaining ambiguous about the League's survival. Some also say they are the shadow cast by Florence's uncrowned king...\n\nRegardless, the Lombard winter seems unlikely to pass easily. §RMankind may struggle against the tides of the times.§!\n"
+ #Lose 1 stability, gain modifier Lombard Winter, rebellion level +1, recruitment cost +50%, complete the mission Lombard Winter.
+DD_LOM_11_t:"Beneath the Sanctuary"
+DD_LOM_11_d:"'My apologies, Envoy, please forgive me for receiving you only in my humble abode.' Domenico had a servant pour a steaming cup of tea for the Papal envoy, observing the young envoy across the table. Unlike the weary and dejected-looking Doge, the envoy appeared graceful and spirited.\n\n'In short, Your Excellency, Rome is fully prepared to support you and your efforts,' the envoy offered him a proper smile, the exquisite and noble golden cross on his chest shimmering with an enchanting glow in the candlelight of dusk. 'As long as the Church's rightful position and the Holy See's authority are guaranteed, we will not allow unscrupulous individuals to undermine Italy's unity.'\n\nWell, perhaps the Medicis and their faction would be satisfied with this, but regardless, I have no other choice. As the Doge lowered his head to scrutinize the treaty's details, he heard the young envoy's low voice echo beside his ear once more. 'Personally, I fully support your cause, for I am, after all, a Genoese Franciscan.'"
+DD_LOM_11a:"At the end of the treaty was a lavish signature—'Francesco della Rovere'." # At the end of the treaty, awaiting it with quiet elegance, was a lavish signature—'Francesco della Rovere'.
+# DD_LOM_11a_tt:""
+ #Consider the Papal State a historical friend; Sanctuary Faction gains 10% influence; dissatisfaction -10%. Grant the Clergy Estate the Religious State privilege; Clergy Estate influence +1.
+ #Note for later: Can support this person to become Pope; written here so I don't forget.
+
+DD_LOM_12_t:"The League Guard"
+DD_LOM_12_d:"The Genoese Doge stared at the letter on his desk, his brow tightly furrowed. He knew this young man; few attained the position of Doge of Genoa at such an age, though it was the chaos wrought by Visconti's schemes that had allowed a mere youth to seize control of the government. Yet, it had to be admitted, this fellow understood politics. Though sometimes endearingly naive and idealistic, Domenico Doria was certainly no fool.\n\nNow, the League's Doge was actually requesting that he dispatch troops into Milan, disguised as Lombard League forces under the banner of the 'League Guard'. Was this foolish alliance finally about to collapse? Regardless, the Doge understood this was an absolutely once-in-a-lifetime opportunity—a chance for Genoa to climb back out from the rubbish heap of the defeated."
+DD_LOM_12a:"'...To my dear compatriot, the Doge of Genoa, for the unity of Italy...'" # '...To my dear compatriot, the Doge of Genoa, for the greatness of Genoa, for the unity of Italy...'
+DD_LOM_12a_modifier:"League Guard"
+desc_DD_LOM_12a_modifier:"A force of Genoese troops masquerading as the army of the Lombard League."
+ #Republican Faction influence +10%, dissatisfaction -10%; gain modifier "League Guard": Army maintenance +15%, manpower modifier +15%, reinforcement cost -25%. Giovanni Giustiniani (4 2 1 2) becomes a general at age 28.
+
+DD_LOM_13_t:"The Banker"
+DD_LOM_13_d:"Palazzo Medici, said to be the greatest, most splendid, most luxurious palace of its age, personally designed by the 'First Citizen of Florence', 'the Uncrowned King of Tuscany', the banker Cosimo de' Medici, and realized by several renowned master architects, was hosting an extravagant banquet.\n\nDomenico stood alone on the palace balcony, away from the bustling crowd, gazing at Florence in the twilight. The setting sun on the horizon slowly withdrew its fading light from the deep red wine glass in his hand. Since leaving his family, he had rarely attended such events, but this was undoubtedly the most sumptuous feast in his memory. He sighed inwardly—truly befitting the Pope's banker. It seemed God granted His faithful servants far more than just the salvation of their souls.\n\n'Good evening, Your Excellency.' An elder of the Medici family appeared beside Domenico with a wine glass. The elegant banker raised his cup to him like a true noble. 'To our shared future.' The old gentleman offered a slight smile, the corners of his mouth lifting the folds of his face."
+DD_LOM_13a:"'To Lombardy's future, Signor Cosimo.'"
+DD_LOM_13a_modifier:"Banker"
+desc_DD_LOM_13a_modifier:"The Medici banks will help us through the crisis."
+ #Gain the "Banker" modifier for 10 years: National tax modifier +15%, interest per annum -0.25, yearly inflation reduction +0.1, Republican Faction influence +5%, Sanctuary Faction influence +5%, overall dissatisfaction -10%, Imperial Faction dissatisfaction +15%.
+
+DD_LOM_14_t:"Minority Report"
+DD_LOM_14_d:"Captain Brancaleone had never experienced such a busy, yet deeply satisfying day. As a Genoese soldier exiled back to Liguria, opportunities for such open retribution in Lombardy were rare. He and the 'League Guard' under his command kicked open the door of another tavern, pinning several young officers against the grease-stained tables.\n\n'Hey, you bastards, what do you think you're doing! Do you have any idea who we are?!' The Captain promptly smashed a half-empty beer bottle from the table into the man's face, sending a spray of crimson blood. 'Of course, Major. You are under arrest for dozens of charges including conspiracy, corruption, bribery, abuse of public office, and treason against the League.' The Captain smiled in response, then delivered a brutal punch to the officer's abdomen, watching him curl up on the floor like an insect."
+DD_LOM_14a:"Looks like tonight's action report will certainly have plenty to write about..."
+ #Imperial Faction influence -10%, dissatisfaction +10%
+
+DD_LOM_15_t:"Saint George and Maria"
+DD_LOM_15_d:"Wealth and money may be viewed as sins, yet the Duke of Milan's rise stemmed precisely from the League's poverty. Now, with our re-established ties to Genoa and improved relations with the Sanctuary Faction in the south, the League, backed by bankers, can reopen its sources of revenue. The Bank of Saint George and the Medici Bank are willing to support us, but a new question lies before us: how to coordinate the relationship between these two banks? We may choose one as our primary bank, or opt for a riskier approach by uniting the two banks to serve Lombardy."
+DD_LOM_15a:"The Bank of Saint George remains our loyal friend."
+DD_LOM_15b:"Let us choose the Pope's banker."
+DD_LOM_15c:"Establish the Lombard National Banking Consortium."
+#  Option 1: The Bank of Saint George remains our loyal friend.
+# Effect: Republican Faction influence +10%, dissatisfaction -10%, Sanctuary Faction dissatisfaction +5%, receive 5 interest-free loans.
+# Option 2: Let us choose the Pope's banker.
+# Effect: Sanctuary Faction influence +10%, dissatisfaction -10%, Republican Faction dissatisfaction +5%, receive 5 interest-free loans.
+# Option 3: Establish the Lombard National Banking Consortium.
+# Effect: Republican Faction influence +5%, Sanctuary Faction influence +5%, overall dissatisfaction +5%, receive 10 interest-free loans.
+
+DD_LOM_16_t:"Francesco Sforza"
+DD_LOM_16_d:"Colonel Francesco Sforza is one of the seven illegitimate sons of the renowned League commander Muzio Attendolo Sforza. Like his illustrious father, he is a tactically gifted genius. He remained loyal to the Lombard government during the chaotic League rebellions, successfully maintaining Lombardy's unity and stability, proving himself an excellent and faithful officer. Now, many commanders within the army wish for us to promote him, to become the shield and sword that defends the League."
+DD_LOM_16a:"Let us hope he remembers this promotion."
+DD_LOM_16a_tt:"\n§RMany believe engaging with Sforza is not a wise idea...§!\n"
+DD_LOM_16b:"He is too close to the Imperial Faction."
+DD_LOM_16b_tt:"\n§YGradually diminish Sforza's influence and marginalize him.§!\n"
+ #Option 1: Without a doubt!
+#  Effect: Francesco Sforza (5 3 2 3) becomes a general at age 44.
+#  Option 2: No, he is too close to the Imperial Faction.
+#  Effect: Gain 10 prestige.
+#  Trigger Condition: November 1445.
+
+DD_LOM_17_t:"Escalating Unrest"
+DD_LOM_17_d:"The situation in Milan is growing increasingly uncontrollable. Many citizens and artisans have taken to the streets to protest the League government's rule, while those opposing these groups have also gathered to confront them. Arguments quickly escalated into clashes, and soldiers seem to have joined the fray. A city-wide riot has now descended upon Milan.\n\nMeanwhile, unlike the military units that remain neutral and unaware of the true situation, the Imperial Faction troops under the command of Field Marshal Duke Visconti have swiftly entered Milan under the guise of restoring order, their ambitions now laid bare. The Lombard League is like a lone boat in a storm, and its people—where will they be taken?"
+DD_LOM_17a:"My God..."
+DD_LOM_17a_modifier:"Escalating Unrest"
+desc_DD_LOM_17a_modifier:"The situation on the streets of Milan is intensifying."
+# Effect: Imperial Faction influence +10%, unrest +10%, gain the "Escalating Unrest" modifier: revolt risk +1, one separatist rebel stack spawns.
+# Trigger Condition: January 1447.
+
+DD_LOM_18_t:"Beyond Endurance"
+DD_LOM_18_d:"Domenico stood before the floor-to-ceiling window of his office, his face ashen as he gazed upon the burning city outside. The Imperial Faction thugs were tearing his homeland apart; they were about to strangle the heart of the League, to offer a crown to the Duke. Had Visconti gone mad? Did he not realize what this meant?\n\n'Giovanni,' the Doge turned to face his equally grim-faced general, 'we must act at once, before everything becomes irreparable. These people are no ordinary rioters anymore. We must strike hard!' His hands clenched tightly, his furrowed brow revealing his fury. 'Let these scoundrels know we are not lambs to the slaughter!'"
+DD_LOM_18a:"'Giovanni, let your League Guard take the lead!'"
+DD_LOM_18a_modifier:"Localized Conflict"
+desc_DD_LOM_18a_modifier:"Inevitably."
+# Unrest +10, Republican Faction influence +5%, Sanctuary Faction influence +5%, gain the "Localized Conflict" modifier: army maintenance +50%. One stack of particularist rebels spawns.
+
+DD_LOM_19_t:"Military Standoff"
+DD_LOM_19_d:"With the deployment of the League Guard, the Republican and Imperial Factions have gradually established partitioned control over Milan. Rumors suggest that private forces of the southern Sanctuary Faction are also mustering, preparing to march north. After the initial phases of suppressing riots and sporadic clashes, although occasional conflicts and casualties still occur between the two sides' forces, no large-scale battles have yet erupted due to restrained orders from above.\n\nNow, an eerie stalemate has emerged within Milan. The Duke's forces and the League's army are locked in a tense confrontation. It appears the Lombard League is sitting atop a dangerous powder keg; the slightest misstep could ignite a civil war tearing through the Apennines. At this moment, all of Milan, affected by the turmoil, holds its breath, waiting to see how this farce will conclude."
+DD_LOM_19a:"Let us wait and see."
+DD_LOM_19a_tt:"§YEveryone holds their breath in anticipation...§!\n"
+DD_LOM_19a_modifier:"Military Standoff"
+desc_DD_LOM_19a_modifier:"Swords drawn and bows bent, a spark away from ignition."
+# Replaces "Localized Conflict" with "Military Standoff": army maintenance +25%, unrest +10.
+
+DD_LOM_20_t:"An Unexpected Turn"
+DD_LOM_20_d:"A startling piece of news shook all of Milan. The leader of the Imperial Faction, Duke of Milan, and Alliance Field Marshal, Filippo Maria Visconti, passed away this morning from a stroke at the age of 55. The respected veteran commander of the Milan city garrison, the venerable General Andrea Fortebraccio, has taken control of his faction.\n\nAll Lombards breathed a collective sigh of relief; it seems civil war will not break out anytime soon. However, with the Duke's death, the position of Alliance Field Marshal is now vacant again. This sensitive and crucial post absolutely must not fall to another ambitious schemer like Visconti. We could elevate our own General Giovanni to the position, appease the Imperial Faction by appointing the moderate General Andrea—who, given his advanced age, likely poses little threat—or show goodwill to our allies by appointing the Sanctuary Faction's Duke of Urbino, Federico da Montefeltro."
+DD_LOM_20a:"Appoint Giovanni."
+DD_LOM_20b:"Appoint Andrea."
+DD_LOM_20c:"Appoint Federico."
+DD_LOM_20d:"We should have a compromise candidate..."
+DD_LOM_20d_ttt:"§YFrancesco Sforza§! has been promoted."
+# Option 1: Appoint Giovanni.
+# Effect: Republican Faction influence +10%, overall dissatisfaction -10%. Imperial Faction dissatisfaction +5%, Sanctuary Faction dissatisfaction +5%.
+# Option 2: Appoint Andrea.
+# Effect: Imperial Faction influence +10%, overall dissatisfaction -10%. Republican Faction dissatisfaction +5%, Sanctuary Faction dissatisfaction +5%.
+# Option 3: Appoint Federico.
+# Effect: Sanctuary Faction influence +10%, overall dissatisfaction -10%. Imperial Faction dissatisfaction +5%, Republican Faction dissatisfaction +5%.
+# Option 4: We should have a compromise candidate...
+# Requirement: Previously chose to promote Francesco Sforza.
+# Effect: Triggers event "The Compromise Choice" after 3 days.
+# Trigger Condition: August 1447.
+
+DD_LOM_21_t:"The Compromise Choice"
+DD_LOM_21_d:"From a military perspective, Francesco Sforza is undoubtedly an excellent candidate for the Field Marshal position. The young and dynamic general is talented, exceptionally courageous, and certainly far superior to some senile old man or a pampered aristocratic appointee. However, the biggest issue is—he is the son-in-law of the Duke of Milan.\n\nThis is no small matter. The Republican Faction would normally never accept such a person becoming Field Marshal. Yet the Sanctuary Faction has defended the general, arguing that he has served both the Papacy and the Sanctuary Faction on multiple occasions, and has even defended Republican and League interests. Rather than being a supporter of the Duke of Milan, it might be more accurate to say General Sforza is a pure opportunist; he is loyal only to profit and himself."
+DD_LOM_21a:"Let us hope we do not regret this..."
+DD_LOM_21a_tt:"§YGiven the circumstances, General Sforza may be a candidate acceptable to all three factions.§!\n"
+DD_LOM_21b:"No, we will not appoint him!"
+# Re-triggers "An Unexpected Turn" event
+
+DD_LOM_22_t:"Milanese Succession Crisis"
+DD_LOM_22_d2:"After the Duke's passing, we are still left with a thorny and complicated mess. Following Duke Visconti's death without a legitimate heir, his domain has plunged into a chaotic succession crisis. With the loss of ducal rule, some Republican factions in Milan, incited by foreign supporters, have begun semi-publicly attacking the Imperial Faction, resisting Imperial officials and garrisons.\n\nAccording to our informants, due to our support for Marshal Sforza's claim to Milan, certain local scholars and radical Republicans are plotting something, and clearly they do not intend to inform us in advance. Milan's rebellious attitude has angered many claimants to the duchy and their armies. A succession crisis is imminent, and the shadow of chaos once again looms over Lombardy."
+DD_LOM_22_d:"With the Duke's sudden death leaving no respected adult heir, Milan is in chaos. Influential citizens believe they can restore the former Republic. Institutions like the University of Pavia widely promote the golden age of the old Republic. Through the efforts of radical Republicans, a republic named after the 4th-century Archbishop of Milan, Saint Ambrose, has been declared, aiming to permanently expel monarchy from Milan.\n\nUnsurprisingly, not everyone welcomes this decision, especially the claimant to the Duchy of Milan, Francesco Sforza. He has already marched his army to the city gates and sent a strongly-worded letter: either accept him as Duke, or face him on the battlefield. The Imperial Faction generals support Sforza's stance. War is imminent."
+DD_LOM_22a:"We had best mobilize our forces swiftly!"
+DD_LOM_22a_modifier:"Sforza's Army"
+# Republican Faction influence +10%, Imperial Faction dissatisfaction +10%, unrest +10%
+
+ DD_LOM_23_t:""
+ DD_LOM_23_d:""
+ DD_LOM_23a:""
+#  选项1：我们必须支持共和派！
+# 效果：混乱度+10，将军弗朗切斯科·斯福尔扎去世，以收复核心领土的宣战借口向米兰宣战，弗朗切斯科·斯福尔扎成为米兰公爵，帝国派的省份将独立并加入他们，如果热那亚是我们的盟友，将会加入我们的战争。如果圣堂派不满超过50%且未与教宗结盟则会独立并加入帝国派战争，结盟则获得修正不情愿的圣堂派，陆军士气-10%，持续5年。
+# 选项2：我们支持斯福尔扎元帅！
+# 效果：混乱度+10，爆发2倍米兰分离主义叛军，帝国派不满-10%，共和派不满+10%。
+# 要求：任命了斯福尔扎为元帅。
+
+DD_LOM_24_t:"Fish Swimming in a Boiling Cauldron"
+DD_LOM_24_d:"The Lombard League is marching steadfastly towards its grave—this is the consensus among all Lombard factions. For the Imperial Faction, for the man who holds the lofty title of Field Marshal of all Lombardy, what cannot be sacrificed for his ambition? Filippo Maria Visconti, this ruthless Duke of Milan, has employed nearly every means imaginable for power and status over the past fifty years of his life. He murdered his own elder brother and executed his lawful wife. His paranoia, cruelty, and remarkable dictatorial prowess have made the name Visconti the foremost noble house in Lombardy, surrounding the title of Duke of Milan with blood and glory.\n\nNow, this fragile alliance is inevitably approaching its end, and the Imperial Faction's ambitious men can no longer restrain the fire in their hearts. The Field Marshal and his Imperial officers will not hesitate to end the rule of the republican government, excising it like a cancerous tumor. The conspirators have already secretly extended olive branches to the Emperor's and the Church's followers, hoping to unite with the Sanctuary Faction and submit to the Empire in exchange for recognition of the iron crown upon the Duke's head.\n\nThe Duke gazes upon this dying league, much as he did decades ago on that rain-soaked night that earned him the name fratricide, looking back upon his now aged self, the conqueror grown old. A strange dampness pervades... Is it rain? Or is it the blood upon the Duke?"
+DD_LOM_24a:"The League is in peril, like fish swimming in a boiling cauldron."
+DD_LOM_24a_tt:"§OThe Imperial Faction§! will begin to act, attempting to destabilize the @LOM §YLombard League§!, steering it towards §Rdissolution§!.\n\n§RThe Dissolution of Lombardy§! §Ydisaster§! now gains an additional §R+1.0§! per month.\n"
+
+DD_LOM_25_t:"To the Right of the Holy Seat"
+DD_LOM_25_d:"Two letters lay upon Cosimo de' Medici's desk. One, already opened, bore the official seal of the League government, neatly stamped. The other displayed a crest known throughout Italy—the Biscione, the serpent dragon. This secret missive from one of Italy's most illustrious families was placed with precision on Cosimo's desk, its dark red wax shimmering with a silver sheen in the candlelight. A few lines of Gothic script were simply arrayed on the expensive vellum, yet they presented Cosimo with a future impossible to ignore.\n\nThe elderly banker had long ceased interfering in family affairs. Cosimo di Giovanni de' Medici, Tuscany's most successful banker, already possessed all he desired. He held the title of a Cicero, the wealth of a Caesar, and the power of a Pompey. He was the uncrowned king of Tuscany, the chief servant of God's servant, the executor of Rome. And now, Visconti, this immensely powerful Field Marshal, offered him a new possibility—to stand to the right of the Holy Seat.\n\nAn opportunity for the Medici family to step fully into the forefront. The Sanctuary Faction and his house would emerge from the shadows of power, standing to the right of the Holy See, even of the Empire—but at what cost? What is the price?\n\nMedici brought the expensive vellum close to the candle flame. The candle burned quietly in the night, but his trembling hand remained still, frozen in indecision."
+DD_LOM_25a:"Burn it."
+DD_LOM_25b:"Put the letter away."
+DD_LOM_25a_tt:"§MThe Sanctuary Faction§! will honor its agreement with the §JRepublican Faction§! and support the continued existence of the @LOM §YLombard League§!.\n"
+DD_LOM_25b_tt:"From now on, the §MSanctuary Faction§! will attempt to ally with the §OImperial Faction§! to overthrow the @LOM §YLombard League§!.\n"
+
+DD_LOM_26_t:"Acting on Their Own"
+DD_LOM_26_d:"A sudden piece of news has shocked all of Lombardy—the leader of the Imperial Faction, Duke of Milan, and Alliance Field Marshal, Filippo Maria Visconti, passed away this morning from a stroke at the age of 55. His son-in-law, the brilliant General Francesco Sforza, as the Duke's sole heir, has become the new Duke of Milan.\n\nDespite the passing of the Imperial Faction's leader, the weak League government remains powerless over the military forces controlled by the Imperial Faction. The Imperial generals promptly rallied behind and endorsed Duke Sforza as their leader and, without the Doge's approval, seized control of the military command, electing him as the new Field Marshal of all Lombardy.\n\nNow, the rogue military command is acting entirely on its own. Under the leadership of the young and ambitious Field Marshal Sforza, it continues the grand endeavor of the late Marshal and his Imperial generals."
+DD_LOM_26a:"A storm is brewing..."
+
+DD_LOM_27_t:"March on Milan"
+DD_LOM_27_d:"Francesco Sforza, surrounded by a group of Imperial Faction officers, entered the Lombard League headquarters in Milan. For a final glance, Francesco turned back to look upon Milan, immersed in the tranquil night. Was pursuing power, walking the same path as the old Duke, dictated by fate, or driven by his own heart? Milan, the heart of Italy, the jewel upon the Iron Crown—this city is destined to be companioned by blood and power.\n\nWhen Duke Visconti placed Milan in his hands, when the Duke signed his name upon that will, did he already foresee this outcome? Sforza gazed at Milan in the dim twilight, as if transported back to the battlefields where he once fought alongside his father. Back then, he was merely a bastard, dreaming impractical dreams—yet now, the humble surname Sforza is poised to become that of a sovereign ruler of Italy."
+DD_LOM_27a:"The League crumbles with a thunderous fall; the night is thick and reeks of blood."
+
+DD_LOM_28_t:"Time Waits for No One"
+DD_LOM_28_d:"When Cosimo received news of the Imperial Faction troops secretly massing near Milan, twilight was already fading into night. The usually talkative and graceful old Cosimo trembled as he set down the secret letter, pondering deeply for a long while before finally motioning his son forward. 'Piero, gather all the guards Florence can muster. You will lead them.' 'For what purpose, Father?' Since the disgrace of the Luccan War and the death of his brother Giovanni, this was the first time Piero had seen his father look so grave.\n\nThe elder Cosimo gazed towards the vanishing corona of the sun in the distance, looking northward where the twilight bled with a desolate hue. Cosimo's heart, which had remained still as stagnant water for decades, suddenly stirred, throbbing with the same fervent intensity as when he had battled the Albizzi family in his youth. He quietly observed Italy beyond the window—the shimmering evening glow, half-submerged in the encroaching night, casting its mantle over the golden domes at the city's heart, warm as a sunset reflecting on a clear pond, cold as moonlight striking a frigid river. Piero heard his father whisper: 'To dispel the shadows that shroud Italy.'"
+DD_LOM_28a:"Just a little light is needed..."
+
+DD_LOM_29_t:"The Storm Subsides"
+DD_LOM_29_d:"The civil war has ended. The streets no longer see hurried travelers, menacing guards, confronting armies, or neighbors killing one another. The final embers of conflict in Milan's avenues have been extinguished. The dawn of peace and hope has finally returned to this beleaguered city, to the scarred League.\n\nSymbols of the Visconti family and the Imperial Faction are being removed from across Lombardy. The League, amidst ruins and fading smoke, stumbles forward—slowly but steadily returning to its proper course. The citizens of Milan take to the streets, celebrating the defeat of the dictators. Even the silent churches have raised the League's banner once more. A new, reorganized Lombard government will replace the chaotic rule of the past, ushering in a fresh era of unity."
+DD_LOM_29a:"Lombardy's ordeal has ended."
+DD_LOM_gov_republic_modifier:"Republican Doge"
+desc_DD_LOM_gov_republic_modifier:"This is a Doge from the Republican Faction."
+DD_LOM_gov_holy_modifier:"Sanctuary Doge"
+desc_DD_LOM_gov_holy_modifier:"This is a Doge from the Sanctuary Faction."
+DD_LOM_gov_empire_modifier:"Imperial Doge"
+desc_DD_LOM_gov_empire_modifier:"This is a Doge from the Imperial Faction, though they have abandoned their impossible dreams."
+
+DD_LOM_30_t:"The Treaty of Venice"
+DD_LOM_30_d:"On land, our offensive against the Republic of Venice could be described as sweeping and unstoppable. Yet, before their final line of defense—the Venetian Lagoon—cannons and swords seem so ineffective. As a maritime empire once bathed in glory, Venice's navy remains the most powerful naval force in the entire Mediterranean; breaching this aquatic wall is truly difficult for us.\n\nThus, the Venetian Doge has sent us a proposal: in exchange for Venice's mainland territories, allow Venice to become an autonomous city under the League's protection, enjoying freedom and the right to conduct commerce while submitting to Lombardy, thereby ending the war. Shall we accept the Venetians' offer?"
+DD_LOM_30a:"End this pointless attrition."
+DD_LOM_30b:"No, we shall plant our banners upon the Doge's Palace of Venice!"
+ DD_LOM_31_t:""
+ DD_LOM_31_d:""
+ DD_LOM_31a:""
+ DD_LOM_32_t:""
+ DD_LOM_32_d:""
+ DD_LOM_32a:""
+ DD_LOM_33_t:""
+ DD_LOM_33_d:""
+ DD_LOM_33a:""
+ DD_LOM_34_t:""
+ DD_LOM_34_d:""
+ DD_LOM_34a:""
+ DD_LOM_35_t:""
+ DD_LOM_35_d:""
+ DD_LOM_35a:""
+ DD_LOM_36_t:""
+ DD_LOM_36_d:""
+ DD_LOM_36a:""
+ DD_LOM_37_t:""
+ DD_LOM_37_d:""
+ DD_LOM_37a:""
+ DD_LOM_38_t:""
+ DD_LOM_38_d:""
+ DD_LOM_38a:""
+ DD_LOM_39_t:""
+ DD_LOM_39_d:""
+ DD_LOM_39a:""
+
+
+ DD_LOM_40_t:""
+ DD_LOM_40_d:""
+ DD_LOM_40a:""
+ DD_LOM_41_t:""
+ DD_LOM_41_d:""
+ DD_LOM_41a:""
+ DD_LOM_42_t:""
+ DD_LOM_42_d:""
+ DD_LOM_42a:""
+ DD_LOM_43_t:""
+ DD_LOM_43_d:""
+ DD_LOM_43a:""
+ DD_LOM_44_t:""
+ DD_LOM_44_d:""
+ DD_LOM_44a:""
+ DD_LOM_45_t:""
+ DD_LOM_45_d:""
+ DD_LOM_45a:""
+ DD_LOM_46_t:""
+ DD_LOM_46_d:""
+ DD_LOM_46a:""
+ DD_LOM_47_t:""
+ DD_LOM_47_d:""
+ DD_LOM_47a:""
+ DD_LOM_48_t:""
+ DD_LOM_48_d:""
+ DD_LOM_48a:""
+ DD_LOM_49_t:""
+ DD_LOM_49_d:""
+ DD_LOM_49a:""
+
+
+ DD_LOM_50_t:""
+ DD_LOM_50_d:""
+ DD_LOM_50a:""
+ DD_LOM_51_t:""
+ DD_LOM_51_d:""
+ DD_LOM_51a:""
+ DD_LOM_52_t:""
+ DD_LOM_52_d:""
+ DD_LOM_52a:""
+ DD_LOM_53_t:""
+ DD_LOM_53_d:""
+ DD_LOM_53a:""
+ DD_LOM_54_t:""
+ DD_LOM_54_d:""
+ DD_LOM_54a:""
+ DD_LOM_55_t:""
+ DD_LOM_55_d:""
+ DD_LOM_55a:""
+ DD_LOM_56_t:""
+ DD_LOM_56_d:""
+ DD_LOM_56a:""
+ DD_LOM_57_t:""
+ DD_LOM_57_d:""
+ DD_LOM_57a:""
+ DD_LOM_58_t:""
+ DD_LOM_58_d:""
+ DD_LOM_58a:""
+ DD_LOM_59_t:""
+ DD_LOM_59_d:""
+ DD_LOM_59a:""
+
+
+ DD_LOM_60_t:""
+ DD_LOM_60_d:""
+ DD_LOM_60a:""
+ DD_LOM_61_t:""
+ DD_LOM_61_d:""
+ DD_LOM_61a:""
+ DD_LOM_62_t:""
+ DD_LOM_62_d:""
+ DD_LOM_62a:""
+ DD_LOM_63_t:""
+ DD_LOM_63_d:""
+ DD_LOM_63a:""
+ DD_LOM_64_t:""
+ DD_LOM_64_d:""
+ DD_LOM_64a:""
+ DD_LOM_65_t:""
+ DD_LOM_65_d:""
+ DD_LOM_65a:""
+ DD_LOM_66_t:""
+ DD_LOM_66_d:""
+ DD_LOM_66a:""
+ DD_LOM_67_t:""
+ DD_LOM_67_d:""
+ DD_LOM_67a:""
+ DD_LOM_68_t:""
+ DD_LOM_68_d:""
+ DD_LOM_68a:""
+ DD_LOM_69_t:""
+ DD_LOM_69_d:""
+ DD_LOM_69a:""
+
+ DD_LOM_70_t:""
+ DD_LOM_70_d:""
+ DD_LOM_70a:""
+ DD_LOM_71_t:""
+ DD_LOM_71_d:""
+ DD_LOM_71a:""
+ DD_LOM_72_t:""
+ DD_LOM_72_d:""
+ DD_LOM_72a:""
+ DD_LOM_73_t:""
+ DD_LOM_73_d:""
+ DD_LOM_73a:""
+ DD_LOM_74_t:""
+ DD_LOM_74_d:""
+ DD_LOM_74a:""
+ DD_LOM_75_t:""
+ DD_LOM_75_d:""
+ DD_LOM_75a:""
+ DD_LOM_76_t:""
+ DD_LOM_76_d:""
+ DD_LOM_76a:""
+ DD_LOM_77_t:""
+ DD_LOM_77_d:""
+ DD_LOM_77a:""
+ DD_LOM_78_t:""
+ DD_LOM_78_d:""
+ DD_LOM_78a:""
+ DD_LOM_79_t:""
+ DD_LOM_79_d:""
+ DD_LOM_79a:""
+
+DD_LOM_is_republicp_prov_ttt:"§YRepublican Faction§! province"
+DD_LOM_is_holyp_prov_ttt:"§MSanctuary Faction§! province"
+DD_LOM_is_empirep_prov_ttt:"§OImperial Faction§! province"
+
+lom_relation_holy_improve_2:"Relations with the §MSanctuary Faction§! §Jimproved§! to §GCooperative§!"
+lom_relation_holy_improve_1:"Relations with the §MSanctuary Faction§! §Jimproved§! to §YNeutral§!"
+lom_relation_empire_improve_2:"Relations with the §OImperial Faction§! §Jimproved§! to §GCooperative§!"
+lom_relation_empire_improve_1:"Relations with the §OImperial Faction§! §Jimproved§! to §YNeutral§!"
+lom_relation_republic_improve_2:"Relations with the §YRepublican Faction§! §Jimproved§! to §GCooperative§!"
+lom_relation_republic_improve_1:"Relations with the §YRepublican Faction§! §Jimproved§! to §YNeutral§!"
+
+lom_relation_holy_reduce_2:"Relations with the §MSanctuary Faction§! §Rreduced§! to §YNeutral§!"
+lom_relation_holy_reduce_1:"Relations with the §MSanctuary Faction§! §Rreduced§! to §RHostile§!"
+lom_relation_empire_reduce_2:"Relations with the §OImperial Faction§! §Rreduced§! to §YNeutral§!"
+lom_relation_empire_reduce_1:"Relations with the §OImperial Faction§! §Rreduced§! to §RHostile§!"
+lom_relation_republic_reduce_2:"Relations with the §YRepublican Faction§! §Rreduced§! to §YNeutral§!"
+lom_relation_republic_reduce_1:"Relations with the §YRepublican Faction§! §Rreduced§! to §RHostile§!"
+
+NYDD_LOM_winter_is_coming_ttt:"How the situation will unfold remains unknown to us."
+
+NYDD_LOM_winter_is_coming_title:"Winter is Coming"
+NYDD_LOM_winter_is_coming_desc:"The Lombard League was originally formed merely to oppose Holy Roman Emperor Frederick I 'Barbarossa'; no one could have foreseen its survival to this day. An anonymous, well-known Medici commentator remarked: 'Lombardy is like a dilapidated house; one gentle kick, and it will come crashing down.' Indeed, years of intrigue surrounding the Italian city-states have driven away two of the most esteemed republics. What is the worst that could happen? Merely a return to the starting point. The newly appointed Doge harbors ambitious ideals, striving to hold together this vast, loose alliance. But for many, they hope it will dissolve sooner rather than later."
+
+NYDD_LOM_ask_GEN_help_title:"Contact Old Compatriots" # Contacting Our Former Compatriots
+NYDD_LOM_ask_GEN_help_desc:"Who can aid us in our time of peril? Who else but our Genoese compatriots? Domenico believes the Genoese Doge will not let this opportunity pass—he certainly will not..."
+
+NYDD_LOM_ask_holy_help_title:"§MSeek Aid from Servants of God§!" #Seeking Aid from the Servants of God
+NYDD_LOM_ask_holy_help_desc:"Ah, the Medicis of Florence, representing the Sanctuary Faction—they bear another name: the Caesars of Tuscany. Outwardly, they are staunch supporters of the Pope, the Standard-bearers of Justice in Florence. Yet, in truth, the banks they operate are entangled in the politics and economies of Italy and beyond, manipulating everything from the shadows. To sustain the Lombard League, their support is indispensable."
+
+NYDD_LOM_wash_empire_pai_title:"Stifle Imperial Officers" # Suppress Imperial Faction Officers
+NYDD_LOM_wash_empire_pai_desc:"Imperial Faction officers control a significant portion of the military—this is problematic. It means they could launch a coup at any moment, with just a simple push. Therefore, we must transfer a large number of Imperial officers away from their posts and seize the opportunity to replace them with Republican officers."
+
+NYDD_LOM_slove_finnacial_problem_title:"Resolve the Financial Crisis"
+NYDD_LOM_slove_finnacial_problem_desc:"Since the formation of the Lombard League, debt has piled high. Initially, the League barely managed with substantial support from the two great republics. However, after the withdrawal of those two republics and the continued refusal of Imperial Faction states to pay League dues, we are teetering on the brink of bankruptcy. The League cannot even afford to pay its administrative staff. Fortunately, our recent negotiations with our compatriots and a certain bank have progressed smoothly, and a large sum of funds will soon be available."
+
+NYDD_LOM_holy_republic_union_title:"Republican Medici Alliance" # Republican-Sanctuary Alliance
+NYDD_LOM_holy_republic_union_desc:"The wise Medicis have chosen the correct path, standing together with us, the Republican Faction. They also understand the principle that when the lips are gone, the teeth will be cold. If Imperial forces invade Italy once more, it will unleash another storm of bloodshed, just as it did two hundred years ago. We must unite."
+
+NYDD_LOM_milan_rebel_title:"Suppress the Milanese Rebellion"
+NYDD_LOM_milan_rebel_desc:"The situation in Milan has spiraled out of control. We have reasonable suspicion that Imperial Faction elements are inciting the ignorant Milanese populace. We must strike hard and eliminate these suspicious Imperial agents!"
+
+NYDD_LOM_peace_and_love_title:"Dust Settles"
+NYDD_LOM_peace_and_love_desc:"Is it over? With the final resistance in Milan silenced, we have gained control over Milan and indeed all of Lombardy. Now is the time to set everything back on track."
+
+NYDD_LOM_milan_rebel_ttt:"The Milan Crisis has begun"
+
+NYDD_LOM_empire_secret_title:"§YImperial Conspiracy§!" # Imperial Faction Conspiracy
+NYDD_LOM_empire_secret_desc:"We have waited long for this day. The Lombard League shall meet its end, and a new Italian power shall rise from its ashes. May the Emperor honor his promise..."
+NYDD_LOM_loyaty_general_title:"§YWin Over the Officer Corps§!"
+NYDD_LOM_loyaty_general_desc:"Currently, some officers within our Imperial Faction are swayed by the sweet talk of the Republicans—this is extremely dangerous. We must isolate them immediately and offer higher incentives to secure their loyalty."
+NYDD_LOM_milan_march_title:"§YMarch on Milan§!"
+NYDD_LOM_milan_march_desc:"The time has come! Imperial Faction troops have quietly encircled Milan under cover of darkness. The city is trapped, awaiting our leader to claim it."
+
+NYDD_LOM_see_pap_title:"§MHighest Directive§!"
+NYDD_LOM_see_pap_desc:"Since we have decided to conspire with wolves, we had better sound out His Holiness's stance first. Oh, I mean, inform him, so that our steps and rhetoric remain aligned."
+NYDD_LOM_highest_order_title:"§MFinal Chance§!"
+NYDD_LOM_highest_order_desc:"We hear the Imperial Faction is preparing to launch a rebellion—this is not good. We must initiate our uprising immediately, seizing more territory before the Imperial Faction can act!"
+
+NYDD_LOM_empire_secret_ttt:"Only the Imperial Faction can complete this task."
+NYDD_LOM_only_republic_ttt:"Only the Republican Faction can complete this task."
+
+NYDD_LOM_holy_republic_union_ttt:"Enhanced (§Y[Root.lom_develop_holyp_prov.GetValue]§!/§Y2§!) §MSanctuary Faction§! provinces"
+NYDD_LOM_holy_republic_union_tt:"Relations with the §MSanctuary Faction§! improved to §GCooperative§!"
+NYDD_LOM_ask_holy_help_ttt:"Already improved relations by at least §G25§!."
+
+NYDD_LOM_see_pap_tt:"After the civil war begins, @LAN §YFlorence§! will gain:"
+NYDD_LOM_see_pap_modifier:"Papal Sanction"
+desc_NYDD_LOM_see_pap_modifier:"His Holiness has sanctioned our struggle."
+
+
+NYDD_LOM_unknown_1_2_title:"Uncertain Situation"
+NYDD_LOM_unknown_1_2_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_3_2_title:"Uncertain Situation"
+NYDD_LOM_unknown_3_2_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_5_2_title:"Uncertain Situation"
+NYDD_LOM_unknown_5_2_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_2_3_title:"Uncertain Situation"
+NYDD_LOM_unknown_2_3_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_3_3_title:"Uncertain Situation"
+NYDD_LOM_unknown_3_3_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_4_3_title:"Uncertain Situation"
+NYDD_LOM_unknown_4_3_desc:"How the situation will unfold remains unknown to us."
+
+NYDD_LOM_unknown_3_4_title:"Uncertain Situation"
+NYDD_LOM_unknown_3_4_desc:"How the situation will unfold remains unknown to us."
+NYDD_LOM_unknown_3_5_title:"Uncertain Situation"
+NYDD_LOM_unknown_3_5_desc:"How the situation will unfold remains unknown to us."
+
+NYDD_LOM_build_order_title:"Establish Order"
+NYDD_LOM_build_order_desc:""
+NYDD_LOM_ease_tension_title:"Ease Faction Tensions"
+NYDD_LOM_ease_tension_desc:""
+NYDD_LOM_italy_freedom_title:"Italian Free States"
+NYDD_LOM_italy_freedom_desc:""
+NYDD_LOM_stability_title:"Restore Stability"
+NYDD_LOM_stability_desc:""
+NYDD_LOM_control_army_title:"Control the Army"
+NYDD_LOM_control_army_desc:""
+NYDD_LOM_economy_fool_title:"Restore Finances"
+NYDD_LOM_economy_fool_desc:""
+
+NYDD_LOM_annex_war_title:"Unify by Force, Govern by Right"
+NYDD_LOM_annex_war_desc:""
+NYDD_LOM_winner_take_all_title:"Winner Takes All"
+NYDD_LOM_winner_take_all_desc:""
+_title:""
+_desc:""
+NYDD_LOM_civil_war_title:"The Edifice Crumbles"
+NYDD_LOM_civil_war_desc:""
+NYDD_LOM_romagna_title:"Forest of Blades"
+NYDD_LOM_romagna_desc:""
+
+NYDD_LOM_france_title:"Gilded Shackles"
+NYDD_LOM_france_desc:""
+
+NYDD_LOM_papal_title:"Vicar of God"
+NYDD_LOM_papal_desc:""
+NYDD_LOM_god_balance_title:"Scales of God"
+NYDD_LOM_god_balance_desc:""
+NYDD_LOM_britain_title:"Remolding Civilization"
+NYDD_LOM_britain_desc:""
+NYDD_LOM_western_roma_title:"The Sovereign of the West"
+NYDD_LOM_western_roma_desc:""
+
+NYDD_LOM_sicily_title:"March on the Southern Kingdom"
+NYDD_LOM_sicily_desc:""
+NYDD_LOM_alps_title:"Crossing the Alps"
+NYDD_LOM_alps_desc:""
+NYDD_LOM_iberia_title:"Sound the War Drums"
+NYDD_LOM_iberia_desc:""
+NYDD_LOM_immortal_title:"Immortal…"
+NYDD_LOM_immortal_desc:""
+
+NYDD_LOM_italy_unite_title:"Italian Unification Movement"
+NYDD_LOM_italy_unite_desc:""
+NYDD_LOM_old_friend_title:"Ties of the Past"
+NYDD_LOM_old_friend_desc:""
+NYDD_LOM_viva_italy_title:"Viva l'Italia"
+NYDD_LOM_viva_italy_desc:""
+NYDD_LOM_old_shore_title:"Shores of Yesteryear"
+NYDD_LOM_old_shore_desc:""
+NYDD_LOM_glory_march_title:"March of Glory"
+NYDD_LOM_glory_march_desc:""
+NYDD_LOM_near_east_title:"Lord of the Near East"
+NYDD_LOM_near_east_desc:""
+
+NYDD_LOM_army_title:"Military Reorganization"
+NYDD_LOM_army_desc:""
+NYDD_LOM_doge_title:"Harness the Doge"
+NYDD_LOM_doge_desc:""
+NYDD_LOM_africa_ambition_title:"Ambition in Africa"
+NYDD_LOM_africa_ambition_desc:""
+NYDD_LOM_burn_the_sand_title:"Prairie Fire"
+NYDD_LOM_burn_the_sand_desc:""
+NYDD_LOM_save_the_light_title:"Turn the Tide"
+ NYDD_LOM_save_the_light_desc:""
+
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""
+ _title:""
+ _desc:""

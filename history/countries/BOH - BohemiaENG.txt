@@ -1,0 +1,11 @@
+
+1439.10.27 = {
+	monarch = {
+		name = "Territorial Peace Conference" 
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+

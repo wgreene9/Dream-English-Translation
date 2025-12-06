@@ -1,0 +1,64 @@
+SSL_Monferrato_trigger = {
+	custom_trigger_tooltip = {
+		tooltip = SSL_Monferrato_trigger_tt
+		dynasty = "de Montferrat"
+	}
+}
+
+SAUD = {
+	dynasty = "Sa'ud"
+}
+RASULID = {
+	dynasty = "Rasulid"
+}
+TAHIRIDE = {
+	dynasty = "Tahirid"
+}
+JABRID = {
+	dynasty = "Jabrid"
+}
+QASIMI = {
+	dynasty = "Qasimi"
+}
+NABHANI = {
+	dynasty = "Nabhan"
+}
+YARUBA = {
+	dynasty = "Yaruba"
+}
+SAID = {
+	dynasty = "Said"
+}
+USFURID = {
+	dynasty = "Usfurid" # Usvör
+}
+JARWANID = {
+	dynasty = "Jarwanid"
+}
+HASHIM = {
+	dynasty = "Hashim"
+}
+HUSAYNID = {
+	dynasty = "Husaynid"
+}
+MAKRAMID = {
+	dynasty = "Makramid"
+}
+SULEYMANID = {
+	dynasty = "Suleymanid"
+}
+HASANID = {
+	dynasty = "Hasanid"
+}
+SABAH = {
+	dynasty = "Sabah" # Sabaton
+}
+ZAYID = {
+	dynasty = "Zayid"
+}
+Khayratid = {
+	dynasty = "Khayratid" # Hayelaad
+}
+Umayyad = {
+	dynasty = "Umayyad"
+}

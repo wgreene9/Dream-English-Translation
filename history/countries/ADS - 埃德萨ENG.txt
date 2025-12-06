@@ -1,12 +1,3 @@
-government = monarchy
-add_government_reform = NYDD_kindom_of_crusder_reform
-government_rank = 1
-primary_culture = ads_culture
-religion = catholic
-technology_group = western
-capital = 4298
-
-add_accepted_culture = al_suryah_arabic
 
 1444.2.14 = {
 	monarch = {

@@ -1,6 +1,0 @@
-government = monarchy
-government_rank = 1
-primary_culture = american
-religion = catholic
-technology_group = eastern
-capital = 327

@@ -69,6 +69,22 @@ luomuwa_pagan_religion_desc: "The last surviving Baltic pagan religion."
 suomi_pagan: "Suomenusko"
 suomi_pagan_religion_desc: "An ancient belief system of the Suomi region."
 
+insular_catholic:"Insular Catholic"
+insular_catholic_religion_desc:"A distinctive practice of Christian faith in the Gaelic regions, often considered part of the Roman Catholic Church. Due to Ireland's distance from Rome, some Christian customs differ, such as monastic family inheritance and eremitic traditions."
+insular_catholic_fervor_church:"Sponsor Churches"
+insular_catholic_fervor_church_short:"Sponsor Churches"
+insular_catholic_fervor_help_people:"Aid the Poor"
+insular_catholic_fervor_help_people_short:"Aid the Poor"
+insular_catholic_fervor_goods:"Develop Production"
+insular_catholic_fervor_goods_short:"Develop Production"
+insular_catholic_fervor_colony:"Encourage Migration"
+insular_catholic_fervor_colony_short:"Encourage Migration"
+
+DD_insular_catholic_373_holy_site_modifier_trigger:"Insular Holy Site: Tara"
+desc_DD_insular_catholic_373_holy_site_modifier_trigger:"The Hill of Tara, where the 'Lia Fáil' (Stone of Destiny) rests, is said to be the coronation site of countless High Kings of Ireland."
+DD_insular_catholic_373_holy_site_modifier:"Insular Holy Site: Tara"
+desc_DD_insular_catholic_373_holy_site_modifier:"The Hill of Tara, where the 'Lia Fáil' (Stone of Destiny) rests, is said to be the coronation site of countless High Kings of Ireland."
+
 # May overwrite vanilla definitions
 anglican:0 "Anglicanism"
 anglican_religion_desc:0 "Anglicanism, formally known as the Holy Gallican Church, recognizes the head of state as its supreme governor. Theologically and institutionally, Anglicanism retains many Catholic elements while incorporating influences from Reformed Puritanism and Continental Protestantism."

@@ -50,6 +50,8 @@ germanic = {
 	Nordseedeutsch_germanic = {} #北海
 	Sorben_germanic = {} #索布，索尔本
 	west_saxons = {} #西撒克逊，不列颠
+
+	hungarian_germanic = {} #匈牙利
 }
 iberian = {
 	asutuliyasi = {}
@@ -85,17 +87,8 @@ latin = {
 	xln_culture = {}
 	kexijia_culture = {}
 }
-east_asian = {
-	anxi = {}
-}
 tartar = {
 	cuman = {}
-}
-DD_haiwai_cg = {
-	koj_culture = {}
-	ati_culture = {}
-	tri_culture = {}
-	ads_culture = {}
 }
 maghrebi = {
 	tripoli_maghrebi = {}
@@ -119,6 +112,10 @@ scandinavian = {
 	novagrad_sca = {}
 	island_sca = {}
 	goltland_sca = {}
+	greenland_sca = {}
+	vinland_sca = {}
+	markland_sca = {}
+	helluland_sca = {}
 }
 west_slavic = {
 	kaszubski_WS = {}
@@ -127,6 +124,8 @@ west_slavic = {
 	vistulan_WS = {}
 	poznan_WS = {}
 	moravia_WS = {}
+	pannonia_WS = {}
+	pommeranian_WS = {}
 }
 east_slavic = {
 	beloozero_es = {}
@@ -195,7 +194,6 @@ gaelic = {
 		primary = KOI
 	}
 	briton = {}
-	dunuonia = {}
 	cymru = {}
 	gaul = {}
 	celtiberian = {}
@@ -221,5 +219,5 @@ east_asian = {
 	liao_chi = {}
 	dian_chi = {}
 	miao_chi = {}
-
+	anxi_chi = {}
 }

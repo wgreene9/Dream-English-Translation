@@ -1,5 +1,6 @@
 ﻿l_english:
- NYDD_fra_haiwai_culture: "Outremer" # Overseas
+#French
+#  NYDD_fra_haiwai_culture: "Outremer" # Overseas
  potiou_french: "Poitevin"
  champine_french: "Champenois"
  lorrine_french: "Lorraine"
@@ -14,6 +15,7 @@
  dutch_french: "Pays-Bas" #Pays-Bas
  frank_french: "Frankish"
 
+#Germanic
  romania_germanic: "Siebenbürgen"
  markish_germanic: "Markish" #Marchian/Markish/Brandenburgisch
  schlesien_germanic: "Schlesien" #Silesian
@@ -48,13 +50,18 @@
 
  hungarian_germanic:"Hungarian" #Ungarisch?
  
+#iberia
  lusitania: "Lusitanian"
  asutuliyasi: "Asturian"
  valencian: "Valencian"
  malueka_iberian: "Mallorcan"
  africa_culture: "African"
  tolou_iberian: "Tolosan"
+ morrisco_iberian: "Morisco"
 
+ DD_new_english_culture: "New English"
+
+#Andalus
  adulusian_cg: "Andalusian"
  badahuosi_iberian: "Badajozi"
  granada_iberian: "Granadan"
@@ -74,6 +81,7 @@
 
  franja: "Franja"
 
+#maghreb
  adalusi: "Andalusi"
  muzhalaipu: "Mozarabic"
  tripoli_maghrebi: "Libyan"
@@ -81,12 +89,13 @@
  mulabite: "Murabit" #Almoravid? Murabitun?
  siqilliya: "Siqilliya"
 
+#Latin
  kexijia_culture: "Corsican"
 
- anxi: "Anxi"
-
+#Tartar
  cuman: "Cuman"
 
+#Outremer
  DD_haiwai_cg: "Outremer" # Overseas
  maolitaniya_culture: "Mauretanian"
  africa_culture: "African"
@@ -96,20 +105,26 @@
  ads_culture: "Edessan"
  xln_culture: "Cyrenaican"
 
+#levant
  arabic_culture: "Arabic"
 
- DD_new_english_culture: "New English"
-
+#britain
  northumbria_british: "Northumbrian"
  mercia_british: "Mercian"
  anglish_british: "Anglian"
  wessex_british: "West Saxon"
 
+#Nordic, North
  yovik_sca: "Jórvík"
  novagrad_sca: "Holmgard"
  island_sca: "Isles"
- goltland_sca: "Gotlander"
+ goltland_sca: "Gutnish" # Gotlander
+ greenland_sca: "Greenlandic"
+ vinland_sca: "Vinlandic"
+ markland_sca: "Marklandic"
+ helluland_sca: "Hellulandic"
 
+#West Slavs
  kaszubski_WS: "Kashubian"
  wend_WS: "Wendish"
  mazowsze_WS: "Masovian"
@@ -119,6 +134,7 @@
  pannonia_WS:"Pannonian"
  pommeranian_WS: "Pomeranian"
 
+#East Slavs
  beloozero_es: "Belozersky" # Beloozero
  bomorui_es: "Pomeranian"
  suzidaer_es: "Suzdalsky" # Suzdal
@@ -135,9 +151,11 @@
  vologda_es: "Vologzhanin" # Vologda
  bolgar_es: "Bulgar"
 
+#baltic
  prussian_baltic: "Pruthenian"
  samogitia_baltic: "Samogitian"
 
+#Byzantium, Greece
  BYZ_moxiya: "Moesian"
  BYZ_dulasiweng: "Dyrrhachian"
  BYZ_yililiya: "Illyrian"
@@ -168,14 +186,16 @@
  DD_NMC_culture: "New Macedonian"
  DD_acadia_culture: "Arcadian"
  
+#Carpathia
  wallachia: "Wallachian"
  moldavian: "Moldavian"
  szekelys: "Székelys"
 
+#Gaelic, Celtic
  manx: "Manx"
  briton: "Breton"
 #  dunuonia: "Dumnonian"
- cymru: "Welsh"
+ cymru: "Cymru" # Welsh
 
  gaul: "Gallic"
  celtiberian: "Celtiberian"
@@ -186,20 +206,24 @@
  tectosagia: "Tectosagian"
  calaecia: "Gallaecan"
 
+#Altai
  kesa_culture: "Khazar"
  hezhong_culture: "Transoxian"
  huihu_culture: "Uyghur"
 
+#mongolia group
  mongol_cg: "Mongol"
  xiting_cul: "Western Court" 
  hening_cul: "Hening"
  kaiping_cul: "Kaiping"
  beihai_cul: "Beihai"
 
+#China
  dihua_chi: "Di"
  liao_chi: "Liao"
  miao_chi: "Miao"
  dian_chi: "Dian"
+ anxi_chi: "Anxi"
 
 DD_culture_1_t: "Prussian Germanization"
 DD_culture_1_d: "Through our relentless efforts, not only have increasing numbers of German immigrants arrived in the lands of Prussia, but the local native Prussians have also begun to gradually integrate into our Germanic culture. The tide of Germanization is sweeping across Prussia, transforming this once-neglected wilderness into the beautiful homeland of the virtuous and industrious German nation.\n\nThe intermingling of Germans and Prussians has gradually formed a unique local culture. Due to frequent attacks from other pagan tribes in the past, both the arriving Germans and the native Prussians are natural warriors. This martial spirit may become a significant asset in our pursuit of global influence."

@@ -182,15 +182,6 @@ controlled_by_ROOT_or_ally_or_subject_ttt: "Controlled by §Y[Root.GetName]§! o
 
  age_of_reformation_ttt: "§YSecond Great Schism has occurred§!"
 
- ab_reconquest_ability: "Reconquista"
- ab_reconquest_ability_ttt: "Enabled §YReconquista§! age ability"
- ab_last_crusader_ability: "Final Crusade"
- ab_empire_donwfall_ability: "Hohenstaufen Bond"
-
-ab_boombeach_ability: "Boom Beach Ability"
-ab_reconquest_ability_tt: "Enables the casus belli '§YReconquest§!' against §YIberian neighbors§! until the end of the §YAge of Discovery§!.\n"
-ab_other_ability: "Exclusive Era Ability"
-
  PIRATE_CANT_NOT_JOIN: "§RPirates are clearly unwelcome to join.§!"
 
  cb_claim_personal_union: "Claim Throne"
@@ -225,6 +216,9 @@ cb_great_conqust_wg_desc: "The war goal is to demonstrate hegemony."
 
  DD_sahara_route_modifier: "Saharan Trade Route"
  desc_DD_sahara_route_modifier: "This province is part of the Saharan Trade Route. Amidst the vast yellow sands, only oases provide respite, posing significant challenges to military movements."
+
+DD_1104_ivory_modifier: "Walrus Ivory Center"
+desc_DD_1104_ivory_modifier: "There are many walruses in Greenland, and the Norse frequently organize large-scale hunts to obtain walrus ivory. After long transport, this ivory is sold from Iceland throughout Europe. Many European nobles possess and take pride in ornaments made from walrus ivory.\n\n§RHowever, large-scale hunting will soon deplete the walrus population in Greenland.§!\n"
 
 DD_is_empty_or_country_or_non_sovereign_subject_holds_ttt: "All colonized provinces belong to [Root.GetName] or its non-tributary subjects"
 

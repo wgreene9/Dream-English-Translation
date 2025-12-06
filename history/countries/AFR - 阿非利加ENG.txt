@@ -1,12 +1,3 @@
-government = monarchy
-add_government_reform = NYDD_AFR_sins_kindom_reform
-government_rank = 2
-primary_culture = africa_culture
-religion = catholic
-technology_group = western
-capital = 341
-add_accepted_culture = tunisian
-add_accepted_culture = maolitaniya_culture
 
 1400.1.1 = {
 	monarch = {

@@ -25,7 +25,7 @@
 #  mechanic_new_general_ruler_at_least_2_yes: "Ruler must have at least §G2§! in skill"
  mechanic_new_general_ruler_at_least_2_yes: "New rulers will have at least §G2§! skill points"
  mechanic_select_gongxiang_every_ruler_yes: "May select a §YMayor of the Palace§! when each ruler ascends" # Maire du Palais
- mechanic_NYDD_FRA_musketer_modifier2_yes: "Special unit '§Y§YMusketeers§!§!' gain:\nArmy Drill Gain: §G+50.0%§!\nArmy Maintenance: §R+50.0%§!\n"
+ mechanic_NYDD_FRA_musketer_modifier2_yes: "Special unit '§Y§YMusketeers§!§!' gain:\nArmy Drill Gain: §G+50.0%§!\nArmy Maintenance: §R+25.0%§!\n"
  mechanic_need_crownland_to_annex_or_seize_land_yes: "Requires at least §Y50.0%§! §YCrown Land§! or §YSeize Land§! once before §RAnnexing Appanages§!"
  mechanic_annex_appanages_down_to_40_crownland_yes: "§YAnnex Appanages§! crown land requirement reduced by §G10.0%§!"
 mechanic_holy_war_gloden_bull_ga_yes: "Can ignore era requirements to select the Golden Bull '§YWar for God§!'"
@@ -39,6 +39,10 @@ mechanic_cheaper_coastal_province_core_DD_yes: "Coastal provinces gain §G-25.0%
 mechanic_iberia_region_less_governing_cost_yes: "Provinces in the §YIberia§! region under our rule gain:\nGoverning Cost: §G-10.0%§!\n"
 mechanic_developing_10_devprov_more_yes: "When §Mdeveloping§! provinces with development below §Y15§!, §G25.0%§! chance to gain additional development"
 mechanic_accept_culture_2_unrest_nationlism_yes: "§YAccepting a culture§! grants all §Ynon-primary culture§! provinces under our rule §G-2§! unrest and §G-5§! years of separatism.\n§RExpelling a culture§! imposes §R+2§! unrest and §R+5§! years of separatism on all §Ynon-primary culture§! provinces under our rule.\n"
+mechanic_can_not_lottery_reform_yes: "Prohibits the use of the §YSortition§! government reform" # Lottery
+mechanic_can_not_nepotism_reform_yes: "Prohibits the use of the §YPolitical Dynasties§! government reform"
+mechanic_diff_pai_get_bouns_yes: "Candidates grant special ruler modifiers"
+ mechanic__yes: ""
  mechanic__yes: ""
  mechanic__yes: ""
 
@@ -168,7 +172,7 @@ desc_DD_BOH_dip_action_modifier: "Subduing the princes with exceptional diplomat
 DD_BOH_annex_subject_modifier: "Integration Action"
 desc_DD_BOH_annex_subject_modifier: "Having diplomats work diligently to integrate subjects.\n"
 
-ability_DD_BOH_nationalism_mechanic: "National Reconciliation"
+ability_DD_BOH_nationalism_mechanic: "§YNational Reconciliation§!"
 DD_BOH_nationalism_power: "National Reconciliation Level"
 DD_BOH_nationalism_power_desc: "The Czech National Reconciliation Level represents the intensity and degree of resolution of ethnic conflicts under the rule of the Kingdom of Bohemia. It directly reflects the kingdom's stability and ethnic integration, symbolizing the unity and strength of the Bohemian people.\n\nThe following actions affect §YNational Reconciliation Level§!:\n- Per point of ruler £adm£ skill (§G+0.05§!)\n- §YAccepting§! a culture (§G+10§!)\n- §RExpelling§! a culture (§R-10§!)\n- Having more than §Y1§! rebel faction in §Ynon-accepted culture§! provinces (§R-0.1§!)\n"
 monthly_DD_BOH_nationalism_power: "Monthly National Reconciliation Level"
@@ -183,7 +187,7 @@ DD_BOH_new_law_tt: "All provinces under our rule lose §G-20.0%§! autonomy.\n"
 DD_BOH_nation_union: "Listen to State Reports"
 DD_BOH_nation_union_desc: ""
 DD_BOH_nation_union_modifier: "Disciplining the States"
-desc_DD_BOH_nation_union: "Other states periodically come to our capital to report, which is also a good opportunity to discipline them.\n"
+desc_DD_BOH_nation_union_modifier: "Other states periodically come to our capital to report, which is also a good opportunity to discipline them.\n"
 DD_BOH_multi_army: "Assign Army Interpreters"
 DD_BOH_multi_army_desc: ""
 DD_BOH_multi_army_modifier: "Multicultural Army"
@@ -298,6 +302,8 @@ NYDD_kindom_of_crusader_reform_desc: "Though our nation was founded as a Crusade
  NYDD_counquer_reform_desc: "This nation revolves around the charisma of the conqueror himself, of course, not without the aid of the suzerain."
  MAOXIANDUI: "Expedition Team"
  CONQUEROR: "Conqueror"
+ NYDD_aerting_reform: "New World Althing"
+ NYDD_aerting_reform_desc: "Far from their homeland, the organization of these people has gradually reverted to its primitive form—the general assembly, or Althing, which elects a Jarl to govern."
 
  NYDD_SOR_mil_reform: "Lusatian Military Government"
  NYDD_SOR_mil_reform_desc: "A military government temporarily managed by the Crusaders."
@@ -369,6 +375,11 @@ NYDD_BOH_bishopric_reform_mil_desc: "The Bohemian Order is a military religious 
 NYDD_BOH_bishopric_reform_theo: "All-Bohemian Ecclesiastical Council"
 NYDD_BOH_bishopric_reform_theo_desc: "The All-Bohemian Ecclesiastical Council was originally a special institution under the independent Bohemian Church, composed of bishops from its various dioceses, discussing and handling affairs of the Bohemian Church. As the church grew and developed, the Council expanded its scope from theology and archbishop elections to administrative management, representing the interests of local churches, religious orders, monasteries, and regions."
 
+NYDD_LOM_shaking_reform: "Crumbling Lombard League"
+NYDD_LOM_shaking_reform_desc:""
+NYDD_LOM_reformed_gov_reform: "Reorganized Lombard League"
+NYDD_LOM_reformed_gov_reform_desc:""
+
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
  NYDD_ML1_equal_reform_desc: "In doctrine, Islam holds that believers, regardless of race, wealth, or status, are all children of Allah and have equal status. It also advocates forgiveness and tolerance towards infidels 'Kafir,' and even those who do not follow Allah's commandments, promoting peaceful coexistence. Historically, the concept of equality was directly applied to the establishment of the 'Ummah' (meaning 'community'). In the 'Ummah,' Muslim members regard each other as brothers, with equal social status. The Kharijites adhere to the principle of equality in doctrine, implementing justice to the fullest."
@@ -413,6 +424,9 @@ NYDD_BOH_form_german_noble_reform: "Implement German Feudal Law"
 NYDD_BOH_form_german_noble_reform_desc: "Bohemia's feudal laws are quite narrow, requiring even barons to pledge direct allegiance to the king. This approach is somewhat inefficient and overstretching. By introducing the superior feudal laws of the German nobility, with their layered subcontracting and system of obligations between lords and vassals, we can more effectively govern larger territories, expanding our governmental administrative capacity and efficiency."
 NYDD_BOH_mantain_tradition_reform: "Maintain Bohemian Office System"
 NYDD_BOH_mantain_tradition_reform_desc: "The Bohemian office system is essentially a unique form of aristocratic administration. Bohemian nobles do not inherit their offices; positions from marshals to bishops are appointed and dismissed directly by the king, rather than determined by birthright or ancestral titles. Nonetheless, most high-ranking offices are still held by prominent noble families. Although lower nobles can secure promotion by contributing a significant sum, the hierarchy remains strict. All nobles are registered by name, and these records are unalterable. Through the appointment and coordination of members from various families, this system achieves a certain balance and management of the great noble houses."
+
+NYDD_ML2_norse_old_way_reform: "Old Norse Way"
+NYDD_ML2_norse_old_way_reform_desc: "These Norse people still stubbornly adhere to the ancient ways of raiding from centuries past. Their neighbors are at a loss for words."
 
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"

@@ -1,9 +1,3 @@
-government = republic
-government_rank = 1
-primary_culture =  DD_acadia_culture
-religion = greek_religion
-technology_group = eastern
-capital = 1157 #1154 typo
 
 1444.11.10 = {
 	monarch = {

@@ -1,12 +1,3 @@
-government = monarchy
-add_government_reform = iqta
-technology_group = muslim
-religion = muslim_confucianism
-religious_school = rangyi_school
-add_harmonized_religion = sunni
-primary_culture = afghani
-capital = 451	# Kabul
-religious_school = hanafi_school
 
 1444.1.1 = {
 	monarch = {

@@ -17,6 +17,10 @@
  DD_colony_tips: "§ONote§!: §YEach colonial nation type has unique characteristics!§!\n\n§YCrown Colony§!:\n- Can transfer §G+100.0%§! trade power.\n- §RCannot§! declare wars independently and is protected by overlord.\n- Has standard subject §Rpenalties§!.\n\n§YChartered Trade Company§!:\n- Does not provide manpower or force limit.\n- Trade efficiency: §G+20.0%§!\n- Grants overlord §G+2.0%§! trade efficiency, trade steering and tariffs.\n- Overlord requires §G15§! favors to call into wars.\n\n§YSelf-Governing Colony§!:\n- Provides token §G1.0%§! manpower and force limit.\n- Must maintain at least one active colony.\n- Has §Glower§! liberty desire.\n- Colonizes §Gfaster§!.\n- Overlord requires §G30§! favors to call into wars.\n"
  DD_AI_self_govern_colony_force_title: "Self-Governing Colony"
  DD_AI_self_govern_colony_force_desc: "For some reason, you've decided to start colonizing."
+
+ DD_move_capital_to_new_world_effect_modifier: "Distant Rule"
+ desc_DD_move_capital_to_new_world_effect_modifier: "Due to the intercontinental distance, we are unable to administer this province directly and are forced to grant a degree of autonomous privileges."
+
  DD_colony_4_t: ""
  DD_colony_4_d: ""
  DD_colony_4a: ""

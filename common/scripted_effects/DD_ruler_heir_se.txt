@@ -1425,3 +1425,81 @@ DD_FRA_97b = {
 		female = yes
 	}
 }
+
+DD_LOM_12a = {
+	define_general = {
+		name = "Giovanni Giustiniani"
+		shock = 2
+		fire = 4
+		manuever = 1
+		siege = 2
+	}
+}
+DD_LOM_16a = {
+	define_general = {
+		name = "Francesco Sforza"
+		shock = 5
+		fire = 3
+		manuever = 2
+		siege = 3
+	}
+}
+DD_LOM_21a = {
+	kill_leader = {
+		type = "Francesco Sforza"
+	}
+}
+DD_LOM_22a = {
+	define_ruler = {
+		name = "Francesco I"
+		dynasty = "Sforza"
+		mil = 6
+		change_adm = 2
+		change_dip = 2
+		age = 47
+	}
+}
+DD_LOM_28a = {
+	define_ruler = {
+		name = "Piero"
+		dynasty = "de' Medici"
+		mil = 3
+		adm = 3
+		dip = 3
+		age = 30
+		force_republican_names = no
+	}
+}
+DD_ML2_5a = {
+	define_ruler = {
+		name = "Harald"
+		adm = 2
+		dip = 2
+		mil = 4
+		age = 30
+	}
+}
+DD_ML2_7a1 = {
+	#Eyjabotn
+	#Kububýr
+	change_province_name = "Eyjabotn"
+	rename_capital = "Kububyr"
+}
+NYDD_ML2_a_thief_end = {
+	#Víkinga-haf or Sea of Thieves
+	1516 = {
+		change_province_name = "Vikinga-haf"
+	}
+	#Útilegu-haf
+	1512 = {
+		change_province_name = "Utilegu-haf" # Sea of ​​Exile
+	}
+	#Langabotn
+	1518 = {
+		change_province_name = "Langabotn" # Long Bay
+	}
+	#Haﬀrékn
+	1572 = {
+		change_province_name = "Haffrekn" # Sea of ​​Storms
+	}
+}

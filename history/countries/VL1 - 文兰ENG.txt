@@ -1,0 +1,11 @@
+
+1444.11.1 = {
+	monarch = {
+		name = "Colonial Autonomy"
+		regent = yes
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	
+}

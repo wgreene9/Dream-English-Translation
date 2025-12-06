@@ -122,6 +122,11 @@
  NW4: "Veracruz"
  NW5: "Cayman Island Brigade"
 
+ VL0: "Greenland"
+ VL1: "Vinland"
+ VL2: "Markland"
+ VL3: "Helluland"
+
 #Central Asia
 TI1: "Right Bank Army of Transoxiana"
 TI2: "Left Bank Army of Transoxiana"
@@ -301,6 +306,11 @@ JP2:"Daijo-kan"
  NW3_ADJ: "New Granadan"
  NW4_ADJ: "Veracruz"
  NW5_ADJ: "Cayman Island Brigade"
+
+VL0_ADJ: "Greenlandic"
+VL1_ADJ: "Vinlandic"
+VL2_ADJ: "Marklandic"
+VL3_ADJ: "Hellulandic"
 
 #Central Asia
 TI1_ADJ: "Right Bank Transoxian"

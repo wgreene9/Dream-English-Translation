@@ -1,11 +1,3 @@
-government = monarchy
-add_government_reform = DD_ARA_fight_reform
-primary_culture = aragonese
-add_accepted_culture = catalan
-religion = catholic
-technology_group = western
-capital = 213
-add_army_professionalism = 0.05
 
 1434.5.19 = {
 	monarch = {

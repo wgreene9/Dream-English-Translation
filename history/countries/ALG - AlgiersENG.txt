@@ -1,11 +1,3 @@
-government = monarchy
-add_government_reform = NYDD_ALG_zongdu_reform 
-government_rank = 1
-technology_group = muslim
-religion = catholic
-primary_culture = algerian
-capital = 338 # Al-Djazair
-secondary_religion = sunni
 
 1444.1.1 = {
 	monarch = {

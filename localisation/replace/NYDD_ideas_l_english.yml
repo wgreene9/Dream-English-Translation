@@ -762,26 +762,46 @@ FR1_ideas_5_desc:"The Duke of Normandy's conquest of England stands as our most 
 DD_LOM_ideas:"Lombard Ideas"
 DD_LOM_ideas_start:"Lombard Traditions"
 DD_LOM_ideas_bonus:"Lombard Ambition"
-LOM_ideas_1:"Elegy of the Golden Age"
-LOM_ideas_1_desc:"During the Lombard League's zenith, technological innovation and arts flourished magnificently. Though the League now wanes, its legacy endures."
+LOM_ideas_1:"Elegy for a Golden Age"
+LOM_ideas_1_desc:"No legend remains unended, no epic lasts forever. Every brilliant name in history is eventually buried by dust and forgotten by time—and the Lombard League is no exception. This great state, which once united the entire Apennines and single-handedly resisted the Hohenstaufen, is now aged and slowly approaching its grave. Yet, a group of people unwilling to accept defeat, obsessed with the golden age of the past, refuse to abandon their homeland or submit to its fate, composing an elegy of defiance against destiny."
 
 LOM_ideas_2:"Dreamers Trapped in Yesterday"
-LOM_ideas_2_desc:"The Lombard League - a grand vision, an experiment ahead of its time - showed Italians our potential strength when united. Yet now this dream withers on its deathbed."
+LOM_ideas_2_desc:"Everyone yearns for change, everyone hopes for tomorrow. Whether eagerly anticipating the day this behemoth collapses or striving to save this mortally ill, pitiful mother, every Lombard desires transformation. The Lombard League, this ancient name, is like a prison trapping ambitious dreamers whose hearts burn with fervent fire—until one day, until one person shatters the shackles of reality and pulls the Lombards out of their painful past."
 
-LOM_ideas_3:"The Mirage of Liberty and Unity" 
-LOM_ideas_3_desc:"Once the League stood united against Hohenstaufen invasions, fighting for freedom. Today it fractures with internal strife. We must rouse our brethren to vigilance once more."
+LOM_ideas_3:"Illusion of Freedom and Unity"
+LOM_ideas_3_desc:"Freedom and unity—centuries ago, these two tenets upheld Lombardy's resistance against the Imperial House; now, these same tenets have become the battering ram shattering the League. Lombardy promised freedom to all, dreaming that unity could save this disintegrating alliance. When the fierce winds of ambition swept across the Apennine lands, the once-noble banner was long since swept into an unnoticed corner. Lombardy stands beneath a crumbling wall—if we do not change, if we cannot adapt, the League will cease to exist."
 
 LOM_ideas_4:"Alliance of Scripture and Ambition"
-LOM_ideas_4_desc:"Undercurrents surge among the League's factions, deeply influenced by the Papacy, the Empire, and regional powers. Yet the League shall never bow to their tyranny."
+LOM_ideas_4_desc:"In its founding days, Lombardy's enduring resilience on the Apennine frontlines relied heavily on the support of the Holy See. Throughout these centuries of history, the Church and its clergy have consistently been intertwined with Lombard politics. The Sanctuary Faction, as the League's third major faction, represents not only the stance of the Church but also the interests of clergy and politicians. Ambition drives the Church and its affiliated families, compelling them to meddle in Lombard politics. The Sanctuary Faction and its influence have become an indispensable part of the League, whether we like it or not."
 
-LOM_ideas_5:"Exiled Saviors in Distress"
-LOM_ideas_5_desc:"Though Genoa was expelled from the League during power struggles, they remained faithful to the union's ideals. The 'League Guard' they lead shall become the nucleus of our national salvation."
+LOM_ideas_5:"The Exiled Savior"
+LOM_ideas_5_desc:"Genoa, once the backbone of the Lombard League, the core of resistance against Imperial aggression. This ancient republic was defeated by the Imperial Faction's ambitious schemes and expelled from the Lombard League. Genoa's exile marked the beginning of Lombardy's decline, yet the noble Genoese never abandoned the dream of Italian unity and independence. The Republican Faction, these Italian-born republicans, are striving with all their might to save their homeland. Though Lombardy once expelled Genoa, the suffering savior still remembers their mission—just like the Messiah once crowned with thorns."
 
-LOM_ideas_6:"Through Hardships to the Stars"
-LOM_ideas_6_desc:"'Per aspera ad astra' - our sufferings are not sins, but the necessary path to greatness. Shed no tears, for they would waste this noble anguish."
+LOM_ideas_6:"Through Hardship to the Stars"
+LOM_ideas_6_desc:"'Per aspera ad astra'\nWe have witnessed suffering, struggle, betrayal, division, storms of baseness and pain; witnessed burgeoning ambition blinding the eyes of the high and mighty; witnessed the demon of greed tempting those destined to dedicate their body and soul. But we have also witnessed nobility, courage, devotion, piety, and mercy. We have seen the knights of unity repel Imperial invasion, seen roses bloom splendidly upon ruins still ablaze. The long stairway to greatness opens before us. Lombardy, having endured the trials, is destined to reach the end of this arduous journey, ascending to the star-studded heavens."
 
 LOM_ideas_7:"Dust Returns to Earth"
-LOM_ideas_7_desc:"'Memento Mori' - this ancient Latin maxim eternally reminds us that all men must die."
+LOM_ideas_7_desc:"'Memento Mori'\nAll mortals die. Whether a humble ant or a great emperor, the final destination is but a handful of drifting dust in the world. The grandest epic, the most magnificent legend, cannot escape a destined conclusion. Lombardy was born from a legendary war and must inevitably end with a dramatic finale—but that is far too distant for us. In this vast, fleeting world, no dust remains suspended under the sun forever, yet our history of standing shoulder-to-shoulder with the sun and moon is not false. Even if all earthly dust ultimately returns to the ground, in this boundless mortal realm, at least we once streaked across the heavens like a shooting star."
+# LOM_ideas_1:"Elegy of the Golden Age"
+# LOM_ideas_1_desc:"During the Lombard League's zenith, technological innovation and arts flourished magnificently. Though the League now wanes, its legacy endures."
+
+# LOM_ideas_2:"Dreamers Trapped in Yesterday"
+# LOM_ideas_2_desc:"The Lombard League - a grand vision, an experiment ahead of its time - showed Italians our potential strength when united. Yet now this dream withers on its deathbed."
+
+# LOM_ideas_3:"The Mirage of Liberty and Unity" 
+# LOM_ideas_3_desc:"Once the League stood united against Hohenstaufen invasions, fighting for freedom. Today it fractures with internal strife. We must rouse our brethren to vigilance once more."
+
+# LOM_ideas_4:"Alliance of Scripture and Ambition"
+# LOM_ideas_4_desc:"Undercurrents surge among the League's factions, deeply influenced by the Papacy, the Empire, and regional powers. Yet the League shall never bow to their tyranny."
+
+# LOM_ideas_5:"Exiled Saviors in Distress"
+# LOM_ideas_5_desc:"Though Genoa was expelled from the League during power struggles, they remained faithful to the union's ideals. The 'League Guard' they lead shall become the nucleus of our national salvation."
+
+# LOM_ideas_6:"Through Hardships to the Stars"
+# LOM_ideas_6_desc:"'Per aspera ad astra' - our sufferings are not sins, but the necessary path to greatness. Shed no tears, for they would waste this noble anguish."
+
+# LOM_ideas_7:"Dust Returns to Earth"
+# LOM_ideas_7_desc:"'Memento Mori' - this ancient Latin maxim eternally reminds us that all men must die."
 
 DD_GR1_ideas: "German Ideas"
 DD_GR1_ideas_start: "German Traditions"

@@ -1,9 +1,3 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = eastern
-primary_culture = bulgarian
-religion = greek_orthodox
-capital = 150
 
 1443.1.14 = {
 	monarch = {

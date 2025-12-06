@@ -1,3 +1,18 @@
+12.05.2025
+1. The mysterious legendary Norse pirates of Ibiza appear
+- Establish Pirate Havens to siphon income.
+- The three Balearic pirate brothers: Menorca, Majorca, and Ibiza, are finally complete.
+- A lawless and unrestrained outlaw, the Pirate King is forever free. Never forget the original intention—plunder the world!
+
+2. Other
+- Added Vinland, Markland, Helluland, and Greenland, along with starting Northern Sea Route events.
+- Reduced the speed and interval of progress towards Thessaly's 'Nominal Empire' disaster
+- Added Danelaw unification event.
+- Added Insular Catholic (i.e. Celtic Christian) religion.
+- Adjusted several Age abilities to better fit the setting.
+- Various bug and text fixes.
+- Other minor fixes and adjustments.
+
 10.28.2025
 1. Bohemia
 - Make a choice between the local nobility, the Luxembourg dynasty, and Jeanne d'Arc to lead the Czech people to greatness.
