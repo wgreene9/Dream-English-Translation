@@ -128,15 +128,15 @@
  VL3: "Helluland"
 
 #Central Asia
-TI1: "Right Bank Army of Transoxiana"
-TI2: "Left Bank Army of Transoxiana"
+TI1: "Right Bank Army of Hezhong" # Right Bank Army of Transoxiana
+TI2: "Left Bank Army of Hezhong" # Left Bank Army of Transoxiana
 TI3: "Helian"
 
 #Western Regions
-XY1: "Chu River"
-XY2: "Western Court"
+XY1: "Chuhe" # Chu River
+XY2: "Xiting" # Western Court
 XY3: "Khotan"
-XY4: "Golden Mountain"
+XY4: "Jinshan" # Golden Mountain
 
 #Mongolia
 MG0: "Hening"

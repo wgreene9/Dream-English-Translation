@@ -3,7 +3,7 @@
 #Víkingahừfn
 
 VIKINGAHON_NAME:"Vikingahofn"
-VIKINGAHON_NAME_ADJ:"Vikingahofnese"
+VIKINGAHON_NAME_ADJ:"Víkingahofnese"
 
 DD_ML2_pirate_den_modifier_trigger:"Pirate Haven"
 desc_DD_ML2_pirate_den_modifier_trigger:"This province is a haven for pirates, where countless illegal acts of smuggling and crime take place, significantly impacting local trade.\n\n§YRemoves all negative effects when conditions are no longer met.§!\n"
@@ -67,7 +67,7 @@ DD_ML2_7a_modifier:"New Pirate Haven"
 desc_DD_ML2_7a_modifier:"Believe that tomorrow will be better."
 
 DD_ML2_8_t:"Sailing Beyond Helheim"
-DD_ML2_8_d:"The Pillars of Hercules, the Gateway to the Mediterranean, the landmark of Gibraltar. Our fleet passed through this narrow strait, sailing from the inner sea of Europa to distant realms beyond the Seven Seas. The Iberian winds billowed our sails, flapping loudly. The glorious fleet of [Root.GetAdjective] sailed once again into this vast, boundless ocean, just like our forefathers.\n\nGibraltar shall become the chain by which we control the Mediterranean's throat. The seas beyond the Seven Seas shall also become our domain. We have sailed past the edge of the world, through storms and calamities, through the realms of death and destruction. Our fleet shall fear neither wind nor rain, neither trial nor challenge. Helheim, the realm of Hel, shall not open its gates for us; glory and crowns, the legends that roam the Seven Seas—we shall become the uncrowned kings of this great ocean!"
+DD_ML2_8_d:"The Pillars of Hercules, the Gateway to the Mediterranean, the landmark of Gibraltar. Our fleet passed through this narrow strait, sailing from the inner sea of Europa to distant realms beyond the Seven Seas. The Iberian winds billowed our sails, flapping loudly. The glorious fleet of [Root.GetName] sailed once again into this vast, boundless ocean, just like our forefathers.\n\nGibraltar shall become the chain by which we control the Mediterranean's throat. The seas beyond the Seven Seas shall also become our domain. We have sailed past the edge of the world, through storms and calamities, through the realms of death and destruction. Our fleet shall fear neither wind nor rain, neither trial nor challenge. Helheim, the realm of Hel, shall not open its gates for us; glory and crowns, the legends that roam the Seven Seas—we shall become the uncrowned kings of this great ocean!"
 DD_ML2_8a:"The halls of Asgard are opening for us!"
 DD_ML2_8b:"Valhalla shall sing songs of victory for us!"
 DD_ML2_8a_back_to_motherland_modifier:"Journey Home"
@@ -210,7 +210,7 @@ DD_ML2_12a:"Damned land-lubbers!"
 
 # NYDD_ML2_look_for_treasure_tt: "While this modifier is active, §RRaiding§! provinces will yield an additional §G10§!£icon_gold£ and §G100§! Manpower.\n"
 # NYDD_ML2_share_the_spoils_tt: "While this modifier is active, §RInfamy§! will §Rno longer§! provide lootable modifier effects.\n"
-# NYDD_ML2_extended_raiding_tt: "While this modifier is active, the §Rnegative effects§! of §RInfamy§! on Trade Efficiency and Diplomatic Prestige will be doubled.\n"
+# NYDD_ML2_extended_raiding_tt: "While this modifier is active, the §Rnegative effects§! of §RInfamy§! on Trade Efficiency and Diplomatic Reputation will be doubled.\n"
 # NYDD_ML2_ocean_exploration_tt: "While this modifier is active, §RRaiding§! coasts will have a §G10.0%§! chance to increase §G100§!£icon_colonial_growth£ for a random colony.\n"
 
 # NYDD_PLUNDER_WAR_CALL:0 "We cannot call allies in a §YRaiding War§!!"
@@ -527,7 +527,7 @@ NYDD_ML2_far_away_from_home_tt:"\n§Y[Root.GetName]§! gains permanent claims on
 NYDD_ML2_pirate_home_modifier:"Pirate's Lair"
 desc_NYDD_ML2_pirate_home_modifier:"This province is the wicked lair of pirates."
 NYDD_ML2_exile_salute_you_ttt:"Has §Y90§! War Score against a country with its capital in Scandinavia and more than 10 provinces"
-NYDD_ML2_exile_salute_you_tt:"Applies the peace treaty effect '§YSack Province§!' once to all qualifying countries. §g(The effect is: enemy provinces with more than 4 development controlled by [Root.GetName] lose 1 point in each type of development and are converted to §Y10§!£adm££dip££mil££icon_gold£)§!\n"
+NYDD_ML2_exile_salute_you_tt:"Applies the peace treaty effect '§YPlunder Provinces§!' once to all qualifying countries. §g(The effect is: enemy provinces with more than 4 development controlled by [Root.GetName] lose 1 point in each type of development and are converted to §Y10§!£adm££dip££mil££icon_gold£)§!\n"
 NYDD_ML2_exile_salute_you_modifier:"Display of Power"
 desc_NYDD_ML2_exile_salute_you_modifier:"Even you cannot defy it."
 NYDD_ML2_sacrifice_the_weak_ttt:"All coastal provinces in Scandinavia:\n Must satisfy at least one of the following:\n Belongs to [Root.GetName] or its subjects\n Has been raided by [Root.GetName]"
@@ -567,7 +567,7 @@ NYDD_ML2_from_isle_to_isle_ttt:"Has been raided by [Root.GetName]"
 DD_ML2_infarmy_mechanic:0 "§RInfamy§!"
 ability_DD_ML2_infarmy_mechanic:0 "§RInfamy§!"
 DD_ML2_infarmy_power:0 "§RInfamy§!"
-DD_ML2_infarmy_power_desc:0 "§RInfamy§! will §Gincrease§! through the following factors:\n- Being a §YGreat Power§! §G+0.1§!\n- Naval Tradition Up to §G+0.1§!\n- Prestige Up to §G+0.1§!\n- Power Projection Up to §G+0.1§!\n- Using the peace treaty '§YSack Province§!' per province §G+0.5§!\n- Raiding or pillaging once §G+0.5§!\n- Winning a battle §G+0.5§!\n\n§RInfamy§! will §Rdecrease§! through the following factors:\n- Naval Tradition below §Y25§! §R-0.1§!\n- Naval Tradition below §Y50§! §R-0.1§!\n- Prestige below §Y25§! §R-0.1§!\n- Prestige below §Y50§! §R-0.1§!\n- Being at peace §R-0.1§!\n- Losing a battle §R-1.0§!\n"
+DD_ML2_infarmy_power_desc:0 "§RInfamy§! will §Gincrease§! through the following factors:\n- Being a §YGreat Power§! §G+0.1§!\n- Naval Tradition Up to §G+0.1§!\n- Prestige Up to §G+0.1§!\n- Power Projection Up to §G+0.1§!\n- Using the peace treaty '§YPlunder Provinces§!' per province §G+0.5§!\n- Raiding or pillaging once §G+0.5§!\n- Winning a battle §G+0.5§!\n\n§RInfamy§! will §Rdecrease§! through the following factors:\n- Naval Tradition below §Y25§! §R-0.1§!\n- Naval Tradition below §Y50§! §R-0.1§!\n- Prestige below §Y25§! §R-0.1§!\n- Prestige below §Y50§! §R-0.1§!\n- Being at peace §R-0.1§!\n- Losing a battle §R-1.0§!\n"
 DD_ML2_infarmy_power_gain_modifier:0 "§RInfamy§! Gain Modifier"
 monthly_DD_ML2_infarmy_power:0 "Monthly §RInfamy§! Change"
 DD_ML2_assemble_fleet:0 "Assemble Raiding Fleet"
@@ -588,7 +588,7 @@ DD_ML2_assemble_fleet_tt:"While this modifier is active, recruiting a §YAdmiral
 DD_ML2_extended_raiding_tt2:"Extends the modifier '§YNotorious§!' by §G10§! years.\n"
 DD_ML2_look_for_treasure_tt:"While this modifier is active, §RRaiding§! provinces grants an additional §G10§!£icon_gold£ and §G100§! Manpower.\n"
 DD_ML2_share_the_spoils_tt:"While this modifier is active, '§RInfamy§!' §Rno longer§! provides the Available Loot modifier.\n"
-DD_ML2_extended_raiding_tt:"While this modifier is active, the §Rnegative effects§! on Trade Efficiency and Diplomatic Prestige caused by '§RInfamy§!' are doubled.\n"
+DD_ML2_extended_raiding_tt:"While this modifier is active, the §Rnegative effects§! on Trade Efficiency and Diplomatic Reputation caused by '§RInfamy§!' are doubled.\n"
 DD_ML2_extended_raiding_tt3:"All known countries gain §R5§! Aggressive Expansion.\n"
 DD_ML2_ocean_exploration_tt:"While this modifier is active, §RRaiding§! a coast has a §G10.0%§! chance to increase a random colony of ours by §G100§!£icon_colonial_growth£\n"
 
