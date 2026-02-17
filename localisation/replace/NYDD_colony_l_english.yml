@@ -5,7 +5,7 @@
  DD_colony_1a: "The New World Awaits!"
  DD_colony_1a_tt: "Before embracing §YColonialism§!, §Y[Root.GetName]§! cannot establish §MColonial Nations§!.\n\nFurthermore, §Yoverseas§! provinces in §Ycolonial regions§! will gain '§YColonial Self-Rule§!' with the following effects:\n[local_governing_cost]: §G-25.0%§!\n[min_local_autonomy]: §R+50.0§!\n\n"
  DD_colony_1a_modifier: "Colonial Self-Rule"
- desc_DD_colony_1a_modifier: "This province remains in early colonial development, primarily governed by local settlers."
+ desc_DD_colony_1a_modifier: "This province remains in early colonial development, primarily governed by local settlers.\n\n§YAfter embracing Colonialism, we will be able to establish Colonial Nations.§!\n"
  DD_colony_2_t: "Colonial Standardization"
  DD_colony_2_d: "With the rise of colonial fervor and the wave of exploration in the new world, our colonies have grown significantly. It is time to establish specialized colonial institutions and local government organizations to standardize colonial administration. We can attract adventurers, private merchants, and speculators to form trading companies to manage the colonies, or formally appoint governors to oversee them, bringing the colonies under direct government control."
  DD_colony_2a: "Continue Direct Control."

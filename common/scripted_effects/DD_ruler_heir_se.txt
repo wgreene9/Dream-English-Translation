@@ -308,12 +308,13 @@ DD_ML1_15b = {
 }
 DD_LOM_1a = {
 	define_ruler = {
-		name = "Shylock I"
+		name = "Filippo Maria I"
 		dynasty = "Visconti"
 		change_adm = 1
 		change_dip = 1
 		change_mil = 1
 		change_original_dynasty = yes
+		age = 52
 	}
 }
 DD_MOR_38a = {
@@ -1453,21 +1454,39 @@ DD_LOM_22a = {
 	define_ruler = {
 		name = "Francesco I"
 		dynasty = "Sforza"
-		mil = 6
-		change_adm = 2
-		change_dip = 2
-		age = 47
+		adm = 5
+		dip = 5
+		mil = 5
+		age = 48
+		change_original_dynasty = yes
 	}
 }
 DD_LOM_28a = {
 	define_ruler = {
-		name = "Piero"
+		name = "Piero I"
 		dynasty = "de' Medici"
 		mil = 3
 		adm = 3
 		dip = 3
-		age = 30
-		force_republican_names = no
+		age = 33
+		change_original_dynasty = yes
+	}
+	define_heir = {
+		name = "Lorenzo"
+		monarch_name = "Lorenzo I 'the Great'"
+		age = 0
+		adm = 5
+		dip = 5
+		mil = 5
+		dynasty = "de' Medici"
+	}
+	define_consort = {
+		name = "Lucrezia"
+		dynasty = "Tornabuoni"
+		adm = 3
+		dip = 4
+		mil = 1
+		age = 22
 	}
 }
 DD_ML2_5a = {
@@ -1501,5 +1520,99 @@ NYDD_ML2_a_thief_end = {
 	#Haﬀrékn
 	1572 = {
 		change_province_name = "Haffrekn" # Sea of ​​Storms
+	}
+}
+
+EDG_flavor_BRI_mission_101a = {
+	define_consort = {
+		name = "Jeanne"
+		dynasty = "de Rais"
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 30
+		female = yes
+	}
+}
+DD_LOM_52a = {
+	define_ruler = {
+		name = "Andrea Doria"
+		adm = 3
+		dip = 5
+		mil = 3
+		age = 45
+	}
+}
+DD_LOM_52b = {
+	define_advisor = {
+		type = naval_reformer
+		skill = 3
+		cost_multiplier = 0.5
+		name = "Andrea Doria"
+		culture = ligurian
+	}
+}
+DD_LOM_52c = {
+	define_admiral = {
+		name = "Andrea Doria"
+		shock = 5
+		fire = 5
+		manuever = 6
+		siege = 2
+	}
+}
+DD_LOM_53a = {
+	define_ruler = {
+		name = "Lorenzo de' Medici"
+		age = 40
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+DD_LOM_53b = {
+	define_advisor = {
+		name = "Lorenzo de' Medici"
+		type = master_of_mint
+		skill = 3
+		cost_multiplier = 0.25
+		culture = tuscan
+	}
+}
+DD_LOM_54a = {
+	define_ruler = {
+		name = "Pier Luigi Farnese"
+		adm = 2
+		dip = 2
+		mil = 6
+		age = 36
+	}
+}
+DD_LOM_54b = {
+	define_advisor = {
+		type = army_reformer
+		cost_multiplier = 0.25
+		skill = 3
+		name = "Pier Luigi Farnese"
+		culture = lombard
+	}
+}
+DD_LOM_54c = {
+	define_general = {
+		name = "Pier Luigi Farnese"
+		shock = 4
+		fire = 4
+		manuever = 4
+		siege = 4
+	}
+}
+
+DD_LOM_63a = {
+	define_advisor = {
+		type = statesman
+		name = "Niccolò Machiavelli"
+		skill = 3
+		cost_multiplier = 0.33
+		culture = tuscan
 	}
 }

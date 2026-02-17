@@ -2,6 +2,7 @@ government = republic
 
 add_government_reform = pirate_republic_reform
 
+government_rank = 1
 religion = catholic
 primary_culture = wessex_british
 technology_group = western

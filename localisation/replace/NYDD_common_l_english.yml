@@ -245,6 +245,9 @@ DD_BYZ_nation_title: "@BYZ Rebuild Byzantium"
 DD_BYZ_nation_desc: ""
 DD_BYZ_nation_tt: "§YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§!, and §YAchaea§! will be unified into §YGreek§! culture.\n"
 
+DD_BOP_nation_title: "@BOP Reestablish the Kingdom of the Bosporus"
+DD_BOP_nation_desc: ""
+
  #music Theme Songs
 CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
 DD_amazing_grace: "01.@SPAAmazing Grace"
@@ -258,3 +261,38 @@ DD_END: "----------------------------------------\n"
 
 UNTIL_AT_PEACE: "until at peace"
 UNTIL_AT_WAR: "until at war"
+
+CANT_JOIN_HRE_WITHOUT_PRESSION:"We cannot join the Holy Roman Empire without the permission of the Holy Roman Emperor."
+
+DD_common_1_t:"Mission Tree Switching"
+DD_common_1_d:"[Root.GetName] has multiple pages of mission trees. You can switch between them at any time using the button in the top-left corner of the mission tree interface. If the button is not present, please check mod compatibility."
+DD_common_1a:"Understood."
+DD_common_1a_tt:"@[Root.GetTag]§Y[Root.GetName]§! has multiple pages of mission trees. You can switch between them at any time using the button in the top-left corner of the mission tree interface.\n§g(If not present, please check mod compatibility.)§!\n"
+
+DD_conquer_mission_branch_tooltip:"Switch to §OExpansion Missions§!"
+DD_inside_mission_branch_tooltip:"Switch to §MDomestic Affairs Missions§!"
+DD_colony_mission_branch_tooltip:"Switch to §JColonial Missions§!"
+
+DD_conquer_mission_branch_highlighted_tooltip:"§OExpansion Missions§!"
+DD_inside_mission_branch_highlighted_tooltip:"§MDomestic Affairs Missions§!"
+DD_colony_mission_branch_highlighted_tooltip:"§JColonial Missions§!"
+
+is_owner_core_ttt:"Is the owner's core"
+DD_allow_establish_trade_protectorate_tt:"Allows establishing the '§YTrade Protectorate§!' subject type.\n"
+
+DD_marines_doctrines:"Naval Infantry"
+DD_marines_doctrines_desc:"As a naval power, we must master the art of launching surprise attacks against enemies from the sea."
+
+is_largest_army_tt:"[Root.GetName] has the largest army in the world."
+is_largest_navy_tt:"[Root.GetName] has the largest navy in the world."
+
+fleet_in_being_DD_improve:"Improved Fleet in Being"
+desc_fleet_in_being_DD_improve:"The fleet should not risk sortieing except under the most favorable conditions, thus maintaining our navy's deterrent power."
+free_oarsmen_DD_improve:"Improved Free Oarsmen"
+desc_free_oarsmen_DD_improve:"We will resist the temptation to use slaves as oarsmen. Free men, resilient in adversity and resistant to mutiny, will be the strength of our navy."
+merchant_navy_DD_improve:"Improved Focus on Merchant Marine"
+desc_merchant_navy_DD_improve:"The guiding principle of our fleet is to serve the economic interests of the state. Every effort must be made to ensure our merchant ships return laden with the wealth of other nations."
+ship_boarding_DD_improve:"Improved Boarding Tactics"
+desc_ship_boarding_DD_improve:"With the establishment of laws for capturing enemy vessels and the widespread issuance of privateering commissions, we have cultivated a tradition of successfully capturing enemy ships."
+marines_doctrines_DD_improve:"Improved Naval Infantry"
+desc_marines_doctrines_DD_improve:"As a naval power, we must master the art of launching surprise attacks against enemies from the sea."

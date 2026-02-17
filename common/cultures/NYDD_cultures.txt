@@ -32,13 +32,13 @@ germanic = {
 	styria_germanic = {}
 	salzburg_germanic = {}
 
-	east_germanic = {}
-	russland_germanic = {}
-	netherland_germanic = {}
-	frankish_germanic = {}
-	bohemia_germanic = {}
-	new_prussia_germanic = {}
-	east_prussia_germanic = {}
+	east_germanic = {} #东方德意志
+	russland_germanic = {} #罗斯兰
+	netherland_germanic = {} #尼德兰
+	frankish_germanic = {} #西法兰克
+	bohemia_germanic = {} #波西米亚
+	new_prussia_germanic = {} #忘了
+	east_prussia_germanic = {} #立陶宛
 	Uralschweiz_germanic = {} #乌拉尔
 	Winden_germanic = {} #斯洛伐克
 	Krain_germanic = {} #斯洛文尼亚
@@ -80,7 +80,7 @@ adulusian_cg = {
 }
 #海外
 DD_haiwai_cg = {
-
+	haiwai_culture = {}
 }
 latin = {
 	africa_culture = {}

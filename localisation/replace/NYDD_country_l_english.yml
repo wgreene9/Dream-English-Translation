@@ -85,7 +85,11 @@
  R2M: "Roma"
 
  IT1: "Italy"
+ IT2:"Italy"
+ IT3:"Italy"
+ IT4:"Italy"
 
+ API:"Apulia"
 
  LBK: "Lübeck"
  RHL: "Rhineland"
@@ -107,6 +111,8 @@
  MSK: "Minsk"
  SUZ: "Suzdal"
  KSA: "Khazaria"
+
+ BOP:"Bosporus"
 
 # West Africa
  ML9: "Almoravids"
@@ -273,6 +279,11 @@ JP2:"Daijo-kan"
  R2M_ADJ: "Roman"
 
  IT1_ADJ: "Italian" # french italy
+ IT2_ADJ:"Italian"
+ IT3_ADJ:"Italian"
+ IT4_ADJ:"Italian"
+
+ API_ADJ:"Apulian"
 
  LBK_ADJ: "Lübeckian"
  RHL_ADJ: "Rhenish"
@@ -292,6 +303,9 @@ JP2:"Daijo-kan"
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"
  SUZ_ADJ: "Suzdal"
+ KSA_ADJ:"Khazaria" # KAS_ADJ?
+
+ BOP_ADJ:"Bosporan"
 
 # West Africa
  ML9_ADJ: "Murabitun" #Murabit

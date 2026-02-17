@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = nogaybak
+religion = sunni
+technology_group = nomad_group
+capital = 2420 
+religious_school = hanafi_school
+
+
+1428.1.1 = {
+	monarch = {
+		name = "Baqash" # Waqash
+		dynasty = "Edigey" # or Yedigei Edigü Edege
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

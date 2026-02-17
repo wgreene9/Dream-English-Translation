@@ -1,10 +1,10 @@
 government = republic
-add_government_reform = oligarchy_reform 
+add_government_reform = oligarchy_reform
 primary_culture = dutch
 religion = catholic
 technology_group = western
-capital = 96	
-
+capital = 96
+government_rank = 1
 
 1444.1.1 = {
 	monarch = {

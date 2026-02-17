@@ -1484,7 +1484,7 @@
  incorporate_vassal:0 "Incorporate Vassal"
  incorporate_vassal_title:0 "Incorporate Vassal"
  incorporate_vassal_tooltip:1 "Incorporate Vassal into our administration, making the diplomatic annexation process easier."
- incorporate_vassal_desc:1 "Are you sure you want to Incorporate [From.GetName] into the Administration? This will turn §Y[From.GetName]§! into an §YIncorporated Vassal§!, a subject type that is §G-25.0%§! less costly to §YDiplomatically Annex§! than a regular §YVassal§! but reduces our Governing Capacity by §R-100.00§!. Incorporating §Y[From.GetName]§! will also mean we will need to wait §Y10§! Years to §YDiplomatically Annex§! the Vassal.\n\nIncorporating §Y[From.GetName]§! cannot be undone."
+ incorporate_vassal_desc:1 "Are you sure you want to Incorporate [From.GetName] into the Administration? This will turn §Y[From.GetName]§! into an §YIncorporated Vassal§!, a subject type that is §G-25.0%§! less costly to §YDiplomatically Annex§! than a regular §YVassal§!. Incorporating §Y[From.GetName]§! will also mean we will need to wait §Y10§! Years to §YDiplomatically Annex§! the Vassal.\n\nIncorporating §Y[From.GetName]§! cannot be undone."
  GER_unlock_diploma_andreanum:1 "Unlock the '§YRenewed the Diploma Andreanum§!' Estate Privilege for the §Y[Root.GetNobilityName]§!, giving us §G-5.0%§! Territories Governing Cost and, if our §YAverage Autonomy§! is below §Y25.0%§!, §G+10.0%§! Manpower in Accepted Culture provinces."
  GER_low_average_autonomy_buff:0 "If our §YAverage Autonomy§! is below §Y25.0%§!, we will gain:\n  §G+15.0%§! Manpower in Accepted Culture provinces."
  GER_distribute_10_base_tax_5_base_production:0 "Distribute §G10§! Base Tax and §G5§! Base Production among our provinces of not §YGermanic§! culture group."

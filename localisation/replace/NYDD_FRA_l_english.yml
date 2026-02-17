@@ -1202,8 +1202,8 @@ NYDD_FRA_north_german2_tt2:"§Y[north_fed_leader.GetName]§!'s trust towards §Y
 #  NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering.\n"
 
  NYDD_FRA_netherland_develop_tt:"Provinces with §YFlemish§!, §YDutch§!, §YFrisian§!, or §YNiederländisch§! culture will convert to §YPays-Bas§! culture.\n"
- NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
- NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
+ NYDD_FRA_netherland_develop_ttyes:"£yes£If @NED§Y[NED.GetName]§! or @FR5§Y[FR5.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
+ NYDD_FRA_netherland_develop_ttno:"£no£If @NED§Y[NED.GetName]§! or @FR5§Y[FR5.GetName]§! is our §Msubject§!, they will grant us §G+25.0%§! trade steering and:\n"
 
  NYDD_FRA_netherland_develop_modifier2:"Dutch Subject"
  
@@ -1353,6 +1353,10 @@ NYDD_FRA_develop_england_ttyes:"£yes£If @ENG§Y[ENG.GetName]§! is our §Msubj
 NYDD_FRA_develop_england_ttno:"£no£If @ENG§Y[ENG.GetName]§! is our §Msubject§!:"
 NYDD_FRA_develop_england_ttyes2:"£yes£If @IRE§Y[IRE.GetName]§! is our §Msubject§!:"
 NYDD_FRA_develop_england_ttno2:"£no£If @IRE§Y[IRE.GetName]§! is our §Msubject§!:"
+NYDD_FRA_develop_england_ttyes3:"£yes£If @HSC§Y[HSC.GetName]§! is our §MSubject§!:"
+NYDD_FRA_develop_england_ttno3:"£no£If @HSC§Y[HSC.GetName]§! is our §MSubject§!:"
+NYDD_FRA_develop_england_ttyes4:"£yes£If @GBR§Y[GBR.GetName]§! is our §MSubject§!:"
+NYDD_FRA_develop_england_ttno4:"£no£If @GBR§Y[GBR.GetName]§! is our §MSubject§!:"
 
 NYDD_FRA_zongcan_tt:"Unlocks §M7§!th tier monarchy government reform '§YGeneral Staff§!'.\n"
 
@@ -1386,6 +1390,9 @@ desc_NYDD_FRA_develop_england_modifier4:"With increasing trade and population mo
 
 NYDD_FRA_develop_england_modifier5:"England, Second Home"
 desc_NYDD_FRA_develop_england_modifier5:"With increasing trade and population movement across the Channel, England has become a second home for us French."
+
+NYDD_FRA_develop_england_modifier6:"Celtic Fury"
+NYDD_FRA_develop_england_modifier7:"Britain, United and Unified"
 
 NYDD_FRA_building_modifier:"Internal Development"
 desc_NYDD_FRA_building_modifier:"France, our homeland, must be properly developed."

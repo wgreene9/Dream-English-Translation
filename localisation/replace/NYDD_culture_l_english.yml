@@ -14,6 +14,7 @@
  rhinland_french: "Rhénan" #Rhenanie/Rhenanian
  dutch_french: "Pays-Bas" #Pays-Bas
  frank_french: "Frankish"
+ iberique_french: "Iberique"
 
 #Germanic
  romania_germanic: "Siebenbürgen"
@@ -104,6 +105,7 @@
  tri_culture: "Tripolitanian"
  ads_culture: "Edessan"
  xln_culture: "Cyrenaican"
+ haiwai_culture: "Outremer"
 
 #levant
  arabic_culture: "Arabic"
@@ -185,6 +187,7 @@
  DD_ELY_culture: "Elysian"
  DD_NMC_culture: "New Macedonian"
  DD_acadia_culture: "Arcadian"
+ BYZ_bosphorus: "Bosporan"
  
 #Carpathia
  wallachia: "Wallachian"

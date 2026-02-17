@@ -188,7 +188,7 @@ emperor_renovatio_desc:0 "Unite the disparate states of The Empire into a nation
 emperor_renovatio_emperor_per_prince:0 "Renovatio Imperii"
 emperor_renovatio_member:0 "Renovatio Imperii"
 
-emperor_renovatio_tt:"Unlocks the '§YUnify the Holy Roman Empire§!' decision, which requires completing all reforms in either the §YDecentralization§! or §YCentralization§! branch.\n"
+emperor_renovatio_tt:"Unlocks the '§YUnify the Holy Roman Empire§!' decision, which requires completion of either the '§YEstablish the Reichstag Collegia§!' or '§YRevoke The Privilegia§!' Imperial reform.\n"
 emperor_imperial_estates_tt:"The princes shall no longer entertain thoughts of overthrowing the Emperor.\n"
 
 emperor_reichsreform_title:0 "Call for Reichsreform"

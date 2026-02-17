@@ -252,7 +252,7 @@ LSK_enforce_or_tolerate_follow_updisable_a_tooltip:0 "£no£If we completed the 
 LSK_enforce_or_tolerate_follow_upenable_b_tooltip:0 "£yes£If we completed the prerequisite mission through §Vtolerance§!, then:"
 LSK_enforce_or_tolerate_follow_updisable_b_tooltip:0 "£no£If we completed the prerequisite mission through §Vtolerance§!, then:"
 
-LSK_mission_2_8_effect_tooltip:0 "If we win §G30§! battles after completing this mission, then:"
+LSK_mission_2_8_effect_tooltip:0 "When we have won §G30§! battles after completing this mission, then:"
 
 LSK_mission_2_7_trigger_tooltip1:0 "We completed the prerequisite mission through §Mforceful§! means, and all required provinces have converted to §M[Root.Religion.GetName]§!."
 LSK_mission_2_7_trigger_tooltip2:0 "We completed the prerequisite mission through §Vtolerance§!, and have at least §Y100.00%§! religious unity and at least §G+2§! stability."
@@ -295,12 +295,12 @@ LSK_mission_reform_unlock_tooltip_effect2:0 "Unlocks §MTier 5§! government ref
 
 
 convert_subject_to_Lord_of_Latin_Empire_vassal_title:0 "£LSK_icon1£Convert to §YComitatus§!"
-convert_subject_to_Lord_of_Latin_Empire_vassal_tooltip:0 "Costs §G50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
-convert_subject_to_Lord_of_Latin_Empire_vassal_desc:0 "Costs §G50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
+convert_subject_to_Lord_of_Latin_Empire_vassal_tooltip:0 "Spend §R50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
+convert_subject_to_Lord_of_Latin_Empire_vassal_desc:0 "Spend §R50§! administrative £adm£ and military £mil£ points to transform the current subject state into a direct imperial vassal, ensuring better loyalty to our cause."
 
 convert_Lord_of_Latin_Empire_vassal_to_core_title:0 "£LSK_icon1£§TPromote§! to §YCore Comitatus§!"
-convert_Lord_of_Latin_Empire_vassal_to_core_tooltip:0 "Costs §G30§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
-convert_Lord_of_Latin_Empire_vassal_to_core_desc:0 "Costs §G30§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
+convert_Lord_of_Latin_Empire_vassal_to_core_tooltip:0 "Spend §R25§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
+convert_Lord_of_Latin_Empire_vassal_to_core_desc:0 "Spend §R25§! §OHoly Dedication§! to halve this §YComitatus§!'s §Ygoverning capacity penalty§! towards the overlord, negate its §Ydiplomatic relation slot§! usage, double its provided §Ymonthly Holy Dedication§!, and grant the overlord:\nLand Force Limit Modifier: §G+5.0%§!\n"
 
 Lord_of_Latin_Empire_vassal:0 "Comitatus"
 Lord_of_Latin_Empire_vassal_title:0 "Comitatus"

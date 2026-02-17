@@ -4,14 +4,15 @@ technology_group = western
 religion = catholic
 primary_culture = sicilian
 capital = 125	# Palermo
+government_rank = 2
 
-1440.1.1 = {
-	monarch = {
-		name = "Carlo II"
-		dynasty = "de Bourgogne"
-		adm = 3
-		dip = 5
-		mil = 1
-		birth_date = 1400.10.2 
-	}
-}
+# 1440.1.1 = {
+# 	monarch = {
+# 		name = "Carlo II"
+# 		dynasty = "de Bourgogne"
+# 		adm = 3
+# 		dip = 5
+# 		mil = 1
+# 		birth_date = 1400.10.2 
+# 	}
+# }

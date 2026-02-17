@@ -50,13 +50,13 @@
  DD_ALG_9_t: "Plenipotentiary"
  DD_ALG_9_d: "Only those who share the same blood truly understand and know your enemies. Only as 'brethren' can we Berbers properly rule the kingdom's most rebellious foreign subjects. We rule, we submit, we survive - if dying nations in these desert sands must be shackled, at least let us be the ones to fasten their chains. Souls may be locked in dark prisons, but at least their bodies remain beneath free skies.\n\nTherefore, we request the Kingdom of Africa grant us full authority to administer all Moroccan and Maghrebi Berbers under the crown, expanding the Algiers Governorate's territorial rights. We shall become the kingdom's pillars, the beams supporting its towers. We will uphold a tyrannical kingdom, and for our people... preserve a pure land of peace and prosperity."
  DD_ALG_9a: "Though mountains and rivers collapse, we seek but a corner to rest..."
- DD_ALG_9a_tt: "If @AFR§Y[AFR.GetName]§! §Gagrees§!, all §YMaghreb§! provinces west of §YKabylia§! region except those of §YAfrican§! or §YMauritanian§! culture will come under §Y[From.GetName]§!'s control.\n\n§YThis will also grant us claims and casus belli westward.§!\n"
+ DD_ALG_9a_tt: "If @AFR§Y[AFR.GetName]§! §Gagrees§!, all §YMaghreb§! provinces west of §YKabylia§! region except those of §YAfrican§! or §YMauretanian§! culture will come under §Y[From.GetName]§!'s control.\n\n§YThis will also grant us claims and casus belli westward.§!\n"
 
  DD_ALG_10_t: "Algiers' Proposal"
  DD_ALG_10_d: "Our Governor of Algiers brings an intriguing proposal, claiming they can solve the centuries-old problem plaguing our kingdom - to tame the Saracens of Maghreb as one would break wild beasts. Algiers requests we expand the governorate's territorial rights to administer Morocco and Maghreb's Berbers on the kingdom's behalf.\n\nAccepting would let us discard this burning coal that has brought Africa endless disasters and drained the kingdom. So long as Algiers remains loyal, we can extract more from Maghreb without stability costs and rule more securely."
  DD_ALG_10a: "Accept the governor's proposal."
  DD_ALG_10b: "No, we'll handle this ourselves."
- DD_ALG_10a_tt: "If we §Gagree§!, all §YMaghreb§! provinces west of §YKabylia§! region except those of §YAfrican§! or §YMauritanian§! culture will come under §Y[From.GetName]§!'s control.\n\n§YThis will also grant them claims and casus belli westward.§!\n"
+ DD_ALG_10a_tt: "If we §Gagree§!, all §YMaghreb§! provinces west of §YKabylia§! region except those of §YAfrican§! or §YMauretanian§! culture will come under §Y[From.GetName]§!'s control.\n\n§YThis will also grant them claims and casus belli westward.§!\n"
 
  ALG_CANT_WAR_OTHER: "§RUnfortunately, we are only permitted to declare war on nations within designated regions.§!"
 

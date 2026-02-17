@@ -42,7 +42,12 @@ mechanic_accept_culture_2_unrest_nationlism_yes: "§YAccepting a culture§! gran
 mechanic_can_not_lottery_reform_yes: "Prohibits the use of the §YSortition§! government reform" # Lottery
 mechanic_can_not_nepotism_reform_yes: "Prohibits the use of the §YPolitical Dynasties§! government reform"
 mechanic_diff_pai_get_bouns_yes: "Candidates grant special ruler modifiers"
- mechanic__yes: ""
+mechanic_has_LOM_faction_yes:"Has the §YLombard Factions§! mechanic"
+mechanic_NYDD_ASU_zixunhui_good_reform_yes:"The '§YConsultative Council Consensus§!' government mechanic grants up to §G-2.00§! national unrest"
+mechanic_italy_prov_25_governing_cost_yes:"§YItalian§! provinces under our control gain:\nGoverning Cost: §G-25.0%§!\n"
+mechanic_release_subject_as_republic_yes:"Released subjects automatically become §YRepublics§!"
+mechanic_fake_republic_reset_on_40_yes:"The '§YGilded Republic§!' government mechanic resets to §Y40§! upon the ruler's death."
+mechanic_unlock_desicion_all_prov_seat_yes:"Unlocks the decision '§YGrant All Seats§!', allowing us to grant seats to all provinces under our control."
  mechanic__yes: ""
  mechanic__yes: ""
 
@@ -212,6 +217,58 @@ DD_BOH_royal_army_modifier: "Army of Purity"
 desc_DD_BOH_royal_army_modifier: "Form an elite, pure Czech army, using other auxiliary forces as expendable vanguards.\n"
 DD_BOH_royal_army_tt: "While this modifier is active, §YNational Reconciliation Level§! does not provide §Y[manpower_in_accepted_culture_provinces]§!, but inversely grants up to §G+5.0%§! discipline.\n"
 
+ability_DD_LOM_faction_mechanic:"§MLeague Factions§!"
+DD_LOM_faction_interaction_1:"Contact the Papacy"
+DD_LOM_faction_interaction_1_desc:""
+DD_LOM_faction_interaction_1_tt:"We can utilize our connections within the Sanctuary Faction to contact the Papacy and gain some assistance.\n"
+DD_LOM_faction_interaction_1_tt2:"Increases §G1§! §MSanctuary Faction§! §GInfluence§!. When §GInfluence§! reaches §Y5§!, it is converted into §Y1§! favor. We can use favors to request various forms of aid.\n(Current Influence: [Root.lom_holy_pai_favor.GetValue])\n(Current Favors: [Root.lom_holy_pai_favor_total.GetValue])\n"
+DD_LOM_faction_interaction_2:"Promote Republicanism"
+DD_LOM_faction_interaction_2_desc:""
+DD_LOM_faction_interaction_2_tt:"Republican values are a tradition dating back to Roman times. We must uphold these traditions, and the best way is to promote them among the people.\n"
+DD_LOM_faction_interaction_2_tt2:"Increases §G1§! §JRepublican Faction§! §GInfluence§!. When §GInfluence§! reaches §Y5§!, it is converted into §Y1§! favor. We can use favors to request various forms of aid.\n(Current Influence: [Root.lom_republic_pai_favor.GetValue])\n(Current Favors: [Root.lom_republic_pai_favor_total.GetValue])\n"
+DD_LOM_faction_interaction_3:"Promote Officers"
+DD_LOM_faction_interaction_3_desc:""
+DD_LOM_faction_interaction_3_tt:"Some excellent officers deserve our promotion, regardless of their origins in the Imperial Faction.\n"
+DD_LOM_faction_interaction_3_tt2:"Increases §G1§! §OImperial Faction§! §GInfluence§!. When §GInfluence§! reaches §Y5§!, it is converted into §Y1§! favor. We can use favors to request various forms of aid.\n(Current Influence: [Root.lom_empire_pai_favor.GetValue])\n(Current Favors: [Root.lom_empire_pai_favor_total.GetValue])\n"
+DD_LOM_faction_interaction_1_modifier:"Papal Contact"
+desc_DD_LOM_faction_interaction_1_modifier:"We can utilize our connections within the Sanctuary Faction to contact the Papacy."
+DD_LOM_faction_interaction_2_modifier:"Republican Tradition"
+desc_DD_LOM_faction_interaction_2_modifier:"Since time immemorial."
+DD_LOM_faction_interaction_3_modifier:"Newly Appointed Officers"
+desc_DD_LOM_faction_interaction_3_modifier:"Maintaining our army's excellent combat style."
+
+ability_DD_LAN_fake_republic_mechanic:"§VGilded Republic§!"
+monthly_DD_LAN_fake_republic_power:"Monthly Republican Ideal"
+DD_LAN_fake_republic_power_gain_modifier:"Republican Ideal Gain Modifier"
+DD_LAN_fake_republic_power:"Republican Ideal"
+DD_LAN_fake_republic_power_desc:"A peculiar political atmosphere permeates every corner of this nation—a nearly devout commitment to the ideals of the Republic. Whether it is the Medici bankers ruling the city or the republican thinkers gathered in Piazza della Signoria, each interprets the ancient concept of 'Republic' according to their own needs within the region's unique political spectrum. For Italians, the Republic is not merely a form of government, but a way of life, a moral commitment. They believe that true self-governance cultivates civic virtue, prevents the corruption of power, and safeguards collective liberty.\n\n§MRepublican Ideal§! is affected by the following actions:\n- Per §YRepublican§! subject: §G+0.05§! monthly (up to §G+0.5§!)\n- Republican Tradition or Legitimacy: up to §G+0.25§! monthly\n- Developing provinces in §YRepublican§! subjects: §G+1.0§!\n- Monarchy: §R-0.1§! monthly\n- Re-election: §R-5.0§!\n- Disloyal Estates: §R-0.1§! monthly\n- Corruption: up to §R-0.5§! monthly\n- Annexing subjects: §R-5.0§!\n\nResets to §Y20.0§! upon the ruler's death.\n\nWhen §MRepublican Ideal§! reaches §Y0§!, we gain the following effects:\nLegitimacy: §R-2.00§!\nRepublican Tradition: §R-1.00§!\nNational Unrest: §R+2.00§!\n "
+
+ability_DD_MLO_parliament_mechanic:"§OCouncil Power§!"
+monthly_DD_MLO_parliament_power:"Monthly Council Power"
+DD_MLO_parliament_power_gain_modifier:"Council Power Gain Modifier"
+DD_MLO_parliament_power:"Council Power"
+DD_MLO_parliament_power_desc:"To secure the support of various factions and parties, the Duke of Milan decided to reconvene the Great Council of Milan, restoring its power to decide on national affairs. Admittedly, as many scholars have criticized, the Milanese Council is often merely a puppet manipulated by the Duke, clothing his commands in the garb of legitimacy when he urgently needs assistance—yet this is already a great attempt and beginning of democratic practice since the dissolution of the Lombard League.\n\n§YCouncil Power§! can be altered through the interactions above; note that they are mutually exclusive.\n\nAt maximum §YCouncil Power§! (§Y5§!), grants:\nAdministrative Capacity Modifier: §G+150.0%§!\nMinimum Autonomy: §R+25.0§!\n\nAt minimum §YCouncil Power§! (§Y-5§!), grants:\nAdministrative Capacity Modifier: §R-50.0%§!\nMinimum Autonomy in Territories: §G-25.0%§!\nCore Creation Cost: §G-25.0%§!\n "
+DD_MLO_parliament_reduce:"Suppress the Council"
+DD_MLO_parliament_reduce_desc:""
+DD_MLO_parliament_reduce_tt:"The Council's power seems somewhat excessive. We must immediately suppress their voice and let [Root.Monarch.GetName] continue to rule over everything.\n"
+DD_MLO_parliament_add:"Empower the Council"
+DD_MLO_parliament_add_desc:""
+DD_MLO_parliament_add_tt:"To smoothly implement policies and gain some assistance, [Root.Monarch.GetName] has decided to appropriately delegate some power to the Council, encouraging them to open their coffers.\n"
+DD_MLO_parliament_stop:"Adjourn the Council"
+DD_MLO_parliament_stop_desc:""
+DD_MLO_parliament_stop_tt:"Alas, the Council is far too loquacious. Let us silence them.\n"
+DD_MLO_parliament_stop_tt2:"While this modifier is active, the government mechanism '§YCouncil Power§!' provides no effects, and the government interactions '§YSuppress the Council§!' and '§YEmpower the Council§!' are §Rdisabled§!.\n"
+DD_MLO_parliament_stop_modifier:"All Quiet Today"
+desc_DD_MLO_parliament_stop_modifier:"The Council is temporarily shut down, meaning the ruler can act freely."
+DD_MLO_parliament_reduce_modifier:"Council Unrest"
+desc_DD_MLO_parliament_reduce_modifier:"Due to our recent suppression of the Council, many are aggrieved."
+DD_MLO_parliament_add_modifier:"Council Satisfied"
+desc_DD_MLO_parliament_add_modifier:"Due to our recent relaxation towards the Council, some localism is resurging."
+DD_MLO_parliament_reduce_modifier2:"Council Unrest"
+desc_DD_MLO_parliament_reduce_modifier2:"Due to our recent suppression of the Council, many are aggrieved."
+DD_MLO_parliament_add_modifier2:"Council Satisfied"
+desc_DD_MLO_parliament_add_modifier2:"Due to our recent relaxation towards the Council, some localism is resurging."
+
 # Government Reforms
 
  #t1
@@ -376,9 +433,15 @@ NYDD_BOH_bishopric_reform_theo: "All-Bohemian Ecclesiastical Council"
 NYDD_BOH_bishopric_reform_theo_desc: "The All-Bohemian Ecclesiastical Council was originally a special institution under the independent Bohemian Church, composed of bishops from its various dioceses, discussing and handling affairs of the Bohemian Church. As the church grew and developed, the Council expanded its scope from theology and archbishop elections to administrative management, representing the interests of local churches, religious orders, monasteries, and regions."
 
 NYDD_LOM_shaking_reform: "Crumbling Lombard League"
-NYDD_LOM_shaking_reform_desc:""
+NYDD_LOM_shaking_reform_desc:"Military standoffs, government paralysis, constant riots... this battered nation is on its last legs, with all parties eager to tear it apart and divide it. The government has lost the capacity to rule. To save this fatherland, which is no one's true homeland, immediate action must be taken."
 NYDD_LOM_reformed_gov_reform: "Reorganized Lombard League"
-NYDD_LOM_reformed_gov_reform_desc:""
+NYDD_LOM_reformed_gov_reform_desc:"By restructuring the old government system, we will build a new, stable, and democratic League structure. The major factions will represent the will of the people, competing alternately for the future and interests of Lombardy, rather than hastening its destruction. Faction powers will be limited and will operate within the framework of law."
+NYDD_LAN_medici_reform:"The Medici System"
+NYDD_LAN_medici_reform_desc:"Although family members hold no apparent high government offices, they firmly grasp the reins of power in the city-state and nation through finance, connections, and political maneuvering, happily using these means to expand the influence of both family and republic, even extending the family's reach beyond the Apennines. The form of the republic is preserved, but its substance has quietly changed—this is the Medici family's pragmatic interpretation of the word 'Republic': a political framework for maintaining stability and prosperity, where power should rest in the hands of those most capable, and the Medici family happens to believe they are the best candidates.\n\nThrough this shadow-cabinet style of 'guiding republicanism,' they expand the republic's external power and influence, controlling other states affected by this system to form a vast family network. Later historians would call this guidance of republics the Medici System, or the 'Gilded Republic'."
+NYDD_MLO_parliament_reform:"The Grand Council of Italy"
+NYDD_MLO_parliament_reform_desc:"The Grand Council of Italy is a legislative and decision-making body that evolved from the Milanese councils of the League era and even earlier. Although its powers are limited, it retains certain advisory functions as a body representing the citizenry. During the Sforza dynasty's rule, the ever-strengthening princely power further weakened the manipulated council's functions, turning it into a symbolic institution, yet it remains an important tool for legitimizing royal authority and representing the will of the people."
+NYDD_LOM_free_italy_reform:"The Italian Committee"
+NYDD_LOM_free_italy_reform_desc:"The Committee is mainly composed of families from Southern Italy, most of whom were either expelled by the Medici or harbor resentment towards them."
 
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
@@ -428,6 +491,15 @@ NYDD_BOH_mantain_tradition_reform_desc: "The Bohemian office system is essential
 NYDD_ML2_norse_old_way_reform: "Old Norse Way"
 NYDD_ML2_norse_old_way_reform_desc: "These Norse people still stubbornly adhere to the ancient ways of raiding from centuries past. Their neighbors are at a loss for words."
 
+NYDD_LAN_family_reform:"Family is Always Family"
+NYDD_LAN_family_reform_desc:"Make no mistake, members of the Medici family do not rule this country hereditarily. They merely happen, at the right time, through legitimate elections, to appear in suitable positions. There is absolutely no fraud involved."
+NYDD_LOM_parliament_reform:"The League Council"
+NYDD_LOM_parliament_reform_desc:"To resolve the factional issues that have long plagued the Lombard League, the Administrator decided to establish a representative council acceptable to all three factions, calling upon all parties and groups to resolve disputes within the council rather than resorting to force. This has also, to some extent, alleviated the problem of Republican Faction members monopolizing the Administrator's position."
+NYDD_MLO_renaissance_reform:"Renaissance Monarch"
+NYDD_MLO_renaissance_reform_desc:"As the birthplace of the Renaissance, we must vigorously promote the patronage of Renaissance culture. This can only benefit us."
+NYDD_MLO_parliament_rev_reform:"Revolutionary Parliament"
+NYDD_MLO_parliament_rev_reform_desc:"As the source of the revolution, the Grand Council of Italy has been restructured into the Revolutionary Parliament, adding more seats representing commoners and merchants. We achieved victory with the people's help, so it is only right that we protect the people."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
@@ -461,6 +533,11 @@ NYDD_BRA_fed_law_reform_desc: "\"His Majesty the King of Brandenburg, representi
 
 NYDD_BOH_royal_ecomic_reform: "Royal Fiscal Committee"
 NYDD_BOH_royal_ecomic_reform_desc: "An institution established by the king to oversee the nation's financial affairs. Court bodies closely associated with the monarch also hold special status, further reflecting the unified nature of the Bohemian state. For instance, the Court Judge, Court Marshal, and Court Chamberlain all belong to this category of institutions."
+
+NYDD_LAN_paint_it_reform:"Guided Republic"
+NYDD_LAN_paint_it_reform_desc:"The newly established republican states in other regions are too young and completely lack experience in governing a republic. This is where we step in. We will selflessly help these nations establish a sound republican system. All they need to give us in return is boundless devotion."
+NYDD_MLO_expand_parliament_reform:"National Delegations"
+NYDD_MLO_expand_parliament_reform_desc:"As our national territory expands, the original council composed solely of Italians is no longer sufficient. Following the successful model of the Council of Constance, we will also divide the council into national delegations to improve its efficiency."
 
  #t4
 NYDD_ASU_religion_happy_reform: "Spanish Inquisition"
@@ -546,6 +623,13 @@ NYDD_BRA_fed_parliament_reform_desc: "The Federal Council and the Imperial Diet 
 NYDD_BOH_general_snemu_reform: "General Sejm Assembly"
 NYDD_BOH_general_snemu_reform_desc: "The General Sejm Assembly is composed of representatives from local councils and members of the great feudal noble landowners of Bohemia, serving as a collective authority representing the interests of all noble estates. It primarily collaborates with the king to approve wars and taxes, and to advance the formulation and implementation of agendas and laws. A foreign king who fails to gain the assembly's recognition will find it impossible to govern effectively in Bohemia."
 
+NYDD_LOM_law_reform:"The League Supreme Court"
+NYDD_LOM_law_reform_desc:"Preventing political interference in legal judgments and matters of principle—that is the original purpose of establishing the League Supreme Court, representing judicial power. The Supreme Court consists of eleven justices and one Chief Justice, with lifetime appointments. They are nominated by the Administrator and approved by the Council. The Court is responsible for hearing constitutional cases, adjudicating conflicts of laws within the nation, and determining jurisdiction over national-level cases. It possesses the power of judicial review and the highest authority to interpret the constitution, standing as the League's supreme judicial body above the Administrator and the factions."
+NYDD_MLO_yuqian_reform:"Extraordinary Privy Council"
+NYDD_MLO_yuqian_reform_desc:"The Extraordinary Privy Council, as the name suggests, was originally not a permanent institution but a temporary council formed when Milan first adopted monarchy, serving as a trusted advisory body to counter the Milanese Council and strengthen royal power. However, as royal authority gradually consolidated and monarchical rule intensified, the Extraordinary Privy Council slowly became a permanent institution. Major state affairs are now submitted to the Privy Council for deliberation, transforming it into a new administrative hub of the government."
+NYDD_LAN_13_persons_reform:"The Council of Thirteen"
+NYDD_LAN_13_persons_reform_desc:"Originating from Lorenzo de' Medici 'il Magnifico's' system of local governance, the Council of Thirteen was initially just a grand council for managing cities and regions, known as the Council of Seventy. As the Medici family developed, this system was refined and became Italy's 'shadow cabinet.' The number was reduced to thirteen, composed of one Papal legate and twelve 'shadow ministers' from major cooperating families—including, of course, the Medici. This body acts as a behind-the-scenes council alongside the official government and parliament, assisting the ruler."
+
 # mechanic_iberia_region_less_governing_cost_yes: "§YIberian§! region provinces gain §G-10.0%§! governing cost.\n"
 # mechanic_cheaper_coastal_province_core_DD_yes: "§YCoastal§! provinces gain the following effects:\nGoverning cost: §G-25.0%§!\nCore creation cost: §G-25.0%§!\n"
 # mechanic_NYDD_EN9_tow_party_reform_yes: "Candidates gain §G+1§! to all base abilities."
@@ -564,6 +648,9 @@ NYDD_FRA_zongcan_reform_desc: "The General Staff Headquarters comprises multiple
 NYDD_BOH_royal_office_reform: "Czech Royal Chancellery"
 NYDD_BOH_royal_office_reform_desc: "Established by the king, the Czech Royal Chancellery responsible for administering the entire Bohemian state serves as the highest institution of the civil government in the Kingdom of Bohemia. Headed by the Supreme Chancellor (nejvyšší kancléř), it coordinates the operation of national administrative tasks and handles all official documents issued by or addressed to the ruler (including various decrees, proclamations, and orders), functioning de facto as the king's advisory body and administrative center."
 
+NYDD_LOM_reformed_freestate_reform:"Restructured Free States"
+NYDD_LOM_reformed_freestate_reform_desc:"People once described the old Free State system as neither fish nor fowl. But now, a brand new Free State system makes a shocking return. It will bring infinite surprises to the people of Italy and beyond."
+
 #8 Economy
 
  #1.1
@@ -580,10 +667,18 @@ NYDD_BRA_nationist_reform_desc: "Germans, long divided, lacked shared political 
 NYDD_BOH_Saint_Wenceslas_reform: "Crown of Saint Wenceslas"
 NYDD_BOH_Saint_Wenceslas_reform_desc: "The Crown of Saint Wenceslas is the ruling symbol of the Kingdom of Bohemia. As Bohemia's first Christian monarch, Saint Wenceslas represents the absolute symbol of the kingdom's rule. Nobles across the land pledge allegiance to the Crown itself rather than to the monarch personally. The king merely borrows the crown from Saint Wenceslas to govern the kingdom on his behalf. On one hand, this allegiance prevents abuse of royal power; on the other, it ensures the sanctity and legitimacy of the monarch's rule."
 
+NYDD_LOM_roman_reform:"Roman Ambition"
+NYDD_LOM_roman_reform_desc:"Once, a great nation stood upon Europe. We did not cherish it, and then it plummeted to earth like a shooting star and shattered. Thinking back now, it's just as well we didn't cherish it. Otherwise, where would we be today? As the rightful and reasonable heir to that great nation, we shall uphold its spirit—\n'Ever the same' (Semper idem)."
+
 #10
 
 #Titles & Government Names
 
+LOM_UNION:"Union"
+LOM_ADM_RULER:"Administrator"
+LOM_GREAT_ADM_RULER:"Grand Administrator"
+FIRST_CITIZEN:"First Citizen"
+DICTATOR_DD:"Dictator"
 DD_SILING: "Imperial Commander"
 HOLY_FEM: "Holy Maiden"
 

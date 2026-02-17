@@ -1,5 +1,6 @@
 government = republic
 
+government_rank = 1
 add_government_reform = pirate_republic_reform
 religion = khawarij
 religious_school = khawarij_school

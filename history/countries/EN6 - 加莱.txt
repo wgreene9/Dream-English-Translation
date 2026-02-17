@@ -5,6 +5,7 @@ religion = catholic
 technology_group = western
 capital = 87
 mercantilism = 25
+government_rank = 1
 
 
 1444.1.1 = {

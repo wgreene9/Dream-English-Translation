@@ -609,7 +609,7 @@ desc_DD_AFR_29a_modifier: "We are Jerusalem's protectors!"
 
 NYDD_AFR_new_nation_ttt: "All §Ycolonized§! provinces outside §YMacaronesia§! belong to §Y[Root.GetName]§! or non-tributary subjects"
 # NYDD_AFR_new_nation_ttt2: "Is §YAfrican§! or §YMauritanian§! culture"
-NYDD_AFR_new_nation_ttt2: "All colonized provinces in the §YMaghreb§! region outside the §YMacaronesia§! area are of §YAfrican§!, §YMauritanian§!, or §YCyrenaican§! culture"
+NYDD_AFR_new_nation_ttt2: "All colonized provinces in the §YMaghreb§! region outside the §YMacaronesia§! area are of §YAfrican§!, §YMauretanian§!, or §YCyrenaican§! culture"
 
 DD_AFR_GEN_buy_jierba_tt: "We will pay the equivalent of §Y[2954.GetName]'s development§!§Tx3§! times the §YGenoese monthly income§! to purchase §Y[2954.GetName]§!.\n\n§MAlliance§! or having a §Mhigh§! army size will make it easier for them to §Gagree§!.\n"
 DD_AFR_58a_tt: "§Y[AFR.GetName]§! will pay §Y[Root.temp2.GetValue]§!£icon_gold£\n"
@@ -632,8 +632,13 @@ desc_DD_AFR_plantation_modifier2: "This province is a plantation with a Moorish 
 
 AFR_plantation_set_button_ttt: "No province modifier '§YMoorish Estate§!'"
 AFR_plantation_set_button_tt: "Establish Moorish Estate"
-AFR_plantation_set_button_tt2: "There are simply too many Moors. If their mad, tide-like uprisings cannot be contained, our nation will perish. Therefore, we must set an example - past kindness has led to the current rebellion. No more mercy. Confirmed Moors will be sent to local plantations to enjoy the final days of their lives.\n"
+AFR_plantation_set_button_tt2: "There are simply too many Moors. If their mad, tide-like uprisings cannot be contained, our nation will perish. Therefore, we must set an example - past kindness has led to the current rebellion. No more mercy. Confirmed Moors will be sent to local plantations to enjoy the final days of their lives.\n\n§RProvinces with the modifier '§YMoorish Estate§!' cannot have their culture changed.§!\n" # Moorish Plantations
 AFR_plantation_set_button_tt3: "§YMoorish Estate§! will be §Gmore effective§! in provinces with §Yslaves§! as trade goods.\n"
 AFR_plantation_set_button_tt4: "§YThis modifier will be removed if the province's religion or culture changes.§!\n"
 
 AFR_north_africa_autonomy_ptm: "Autonomy Trigger"
+
+DD_AFR_plantation_modifier_cant_do_this: "Provinces with the modifier '§YMoorish Estate§!' cannot have their culture changed."
+
+DD_AFR_36a_modifier: "Vengeful Spirit"
+desc_DD_AFR_36a_modifier: "I swear I shall reclaim everything..."

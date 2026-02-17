@@ -493,7 +493,7 @@ DD_VAL_mission_15_get_buff:0 ""
 DD_VAL_able_to_trade_turkish:0 "Allows trade investments in Constantinople trade node to expand influence.\n"
 DD_VAL_able_to_trade_crimea:0 "Allows trade investments in Crimea trade node to expand influence.\n"
 DD_VAL_unlock_decisions_3_desc:0 "Unlocks '§YAdjust Merchant Policy§!' decision.\n"
-DD_VAL_unlock_decisions_5_desc:0 "Unlocks '§YConstruct Canal§!' decision, allowing early construction of Suez Canal.\n"
+DD_VAL_unlock_decisions_5_desc:"Allows us to construct the §YSuez Canal§! early, §Yignoring technology requirements§!.\n"
 DD_VAL_unlock_decisions_6_desc:0 "Unlocks '§YCoronation as French King§!' decision.\n"
 
 DD_VAL_SPY_ON_EMPIRE:0 "Unlocks diplomatic action '§YInfiltrate Empire§!'\nThis action allows us to diplomatically persuade HRE members in §YFrance§! or §YItaly§! regions to leave the Imperial system through espionage.\n"

@@ -542,7 +542,7 @@ NYDD_ML2_viking_education_desc:"Even Vikings must learn. Though most sailors rem
 NYDD_ML2_glory_inheritance_title:"Inheritance of Honor"
 NYDD_ML2_glory_inheritance_desc:"Lads, remember the highest law of us Vikings—the oath. From the moment we decide to follow the Captain, we must be forever loyal! Loyalty is our glory!"
 NYDD_ML2_from_isle_to_isle_title:"From Isle to Isle"
-NYDD_ML2_from_isle_to_isle_desc:""
+NYDD_ML2_from_isle_to_isle_desc:"The dream of many African pirates is to raid as far as Iceland. We don't know why they have such an obsession. No matter, we will help them realize this insignificant dream. After all, another's lifetime may only be a fleeting past for us."
 
 NYDD_ML2_trian_sailor_modifier:"Expand Scale"
 desc_NYDD_ML2_trian_sailor_modifier:"As our level of warfare improves, we need more sailors."
@@ -617,3 +617,5 @@ NYDD_pirate_subject_long_desc:0 "A Pirate Confederation is an alliance of pirate
 NYDD_pirate_subject_no_overlord_dow:0 "You cannot declare war on a member of your Pirate Confederation."
 NYDD_pirate_subject_overlord_title:0 "Pirate Confederation Leader"
 DD_pirate_subject_modifier:"Pirate Confederation"
+
+DD_ML2_up_ttt2:"The province owner is not a §YPirate Republic§!"

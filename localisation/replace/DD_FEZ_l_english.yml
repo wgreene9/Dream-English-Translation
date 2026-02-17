@@ -305,7 +305,7 @@ DD_FEZ_2_8_buff: "Moorish Estates"
 DD_FEZ_2_9_buff: "False Imperial Crown"
 
 DD_FEZ_2_12_buff: "March Toward Revival"
-DD_FEZ_2_12.t: "All provinces in §YMaghreb§! region will gradually convert to §YMauritanian§! culture"
+DD_FEZ_2_12.t: "All §Y[Root.Religion.GetName]§! provinces in the §YMaghreb§! region will gradually convert to §YMauretanian§! culture"
 
 DD_FEZ_2_13_buff: "Prosperity"
 DD_FEZ_2_13.t: "Unlocks Burgher privilege '§YSaharan Trade Privileges§!'.\n"
@@ -322,7 +322,7 @@ FEZ_zunwang_tt3: "Modifier '§YPath of Return§!' additional effects:\nMorale Da
 
 DD_FEZ_2_9.t: "§Y[Root.GetName]§! gains §Gcores§! on @ASU§MAsturias§!'s core provinces.\n"
 
-DD_FEZ_2_12.t: "Provinces in §YMaghreb§! region will gradually convert to §YMauritanian§! culture.\n"
+DD_FEZ_2_12.t: "Provinces in §YMaghreb§! region will gradually convert to §YMauretanian§! culture.\n"
 
 DD_FEZ_2_14_buff: "Native Administration"
 desc_DD_FEZ_2_14_buff: "Africa is our true homeland."
@@ -331,7 +331,7 @@ DD_FEZ_2_14_buff2: "Administrative Reform"
 DD_FEZ_3_3_buff: "Throne-Stealing Crow"
 
 DD_FEZ_3_7_buff: "King of the Tower"
-DD_FEZ_3_7_culture.t: "All provinces with §Ystate religion§! will convert to §YMauritanian§! culture"
+DD_FEZ_3_7_culture.t: "All provinces with §Ystate religion§! will convert to §YMauretanian§! culture"
 
 DD_FEZ_3_9_buff: "Mediterranean Control"
 DD_FEZ_3_9.t: "Eligible provinces gain:"

@@ -6,6 +6,7 @@ religion = catholic
 technology_group = western
 capital = 248 # Edinburgh
 
+government_rank = 1
 1406.1.1 = {
 	monarch = {
 		name = "Olaf V"

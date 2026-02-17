@@ -3,8 +3,9 @@ add_government_reform = free_city
 primary_culture = flemish
 religion = catholic
 technology_group = western
-capital = 90	
+capital = 90
 mercantilism = 25
+government_rank = 1
 
 
 1444.1.1 = {
