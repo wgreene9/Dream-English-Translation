@@ -265,9 +265,9 @@ UNTIL_AT_WAR: "until at war"
 CANT_JOIN_HRE_WITHOUT_PRESSION:"We cannot join the Holy Roman Empire without the permission of the Holy Roman Emperor."
 
 DD_common_1_t:"Mission Tree Switching"
-DD_common_1_d:"[Root.GetName] has multiple pages of mission trees. You can switch between them at any time using the button in the top-left corner of the mission tree interface. If the button is not present, please check mod compatibility."
+DD_common_1_d:"[Root.GetName] has multiple pages of mission trees. You can switch between them at any time using the button in the top-right corner of the mission tree interface. If the button is not present, please check mod compatibility."
 DD_common_1a:"Understood."
-DD_common_1a_tt:"@[Root.GetTag]§Y[Root.GetName]§! has multiple pages of mission trees. You can switch between them at any time using the button in the top-left corner of the mission tree interface.\n§g(If not present, please check mod compatibility.)§!\n"
+DD_common_1a_tt:"@[Root.GetTag]§Y[Root.GetName]§! has multiple pages of mission trees. You can switch between them at any time using the button in the top-right corner of the mission tree interface.\n§g(If not present, please check mod compatibility.)§!\n"
 
 DD_conquer_mission_branch_tooltip:"Switch to §OExpansion Missions§!"
 DD_inside_mission_branch_tooltip:"Switch to §MDomestic Affairs Missions§!"

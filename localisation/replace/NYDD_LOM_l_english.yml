@@ -985,7 +985,7 @@ NYDD_LOM_glory_march_desc:"The great victory of the Fourth Crusade intoxicated t
 NYDD_LOM_neareast_title:"Lord of the Near East"
 NYDD_LOM_neareast_desc:"In fact, we hold a legitimate claim that Asia Minor has, since ancient times, been an inalienable part of the Roman nation. These Turks, emerging from who knows where, have occupied our lands. Drive them back!"
 
-NYDD_LOM_italy_unite_ttt:"The event '§YThe Italian Wars§!' has already triggered.\n§g(This event will trigger after the death of Holy Roman Emperor Frederick III.)§!"
+NYDD_LOM_italy_unite_ttt:"The event '§YThe Italian Wars§!' has already triggered.\n§g(This event will trigger after the death of Holy Roman Emperor Frederick III)§!"
 NYDD_LOM_italy_unite_tt1:"£yes£If §YThe Italian Wars§! have already begun and we are not a §YMajor Italian Power§!, we will become a §YMajor Italian Power§!. Otherwise, gain §G100§! £adm£ £dip£ £mil£.\n"
 NYDD_LOM_italy_unite_modifier:"Italian Expansionism"
 desc_NYDD_LOM_italy_unite_modifier:"To cease being merely a geographical concept."
@@ -1259,10 +1259,10 @@ DD_LOM_has_republic_pai_ruler_ttno:"£no£If the ruler is from the §YRepublican
 DD_LOM_has_holy_pai_ruler_ttno:"£no£If the ruler is from the §YSanctuary Faction§!:"
 DD_LOM_has_empire_pai_ruler_ttno:"£no£If the ruler is from the §YImperial Faction§!:"
 
-DD_LOM_blood_moon_disaster:"Bagaudae Conspiracy"
-DD_LOM_blood_moon_disaster_ttt:"§RThe Blood Moon has fallen§!"
-DD_MLO_rev_disaster:"The Great Italian Revolution"
-DD_LAN_shadow_disaster:"The Illuminators"
+DD_LOM_blood_moon_disater:"Bagaudae Conspiracy"
+DD_LOM_blood_moon_disater_ttt:"§RThe Blood Moon has fallen§!"
+DD_MLO_rev_disater:"The Great Italian Revolution"
+DD_LAN_shadow_disater:"The Illuminators"
 
 DD_LOM_italy_war_interfere_title:"Intervene in the Italian Wars"
 DD_LOM_italy_war_interfere_desc:"There is an old saying in Italy: To stand idly by while others write history is a disgrace. While Italians fight to the death, it is time for us to enter the fray and seize the spoils."
@@ -1341,7 +1341,7 @@ NYDD_LAN_paper_house_desc:"[Root.GetName]'s political situation is complex and v
 NYDD_LAN_shattered_dream_title:"Soaring Free"
 NYDD_LAN_shattered_dream_desc:"We cannot watch over others forever. Though it pains us, it is time to let go. Let them operate on their own."
 
-NYDD_LAN_subject_ttt:"Subjects are §YRepublics§! with their capital in §YEurope§!."
+NYDD_LAN_subject_ttt:" subjects are §YRepublics§! with their capital in §YEurope§!."
 NYDD_LAN_fake_republic_tt:"Unlocks the diplomatic-influence action '§YSpread the Republic§!', allowing us to convert subjects to §YRepublican§! forms of government.\n\n§YVassals§! acquired by any means will be converted to §YRepublican§! forms of government.\n\nFor each region granting mission rewards, §YRepublican§! subjects in that region provide:\nDiplomatic Relations: §G+1.00§!\n\nUp to §G+2.00§! Diplomatic Relations can be gained per region.\n"
 NYDD_LAN_subject_tt:"Unlocks the diplomatic-influence actions '§YIntegrate Vassal§!' and '§YIntegrate Personal Union§!', allowing us to establish subjects that do not occupy a diplomatic relations slot and cost less to annex.\n"
 NYDD_LAN_paper_house_tt:"The monthly Republican Tradition provided by subjects to the government mechanism '§YRepublican Tradition§!' is §Gdoubled§!.\n\nAll §YRepublican§! subjects gain, based on '§YRepublican Tradition§!', up to:\nNational Manpower Modifier: §G+25.0%§!\nDiscipline: §G+10.0%§!\n"

@@ -1,3 +1,80 @@
+[b]2.16.2026[/b]
+First of all, happy new year to everyone! We are very pleased that The Dream yet to be Dreamed can bring you a brand new Lombardy update during the Spring Festival!
+
+1. New Recommended Nation: Lombardy
+Featuring three paths: Republican Faction (Lombardy), Imperial Faction (Milan), Holy Sanctuary Faction (Florence).
+Each path has its own ideas, formable nations, special missions, special mechanisms, and special disasters.
+
+[i]A once-great alliance is facing destruction,
+A once-united union is falling apart;
+Whether its helmsman is willing or not,
+This great ship now stands on the highest wave in the storm.
+Will it step forward to save the situation from collapse?
+Or follow ambition and bring Italy into the fold?
+Or place a crown upon the head of the uncrowned king...[/i]
+
+2. Other
+- New Event: The Italian Wars. Triggers upon the death of Frederick III of Swabia.
+- Created national ideas for Milan and Florence.
+- Fixed several bugs related to Valencia.
+- When Brandenburg forms the Austrian Confederate State, if conditions are met, the Carniola area will also be granted together.
+- The reward for the French mission "Develop the Netherlands" now applies to both the Netherlands and Middle Francia when they are subjects.
+- The Andalusian event "Córdoba Edict" will now also convert the culture of subject provinces when converting culture.
+- If Andalusia conquers an Islamic province that is a potential corresponding culture assimilation target, cultural assimilation will occur after 5 years (because it is already Islamic and cannot be proselytized).
+- Fixed a bug where releasing a Confederation member as France would cause issues if it already existed.
+- Removed the Dutch Revolts disaster.
+- Devout personalities will no longer appear as a generic trait.
+- Doubled the chance for the Sun King personality trait to appear.
+
+[b]1.29.2026[/b]
+The Dream yet to be Dreamed's first anniversary!
+Thank you for your support over the past year, and for the efforts of the production team. In the new year, we will continue to work hard and create brilliance together!
+(Due to scheduling, the Lombardy update will be released around the Chinese Spring Festival [Feb 16])
+
+1. Fixes
+- Inquisition interactions now also affect subject provinces (as long as they are also Christian).
+- Fixed a bug where the Teutonic Order would not join the war against Cuman.
+- Fixed several incorrect modifier effects.
+- Fixed a bug where Islamic Rome did not have Roman Empire ideas.
+- Fixed a bug where France formed by other countries did not have its unique ideas.
+- Added a new generic naval doctrine for marines.
+- If Trade Protectorates are unlocked, they can now be established through peace treaties (based on an unused vanilla feature, untested).
+- Cloves are now 4 trade value units and will increase/decrease in price alongside spices.
+- Fixed a bug where it was impossible to convert to Protestantism via the religion interface.
+- Turned the icon for Orthodox Russia green. Added 5 new icons each for Greek Orthodoxy and Russian Orthodoxy (thanks to user Daofeng Xingge for the material).
+- Fixed the bug where Rome did not trigger the modifier "Conquest of Rome".
+- Only a living Nitra can now inherit Hungary.
+- Added a new event for Aragon to convert culture. When Aragon changes culture for the first time, it will change to Aragonese instead of Frankish. Forming Francia will still change culture to Frankish.
+- Recruiting the Ibizan Pirate Guard no longer affects army professionalism.
+- Provinces with the "Moorish Manor" cannot change culture or religion.
+- Military District subjects now occupy a diplomatic relations slot.
+- Added some new rewards to the French mission "Build up the Anglais" to adapt to different situations regarding British subjects.
+- Removed the decision to abolish the elective monarchy for Bohemia.
+- Added a new decision for Bohemia: "Expand Pannonia" to spread Pannonian culture throughout the Carpathian Basin.
+- Fixed an issue where the French decision "War of the Public Weal" did not correctly display the members of the League of the Public Weal.
+- Added a new decision: "Form the Bosporan Kingdom".
+- Removed the Charles University reward from the "Form Great Moravia" decision, as this reward has been transferred to the "Charles University" great project.
+- Reduced the probability of France choosing the path towards the Renaissance Military Government (25% -> 10%).
+- Reduced the number of rebels in the Bohemian events "A New Departure" and "Returning to its Owner".
+- The German-French War will no longer white peace with previous enemies.
+- If France promised participation in the German-French War but has a truce, it will instead send 10k manpower and 100 ducats to Brandenburg.
+- The Aragonese Iberian path will now convert Maghrebi culture.
+- All adventurer groups will no longer trigger after 1600. Conquistadors for Mexico and Peru can now trigger even if the corresponding provinces are not colonized (previously they only triggered when the local provinces were owned by native nations).
+- Croatia now starts as an ally of Venice and Hungary. In the 1450 event, it will become a tributary state instead of a vassal.
+- The Fez AI will no longer accept wandering princes.
+- Fixed several nonsensical kingdoms at the start; most one-province nations now start as Duchies.
+- When the Bohemian mission "Return of the Homeland" is completed, if on the local Czech noble path, it will convert local culture to Sorbian and Silesian.
+- Fixed an issue with the workshop development reward in the Thessalian mission "Mediterranean Trade".
+- Fixed several claim issues for Bohemia.
+- The Aragonese mission "Create Prosperity" will now assimilate Andalusian culture.
+- Upon completing the Aragonese mission "King of Italy", if not Catholic, a modifier will be granted.
+- Added a large number of spaces to Aragonese missions to adjust the layout of reward text for better appearance.
+- Fixed a bug in the Aragonese mission "Agreement with the Holy See" where it was possible to vassalize the Pope even if conditions were not met.
+- Fixed several church rewards in Aragonese missions.
+- Swapped the last two HRE centralization reforms (prohibition of internal wars and revoking privileges are swapped). Other requirements remain unchanged. Centralization only needs to reach the revoke privileges stage to reform the HRE.
+- The Neapolitan great project "Caserta Palace" now starts at level 1, and each level grants 50 administrative capacity.
+- Other things forgotten.
+
 12.05.2025
 1. The mysterious legendary Norse pirates of Ibiza appear
 - Establish Pirate Havens to siphon income.
