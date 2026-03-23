@@ -241,9 +241,9 @@ if_they_accept: "£yes£If they §Gaccept§!:"
 
 DD_FRA_nation_title: "@FRA Rebuild France"
 DD_FRA_nation_desc: ""
-DD_BYZ_nation_title: "@BYZ Rebuild Byzantium"
+DD_BYZ_nation_title:"@BYZ Restore the Eastern Roman Empire" #@BYZ Rebuild Byzantium
 DD_BYZ_nation_desc: ""
-DD_BYZ_nation_tt: "§YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§!, and §YAchaea§! will be unified into §YGreek§! culture.\n"
+DD_BYZ_nation_tt: "§YThracian§!, §YThessalonican§!, §YThessalian§!, §YEpirote§!, and §YAchaean§! will be unified into §YGreek§! culture.\n" # §YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§!, and §YAchaea§! will be unified into §YGreek§! culture.
 
 DD_BOP_nation_title: "@BOP Reestablish the Kingdom of the Bosporus"
 DD_BOP_nation_desc: ""
@@ -296,3 +296,5 @@ ship_boarding_DD_improve:"Improved Boarding Tactics"
 desc_ship_boarding_DD_improve:"With the establishment of laws for capturing enemy vessels and the widespread issuance of privateering commissions, we have cultivated a tradition of successfully capturing enemy ships."
 marines_doctrines_DD_improve:"Improved Naval Infantry"
 desc_marines_doctrines_DD_improve:"As a naval power, we must master the art of launching surprise attacks against enemies from the sea."
+
+DD_controlled_by_root_or_ally_ttt:"Controlled by [Root.GetName] or its subjects or its allies or its allies' subjects"

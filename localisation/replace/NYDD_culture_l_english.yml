@@ -92,6 +92,8 @@
 
 #Latin
  kexijia_culture: "Corsican"
+ apulia_latin: "Apulian"
+ calabria_latin: "Calabrian"
 
 #Tartar
  cuman: "Cuman"
@@ -115,6 +117,11 @@
  mercia_british: "Mercian"
  anglish_british: "Anglian"
  wessex_british: "West Saxon"
+ london_british: "Londonian"
+ kent_british: "Kentish"
+ sussex_british: "Sussexian"
+ essex_british: "Essexian"
+ norfolk_british: "Norfolkian"
 
 #Nordic, North
  yovik_sca: "Jórvík"
@@ -154,7 +161,7 @@
  bolgar_es: "Bulgar"
 
 #baltic
- prussian_baltic: "Pruthenian"
+ prussian_baltic: "Prussian" # formerly Pruthenian
  samogitia_baltic: "Samogitian"
 
 #Byzantium, Greece

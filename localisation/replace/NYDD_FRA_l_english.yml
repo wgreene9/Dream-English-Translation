@@ -1808,7 +1808,7 @@ cb_FRA_public_war_DD_desc:"The time has come to decide France's fate."
 cb_FRA_public_war_DD_wg:"Commonweal War"
 cb_FRA_public_war_DD_wg_desc:"War goal is to demonstrate hegemony."
 
-DD_FRA_what_is_EDG_BRI_march_subject:"§YMarquisate§! subjects are identical to §YMarches§!, but occupying no diplomatic relations slot and providing no force limit.\n"
+DD_FRA_what_is_EDG_BRI_march_subject:"§YMarquisate§! subjects are identical to §YMarches§!, possessing strong military capabilities, but providing no force limit.\n"
 DD_FRA_what_is_ally_subject:"§YFrench Allied State§! is a subject economically dominated by its overlord, contributing §G20.0%§! of its Force Limit, Manpower, and Sailors. Similar to a regular ally, they only join wars when called by favors.\n"
 
 DD_FRA_unite_english_title:"@FR1 Promote English Integration"
@@ -1938,3 +1938,5 @@ DD_FRA_control_BRA_title:"@BRA Infiltrate North Germany"
 DD_FRA_control_BRA_desc:"Thanks to our assistance in the Second North-South War, these Germans now trust us implicitly. Our spies and officers can roam freely through the streets of Berlin without attracting any attention."
 DD_FRA_control_BRA_tt1:"Reduces the requirements for the '§YDominate the North§!' mission.\n"
 DD_FRA_control_BRA_tt2:"\nIf we have a §YSpymaster§! advisor, the above costs will be §Ghalved§!.\n"
+
+cb_untie_france_DD_wargoal_WAR_NAME:"$ORDER$French Unification War"

@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = romania_germanic
 religion = catholic
 technology_group = western
-capital = 4128	
+capital = 4128
 add_army_professionalism = 0.1
 
 change_estate_land_share = {
@@ -23,7 +23,8 @@ change_estate_land_share = {
 
 1444.1.1 = {
 	monarch = {
-		name = "Albrecht von Habsburg"
+		name = "Albrecht I"
+		dynasty = "von Habsburg"
 		birth_date = 1397.8.10
 		culture = romania_germanic
 		adm = 3

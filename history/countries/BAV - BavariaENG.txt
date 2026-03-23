@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 technology_group = western
 primary_culture = bavarian
 religion = catholic
-capital = 65	
+capital = 65
 # elector = yes
 
 # 1403.12.1 = {
@@ -30,13 +30,22 @@ capital = 65
 		name = "Heinrich"
 		monarch_name = "Heinrich IV"
 		dynasty = "von Hohenstaufen"
-		birth_date = 1430.1.1
+		birth_date = 1426.1.1
 		death_date = 1460.1.1
 		claim = 100
 		adm = 4
 		dip = 5
 		mil = 2
 		block_disinherit = yes
+	}
+	queen = {
+		name = "Friedrich III"
+		dynasty = "von Hohenstaufen"
+		birth_date = 1405.9.21
+		death_date = 1460.11.29
+		adm = 3
+		dip = 6
+		mil = 1
 	}
 	set_heir_flag = DD_SWA_BAV_heir_flag
 }

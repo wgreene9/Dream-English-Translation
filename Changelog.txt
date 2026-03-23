@@ -1,3 +1,50 @@
+3.08.2026
+
+- Thessalonica's mission "The Eastern King of Kings" now requires the prerequisite "The Heart of Mesopotamia" to be completed.
+- The Brandenburg mission "Three Cheers for Germany" no longer requires the province of Trento.
+- Reworked the Hungarian Succession Crisis event; it now features more mysterious options.
+- Thessalonica's disaster "The Feast of the Wolf Pack" will now automatically progress based on war score, rather than peace treaties.
+- Reduced the difficulty of the German mission "Diplomatic Revolution," considering it might have been too challenging for Brandenburg in the first era.
+- Fixed incorrect war names for the French Unification War.
+- Fixed an issue where, if the Catholic side won the Religious War, the Emperor was not correctly set to free election status. Additionally, a new Emperor will now be installed.
+- Both the "Deluge" and the Albanian Cultural Fusion will now immediately check their conditions when hovering over the tooltip, for those who can't wait.
+- Lowered the conditions for forming Rus' and Russia, allowing the AI to form them simply by conquering enough territory.
+- The "Civil War" casus belli now only reduces peace willingness by -50. The "Shatter Roman Hegemony" war now reduces peace willingness by -25.
+- Strengthened Brandenburg's age ability "Birth of the Federation," which now grants +2 Diplomats.
+- Other minor fixes and adjustments.
+
+3.06.2026
+
+1. Thessalonica Update
+
+- The latest masterpiece from BladeChanter, author of the legendary *Alexiad: Komnenos' Glorious Finale* and the biggest update for the Dream yet to be Dreamed to date—the **Empire of Thessalonica**!
+The last Romans have drawn their swords, ready to rebuild the glory of Rome from the ruins of the Latin Crusade.
+
+The ancient empire collapsed amidst the flames,
+Villains who falsely claim sacred names revel atop mountains of corpses and seas of blood,
+The crown of the double-headed eagle lies sunken deep within the bay.
+Submission, humiliation, rebellion—
+The vengeful one, seething with resentment, awaits with blade in hand—
+The sword is unsheathed, Rhomanía is ablaze.
+And history shall never repeat itself.
+
+2. Other
+
+- Added a button to dismantle the hereditary Holy Roman Empire.
+- The "Ewiger Landfriede" imperial reform no longer affects the Emperor.
+- The Renaissance can now appear in the Greek culture group within the Balkans.
+- Brittany's military missions are now tied to their culture group.
+- AI France will no longer colonize before 1480.
+- Aragon will not receive its mission tree while a subject.
+- Unification events will now also trigger when other nations form France.
+- Forming France will now dissolve the Burgundian-Scottish alliance.
+- The mysterious mosque in Constantinople no longer exists at the start.
+- Constantinople (CST) has been renamed to Byzantium.
+- Byzantium (BYZ) has been renamed to Eastern Rome.
+- Thessalonica now has its own unique age ability.
+- The Cossack estate is now only available to cultures in the Slavic culture group.
+- Other minor fixes and adjustments.
+
 [b]2.16.2026[/b]
 First of all, happy new year to everyone! We are very pleased that The Dream yet to be Dreamed can bring you a brand new Lombardy update during the Spring Festival!
 

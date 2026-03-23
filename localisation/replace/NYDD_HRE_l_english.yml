@@ -212,3 +212,8 @@ emperor_perpetual_diet_desc:1 "Institute a permanent session of the Imperial Die
 
 emperor_landsknechtswesen_title:0 "Create the Landsknechtswesen"
 emperor_landsknechtswesen_desc:0 "Organize Germany's many mercenary bands into official regiments available for the Empire's defense."
+
+DD_emperor_landfriede_tt:"Members of the §YHoly Roman Empire§! are forbidden from declaring war on each other, except the §YEmperor§!.\n"
+DD_HRE_BAN_INTER_WAR:"The Holy Roman Empire has enacted '§YEwiger Landfriede§!'. We cannot declare war on other members of the Holy Roman Empire."
+DD_dismantel_button:"Dismantle the Holy Roman Empire"
+DD_dismantel_button_tooltip:"To dismantle the §Yhereditary§! Holy Roman Empire, you must control the current Emperor [Emperor.GetName]'s capital, §Y[Emperor.Capital.GetName]§!, and have §G+75.0%§! war score in a war where they are the war leader. Additionally, all Electors must be your allies or subjects, or their capitals must be under your control.\n\n§g(Note: If the Emperor's war score is below §Y-90.0%§! in all wars, other Electors may also choose to elect a new Emperor.)§!\n "

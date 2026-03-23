@@ -86,6 +86,9 @@ latin = {
 	africa_culture = {}
 	xln_culture = {}
 	kexijia_culture = {}
+
+	apulia_latin = {}
+	calabria_latin = {}
 }
 tartar = {
 	cuman = {}
@@ -106,6 +109,12 @@ british = {
 	mercia_british = {}
 	anglish_british = {}
 	wessex_british = {}
+
+	london_british = {}
+	kent_british = {}
+	sussex_british = {}
+	essex_british = {}
+	norfolk_british = {}
 }
 scandinavian = {
 	yovik_sca = {}

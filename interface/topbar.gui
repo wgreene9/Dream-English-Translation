@@ -1,0 +1,1228 @@
+guiTypes = {
+
+	windowType = {
+		name = "topbar"
+		backGround=""
+		position = { x=0 y=-1 }
+		size = { x=2048 y=100 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = yes
+
+		show_position = { x = 0 y = -1 }
+		hide_position = { x = 0 y = -165 }
+		animation_type = "decelerated"
+		animation_time = 600
+
+
+		iconType = {
+			name = "brown_bg"
+			spriteType ="GFX_brown_bg"
+			position = { x= 676 y = 20 }
+			alwaystransparent = yes
+		}
+
+
+		iconType =
+		{
+			name ="topbar_1"
+			spriteType = "GFX_remove"
+			position = { x= 99512 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_2"
+			spriteType = "GFX_remove"
+			position = { x= 991024 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_3"
+			spriteType = "GFX_remove"
+			position = { x= 991532 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+
+
+
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg"
+			spriteType = "GFX_topbar_bg"
+			position = { x= 0 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg4"
+			spriteType = "GFX_topbar_banner"
+			position = { x= 70 y = 40 }
+			Orientation = "UPPER_LEFT"
+
+		}
+
+		iconType = {
+			name = "government_reforms_button_base"
+			quadTextureSprite ="GFX_government_reforms_button_base"
+			position = { x= 93 y = 104 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+
+		guiButtonType = {
+			name = "player_shield"
+			quadTextureSprite ="GFX_shield_fancy"
+			position = { x= -5 y = 2 }
+			Orientation = "UPPER_LEFT"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			shortcut = "F1"
+		}
+
+		iconType = {
+			name = "player_shield_glow"
+			quadTextureSprite ="GFX_shield_fancy_great_power_glow"
+			position = { x= -5 y = 2 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "open_build_interface_button"
+			position = { x = 6 y = 109 }
+			quadTextureSprite ="GFX_open_build_interface"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+			hint_tag = "hint_macrobuild"
+			shortcut = "b"
+		}
+
+		iconType = {
+			name = "great_power_button_base"
+			quadTextureSprite ="GFX_great_power_button_base"
+			position = { x= 111 y = 80 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "great_power_button"
+			position = { x = 115 y = 84 }
+			quadTextureSprite ="GFX_great_power_button"
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+			shortcut = "Shift+G"
+		}
+
+
+		iconType = {
+			name = "government_reforms_progress"
+			position = { x = 100 y = 110 }
+			quadTextureSprite ="GFX_government_reforms_progress"
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "government_reforms_button"
+			position = { x = 100 y = 110 }
+			quadTextureSprite ="GFX_government_reforms_button"
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+		}
+
+	######### top bar portraits ###########
+
+
+		guiButtonType =
+		{
+			name ="icon_merchant"
+			quadTextureSprite = "GFX_icon_merchant"
+			position = { x= 739 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_merchant"
+		}
+
+		guiButtonType =
+		{
+			name ="icon_settler"
+			quadTextureSprite = "GFX_icon_settler"
+			position = { x= 780 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_colonist"
+		}
+
+
+		guiButtonType =
+		{
+			name ="icon_diplomat"
+			quadTextureSprite = "GFX_icon_diplomat"
+			position = { x= 821 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_diplomat"
+		}
+
+		guiButtonType =
+		{
+			name ="icon_missionary"
+			quadTextureSprite = "GFX_icon_missionary"
+			position = { x= 862 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_missionary"
+		}
+
+	##########################################
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg2"
+			spriteType = "GFX_topbar_portrait_value_bg"
+			position = { x= 731 y = 30 }
+			Orientation = "UPPER_LEFT"
+		}
+
+	#############  portrait values #############
+
+		instantTextBoxType = {
+			name = "text_merchants"
+			position = { x = 732 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_settlers"
+			position = { x = 773 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_diplomats"
+			position = { x = 814 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_missionaries"
+			position = { x = 855 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+
+	###########  top bar icons and values #############
+
+		iconType =
+		{
+			name ="icon_gold"
+			spriteType = "GFX_icon_gold_strip"
+			position = { x= 146 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_ducats"
+		}
+		instantTextBoxType = {
+			name = "text_gold"
+			position = { x = 152 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 60
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_manpower"
+			spriteType = "GFX_icon_manpower"
+			position = { x= 228 y = 11 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_manpower"
+		}
+		instantTextBoxType = {
+			name = "text_manpower"
+			position = { x = 248 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 50
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_sailors"
+			spriteType = "GFX_icon_sailors"
+			position = { x= 311 y = 14 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "text_sailors"
+			position = { x = 331 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 50
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_stability"
+			spriteType = "GFX_icon_stability"
+			position = { x= 394 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_stability"
+		}
+		instantTextBoxType = {
+			name = "text_stability"
+			position = { x = 405 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+
+
+
+
+		iconType =
+		{
+			name ="icon_prestige"
+			spriteType = "GFX_icon_prestige"
+			position = { x= 524 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_prestige"
+		}
+		instantTextBoxType = {
+			name = "text_prestige"
+			position = { x = 536 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_dev"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 588 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 3
+			hint_tag = "hint_legitimacy"
+		}
+		instantTextBoxType = {
+			name = "text_dev"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_meritocracy"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 588 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 5
+			hint_tag = "hint_meritocracy"
+		}
+		instantTextBoxType = {
+			name = "text_meritocracy"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_leg"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 1
+			hint_tag = "hint_legitimacy"
+		}
+		instantTextBoxType = {
+			name = "text_leg"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_rep"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 2
+			hint_tag = "hint_republican"
+		}
+		instantTextBoxType = {
+			name = "text_rep"
+			position = { x = 606 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_unity"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 4
+		}
+		instantTextBoxType = {
+			name = "text_unity"
+			position = { x = 606 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		windowType = {
+			name = "powerprojection_topbar"
+			backGround=""
+			position = { x = 148 y = 0 }
+			size = { x=100 y=100 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+
+				iconType =
+				{
+					name ="topbar_liberty_overlay"
+					spriteType = "GFX_topbar_liberty_overlay"
+					position = { x= 491 y = -1 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType =
+				{
+					name ="icon_powerprojection"
+					spriteType = "GFX_icon_powerprojection"
+					position = { x= 518 y = 10 }
+					Orientation = "UPPER_LEFT"
+					hint_tag = "hint_powerprojection"
+				}
+
+				instantTextBoxType = {
+					name = "text_powerprojection"
+					position = { x = 527 y = 13 }
+					textureFile = ""
+					font = "vic_18"
+					borderSize = {x = 4 y = 4}
+					text = ""
+					maxWidth = 40
+					maxHeight = 32
+					format = right
+				}
+
+		}
+
+		windowType = {
+			name = "liberty_desire_topbar"
+			backGround=""
+			position = { x = 148 y = 0 }
+			size = { x=100 y=100 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+
+				iconType =
+				{
+					name ="topbar_liberty_overlay"
+					spriteType = "GFX_topbar_liberty_overlay"
+					position = { x= 491 y = -1 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType =
+				{
+					name ="topbar_liberty_icon"
+					spriteType = "GFX_liberty_icon"
+					position = { x= 512 y = 10 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				instantTextBoxType =
+				{
+					name = "topbar_liberty_value"
+					position = { x = 527 y = 13 }
+					textureFile = ""
+					font = "vic_18"
+					borderSize = {x = 4 y = 4}
+					text = "100"
+					maxWidth = 40
+					maxHeight = 32
+					format = right
+				}
+
+		}
+	#######################################
+
+	windowType = { ## DD Orthodox bubble
+		name = "Orthodox_bubble_entry"
+		scripted = yes
+		backGround=""
+		position = { x=0 y=-50 }	
+		size = { x=50 y=50 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		orientation = "LOWER_RIGHT"
+	
+		iconType = {
+			name ="Orthodox_frontend_open_bg"
+			spriteType = "GFX_Orthodox_bg_sideways"
+			position = { x= -320 y = -61 }
+			scripted = yes
+		}
+				
+		guiButtonType = {
+			name = "Orthodox_frontend_open_button"
+			scripted = yes
+			position = { x = -344 y = -57 }
+			quadTextureSprite = "GFX_Orthodox"
+			shortcut = "Shift+F1"
+			scale = 0.85
+		}
+	}
+
+	windowType = { ## DD Orthodox Window
+		name = "Orthodox_custom_window"
+		scripted = yes
+		backGround=""
+		position = { x=-292 y=-309 }	
+		size = { x=584 y=620 }
+		moveable = 1
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		Orientation = "CENTER"
+		#upsound = religion_sunni
+		
+
+		iconType = {
+		name ="KRO_Ecumenical_council_GUI_bg"
+		spriteType = "GFX_KRO_Ecumenical_council_GUI_bg"
+		position = { x= 0 y = 0 } # 原始: (560, -40) -> 变换: (0, 0)
+		scripted = yes
+		scale = 1.1
+    }
+
+    iconType = { #牧首权威图标
+		name ="KRO_patriarch_authority_frame"
+		spriteType = "GFX_KRO_patriarch_authority_frame"
+		position = { x= 45 y = 70 } # 原始: (605, 30) -> 变换: (45, 70)
+		scripted = yes
+		scale = 0.8
+    }
+
+    guiButtonType = { #国旗
+		name = "KRO_Ecumenical_council_GUI_big_shield"
+		position = { x = 225 y = 81 } # 原始: (785, 41) -> 变换: (225, 81)
+		quadTextureSprite ="GFX_shield_fancy"
+		scripted = yes
+    }
+    instantTextBoxType = { #大公会议 标题字符
+		name = "KRO_Ecumenical_council_GUI_NAME"
+		scripted = yes
+		position = { x = 167 y = 52 } # 原始: (762, 12) -> 变换: (202, 52)
+		format = centre
+		font = "vic_29s"
+		borderSize = {x = 0 y = 0 }
+		maxWidth = 275 # maxWidth = 200
+		maxHeight = 50   
+    }
+
+    guiButtonType = { ##大公教会互动1
+		name ="Ecumenical_council_button1"
+		scripted = yes
+		spriteType = "GFX_Ecumenical_council_button1"
+		position = { x = 375 y = 115 } # 原始: (935, 75) -> 变换: (375, 115)
+		scale = 1.0
+    }
+
+    guiButtonType = { ##大公教会互动2
+		name ="Ecumenical_council_button2"
+		scripted = yes
+		spriteType = "GFX_Ecumenical_council_button2"
+		position = { x = 375 y = 170 } # 原始: (935, 130) -> 变换: (375, 170)
+		scale = 1.0
+    }
+
+    guiButtonType = { ##大公教会互动3
+		name ="Ecumenical_council_button3"
+		scripted = yes
+		spriteType = "GFX_Ecumenical_council_button3"
+		position = { x = 425 y = 115 } # 原始: (985, 75) -> 变换: (425, 115)
+		scale = 1.0
+    }
+    guiButtonType = { ##大公教会互动4
+		name ="Ecumenical_council_button4"
+		scripted = yes
+		spriteType = "GFX_Ecumenical_council_button4"
+		position = { x = 425 y = 170 } # 原始: (985, 75) -> 变换: (425, 115)
+		scale = 1.0
+    }
+	############### Power mechanics for a country ################
+
+    guiButtonType = { ##大公教会互动5
+    name ="Ecumenical_council_button5"
+    scripted = yes
+    spriteType = "GFX_Ecumenical_council_button5"
+    position = { x = 475 y = 115 } # 原始: (1035, 75) -> 变换: (475, 115)
+    scale = 1.0
+    }
+
+    guiButtonType = { ##大公教会互动6
+    name ="Ecumenical_council_button6"
+    scripted = yes
+    spriteType = "GFX_Ecumenical_council_button6"
+    position = { x = 475 y = 170 } # 原始: (1035, 130) -> 变换: (475, 170)
+    scale = 1.0
+    }
+
+    guiButtonType = { ##大公教会互动7
+    name ="Ecumenical_council_button7"
+    scripted = yes
+    spriteType = "GFX_Ecumenical_council_button7"
+    position = { x = 525 y = 115 } # 原始: (1085, 75) -> 变换: (525, 115)
+    scale = 1.0
+    }
+
+    guiButtonType = { ##大公教会互动8
+    name ="Ecumenical_council_button8"
+    scripted = yes
+    spriteType = "GFX_Ecumenical_council_button8"
+    position = { x = 525 y = 170 } # 原始: (1085, 130) -> 变换: (525, 170)
+    scale = 1.0
+    }
+
+    iconType = { # ##牧首区顶部绿色横幅1
+		name ="GFX_green_banner1"
+		scripted = yes
+		spriteType = "GFX_green_banner"
+		position = { x = 30 y = 235 } # 原始: (590, 195) -> 变换: (30, 235)
+		scale = 1.2
+    }
+    instantTextBoxType = { #牧首区 罗马 字符
+		name = "Pentarchy_Roma_text"
+		scripted = yes
+		position = { x = 15 y = 238 } # 原始: (575, 198) -> 变换: (15, 238)
+		format = centre
+		font = "vic_18"
+		borderSize = {x = 0 y = 0 }
+		maxWidth = 200
+		maxHeight = 50   
+    }
+    guiButtonType = { ##牧首区图片1-罗马
+		name ="Pentarchy_Roma_button"
+		scripted = yes
+		spriteType = "Pentarchy_Roma"
+		position = { x = 43 y = 255 } # 原始: (603, 215) -> 变换: (43, 255)
+		scale = 0.8
+    }
+    iconType = { # ##牧首区顶部绿色横幅2
+		name ="GFX_green_banner2"
+		scripted = yes
+		spriteType = "GFX_green_banner"
+		position = { x = 218 y = 235 } # 原始: (778, 195) -> 变换: (218, 235)
+		scale = 1.2
+    }
+    instantTextBoxType = { #牧首区 君士坦丁堡 字符
+		name = "Pentarchy_Constantinople_text"
+		scripted = yes
+		position = { x = 202 y = 238 } # 原始: (762, 198) -> 变换: (202, 238)
+		format = centre
+		font = "vic_18"
+		borderSize = {x = 0 y = 0 }
+		maxWidth = 200
+		maxHeight = 50   
+    }
+    guiButtonType = { ##牧首区图片2-君士坦丁堡
+		name ="Pentarchy_Constantinople_button"
+		scripted = yes
+		spriteType = "Pentarchy_Constantinople"
+		position = { x = 231 y = 255 } # 原始: (791, 215) -> 变换: (231, 255)
+		scale = 0.8
+    }
+    iconType = { # ##牧首区顶部绿色横幅3
+		name ="GFX_green_banner3"
+		scripted = yes
+		spriteType = "GFX_green_banner"
+		position = { x = 406 y = 235 } # 原始: (966, 195) -> 变换: (406, 235)
+		scale = 1.2
+    }
+    instantTextBoxType = { #牧首区 亚历山大 字符
+		name = "Pentarchy_Alexandria_text"
+		scripted = yes
+		position = { x = 391 y = 238 } # 原始: (951, 198) -> 变换: (391, 238)
+		format = centre
+		font = "vic_18"
+		borderSize = {x = 0 y = 0 }
+		maxWidth = 200
+		maxHeight = 50   
+    }
+    guiButtonType = { ##牧首区图片3
+    name ="Pentarchy_Alexandria_button"
+    scripted = yes
+    spriteType = "Pentarchy_Alexandria"
+    position = { x = 419 y = 255 } # 原始: (979, 215) -> 变换: (419, 255)
+    scale = 0.8
+    }
+    iconType = { # ##牧首区顶部绿色横幅4
+		name ="GFX_green_banner4"
+		scripted = yes
+		spriteType = "GFX_green_banner"
+		position = { x = 30 y = 405 } # 原始: (590, 365) -> 变换: (30, 405)
+		scale = 1.2
+    }
+    instantTextBoxType = { #牧首区 耶路撒冷 字符
+		name = "Pentarchy_Jerusalem_text"
+		scripted = yes
+		position = { x = 15 y = 408 } # 原始: (575, 368) -> 变换: (15, 408)
+		format = centre
+		font = "vic_18"
+		borderSize = {x = 0 y = 0 }
+		maxWidth = 200
+		maxHeight = 50   
+    }
+    guiButtonType = { ##牧首区图片4
+    name ="Pentarchy_Jerusalem_button"
+    scripted = yes
+    spriteType = "Pentarchy_Jerusalem"
+    position = { x = 43 y = 425 } # 原始: (603, 385) -> 变换: (43, 425)
+    scale = 0.8
+    }
+    iconType = { # ##牧首区顶部绿色横幅5
+		name ="GFX_green_banner5"
+		scripted = yes
+		spriteType = "GFX_green_banner"
+		position = { x = 406 y = 405 } # 原始: (966, 365) -> 变换: (406, 405)
+		scale = 1.2
+    }
+    instantTextBoxType = { #牧首区 安条克 字符
+    name = "Pentarchy_Antioch_text"
+    scripted = yes
+    position = { x = 391 y = 408 } # 原始: (951, 368) -> 变换: (391, 408)
+    format = centre
+    font = "vic_18"
+    borderSize = {x = 0 y = 0 }
+    maxWidth = 200
+    maxHeight = 50   
+    }
+    guiButtonType = { ##牧首区图片5
+    name ="Pentarchy_Antioch_button"
+    scripted = yes
+    spriteType = "Pentarchy_Antioch"
+    position = { x = 419 y = 425 } # 原始: (979, 385) -> 变换: (419, 425)
+    scale = 0.8
+    }
+    iconType = { ##牧首区是否为基督教1
+		name ="KRO_Religion_status1"
+		scripted = yes
+		spriteType = "GFX_Religion_status"
+		position = { x= 77 y = 360 } # 原始: (637, 320) -> 变换: (77, 360)
+		scale = 0.6
+    }
+    iconType = { ##牧首区是否为基督教2
+		name ="KRO_Religion_status2"
+		scripted = yes
+		spriteType = "GFX_Religion_status"
+		position = { x= 260 y = 360 } # 原始: (820, 320) -> 变换: (260, 360)
+		scale = 0.6
+    }
+    iconType = { ##牧首区是否为基督教3
+		name ="KRO_Religion_status3"
+		scripted = yes
+		spriteType = "GFX_Religion_status"
+		position = { x= 453 y = 360 } # 原始: (1013, 320) -> 变换: (453, 360)
+		scale = 0.6
+    }
+    iconType = { ##牧首区是否为基督教4
+		name ="KRO_Religion_status4"
+		scripted = yes
+		spriteType = "GFX_Religion_status"
+		position = { x= 77 y = 530 } # 原始: (637, 490) -> 变换: (77, 530)
+		scale = 0.6
+    }
+    iconType = { ##牧首区是否为基督教5
+		name ="KRO_Religion_status5"
+		scripted = yes
+		spriteType = "GFX_Religion_status"
+		position = { x= 453 y = 530 } # 原始: (1013, 490) -> 变换: (453, 530)
+		scale = 0.6
+    }
+    iconType = { ##是否拥有1
+		name ="KRO_Owner_status1"
+		scripted = yes
+		spriteType = "GFX_Owner_status"
+		position = { x= 112 y = 355 } # 原始: (672, 315) -> 变换: (112, 355)
+		scale = 0.8
+    }
+    iconType = { ##是否拥有2
+		name ="KRO_Owner_status2"
+		scripted = yes
+		spriteType = "GFX_Owner_status"
+		position = { x= 300 y = 355 } # 原始: (860, 315) -> 变换: (300, 355)
+		scale = 0.8
+    }
+    iconType = { ##是否拥有3
+		name ="KRO_Owner_status3"
+		scripted = yes
+		spriteType = "GFX_Owner_status"
+		position = { x= 488 y = 355 } # 原始: (1048, 315) -> 变换: (488, 355)
+		scale = 0.8
+    }
+    iconType = { ##是否拥有4
+		name ="KRO_Owner_status4"
+		scripted = yes
+		spriteType = "GFX_Owner_status"
+		position = { x= 112 y = 525 } # 原始: (672, 485) -> 变换: (112, 525)
+		scale = 0.8
+    }
+    iconType = { ##是否拥有5
+		name ="KRO_Owner_status5"
+		scripted = yes
+		spriteType = "GFX_Owner_status"
+		position = { x= 488 y = 525 } # 原始: (1048, 485) -> 变换: (488, 525)
+		scale = 0.8
+    }
+	guiButtonType = { ##双头鹰按钮
+		name ="KRO_Ecumenical_council_BUTTON"
+		scripted = yes
+		spriteType = "GFX_KRO_Ecumenical_council_BUTTON"
+		position = { x= 212 y = 425 } # 原始: (772, 365) -> 变换: (212, 405)
+		scale = 0.8
+	}
+
+	}
+
+		iconType =
+		{
+			name ="icon_corruption"
+			spriteType = "GFX_icon_corruption_small"
+			position = { x= 458 y = 11 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "text_corruption"
+			position = { x = 463 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 46
+			maxHeight = 32
+			format = right
+		}
+
+		instantTextBoxType = {
+			name = "text_ADM"
+			position = { x = 520 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name ="icon_ADM"
+			spriteType = "GFX_icon_powers_administrative"
+			position = { x= 498 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_adm"
+		}
+
+
+		instantTextBoxType = {
+			name = "text_DIP"
+			position = { x = 581 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name ="icon_DIP"
+			spriteType = "GFX_icon_powers_diplomatic"
+			position = { x= 558 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_dip"
+		}
+
+		instantTextBoxType = {
+			name = "text_MIL"
+			position = { x = 639 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name = "icon_MIL"
+			spriteType ="GFX_icon_powers_military"
+			position = { x= 616 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_mil"
+		}
+
+		iconType = {
+			name = "button_base"
+			spriteType ="GFX_age_frame_addon"
+			position = { x= 690 y = 30 }
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "current_age_button"
+			position = { x = 722 y = 32 }
+			quadTextureSprite ="GFX_age_button"
+			clicksound = macro_build
+			shortcut = "Shift+A"
+		}
+
+		guiButtonType = {
+			name = "age_icon"
+			spriteType ="GFX_icon_age_s"
+			position = { x= 705 y = 47 }
+			frame = 1
+		}
+
+		instantTextBoxType = {
+			name = "age_title"
+			position = { x = 740 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "AgeText"
+			maxWidth = 160
+			maxHeight = 32
+			format = left
+			alwaystransparent = yes
+		}
+
+
+
+
+
+
+	#################################################
+
+
+
+		instantTextBoxType = {
+			name = "PlayerNationText"
+			position = { x = 151 y = 50 }
+			textureFile = ""
+			font = "vic_22"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 340
+			maxHeight = 32
+			fixedsize = yes
+		}
+
+
+	############### DATE PANEL ###################
+
+
+
+
+
+		windowType = {
+			name = "pause_window"
+			backGround=""
+			position = { x=-203 y= 100 }
+			size = { x=406 y=70 }
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+			moveable = 0
+			Orientation = "CENTER_UP"
+
+			iconType ={
+				name ="pause_banner"
+				spriteType = "GFX_pause_banner"
+				position = { x = 0 y = -15 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			#Needs localisation change
+			instantTextBoxType = {
+				name = "pause_banner_text"
+				position = { x = 140 y = 9 }
+				textureFile = ""
+				font = "vic_22"
+				borderSize = {x = 4 y = 4}
+				text = "CORE_PAUSED"
+				maxWidth = 120
+				maxHeight = 32
+				format = center
+			}
+		}
+		#NYDD
+		#2个选项的
+		windowType = {
+			name = "DD_branch_gui_window"
+			scripted = yes
+			position = { x = 500 y = 0 }
+			moveable = 1
+			background = "DD_branch_gui_bg"
+			scripted = yes
+
+
+			#背景
+			guiButtonType = {
+				name = "DD_branch_gui_bg"
+				position = { x = 0 y = 0 }
+				quadTextureSprite ="GFX_DD_branch_gui"
+			}
+			#法兰西
+			windowType = {
+				name = "DD_branch_gui_window_FRA"
+				scripted = yes
+
+				#标题
+				iconType = {
+					name ="DD_FRA_fate_gui_title1"
+					spriteType = "GFX_DD_FRA_fate_gui_title1"
+					scripted = yes
+				}
+				#按钮
+				guiButtonType = {
+					name = "gui_branch_DD_FRA_form_RHL"
+					position = { x = 70 y = 255 }
+					quadTextureSprite ="GFX_DD_FRA_form_RHL"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_branch_DD_FRA_integrate_RHL"
+					position = { x = 425 y = 255 }
+					quadTextureSprite ="GFX_DD_FRA_integrate_RHL_gui"
+					scripted = yes
+				}
+			}
+			#布列塔尼
+			windowType = {
+				name = "DD_branch_gui_window_BRI"
+				scripted = yes
+
+				#标题
+				iconType = {
+					name ="DD_BRI_fate_title1"
+					spriteType = "GFX_DD_BRI_fate_title1"
+					scripted = yes
+				}
+				#按钮
+				guiButtonType = {
+					name = "button_DD_BRI_gaul"
+					position = { x = 70 y = 255 }
+					quadTextureSprite ="GFX_DD_BRI_gaul"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "button_DD_BRI_france"
+					position = { x = 425 y = 255 }
+					quadTextureSprite ="GFX_DD_BRI_france"
+					scripted = yes
+				}
+			}
+		}
+		#三个选项的
+		windowType = {
+			name = "DD_branch_gui_window_3"
+			scripted = yes
+			position = { x = 300 y = 0 }
+			moveable = 1
+			background = "DD_branch_gui_bg_3"
+			scripted = yes
+
+			#背景
+			guiButtonType = {
+				name = "DD_branch_gui_bg_3"
+				position = { x = 0 y = 0 }
+				quadTextureSprite ="GFX_DD_branch_3_gui"
+			}
+
+			#法兰西
+			windowType = {
+				name = "DD_branch_gui_window_FRA_2"
+				scripted = yes
+
+				#标题
+				iconType = {
+					name ="DD_FRA_fate_gui_title2"
+					spriteType = "GFX_DD_FRA_fate_gui_title2"
+					scripted = yes
+				}
+				#按钮
+				guiButtonType = {
+					name = "gui_branch_DD_FRA_help_RHL"
+					position = { x = 100 y = 255 }
+					quadTextureSprite ="GFX_DD_FRA_help_RHL"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_branch_DD_FRA_help_BAV"
+					position = { x = 450 y = 255 }
+					quadTextureSprite ="GFX_DD_FRA_help_BAV"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_branch_DD_FRA_control_SG"
+					position = { x = 800 y = 255 }
+					quadTextureSprite ="GFX_DD_FRA_control_SG"
+					scripted = yes
+				}
+			}
+
+		}
+		#NYDD
+
+	} ### end of "topbar"
+
+	windowType = {
+		name = "alerts_parent"
+		backGround=""
+		position = { x=0 y=-1 }
+		size = { x=2048 y=100 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = yes
+
+		show_position = { x = 0 y = -1 }
+		hide_position = { x = 0 y = -165 }
+		animation_type = "decelerated"
+		animation_time = 600
+	}
+
+	windowType = {
+		name = "hotkey_assign_parent"
+		backGround=""
+		position = { x=-202 y=-38 }
+		size = { x=404 y=76 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		orientation = "CENTER"
+
+		iconType = {
+			name ="assign_hotkey_pick_button_hint"
+			spriteType = "GFX_nation_designer_hint_bg"
+			position = { x= 0 y = 0 }
+		}
+		instantTextBoxType = {
+			name = "assign_hotkey_pick_button_hint_text"
+			position = { x = 40 y = 27 }
+			font = "vic_22"
+			text = "PICK_HOTKEY_BUTTON_HINT"
+			maxWidth = 320
+			maxHeight = 60
+			format = centre
+		}
+	}
+}

@@ -1,3 +1,7 @@
+is_Luxemburg_dynasty = {
+	dynasty = "von Luxemburg"
+}
+
 SSL_Monferrato_trigger = {
 	custom_trigger_tooltip = {
 		tooltip = SSL_Monferrato_trigger_tt

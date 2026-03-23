@@ -17,7 +17,7 @@ capital = 207 #Asturias
 	}
 	heir = {
 		name = "Carlos 'the Incompetent'"
-		monarch_name = "Carlos II "
+		monarch_name = "Carlos II 'the Handsome'"
 		dynasty = "Gonzalez"
 		claim = 100
 		adm = 1

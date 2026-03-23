@@ -876,3 +876,5 @@ DD_ADU_use_taifa_color_desc: "Allows our color to change back to the former Taif
 
 ROMA_CALIPH: "Roman Caliphate"
 ROMA_CALIPH_ADJ: "Roman Caliphal"
+
+NYDD_ADU_claim_andalus_ttt:"[Root.GetName] or its subjects own all provinces of the §YMuslim§! religious group in the §YIberia§! region"

@@ -8,7 +8,7 @@ historical_friend = TRE
 capital = 2410	# Theodoro
 
 1443.10.29 = {
-	heir = {
+	monarch = {
 		name = "Manuel I"
 		dynasty = "Komnenos"
 		birth_date = 1403.10.29

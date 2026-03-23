@@ -42,7 +42,7 @@
  KLX: "Karasids"
  SEL: "Seljuks"
  CLC: "Cilicia"
- CST: "Constantinople"
+ CST: "Byzantium" # Constantinople
 
  THR: "Thrace"
  LSW: "Lesbos"
@@ -61,6 +61,10 @@
  EN4: "Essex"
  EN5: "Norfolk"
  EN6: "Calais"
+ EN8: "England"
+
+ WL1: "Gwynedd"
+ WL2: "Glamorgan"
 
  NE1: "Bruges"
  NE2: "Ghent"
@@ -231,12 +235,12 @@ JP2:"Daijo-kan"
 
 # Region: Balkans, Anatolia
  LAT_ADJ: "Romania" # Latin Empire
- SAN_ADJ: "Thessalonican"
+ SAN_ADJ: "Thessalonian"
  SSL_ADJ: "Thessalian"
  KLX_ADJ: "Karasid"
  SEL_ADJ: "Seljuk"
  CLC_ADJ: "Cilician"
- CST_ADJ: "Constantinopolitan"
+ CST_ADJ: "Byzantine" # Constantinopolitan
 
  THR_ADJ: "Thracian"
  LSW_ADJ: "Lesbian"
@@ -255,6 +259,10 @@ JP2:"Daijo-kan"
  EN4_ADJ: "Essex"
  EN5_ADJ: "Norfolk"
  EN6_ADJ: "Calaisian"
+ EN8_ADJ:"English"
+
+ WL1_ADJ:"Gwyneddian"
+ WL2_ADJ:"Glamorganian"
 
  NE1_ADJ: "Brugesian" # Bruges
  NE2_ADJ: "Ghent"
@@ -303,7 +311,7 @@ JP2:"Daijo-kan"
  CMN_ADJ: "Cuman"
  MSK_ADJ: "Minsk"
  SUZ_ADJ: "Suzdal"
- KSA_ADJ:"Khazaria" # KAS_ADJ?
+ KSA_ADJ:"Khazar"
 
  BOP_ADJ:"Bosporan"
 

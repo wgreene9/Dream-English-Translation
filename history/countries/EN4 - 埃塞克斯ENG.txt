@@ -9,10 +9,11 @@ government_rank = 1
 
 1444.1.1 = {
 	monarch = {
-		name = "Municipal Council"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-		regent = yes
+		name = "Henry"
+		dynasty = "Oxford"
+		ADM = 6
+		DIP = 1
+		MIL = 1
+		birth_date = 1406.11.11
 	}
 }

@@ -1,5 +1,5 @@
 government = republic
-add_government_reform = merchants_reform
+add_government_reform = NYDD_ENG_union_reform
 primary_culture = anglish_british
 religion = catholic
 technology_group = western
@@ -9,10 +9,11 @@ government_rank = 1
 
 1444.1.1 = {
 	monarch = {
-		name = "Municipal Council"
+		name = "Orion"
+		dynasty = "Glamorgan"
 		ADM = 2
 		DIP = 2
-		MIL = 2
-		regent = yes
+		MIL = 6
+		birth_date = 1414.11.11
 	}
 }

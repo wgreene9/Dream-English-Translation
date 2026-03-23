@@ -1,0 +1,154 @@
+BUL_Stoyan_ruler = {
+	define_ruler = {
+		dynasty = "Zapryanov"  # Zapryanov
+		male = yes
+		culture = bul
+		name = "Stoyan" #Stoyan
+		claim = 80
+		age = 26
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	define_ruler_to_general = {
+		fire = 0
+		shock = 4
+		manuever = 2
+		siege = 3
+		female = no
+	}
+} 
+
+
+SAN_consort_case_1 = {
+
+	define_consort = {
+		name = "Anna"
+		# country_of_origin = 
+		dynasty = "Notaras"
+		culture = BYZ_yagaiya
+		religion = greek_orthodox
+		adm = 3
+		dip = 6
+		mil = 2
+		female = yes
+		age = 20
+	}
+	set_consort_flag = SAN_consort_case_1_flag
+} 
+
+
+SAN_MOE_ruler_effect = {
+
+	define_ruler = {
+		dynasty = "Notaras"
+		male = yes
+		culture = BYZ_yagaiya
+		religion = greek_orthodox
+		name = "Loukas" 
+		claim = 80
+		age = 48
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+} 
+
+
+SAN_consort_case_2 = {
+
+	define_consort = {
+		name = "Helena"
+		# country_of_origin = 
+		dynasty = "Palaiologina" # 巴列奥略 Palácio
+		culture = BYZ_agean
+		religion = greek_orthodox
+		adm = 2
+		dip = 5
+		mil = 4
+		female = yes
+		age = 20
+	}
+	set_consort_flag = SAN_consort_case_2_flag
+} 
+
+SAN_consort_case_3 = {
+
+	define_consort = {
+		name = "Eirene" # Elena? Helena?
+		# country_of_origin = 
+		dynasty = "Strategopoulina" # Strategopoulos
+		culture = BYZ_thrace
+		religion = greek_orthodox
+		adm = 3
+		dip = 3
+		mil = 5
+		female = yes
+		age = 20
+	}
+	set_consort_flag = SAN_consort_case_3_flag
+} 
+
+SAN_consort_case_4 = {
+	define_consort = {
+		name = "Theodora"
+		# country_of_origin = 
+		dynasty = "Gabrielopoulina" # Gabrielopoulos
+		culture = BYZ_yibilusi
+		religion = greek_orthodox
+		adm = 5
+		dip = 5
+		mil = 1
+		female = yes
+		age = 20
+	}
+	set_consort_flag = SAN_consort_case_4_flag
+} 
+
+ERO_province_rename_effect_Hispalis = {
+	change_province_name = "Hispalis" #Hispalis
+}
+
+
+ERO_province_rename_effect_Londinium = {
+	change_province_name = "Londinium" #Londinium
+}
+
+
+ERO_province_rename_effect_Lugdunum = {
+	change_province_name = "Lugdunum" #Lugdunum
+}
+
+
+ERO_province_rename_effect_Arelate = {
+	change_province_name = "Arelate" #Arelate
+}
+
+
+ERO_province_rename_effect_Aurelianum = {
+	change_province_name = "Aurelianum" #Aurelianum
+}
+
+
+ERO_province_rename_effect_Caesaraugusta = {
+	change_province_name = "Caesaraugusta" #Caesaraugusta
+}
+
+
+ERO_province_rename_effect_Lutetia = {
+	change_province_name = "Lutetia" #Lutetia
+}
+
+
+ERO_province_rename_effect_Treverorum = {
+	change_province_name = "Treverorum" #Treverorum
+}
+
+
+ERO_province_rename_effect_Vindobona = {
+	change_province_name = "Vindobona" #Vindobona
+}
+
+ERO_province_rename_effect_Colonia = {
+	change_province_name = "Colonia" #Colonia
+}

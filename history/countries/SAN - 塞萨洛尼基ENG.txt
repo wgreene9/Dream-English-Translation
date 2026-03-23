@@ -18,16 +18,16 @@ add_accepted_culture = BYZ_yibilusi
 	}
 }
 
-1215.10.29 = {
-	monarch = {
-		name = "Theodore I"
-		dynasty = "Komnenos Doukas"
-		birth_date = 1176.3.22
-		adm = 4
-		dip = 2
-		mil = 4
-	}
-}
+# 1215.10.29 = {
+# 	monarch = {
+# 		name = "Theodore I"
+# 		dynasty = "Komnenos Doukas"
+# 		birth_date = 1176.3.22
+# 		adm = 4
+# 		dip = 2
+# 		mil = 4
+# 	}
+# }
 
 1230.7.11 = {
 	monarch = {
@@ -117,8 +117,18 @@ add_accepted_culture = BYZ_yibilusi
 	}
 }
 
+1432.4.14 = {
+	monarch = {
+		name = "Ioannes"
+		dynasty = "Sgouros" # Skouros
+		birth_date = 1388.1.9
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
 
-1432.5.29 = {
+1440.5.29 = {
 	monarch = {
 		name = "Michael V"
 		dynasty = "Komnenos Doukas"
@@ -129,10 +139,10 @@ add_accepted_culture = BYZ_yibilusi
 	}
 }
 
-1440.2.13 = {
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-}
-1443.1.20 = {
-	add_ruler_personality = midas_touched_personality
-}
+# 1440.2.13 = {
+# 	clear_scripted_personalities = yes
+# 	add_ruler_personality = bold_fighter_personality
+# }
+# 1443.1.20 = {
+# 	add_ruler_personality = midas_touched_personality
+# }
