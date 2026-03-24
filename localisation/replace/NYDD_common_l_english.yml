@@ -239,7 +239,7 @@ DD_has_papal_modifier_ttt: "Has the §YInvested in Papacy§! modifier"
 
 if_they_accept: "£yes£If they §Gaccept§!:"
 
-DD_FRA_nation_title: "@FRA Rebuild France"
+DD_FRA_nation_title: "@FR1 Rebuild France"
 DD_FRA_nation_desc: ""
 DD_BYZ_nation_title:"@BYZ Restore the Eastern Roman Empire" #@BYZ Rebuild Byzantium
 DD_BYZ_nation_desc: ""
@@ -298,3 +298,15 @@ marines_doctrines_DD_improve:"Improved Naval Infantry"
 desc_marines_doctrines_DD_improve:"As a naval power, we must master the art of launching surprise attacks against enemies from the sea."
 
 DD_controlled_by_root_or_ally_ttt:"Controlled by [Root.GetName] or its subjects or its allies or its allies' subjects"
+
+province_is_or_accepts_rus_orthodox_tt: "§Y[Root.GetName]§!'s religion is §YRus' Orthodox§! and it is the owner's state religion or a tolerated faith."
+province_is_or_accepts_greek_orthodox_tt: "§Y[Root.GetName]§!'s religion is §YGreek Orthodox§! and it is the owner's state religion or a tolerated faith."
+
+has_improved_25_relation_ttt: "Has improved relations by §G25§!"
+has_improved_50_relation_ttt: "Has improved relations by §G50§!"
+
+DD_allow_cb_imperial_effect_tt: "§GEnables§! the '§YImperialism§!' Casus Belli.\n"
+DD_allow_cb_imperial_effect_modifier: "Imperialist Propaganda"
+desc_DD_allow_cb_imperial_effect_modifier: "Becoming part of our great empire is their best choice!"
+DD_allow_cb_imperial_effect_tt2: "Since we have already unlocked the '§YImperialism§!' Casus Belli, as a §Ysubstitute§!, we will gain the following effects:"
+DD_event_preview_tt: "\n§TEvent Preview§!:\n"

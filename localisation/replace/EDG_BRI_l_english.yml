@@ -323,7 +323,7 @@ EDG_mission_BRI_5_6_STRONG_MERCHANTS:0 "Bordeaux Whalers"
 merc__EDG_BRI_Xide_Knights_enable_flag_tt:0 "We will be able to hire the §YKnights of El Cid§! mercenary company at §G60%§! of normal mercenary cost, with the following modifiers: Discipline: §G+10.0%§!\n"
 merc__EDG_BRI_Xide_Knights:0 "§YKnights of El Cid§!"
 
-EDG_mission_BRI_5_16_decision_global_flag_tt:0 "Unlocks the §Y'Host Samhain Festival'§! decision, which provides bonuses based on ruler's military skill."
+EDG_mission_BRI_5_16_decision_global_flag_tt:0 "Unlocks the §Y'Host Samhain Festival'§! decision, which provides bonuses based on ruler's military skill.\n\n§YEach ruler may only host it once.§!\n"
 
 EDG_theologian_provide_1_tolerance_own_trigger_modifier:0 "Theologian Advisor"
 
@@ -1165,3 +1165,5 @@ EDG_flavor_BRI_mission.101.b: "I don't!"
 
 DD_BRI_2a_tt:"All subjects of §Y[Owner.GetName]§! will become §Yindependent§! and gain a truce with §Y[Root.GetName]§!.\n"
 EDG_mission_BRI_3_19_tt:"Subject §YMarquisate§! development is at least §Y100§!"
+
+EDG_mission_BRI_5_16_decision_tt: "\n§YEach ruler may only use this decision once!§!\n"

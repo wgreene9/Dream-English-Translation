@@ -146,7 +146,7 @@ GER_MINISTER: "Chancellor"
 
 ability_DD_FRA_war_mechanic: "§OWar Fervor§!"
 DD_FRA_war_power: "War Fervor"
-DD_FRA_war_power_desc: "Born from shame and suffering, the French Revival Society emerged from the shadows of a homeland that had lost more than half its territory. These revenge-driven officers gradually ignited a blazing fury across all France. Knights, fallen nobles, merchants, urban craftsmen, even peasants joined their ranks, yearning for a war of vengeance to restore their nation's glory. The tide of fervor has lifted the Revival Society to power's peak - but one misstep could plunge us into the abyss. After all, what is born in injustice...\n\nSo long as we remain true to our promised ideals, France's fervor remains clay in our hands... until §Rruin§!.\n\nFactors affecting §OWar Fervor§!:\n-At §Ywar§! §G+0.25§!\n-§YWar Taxes§! §G+0.1§!\n-At §Ypeace§! §R-0.25§!\n\nTake care not to let §OWar Fervor§! reach §R100§! or fall to §R0§! - §Rno one likes that§!...\n"
+DD_FRA_war_power_desc: "Born from shame and suffering, the French Restoration Society emerged from the shadows of a homeland that had lost more than half its territory. These revenge-driven officers gradually ignited a blazing fury across all France. Knights, fallen nobles, merchants, urban craftsmen, even peasants joined their ranks, yearning for a war of vengeance to restore their nation's glory. The tide of fervor has lifted the Restoration Society to power's peak - but one misstep could plunge us into the abyss. After all, what is born in injustice...\n\nSo long as we remain true to our promised ideals, France's fervor remains clay in our hands... until §Rruin§!.\n\nFactors affecting §OWar Fervor§!:\n-At §Ywar§! §G+0.25§!\n-§YWar Taxes§! §G+0.1§!\n-At §Ypeace§! §R-0.25§!\n\nTake care not to let §OWar Fervor§! reach §R100§! or fall to §R0§! - §Rno one likes that§!...\n"
 reduce_DD_FRA_war_power: "Urge Restraint"
 reduce_DD_FRA_war_power_desc: ""
 reduce_DD_FRA_war_power_tt: "Suppress the people's fury before it consumes them.\n"
@@ -376,8 +376,8 @@ NYDD_kindom_of_crusader_reform_desc: "Though our nation was founded as a Crusade
 NYDD_latin_empire_reform: "Latin Empire"
  NYDD_latin_empire_reform_desc:""
 
- NYDD_FRA_mil_reform: "French Revival Society"
- NYDD_FRA_mil_reform_desc: "The French Revival Society is a military organization composed of patriotic officers thirsting for revenge and war. Since the disastrous defeat at Albi, the shame and bitterness of France has lingered unbearably. A group of influential French soldiers resolved to stand forth and save their homeland from both external enemies and internal torment. France, inevitably, rushes fervently toward the abyss under the leadership of these bellicose soldiers."
+ NYDD_FRA_mil_reform: "French Restoration Society"
+ NYDD_FRA_mil_reform_desc: "The French Restoration Society is a military organization composed of patriotic officers thirsting for revenge and war. Since the disastrous defeat at Albi, the shame and bitterness of France has lingered unbearably. A group of influential French soldiers resolved to stand forth and save their homeland from both external enemies and internal torment. France, inevitably, rushes fervently toward the abyss under the leadership of these bellicose soldiers."
  NYDD_FRA_ENG_union_reform: "Franco-English United Kingdom"
  NYDD_FRA_ENG_union_reform_desc: "Times change, and indisputably, the English now play vital roles throughout the French Kingdom - as advisors, nobles, and even peasants. Even the most extreme Anglophobes must admit France and England have become inseparable. With the Act of Union proclaimed, their legal systems shall merge as both peoples serve one crown, one king."
  NYDD_FRA_union_reform: "United Kingdom of France"
@@ -480,7 +480,7 @@ NYDD_FRA_noble_reform: "French Noble Confederation"
 NYDD_FRA_noble_reform_desc: "As France's true powerholders, regional nobles established this Confederation to prevent infighting from destabilizing the realm. Though nominally led by the king as 'first among nobles', it actually governs through negotiated compromises and dispute arbitration - an unusual system for this aristocratic nation."
 
 NYDD_FRA_knight_reform: "French Fleur-de-Lys Order"
-NYDD_FRA_knight_reform_desc: "Not all members bear swords - indeed, most regional chapters of this Revival Society-led organization focus on administration. Through top-down militarization and monastic discipline, the Order manages the populace with absolute loyalty to France."
+NYDD_FRA_knight_reform_desc: "Not all members bear swords - indeed, most regional chapters of this Restoration Society-led organization focus on administration. Through top-down militarization and monastic discipline, the Order manages the populace with absolute loyalty to France."
 
  #1.1
 NYDD_BRA_kaiser_union_reform: "Kaiserbund" # Kaiser's League

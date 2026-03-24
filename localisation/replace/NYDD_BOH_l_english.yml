@@ -604,7 +604,7 @@ NYDD_BOH_humanlist_tt: "§YBurghers§! privilege '§YEnforced Interfaith Dialogu
 NYDD_BOH_humanlist_tt2: "Rulers are §Gmore likely§! to gain the trait '§YTolerant§!':\n[tolerance_heretic]: §G+1.00§!\n[tolerance_heathen]: §G+1.00§!\n"
 NYDD_BOH_prague_order_tt: "§YBurghers§! privilege '§YEnforced Interfaith Dialogue§!' gains additional effects:\n[tolerance_heretic]: §G+1.00§!\n[tolerance_heathen]: §G+1.00§!\n[tolerance_of_heretics_capacity]: §G+1.00§!\n[tolerance_of_heathens_capacity]: §G+1.00§!\n"
 NYDD_BOH_prague_order_tt2: "For every §R-§!§G+§!§Y1§! point of heretic or heathen §Jtolerance§! we possess, completing §Mmissionary§! work in the corresponding province will add §R+§!§G-§!§Y1§! year of §Jseparatism§! and §R+§!§G-§!§Y1.0%§! §Jautonomy§! to the local province.\n§g(Maximum calculated from §R-§!§G+§!§Y5.00§! tolerance)§!\n"
-NYDD_BOH_back_to_live_tt: "§GUnlocks§! §YHussite§! religious tenets.\n"
+NYDD_BOH_back_to_live_tt: "§GUnlocks§! §YHussite§! religious tenets and the tenet '§YInspiring Maiden§!'.\n"
 NYDD_BOH_back_to_live_ttt1: "Has at least §G+3.00§! heathen tolerance"
 NYDD_BOH_back_to_live_ttt2: "Has at least §G+3.00§! heretic tolerance"
 NYDD_BOH_back_to_live_tt2: "From now on, new rulers will additionally gain §G1§! £adm£\n"
@@ -802,3 +802,8 @@ DD_BOH_church_control_desc: "Handing over this state to the bishopric will effec
 
 DD_SIL_modifier_start_modifier:"Harboring Heretics"
 desc_DD_SIL_modifier_start_modifier:"It is said that this Duke harbors heretics within his lands..."
+
+DD_BOH_rangna_aspect_modifier: "Tenet 'Inspiring Maiden' Additional Bonus"
+desc_DD_BOH_rangna_aspect_modifier: "The legendary tales of Saint Joan inspire generation after generation of warriors to press forward."
+DD_BOH_rangna_aspect: "Inspiring Maiden"
+desc_DD_BOH_rangna_aspect: "The legendary tales of Saint Joan inspire generation after generation of young people to devote themselves to the sacred cause.\n\nWe also gain §G-10.0%§! morale damage received for §Y10§! years.\n"

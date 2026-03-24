@@ -551,7 +551,7 @@ guiTypes = {
 		name = "Orthodox_bubble_entry"
 		scripted = yes
 		backGround=""
-		position = { x=0 y=-50 }	
+		position = { x=0 y=-50 }
 		size = { x=50 y=50 }
 		moveable = 0
 		dontRender = ""
@@ -559,14 +559,14 @@ guiTypes = {
 		verticalBorder= ""
 		fullScreen = no
 		orientation = "LOWER_RIGHT"
-	
+
 		iconType = {
 			name ="Orthodox_frontend_open_bg"
 			spriteType = "GFX_Orthodox_bg_sideways"
 			position = { x= -320 y = -61 }
 			scripted = yes
 		}
-				
+
 		guiButtonType = {
 			name = "Orthodox_frontend_open_button"
 			scripted = yes
@@ -581,7 +581,7 @@ guiTypes = {
 		name = "Orthodox_custom_window"
 		scripted = yes
 		backGround=""
-		position = { x=-292 y=-309 }	
+		position = { x=-292 y=-309 }
 		size = { x=584 y=620 }
 		moveable = 1
 		dontRender = ""
@@ -590,7 +590,7 @@ guiTypes = {
 		fullScreen = no
 		Orientation = "CENTER"
 		#upsound = religion_sunni
-		
+
 
 		iconType = {
 		name ="KRO_Ecumenical_council_GUI_bg"
@@ -622,8 +622,19 @@ guiTypes = {
 		font = "vic_29s"
 		borderSize = {x = 0 y = 0 }
 		maxWidth = 275 # maxWidth = 200
-		maxHeight = 50   
+		maxHeight = 50
     }
+
+	guiButtonType ={ #关闭按钮
+		name = "KRO_Ecumenical_council_GUI_bg_close"
+		position = { x = 265 y = -245 }
+		scripted = yes
+		quadTextureSprite ="GFX_BC_closebutton"
+		buttonFont = "vic_18"
+		Orientation = "CENTER"
+		shortcut = "ESCAPE"
+		clicksound = close_window
+	}
 
     guiButtonType = { ##大公教会互动1
 		name ="Ecumenical_council_button1"
@@ -704,7 +715,7 @@ guiTypes = {
 		font = "vic_18"
 		borderSize = {x = 0 y = 0 }
 		maxWidth = 200
-		maxHeight = 50   
+		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片1-罗马
 		name ="Pentarchy_Roma_button"
@@ -728,7 +739,7 @@ guiTypes = {
 		font = "vic_18"
 		borderSize = {x = 0 y = 0 }
 		maxWidth = 200
-		maxHeight = 50   
+		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片2-君士坦丁堡
 		name ="Pentarchy_Constantinople_button"
@@ -752,7 +763,7 @@ guiTypes = {
 		font = "vic_18"
 		borderSize = {x = 0 y = 0 }
 		maxWidth = 200
-		maxHeight = 50   
+		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片3
     name ="Pentarchy_Alexandria_button"
@@ -776,7 +787,7 @@ guiTypes = {
 		font = "vic_18"
 		borderSize = {x = 0 y = 0 }
 		maxWidth = 200
-		maxHeight = 50   
+		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片4
     name ="Pentarchy_Jerusalem_button"
@@ -800,7 +811,7 @@ guiTypes = {
     font = "vic_18"
     borderSize = {x = 0 y = 0 }
     maxWidth = 200
-    maxHeight = 50   
+    maxHeight = 50
     }
     guiButtonType = { ##牧首区图片5
     name ="Pentarchy_Antioch_button"

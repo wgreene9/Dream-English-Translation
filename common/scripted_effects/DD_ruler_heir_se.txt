@@ -489,7 +489,7 @@ DD_colony_13a = {
 }
 DD_colony_14a = {
 	define_ruler = {
-		name = "Hernán Cortes"
+		name = "Hern�n Cortes"
 		change_mil = 5
 	}
 }
@@ -650,7 +650,7 @@ DD_FRA_29a2 = {
 DD_FRA_31a = {
 	define_ruler = {
 		name = "Milaix" #Mireille?
-		dynasty = "d'Estrées"
+		dynasty = "d'Estr�es"
 		age = 41
 		adm = 3
 		dip = 3
@@ -730,7 +730,7 @@ EDG_flavor_BRI_mission_31_a_heir_effect = {
 }
 EDG_flavor_BRI_mission_31_a_regency_effect = {
 	define_ruler = {
-		name = "Charlotte Deleuze" # 夏洛特 德 德勒
+		name = "Charlotte Deleuze" # ??? ? ??
 		adm = 3
 		dip = 4
 		mil = 4
@@ -828,10 +828,10 @@ DD_VAL_Machiavelli_dip = {
 	}
 }
 # 1272 = { change_province_name = "La Manche" }
-# 1269 = { change_province_name = "Basse-C�te" }
+# 1269 = { change_province_name = "Basse-C�te" }
 NYDD_FRA_our_channel = {
 	1272 = { change_province_name = "La Manche" }
-	1269 = { change_province_name = "Basse-Côte" }
+	1269 = { change_province_name = "Basse-C�te" }
 }
 # 236 = {
 # 	change_province_name = "Domaine Francais"
@@ -883,7 +883,7 @@ DD_FRA_117a = {
 }
 DD_FRA_123a = {
 	define_ruler = {
-		name = "Reinhardt" #莱因哈特 Lionheart?
+		name = "Reinhardt" #???? Lionheart?
 		dynasty = "de Capet"
 		change_adm = 1
 		change_dip = 1
@@ -928,9 +928,9 @@ flavor_fra_104a = {
 }
 EDG_mission_BRI_1_25 = {
 	#1272 = { change_province_name = "Gaul Strait" }
-	#1269 = { change_province_name = "Basse-Côte" }
+	#1269 = { change_province_name = "Basse-C�te" }
 	1272 = { change_province_name = "Gallic Strait" }
-	1269 = { change_province_name = "Basse-Côte" }
+	1269 = { change_province_name = "Basse-C�te" }
 }
 DD_FRA_134a_FR3 = {
 	define_ruler = {
@@ -1040,7 +1040,7 @@ DD_BRA_64b = {
 }
 DD_BRA_65c = {
 	define_ruler = {
-		name = "Béla"
+		name = "B�la"
 		dynasty = "Hunyadi"
 		max_age = 40
 		min_age = 20
@@ -1523,26 +1523,26 @@ DD_ML2_5a = {
 }
 DD_ML2_7a1 = {
 	#Eyjabotn
-	#Kububýr
+	#Kubub�r
 	change_province_name = "Eyjabotn"
 	rename_capital = "Kububyr"
 }
 NYDD_ML2_a_thief_end = {
-	#Víkinga-haf or Sea of Thieves
+	#V�kinga-haf or Sea of Thieves
 	1516 = {
 		change_province_name = "Vikinga-haf"
 	}
-	#Útilegu-haf
+	#�tilegu-haf
 	1512 = {
-		change_province_name = "Utilegu-haf" # Sea of ​​Exile
+		change_province_name = "Utilegu-haf" # Sea of ??Exile
 	}
 	#Langabotn
 	1518 = {
 		change_province_name = "Langabotn" # Long Bay
 	}
-	#Haﬀrékn
+	#Ha?r�kn
 	1572 = {
-		change_province_name = "Haffrekn" # Sea of ​​Storms
+		change_province_name = "Haffrekn" # Sea of ??Storms
 	}
 }
 
@@ -1633,7 +1633,7 @@ DD_LOM_54c = {
 DD_LOM_63a = {
 	define_advisor = {
 		type = statesman
-		name = "Niccolò Machiavelli"
+		name = "Niccol� Machiavelli"
 		skill = 3
 		cost_multiplier = 0.33
 		culture = tuscan
@@ -1664,7 +1664,7 @@ DD_LOM_63a = {
 DD_ENG_7bb = {
 	define_ruler = {
 		name = "Knut III"
-		dynasty = "Knýtlinga"
+		dynasty = "Kn�tlinga"
 		adm = 3
 		dip = 2
 		mil = 5
@@ -1706,7 +1706,7 @@ DD_ENG_8a = {
 
 DD_HUN_2c = {
 	define_ruler = {
-		name = "János I"
+		name = "J�nos I"
 		dynasty = "Hunyadi"
 		DIP = 5
 		ADM = 4
