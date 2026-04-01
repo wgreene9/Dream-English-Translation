@@ -49,7 +49,11 @@ mechanic_release_subject_as_republic_yes:"Released subjects automatically become
 mechanic_fake_republic_reset_on_40_yes:"The '§YGilded Republic§!' government mechanic resets to §Y40§! upon the ruler's death."
 mechanic_unlock_desicion_all_prov_seat_yes:"Unlocks the decision '§YGrant All Seats§!', allowing us to grant seats to all provinces under our control."
 mechanic_republican_subject_gain_republican_yes:"§YRepublican Subjects§! gain §G+1.00§! Republican Tradition"
- mechanic__yes: ""
+mechanic_no_religious_cb_yes:"§RDisabled§! §YCrusade§! and §YCleanse Heresy§! casus belli"
+ mechanic__yes:""
+ mechanic__yes:""
+ mechanic__yes:""
+ mechanic__yes:""
 
  DD_not_normal_election_tt: "Has a unique election mechanism"
  use_caliph_title: "Ruler uses the §YCaliph§! title"
@@ -271,6 +275,12 @@ DD_MLO_parliament_reduce_modifier2:"Council Unrest"
 desc_DD_MLO_parliament_reduce_modifier2:"Due to our recent suppression of the Council, many are aggrieved."
 DD_MLO_parliament_add_modifier2:"Council Satisfied"
 desc_DD_MLO_parliament_add_modifier2:"Due to our recent relaxation towards the Council, some localism is resurging."
+
+ability_DD_ALG_humanity_mechanic:"§OFerocity§!"
+DD_ALG_humanity_power:"Ferocity"
+DD_ALG_humanity_power_desc:"Lose humanity, and much is lost; lose ferocity, and all is lost. The further one strays from the divine, the more untamed one becomes.\n\n§YOnly obtainable through missions or events.§!\n"
+monthly_DD_ALG_humanity_power:"Monthly Ferocity"
+DD_ALG_humanity_power_gain_modifier:"Ferocity Gain Modifier"
 
 # Government Reforms
 
@@ -666,6 +676,9 @@ NYDD_FRA_sunking_reform_desc: "French governance philosophy distills to three pr
 
 NYDD_BRA_nationist_reform: "National Frontier"
 NYDD_BRA_nationist_reform_desc: "Germans, long divided, lacked shared political experiences and a unified national political platform. Thus, they could only rely on cultural elements such as common bloodlines, language, history, and customs—a platform of the 'primordial nation' (Volk)—to overcome the barriers of state separation and construct a German cultural nation.\n\nTherefore, when the wave of nationalism rose in Europe, a sense of cultural community born from Germany's unique culture and ethnic traditions—a cultural movement led by elites like intellectuals and scholars, centered on the ethnic community—took the place of ordinary nationalism. It flourished within the political framework constructed for it by the Kaiser's League.\n\nGerman cultural nationalism disregards the divisions, at least the internationally recognized state borders on the map. It focuses on the German ethnic cultural community, defined by shared bloodlines, history, and culture, viewing the entire German cultural world as a single national whole—a unified national frontier, not merely the borders of the German Empire."
+DD_ALG_humanity_power_gain_modifier:"Ferocity Gain Modifier"
+NYDD_BRA_nationist_reform_modifier:"Germanic National Frontier"
+desc_NYDD_BRA_nationist_reform_modifier:"The German nation transcends the concept of the state."
 
 NYDD_BOH_Saint_Wenceslas_reform: "Crown of Saint Wenceslas"
 NYDD_BOH_Saint_Wenceslas_reform_desc: "The Crown of Saint Wenceslas is the ruling symbol of the Kingdom of Bohemia. As Bohemia's first Christian monarch, Saint Wenceslas represents the absolute symbol of the kingdom's rule. Nobles across the land pledge allegiance to the Crown itself rather than to the monarch personally. The king merely borrows the crown from Saint Wenceslas to govern the kingdom on his behalf. On one hand, this allegiance prevents abuse of royal power; on the other, it ensures the sanctity and legitimacy of the monarch's rule."

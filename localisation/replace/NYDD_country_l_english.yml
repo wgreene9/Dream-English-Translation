@@ -54,6 +54,7 @@
  LOM: "Lombardy"
  YWK: "Jórvík"
  AQT: "Aquitaine"
+ DNL: "Danelagen" # Daneland
 
  EN1: "Sussex"
  EN2: "Kent"
@@ -83,6 +84,8 @@
  FR7: "Greater France"
  FR8: "France"
  FR9: "Napoleonic Empire"
+
+ BR1_ADJ: "Breton"
 
  R0M: "Rome"
  R1M: "Rûm" #arabic Roma
@@ -252,6 +255,7 @@ JP2:"Daijo-kan"
  LOM_ADJ: "Lombard"
  YWK_ADJ: "Jórvík"
  AQT_ADJ:"Aquitanian"
+ DNL_ADJ: "Danelagen"
  
  EN1_ADJ: "Sussex"
  EN2_ADJ: "Kent"
@@ -281,6 +285,8 @@ JP2:"Daijo-kan"
  FR7_ADJ: "Greater French"
  FR8_ADJ: "French"
  FR9_ADJ: "Napoleonic"
+
+ BR1: "Bretagne"
 
  R0M_ADJ: "Roman"
  R1M_ADJ: "Rûmi" #arabic adjective for Rome

@@ -1,8 +1,8 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = theocracy
+add_government_reform = monastic_order_reform
 government_rank = 1
-primary_culture = romanian
-religion = greek_orthodox
+primary_culture = wallachia
+religion = catholic
 technology_group = eastern
 capital = 161 # Tîrgoviste
 
@@ -20,8 +20,8 @@ capital = 161 # Tîrgoviste
 
 1443.1.1 = {
 	heir = {
-		name = "Mircea"
-		monarch_name = "Mircea II"
+		name = "Vlad"
+		monarch_name = "Vlad III 'the Cuman Butcher'"
 		dynasty = "Draculesti"
 		birth_date = 1428.1.1
 		death_date = 1447.1.1 #Buried Alive

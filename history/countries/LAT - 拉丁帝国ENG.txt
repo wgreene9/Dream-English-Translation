@@ -6,6 +6,7 @@ religion = catholic
 technology_group = western
 capital = 149
 add_accepted_culture = BYZ_thrace
+fixed_capital = 151
 
 1444.1.1= {
 	monarch = {

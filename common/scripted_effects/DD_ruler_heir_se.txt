@@ -884,7 +884,7 @@ DD_FRA_117a = {
 DD_FRA_123a = {
 	define_ruler = {
 		name = "Reinhardt" #???? Lionheart?
-		dynasty = "de Capet"
+		dynasty = "Capet"
 		change_adm = 1
 		change_dip = 1
 		change_mil = 1
@@ -1090,7 +1090,7 @@ DD_BRA_53a = {
 }
 DD_BRA_48a = {
 	define_ruler = {
-		dynasty = "de Capet"
+		dynasty = "Capet"
 		max_age = 40
 		min_age = 20
 	}
@@ -1753,5 +1753,25 @@ DD_ENG_1a = {
 		fire = 2
 		manuever = 4
 		siege = 2
+	}
+}
+DD_PIC_10a = {
+	define_heir = {
+		name = "Charles"
+		dynasty = "Capet"
+		age = 30
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+DD_PIC_10a2 = {
+	define_consort = {
+		name = "Sylvia"
+		dynasty = "de Clermont"
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 27
 	}
 }

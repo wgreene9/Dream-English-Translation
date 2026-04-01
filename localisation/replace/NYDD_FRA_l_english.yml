@@ -804,8 +804,10 @@ DD_FRA_89a:"The silvered night howled, pouring relentless moonlight like pale ti
 
 
 DD_FRA_90_t:"The Dying Butterfly"
-DD_FRA_90_d:"Thirst that seeped into his bones, pain etched upon his soul - the blinding sun stabbed into his sunken eye sockets like thorns piercing his heart. His once-noble golden hair now lay matted with blood like wild grass, while a hair tie on his left wrist barely concealed deep gashes beneath. Those azure eyes stared vacantly, faintly reflecting fading tear tracks. Bound and silent, the man stood beneath the gallows like a dying butterfly caught in spider's silk.\n\n'You stand condemned for conspiring against the crown, meddling in succession, plotting against royalty, and treason,' declared the priest clutching his black-bound Bible. 'Will you repent, Charles?' With great effort, the man raised his head, the rough noose biting into his neck. His gaze pierced through the harsh sunlight, beyond the cerulean sky and clouds, as if seeking some distant starscape. Perhaps the answer had been written from the very beginning."
-DD_FRA_90a:"Beyond that vast and distant blue, one morning star still shines for you."
+DD_FRA_90_d:"Thirst that seeped into his bones, pain etched upon his soul - the blinding sun stabbed into his sunken eye sockets like thorns piercing his heart. His once-noble golden hair now lay matted with blood like wild grass, while a hair tie on his left wrist barely concealed deep gashes beneath. Those azure eyes stared vacantly, faintly reflecting fading tear tracks. Bound and silent, the man stood beneath the gallows like a dying butterfly caught in spider's silk.\n\n'You stand condemned for conspiring against the crown, meddling in succession, plotting against royalty, and treason,' declared the priest clutching his black-bound Bible. 'Will you repent, Charles?' With great effort, the man raised his head, the rough noose biting into his neck. His gaze pierced through the harsh sunlight, beyond the cerulean sky and clouds, as if seeking some distant starscape. Beyond that vast and distant blue, one morning star still shines for him."
+DD_FRA_90a:"Charles's dying thoughts drift back to where it all began."
+DD_FRA_90b:"Skip the recollection."
+DD_FRA_90b_tt:"If you have already experienced this event chain, you may skip ahead. This will not affect anything."
 
 DD_FRA_91_t:"Moon in the Puddle"
 DD_FRA_91_d:"'Why!' The middle-aged man collapsed on the ground, his once-magnificent brocade now tattered and dust-covered. 'How can you tolerate this! Such France, such family - have you no respect for our glorious name!'\n\n'Silence!' The elder on the steps thundered. 'Your life is spared only by virtue of that name. Take your son and begone - never return. Glory, family, bloodline - all ties to this name are severed.'\n\nIllness, wandering, suffering. From that night of exile, Charles and his father knew only rootless misery. Coughing blood once more, the man understood his time was short. 'Charles,' he whispered through pain-curled lips, yet his voice remained calm. 'I'll send you to an old friend. Be dutiful in his care.' 'Father—' 'Charles.' His tone turned firm. His hollow gaze fixed on the muddy puddle before them, where the moon's reflection floated pristine as jade amidst the filth. Yet try as he might, he could no longer discern his own face in those troubled waters.\n\n'Your bloodline, your homeland,' the man murmured, speaking to his son and himself alike, 'never forget your name, child. We may perish in wilderness, die unknown - but the fleur-de-lis's guiding star still shines for her descendants.'"
@@ -828,7 +830,7 @@ DD_FRA_95_d:"Sylvie had lied.\n\nWhen matters concerned that accursed family, th
 DD_FRA_95a:"'O ambitious Capet... why must your heart be the softest thing about you—'"
 
 DD_FRA_96_t:"The Moonlit Chase"
-DD_FRA_96_d:"Failure - perhaps this was indeed failure. Yet as the carriage careened wildly, Charles found his heart unexpectedly calm. The girl's warm form pressed against his back, her slender arms encircling his waist, the whisper of silk against his skin almost making him forget their pursuers. 'Why...' 'The lies we tell those closest need no artistry - isn't that what you'd say?'\n\nThe moonlight burned hot, his heart hotter still. Charles pressed the reins into Sylvie's hands, then reached up to stroke her radiant hair, gently removing her hair tie. Those golden tresses cascaded like stardust over her shoulders in the pearlescent glow. 'Keep this as my memento - surely you've not forgotten how to ride, Sylvie!'\n\nBefore she could answer, he leapt onto the carriage roof and severed the traces. The freed horses surged forward while the carriage skewed dangerously, blocking the narrow road in a shower of gravel. Charles de Capet drew his saber, its cold steel catching the pale moonlight as he leveled it at their royal pursuers - a crescent of deadly silver gleaming in the twilight."
+DD_FRA_96_d:"Failure - perhaps this was indeed failure. Yet as the carriage careened wildly, Charles found his heart unexpectedly calm. The girl's warm form pressed against his back, her slender arms encircling his waist, the whisper of silk against his skin almost making him forget their pursuers. 'Why...' 'The lies we tell those closest need no artistry - isn't that what you'd say?'\n\nThe moonlight burned hot, his heart hotter still. Charles pressed the reins into Sylvie's hands, then reached up to stroke her radiant hair, gently removing her hair tie. Those golden tresses cascaded like stardust over her shoulders in the pearlescent glow. 'Keep this as my memento - surely you've not forgotten how to ride, Sylvie!'\n\nBefore she could answer, he leapt onto the carriage roof and severed the traces. The freed horses surged forward while the carriage skewed dangerously, blocking the narrow road in a shower of gravel. Charles Capet drew his saber, its cold steel catching the pale moonlight as he leveled it at their royal pursuers - a crescent of deadly silver gleaming in the twilight."
 DD_FRA_96a:"Grant me no brilliant moonlight, only let me see its reflection in shattered glass..."
 DD_FRA_96a_tt:"§M...and that shall suffice for my scarred existence.§!\n"
 
@@ -1090,24 +1092,36 @@ DD_FRA_140_t: "The French Church"
 DD_FRA_140_d: "The Holy Catholic and Apostolic Church of France, abbreviated as the Gallican Church or the Church of Gaul, is a French church that emerged from the Roman Catholic Church. In the farcical standoff where the Imperial Church and the Roman Catholic Church divided the world, the cardinals controlled by the French court declared the churches of Rome and the Empire illegitimate in Avignon and elected their own Pope, thus writing the first page of the Gallican Church's history.\n\nUndoubtedly, the Gallican Church is absolutely loyal to Paris. After the religious wars and a series of conflicts caused by faith, the Gallican Church ultimately declared its independence from the Catholic Church, recognizing the King of France as the sacred leader of the church, while the Archbishop of Lyon serves as the Primate and Metropolitan of the entire French national church—that is, the Archbishop of Lyon or the Holy See of Lyon. The church adopts a three-fold holy order, believes in apostolic succession, and maintains most Catholic traditions in practice. It is the state church of France and most of its colonies and dependencies."
 DD_FRA_140a: "In the One Lord alone."
 
- DD_FRA_141_t:""
- DD_FRA_141_d:""
- DD_FRA_141a:""
- DD_FRA_142_t:""
- DD_FRA_142_d:""
- DD_FRA_142a:""
- DD_FRA_143_t:""
- DD_FRA_143_d:""
- DD_FRA_143a:""
- DD_FRA_144_t:""
- DD_FRA_144_d:""
- DD_FRA_144a:""
- DD_FRA_145_t:""
- DD_FRA_145_d:""
- DD_FRA_145a:""
- DD_FRA_146_t:""
- DD_FRA_146_d:""
- DD_FRA_146a:""
+DD_FRA_142_t:"Redeeming Calais"
+DD_FRA_142_d:"Calais was once among France's brightest jewels. After our disastrous invasion of the Quintuple Alliance a century ago, we suffered defeat at the hands of the Anglo-Dutch coalition. Our crown stood on the brink of bankruptcy, unable to pay the war indemnity, forcing us to cede Calais to English stewardship. Throughout the subsequent dark age, France lacked both the means and the gold to reclaim this city. Now that we have successfully pacified the great nobles, perhaps we can reopen negotiations to bring Calais back into the fold."
+DD_FRA_142a:"Offer §G100§!£icon_gold£!."
+DD_FRA_142a_tt:"@EN3§YThe English§! have approximately §G50.0%§! chance of accepting this offer."
+DD_FRA_142b:"Offer §G250§!£icon_gold£!."
+DD_FRA_142b_tt:"@EN3§YThe English§! have approximately §G75.0%§! chance of accepting this offer."
+DD_FRA_142c:"Offer §G500§!£icon_gold£!."
+DD_FRA_142c_tt:"@EN3§YThe English§! have approximately §G99.9%§! chance of accepting this offer."
+DD_FRA_142g:"Why not reclaim it by force?"
+
+DD_FRA_143_t:"The French Seek to Redeem Calais"
+DD_FRA_143_d:"Since our victory over the French invasion, Calais has remained under our stewardship as spoils of war. After all these years, the French have finally remembered Calais. Now they wish to buy back the city with gold."
+DD_FRA_143a:"For the right price."
+DD_FRA_143b:"Is that all?"
+DD_FRA_143b_tt:"\n§YThe French may raise their offer, or they may take offense.§!\n"
+
+DD_FRA_144_t:"The English Agree"
+DD_FRA_144_d:"The perfidious English have accepted our offer and returned Calais."
+DD_FRA_144a:"It seems war can be avoided."
+
+DD_FRA_145_t:"The English Refuse"
+DD_FRA_145_d:"Perhaps deeming our offer too modest, the English have rejected our proposal. We may raise our offer and negotiate again, or we may march on Calais."
+DD_FRA_145d:"So be it - we shall take what is ours."
+
+DD_FRA_146_t:"Dismantling the League of the Public Weal"
+DD_FRA_146_d:"We have defeated the League of the Public Weal - that insolent coalition of petty appanages. Yet how to handle these defeated vassals presents a new challenge. Each holds ancient privileges dating back to the Capetian dynasty. To revoke them by force would be unwise."
+DD_FRA_146a:"Step by step, we shall integrate them."
+DD_FRA_146b:"Let things remain as they are."
+DD_FRA_146c:"Revoke their privileges by force!"
+
  DD_FRA_147_t:""
  DD_FRA_147_d:""
  DD_FRA_147a:""
@@ -1117,16 +1131,20 @@ DD_FRA_140a: "In the One Lord alone."
  DD_FRA_149_t:""
  DD_FRA_149_d:""
  DD_FRA_149a:""
- DD_FRA_150_t:""
- DD_FRA_150_d:""
- DD_FRA_150a:""
+
+DD_FRA_150_t:"The Storm Descends"
+DD_FRA_150_d:"With the outbreak of the Second French Civil War, all factions have consolidated their positions and declared open conflict. In this tempest, no one can remain neutral."
+DD_FRA_150a:"[Root.GetName] shall stand unbroken."
+DD_FRA_150b:"[FR3.GetName] shall restore French glory."
+DD_FRA_150c:"[DAU.GetName] is the instrument of God's will."
+DD_FRA_150d:"[FR8.GetName] is the true heir to France."
 
 DD_estate_noble_FRA_paris:"Paris Accord"
-DD_estate_noble_FRA_paris_desc:"A compromise between the Angevin king and nobility, establishing feudal contracts delineating vassal rights and obligations."
+DD_estate_noble_FRA_paris_desc:"A compromise between the French king and nobility, establishing feudal contracts delineating vassal rights and obligations."
 
 DD_estate_noble_super_strong:"Aristocratic Supremacy"
 DD_estate_noble_super_strong_desc:"As coronation concessions, the crown granted nobles extraordinary privileges. In some regions, local aristocrats wield more power than the king himself."
-DD_estate_noble_super_strong_tt:"§RProhibits§! annexation of §Yappanages§!.\n"
+DD_estate_noble_super_strong_tt:"§RProhibits§! annexation of §Yappanages§!.\nDisables estate disasters except for §YAristocratic Coup§!.\n"
 
 DD_estate_noble_FRA_BUR_S:"Burgundian Appanage Privileges"
 DD_estate_noble_FRA_BUR_S_desc:""
@@ -1311,8 +1329,8 @@ NYDD_FRA_building_desc:"French architecture is unparalleled in the world. From P
 NYDD_FRA_end_chaos_modifier:"Temporary Victory"
 
 NYDD_FRA_pacify_angloi_modifier:"Preparing Naval Blockade"
-NYDD_FRA_crash_union_tt1:"Every @ENG§Y[ENG.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations, §Gremove§! §Yaggressive expansion§! against us, and begin §Ytransferring trade power§! to us.\n"
-NYDD_FRA_crash_union_tt2:"Every @EN3§Y[EN3.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations, §Gremove§! §Yaggressive expansion§! against us, and begin §Ytransferring trade power§! to us.\n"
+NYDD_FRA_crash_union_tt1:"Every @ENG§Y[ENG.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations and §Gremove§! §Yaggressive expansion§! against us.\n"
+NYDD_FRA_crash_union_tt2:"Every @EN3§Y[EN3.GetName]§! §Mtrade league member§! at war with us will pay us §G100§!£icon_gold£ in reparations and §Gremove§! §Yaggressive expansion§! against us.\n"
 NYDD_FRA_crash_union_tt:"§YEngland§! can no longer §Rally§! with or §Rform trade leagues§! with §YLow Countries§!.\n"
 FRA_FEAR_CAN_NOT_ALLY:"Due to French threats, we cannot ally with §Y[From.GetName]§!"
 NYDD_FRA_crash_union_modifier:"Channel Monopoly"
@@ -1518,7 +1536,7 @@ NYDD_FRA_chambin_ttt:"Crushed the Commonweal Alliance"
 NYDD_FRA_chambin_ttyes1:"£yes£If we completed the mission by §Mcrushing the Commonweal Alliance§!:"
 NYDD_FRA_chambin_ttno1:"£no£If we completed the mission by §Mcrushing the Commonweal Alliance§!:"
 
-NYDD_FRA_chambin_tt1:"All §Ymarch§! subjects participating in the §MCommonweal Alliance§! will have their territories §Grevoked§!.\n"
+NYDD_FRA_chambin_tt1:"We may §Mstrip the powers§! of the §Yappanages§! of the §MLeague of the Public Weal§!, transforming them into §YIncorporated Vassals§! - easier to annex and counting not against diplomatic relations. Alternatively, we may §Mforgive§! them and §Mmaintain the status quo§!. Finally, we could §Mdemand they surrender power§!, though this would only complicate integration.\n"
 
 NYDD_FRA_chambin_tt2:"\nAll core provinces of @CHP§Y[CHP.GetName]§!, @PIC§Y[PIC.GetName]§!, @PTU§Y[PTU.GetName]§!, @NEV§Y[NEV.GetName]§!,\n@BER§Y[BER.GetName]§! under our rule will lose their cores and gain:"
 
@@ -1745,7 +1763,7 @@ NYDD_FRA_ashe_to_ashe_desc:"Pain, pain is life's epic poem. When the curtain fal
 NYDD_FRA_loyaty_to_law_modifier:"Sacred Oaths"
 NYDD_FRA_loyaty_to_law_tt:"Modified privilege '§YFrench Strong Duchies§!':\nDiplomatic relations: §G+1§!\n"
 
-NYDD_FRA_revoke_privilge_tt:"Unlocks diplomatic action to convert:\n- Regular §Yvassals§! to §Ymarches§!\n- §YMarches§! to §Yprivileged marches§!\n- §YPrivileged marches§! back to §Ymarches§!.\n"
+NYDD_FRA_revoke_privilge_tt:"Unlocks the diplomatic-influence action '§YCall Appanage§!', allowing us to call §YAppanages§! or §YPrivileged Appanages§! into all wars at §G-50.0%§! favor cost. §g(This also applies to automatic calls to arms.)§!\n\nUnlocks diplomatic-influence actions to transform ordinary §Yvassals§! into §YAppanages§!, convert §YAppanages§! into §YPrivileged Appanages§!, or revert §YPrivileged Appanages§! to §YAppanages§!.\n\nAll subjects and §Y[Root.GetName]§! gain §G10§! trust and favors with each other.\n"
 
 NYDD_FRA_ashe_to_ashe_modifier:"Belated Centralization"
 NYDD_FRA_ashe_to_ashe_modifier2:"Dawn of Republic"
@@ -1945,3 +1963,23 @@ DD_FRA_control_BRA_tt2:"\nIf we have a §YSpymaster§! advisor, the above costs 
 cb_untie_france_DD_wargoal_WAR_NAME:"$ORDER$French Unification War"
 
 DD_FRA_27a_tt: "Removes the §Rpenalty§! for subjects from all existing §YAppanages§!.\n"
+
+NYDD_FRA_loyaty_to_law_ttt:"All subjects whose capitals lie within the §YFrance§! region have §Y150§! opinion of §Y[Root.GetName]§!"
+
+DD_estate_noble_FRA_paris_tt:"When annexing a subject in the §YFrance§! region, this privilege's effects are increased by:\n[global_manpower_modifier]: §G+2.0%§!\n[global_tax_modifier]: §G+2.0%§!\n[vassal_income]: §G+2.0%§!\n[land_morale]: §G+2.0%§!\n\nAfter annexing §Y5§! subjects in the §YFrance§! region, this privilege will be automatically removed."
+DD_estate_noble_FRA_paris_ttt:"No subjects with capitals in the §YFrance§! region"
+
+NYDD_FRA_crash_wool_union_ttt2:"Southern Negotiations Have Concluded"
+
+NYDD_FRA_lorrine_delimma_ttt2:"The §YLorraine Crisis§! has not yet erupted"
+NYDD_FRA_lorrine_delimma_tt3:"We shall bribe the §YDuke of [LOR.GetName]§! with §Ygold§! and §Oconcessions§! to prevent them from siding with the Empire.\n"
+
+DD_FRA_call_appanage_title:"Call Appanage"
+DD_FRA_call_appanage_desc:"Do you wish to call §Y[From.GetName]§! to join all your wars? This will cost favors.\n"
+DD_FRA_call_appanage_tooltip:"Joining our wars is their duty as subjects.\n"
+
+DD_FRA_end_2nd_civil_war_title:"@FR2 End the Second French Civil War"
+DD_FRA_end_2nd_civil_war_desc:"Let us draw the curtain on this endless internecine conflict."
+DD_FRA_end_2nd_civil_war_modifier:"France Reborn"
+desc_DD_FRA_end_2nd_civil_war_modifier:"...And so, France is reborn under new leadership."
+DD_colony_11a_tt:"\n@NW1§Y[NW1.GetName]§! possesses a unique mission tree that can grant rewards to both them and us.\n"

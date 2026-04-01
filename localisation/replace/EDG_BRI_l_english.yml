@@ -62,7 +62,7 @@ EDG_FR2_5:0 "French Language"
 EDG_FR2_6:0 "Expand Natural Borders"
 EDG_FR2_7:0 "Académie Francaise" #Académie Française
 ### Possible cause of CTD
-EDG_FR2_1_desc:0 "We have defeated the Capetian dynasty and taken their place as Kings of France."
+EDG_FR2_1_desc:0 "We have defeated the Capetian dynasty and taken their place as Kings of France. We must implement a policy of Gallicization to better govern this land."
 EDG_FR2_2_desc:0 "The French are the most valiant on the battlefield. When our charge horn sounds, countless warriors surge forth like a tide to break enemy lines."
 EDG_FR2_3_desc:0 "Our Estates-General effectively represents the needs of nobles, clergy, and burghers. More importantly, our monarch can subtly manipulate the assembly to redirect domestic tensions."
 EDG_FR2_4_desc:0 "The French king's compagnies d'ordonnance consist of 15 companies, each containing 100 lances. Each lance comprises 1 heavy knight, 2 mounted archers, 1 light cavalryman, and 2 non-combatant squires - totaling 9,000 men across all companies, with 6,000 being combat personnel."
@@ -89,9 +89,15 @@ EDG_FR3_6_desc:0 "During the Gallic Revival, the Wild Hunt has grown increasingl
 EDG_FR3_7_desc:0 "We are eternal rivals with the Germanic tribes to the east. Only by annihilating them completely can we ensure Gaul's security."
 
 
-FR2_BRI_ideas:0 "Breton-French Ideas"
-FR2_BRI_ideas_start:0 "Breton-French Traditions"
-FR2_BRI_ideas_bonus:0 "Breton-French Ambitions"
+FR2_BRI_ideas:0 "Breton Ideas"
+FR2_BRI_ideas_start:0 "Breton Traditions"
+FR2_BRI_ideas_bonus:0 "Breton Ambition"
+
+FR2_ideas:"French Ideas"
+FR2_ideas_start:"French Traditions"
+FR2_ideas_bonus:"French Ambition"
+EDG_FR2_1_2:"Heirs to the Capetian Dynasty"
+EDG_FR2_1_2_desc:"The blood of the Capetian dynasty flows through our veins, giving us a natural foundation to inherit France. We shall lay claim to our ancient right and inherit the realm of the Capetians."
 
 estate_privileges_and_agendas_events_EDG_nouvelle_name:0 "Proposal for the New Army"
 EST_VAL_carolean_percentage_LOY:0 "Percentage of New Army in Land Forces"

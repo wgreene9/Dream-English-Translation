@@ -1,10 +1,20 @@
 ﻿l_english:
 
 
-DD_call_favor_subject_into_war_tooltip: "Automatically call subjects who owe favors into wars. Only triggers on the next declaration of war and if the subject has sufficient favors."
+DD_call_favor_subject_into_war_tooltip: "Automatically call subjects who owe favors into wars. Only triggers on the next declaration of war and if the subject has sufficient favors.\n"
 DD_call_favor_subject_into_war_text: "Automatically Call Subjects into War"
 DD_call_favor_subject_into_war_tt1: "Currently: §ROff§!"
 DD_call_favor_subject_into_war_tt2: "Currently: §GOn§!"
+DD_call_favor_subject_into_war_tt_yes:"\nThis will affect the following subject types:"
+DD_call_favor_subject_into_war_tt_DD_german_ally_subject:"-§YBundesstaat§!" # League Ally
+DD_call_favor_subject_into_war_tt_DD_german_fed_subject:"-§YGerman Confederate State§!"
+DD_call_favor_subject_into_war_tt_DD_FRA_ally_subject:"-§YFrench Allied State§!"
+DD_call_favor_subject_into_war_tt_appanage:"-§YAppanage§!"
+DD_call_favor_subject_into_war_tt_DD_FRA_appanage2:"-§YPrivileged Appanage§!"
+DD_call_favor_subject_into_war_tt_DD_tribal_subject:"-§YTribal Followers§!"
+DD_call_favor_subject_into_war_tt_private_enterprise:"-§YPrivate Enterprise§!" # Chartered Company
+DD_call_favor_subject_into_war_tt_self_governing_colony:"-§YSelf-Governing Colony§!"
+DD_call_favor_subject_into_war_tt_nono:"\n§YThis currently does not affect any subjects.§!\n"
 
 DD_shouhu_subject: "Shugo"
 DD_shouhu_subject_title:0 "Shugo"

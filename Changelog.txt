@@ -1,3 +1,78 @@
+4.01.2026
+
+Hello everyone, it's time for the annual April Fools' Day update! (This update may not be save-compatible.)
+
+1. Picardy
+
+- Rebuild the glory of the Capetians, determined to be reborn from a remote corner and reclaim the throne of the fleur-de-lis!
+- Ultimately, they will embark on a road less traveled… oh, the Holy Empire, the glory of glories…
+- A man and a woman separated by the river Styx, a dynasty lost to history, a great dream of revival—will fate favor the defeated, can the ending be different?
+- Let the name of Capet return to Paris.
+
+2. Algiers
+- The wind of the Wild Soul Rebellion has finally blown to Algiers. Through the hands of Arslan, awaken your wildness and glimpse the truth!
+- Build a peaceful society not dominated by religion…
+- Equality? Tolerance? Or do you simply not care? Unleash your wildness this April Fools' Day…
+
+3. Other
+
+- Aragonese missions will now only establish a personal union with Navarra and cannot take effect if Navarra is not independent.
+- Added capacity for the Isawi Pirate Havens mechanic. Initial capacity is 10, which can be increased to 20 and 30 through missions, ultimately reaching no upper limit. Exceeding capacity will cost diplomatic power to maintain.
+- Fixed a bug in Lombard missions where Italian Grain would receive double modifiers.
+- Added new tags: Bretagne (Brittany) and Danelagen (Danelaw).
+- If the Exploration and Expansion idea groups are completed and the Colonial Standardization event has triggered, the Colonial Modernization event will trigger after 50 years, removing the autonomy penalty for overseas provinces.
+- Added new units: French Ordinance Cavalry (Gendarmes), Iberian Lancers, Iberian Almogavars, Improved Almogavars, Catalan Crossbowmen, Genoese Crossbowmen, Swiss Pikemen (generic).
+- Fixed Aberdeen lacking a Gaelic core.
+- Romania will now move its capital to Constantinople.
+- Resurrected the missing Charles heir for Burgundy.
+- Valencia is now a Catholic knight order.
+- AI Aragon will now also receive a truce with Asturias.
+- Added a tooltip informing that Taifas sending aid to Leon will result in a truce.
+- Brandenburg winning the German-French War will cause the Emperor to release all its nations and subjects.
+- Before the German-French War, if AI Brandenburg has no Confederate subjects, the North German Confederation will automatically disband.
+- If the North German Confederation disbands through means other than the German-French War, North German countries can choose whether to rejoin the Holy Roman Empire (requires Emperor approval).
+- Brittany, when a subject, will always choose Charlotte's coup to fail.
+- Fixed a bug where Croatia would not declare war on Montenegro during its civil war.
+- If the Hanseatic League becomes independent during an independence war, it will no longer commit suicide and disband afterwards.
+- The Religious War can now only be joined by countries in Europe.
+- If the Religious War is dominated by Anglicanism, the selection of the Emperor is not restricted to countries inside the Holy Roman Empire, considering France generally wouldn't be within it.
+- Brittany and other French variant tags can now also trigger the Anglican events.
+- Egypt released during the Last Crusade event will always become a theocracy, not a knight order.
+- Fixed a bug where AI Lombardy would not remove the Imperial Faction modifier when self-destructing.
+- When forming France, if Angevin France does not exist, all its core provinces will be inherited.
+- Fixed a bug where cores could not be obtained when forming the Holy Roman Empire. Now, only forming the HRE as the Emperor will integrate the princes.
+- The interaction to gain province control through favors will now trigger an effect equivalent to winning a siege yourself.
+- The button to automatically call subjects into war will now indicate which subjects will be affected.
+- Religious Zeal now provides -10.0% missionary strength.
+- The Privateer era ability now also grants +1 blockade siege.
+- Added a tooltip indicating that there are missions related to the Mississippi.
+- Modified the Castilian/Spanish idea "Soldiers of Christ": the +25% land force limit modifier has been changed to +10% morale damage to avoid overlap with existing traditions.
+- Renaissance spread in Balkan Greek culture will now only spread in the capital province, similar to Italy.
+- The favors required for Privileged Appanages to join wars has been increased to 50.
+- Fixed a bug where the heretic opinion bonus granted by the Orthodox Council does not decay.
+- Completing the cultural integration action for German culture will also grant cores on provinces of that culture (only applies to specific cultures in the German region).
+- When forming a new nation, if subjects have their territories colorized, the subjects' color will also be changed.
+- Fixed Swabia lacking France as a historical rival.
+
+Reworked some content related to France as follows:
+(1) The "Treaty of Paris" privilege is no longer removed through missions, but by annexing subjects. Each annexation of a subject in the French region reduces its strength by 20%; it is removed after annexing 5 subjects (for the two Prince paths). For the Military Government path and the Noble path, it will still be directly removed through the corresponding mission.
+(2) On the Noble path (Uncle path), the missions "Night of Lesser Britain" and "Lorraine Crisis" can be completed diplomatically. Completing the mission "Call from Beyond" can also trigger the event "Redeem Calais" (if conditions are met).
+(3) The autonomy reduction requirement in the mission "Call from Beyond" has been changed to increasing autonomy.
+(4) The missions "Night of Lesser Britain" and "Lorraine Crisis" are no longer prerequisites for their subsequent missions.
+(5) Fixed several bugs that could occur during the Southern Unification Assembly on the Noble path (Uncle path).
+(6) The mission "Shatter the Channel League" can now also be completed by owning five provinces.
+(7) The mission "Final Act of the Farce" no longer grants the reward to inherit the League of the Public Weal. Instead, it triggers an event to choose to turn them into incorporated vassals, maintain the status quo, or gain cores.
+(8) When the privilege "Aristocratic Supremacy" is active, disasters for other estates (clergy and burghers) will not trigger.
+(9) The mission "Revoke Privileges" has an added reward: you can call Appanages or Privileged Appanages into wars at half the favor cost (also applies to automatic call). The automatic call can now summon Privileged Appanages to war.
+(10) Added a "skip life" option to skip the romantic side story.
+(11) Strengthened AI France: it will now grant 10k troops to help deal with Feudal Vassal rebellions.
+(12) The leader of the League of the Public Weal can no longer ally with themselves. The invitation to join the League of the Public Weal can no longer be used indefinitely.
+(13) Added the option to choose which tag to play during the second civil war on the Military Government path (no buffs are inherited, and there is no additional content).
+(14) The France Coalition disaster now requires 10 countries in the coalition for the progress to start. Peace: -0.8, War: +0.4, 10-20 members each contribute +0.1.
+*The Noble path rework is not yet complete. Stay tuned for future updates.
+
+Other things forgotten.
+
 3.08.2026
 
 - Thessalonica's mission "The Eastern King of Kings" now requires the prerequisite "The Heart of Mesopotamia" to be completed.

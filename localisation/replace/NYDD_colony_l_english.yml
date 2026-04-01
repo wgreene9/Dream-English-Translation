@@ -21,9 +21,10 @@
  DD_move_capital_to_new_world_effect_modifier: "Distant Rule"
  desc_DD_move_capital_to_new_world_effect_modifier: "Due to the intercontinental distance, we are unable to administer this province directly and are forced to grant a degree of autonomous privileges."
 
- DD_colony_4_t: ""
- DD_colony_4_d: ""
- DD_colony_4a: ""
+ DD_colony_4_t:"Colonial Modernization"
+ DD_colony_4_d:"After years of development, our once-small settlements and trading posts have finally grown into self-sufficient towns of considerable scale. More and more immigrants are being drawn to settle in our colonies, continually expanding these new towns, to the point that local governments can be established for grassroots administration."
+ DD_colony_4a:"This too shall become our land."
+ DD_colony_4a_tt:"Newly established colonies will directly gain the modifier '§YColonial Standardization§!' for §Y10§! years, instead of '§YColonial Self-Rule§!'.\n\n§GRemoves§! all provincial modifiers '§YColonial Standardization§!' and '§YColonial Self-Rule§!' currently under our rule.\n"
  DD_colony_5_t: ""
  DD_colony_5_d: ""
  DD_colony_5a: ""

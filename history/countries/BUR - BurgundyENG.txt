@@ -1,5 +1,5 @@
 
-1419.9.11 = {
+1444.9.11 = {
 	monarch = {
 		name = "Philippe III"
 		dynasty = "de Bourgogne"
@@ -13,6 +13,20 @@
 	add_ruler_personality = calm_personality
 	add_ruler_personality = well_connected_personality
 	add_ruler_personality = well_advised_personality
-	#add_heir_personality = bold_fighter_personality
+	
 	#我查理呢？
+	#回来了，都回来了
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "de Bourgogne"
+		birth_date = 1433.11.10
+		death_date = 1477.1.5
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+		#block_disinherit = yes
+	}
+	#add_heir_personality = bold_fighter_personality
 }

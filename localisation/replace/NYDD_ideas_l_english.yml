@@ -970,6 +970,18 @@ DD_PRO_ideas_6_desc:"Administering the vast territories recently incorporated in
 DD_PRO_ideas_7:"Artillery Reverse Engineering"
 DD_PRO_ideas_7_desc:"When this black powder, with its uniquely unpleasant smell, first reached Europe via the Eastern trade routes, no one could have predicted the cataclysmic changes it would bring to warfare. And when we managed to purchase the largely intact remains of a mortar from the grasping Venetian merchants, we suddenly realized that the same opportunity for transformation was now in our hands. By dismantling it, meticulously studying its construction and operating principles, and even analyzing the composition of the residual gunpowder within, Provence's metallurgy, standardized manufacturing, and gunpowder technology all made qualitative leaps forward. The Provençal serpentine cannon born from this endeavor became one of the first artillery pieces formally adopted by any European state, writing a glorious chapter in the military history of Europe."
 
+DD_FRA_ideas_PIC:"French Ideas"
+DD_FRA_ideas_PIC_start:"French Traditions"
+DD_FRA_ideas_PIC_bonus:"French Ambition"
+DD_FRA_ideas_1_capet_come_back:"Capet Returns"
+DD_FRA_ideas_1_capet_come_back_desc:"Only one name is worthy of Charlemagne’s legacy; only one bloodline is the truly legitimate King of France—Capet. The glorious royal house, flowing with Carolingian blood, has at last ascended once more to the throne of the fleur-de-lis. Let these shameful usurpers and traitors understand what it means that royalty is eternal."
+
+DD_FRA_ideas2_PIC:"French Ideas"
+DD_FRA_ideas2_PIC_start:"French Traditions"
+DD_FRA_ideas2_PIC_bonus:"French Ambition"
+DD_FRA_ideas_3_2:"Command the Channel"
+DD_FRA_ideas_3_2_desc:"The English Channel is the economic lifeline of our France. Once, the wicked merchants of England and the Low Countries monopolized trade across the strait, leaving French merchants with no place to go. But with our recent successful military conquests against England, this channel has now become our channel. We shall grant merchants trade privileges, encourage them to compete with the merchants of the Low Countries, and bring profit back to France."
+
 DD_BG_ideas: "Ideas"
 DD_BG_ideas_start: "Traditions"
 DD_BG_ideas_bonus: "Ambition"
