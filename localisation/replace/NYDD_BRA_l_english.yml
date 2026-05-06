@@ -539,7 +539,7 @@ DD_BRA_89a_tt: "In subsequent missions, @PRU §Y[PRU.GetName]§! will replace @K
 DD_BRA_89b: "Better not."
 
 DD_german_nervous_action_ttt: "Has not used this decision in the last §Y5§! years"
-DD_german_nervous_action_title: "The Brink of War"
+DD_german_nervous_action_title: "Fan the Flames" # The Brink of War
 DD_german_nervous_action_desc: "A shadow of unease hangs over Germany; war seems imminent. The Second North-South War is already at our doorstep. We must find a way to ease tensions or simply end it once and for all..."
 
 DD_BRA_90_t: "Tense Situation"
@@ -770,7 +770,7 @@ NYDD_BRA_england_desc: "Britain across the Channel has suffered invasions from V
 
 NYDD_BRA_keep_eastern_tt: "Adjusts the '§YEastern Focus§!' modifier:\n[local_build_cost]: §G-5.0%§!\n[local_build_time]: §G-5.0%§!\n[local_development_cost]: §G-5.0%§!\n[local_prosperity_growth]: §G+1.00§!\n"
 NYDD_BRA_end_darkness_tt: "Adjusts the '§YEastern Focus§!' modifier:\n[local_build_cost]: §G-5.0%§!\n[local_build_time]: §G-5.0%§!\n[local_development_cost]: §G-5.0%§!\n[local_manpower_modifier]: §G+10.0%§!\n"
-NYDD_BRA_france2_tt: "Unlocks the §YFrench§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YFrench§! culture group except those with §YWallonian§! and §YAnglois§! cultures.)§!\n"
+NYDD_BRA_france2_tt: "Unlocks the §YFrench§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YFrench§! culture group.)§!\n"
 NYDD_BRA_england_tt: "Unlocks the §YBritish§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YBritish§! culture group and provinces with the §YAnglois§! culture.)§!\n"
 
 NYDD_BRA_low_countries_title: "Treaty of Utrecht"
@@ -860,7 +860,7 @@ NYDD_JHC_GER_chancellorship_desc: "The Chancellor was originally merely a servan
 NYDD_ger_chancellorship: "Iron-Fisted Chancellor"
 
 NYDD_BRA_justland_tt: "Unlocks the §YDanish§!, §YNorwegian§!, and §YSwedish§! options in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, or §YSwedish§! culture.)§!\n\nWhen all three of the above cultures are integrated, we will also unlock the option to integrate the §YScandinavian§! culture.\n"
-DD_GER_allow_integrate_Nordseedeutsch_germanic_tt: "Unlocks the §YNorth Sea German§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, §YSwedish§!, §YIcelandic§!, and §YGotlandic§! cultures.)§!\n"
+DD_GER_allow_integrate_Nordseedeutsch_germanic_tt: "Unlocks the §YNorth Sea German§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, §YSwedish§!, §YIcelandic§!, §YGotlandic§!, and §YNorse§! cultures.)§!\n"
 NYDD_BRA_papal_modifier2: "Guardianship of the Holy See"
 NYDD_BRA_papal_modifier: "Defend the Holy See"
 

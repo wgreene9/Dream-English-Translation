@@ -97,10 +97,10 @@ val_events.18.bb:0 "They need only fulfill their obligations."
 
 val_events.19.t:0 "Integration Plan for Muslim Populations"
 val_events.19.d:0 "The history of Iberian conquest is inseparable from the 'Reconquista' against Muslims. Yet even under our rule, the Islamic provinces remain distinct enclaves. With their own faith, language and way of life, they stand apart from our dominant culture. During our late king's reign, their discontent was suppressed by military might, but in the civil war they stirred restlessly, even plotting independence.\n\nNow in this post-crisis era, we must reconsider how to handle these unique communities. Should we follow historical precedents of harsh measures - forced conversion, cultural assimilation, or outright expulsion to achieve permanent homogeneity? This may eliminate threats but could bring unbearable social upheaval and economic damage. Or might we find a gentler path, permitting some preservation of their identity in exchange for loyalty and contributions to the state? This choice defines Valencia's imperial character and our future image across Iberia and the Mediterranean."
-val_events.19.aa:0 "Encourage their conversion"
-val_events.19.aa.d:0 "§YIslamic§! provinces in our §YIberian§! territories:"
-val_events.19.bb:0 "Mass expulsion"
-val_events.19.bb.d:0 "Every Islamic province in Iberia will convert to our state religion and culture at §R-60.0%§! §Ydevelopment§! loss. Each development point lost grants us §G+10¤§! and gives the province §R+20.0%§! devastation.\n"
+val_events.19.aa:0 "Encourage their conversion."
+val_events.19.aa.d:0 "§YIslamic§! provinces under our rule in §YIberia§! gain:"
+val_events.19.bb:0 "Mass expulsion."
+val_events.19.bb.d:0 "Every §YIslamic§! province in our §YIberian§! territories will convert to §Y[Root.Culture.GetName]§! and §Y[Root.Religion.GetName]§! and lose §R-60.0%§! §Ydevelopment§!. Each point of development lost grants us §G+10¤§! and gives the province §R+20.0%§! devastation.\n"
 val_events.19.cc:0 "We need them to maintain cities' operations."
 
 val_events.20.t:0 "Reform Agenda"
@@ -798,3 +798,17 @@ VAL_modifier_4_2:0 "Steady Advance"
 
 VAL_spain_missions_3_aragon_title:0 "Role Reversal"
 VAL_spain_missions_3_aragon_desc:0 "Since we have an Aragonese prince, why not use his claims to rule Aragon instead?"
+
+DD_VAL_consulate_of_the_sea: "Consulate of the Sea"
+DD_VAL_consulate_of_the_sea_desc: "The Consulate of the Sea is a newly established quasi-judicial body for administering maritime and commercial law, primarily tasked with assisting the kingdom in overseas governance."
+
+allow_po_VAL_vassalize_iberia_tt: "Unlocks the peace treaty '§YEstablish Trade Protectorate§!'.\n"
+
+val_disaster_appear: "Disaster Emerges"
+
+VAL_spain_missions_6_tt: "We will decide how to handle the §YMuslims§! under our rule - §Yencourage conversion§!, §Rexpel them all§!, or simply §Ymaintain the status quo§!.\n"
+VAL_expansion_missions_4_tt: "We will choose our §YEastern trade partners§!, granting different effects.\n"
+VAL_admin_missions_4_tt: "Depending on which idea groups we have completed, we may gain the following modifiers:"
+VAL_admin_missions_4_tt1: "§YMercenary, Quality, Offensive, Defensive§!:"
+VAL_admin_missions_4_tt2: "§YQuantity, Quality, Offensive, Defensive§!:"
+VAL_admin_missions_4_tt3: "§YPlutocratic, Divine, Aristocratic, Horde§!:"

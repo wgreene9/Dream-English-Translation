@@ -766,11 +766,11 @@ guiTypes = {
 		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片3
-    name ="Pentarchy_Alexandria_button"
-    scripted = yes
-    spriteType = "Pentarchy_Alexandria"
-    position = { x = 419 y = 255 } # 原始: (979, 215) -> 变换: (419, 255)
-    scale = 0.8
+		name ="Pentarchy_Alexandria_button"
+		scripted = yes
+		spriteType = "Pentarchy_Alexandria"
+		position = { x = 419 y = 255 } # 原始: (979, 215) -> 变换: (419, 255)
+		scale = 0.8
     }
     iconType = { # ##牧首区顶部绿色横幅4
 		name ="GFX_green_banner4"
@@ -790,11 +790,11 @@ guiTypes = {
 		maxHeight = 50
     }
     guiButtonType = { ##牧首区图片4
-    name ="Pentarchy_Jerusalem_button"
-    scripted = yes
-    spriteType = "Pentarchy_Jerusalem"
-    position = { x = 43 y = 425 } # 原始: (603, 385) -> 变换: (43, 425)
-    scale = 0.8
+		name ="Pentarchy_Jerusalem_button"
+		scripted = yes
+		spriteType = "Pentarchy_Jerusalem"
+		position = { x = 43 y = 425 } # 原始: (603, 385) -> 变换: (43, 425)
+		scale = 0.8
     }
     iconType = { # ##牧首区顶部绿色横幅5
 		name ="GFX_green_banner5"
@@ -1188,6 +1188,86 @@ guiTypes = {
 				}
 			}
 
+		}
+		#特殊局势
+		windowType = {
+			name = "DD_special_gui_window"
+			scripted = yes
+			position = { x = 450 y = 100 }
+			moveable = 1
+			background = "DD_special_gui_bg"
+			scripted = yes
+
+
+			#背景
+			guiButtonType = {
+				name = "DD_special_gui_bg"
+				position = { x = 0 y = 0 }
+				quadTextureSprite ="GFX_DD_italy_war_background"
+			}
+			#关闭按钮
+			guiButtonType ={
+				name = "DD_special_gui_window_close"
+				position = { x = 525 y = 100 }
+				scripted = yes
+				quadTextureSprite ="GFX_BC_closebutton"
+				shortcut = "ESCAPE"
+				clicksound = close_window
+			}
+			guiButtonType ={
+				name = "DD_special_gui_window_close2"
+				position = { x = 260 y = 700 }
+				scripted = yes
+				quadTextureSprite ="GFX_DD_closebutton"
+				shortcut = "ESCAPE"
+				clicksound = close_window
+			}
+			#意大利战争
+			windowType = {
+				name = "DD_special_gui_window_italy_war"
+				scripted = yes
+
+				#标题
+				iconType = {
+					name ="DD_special_gui_window_italy_war_text"
+					spriteType = "GFX_DD_italy_war_text"
+					scripted = yes
+				}
+				#按钮
+				guiButtonType = {
+					name = "gui_DD_italy_war_left_option"
+					position = { x = 50 y = 190 }
+					quadTextureSprite ="GFX_DD_italy_war_left_option"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_DD_italy_war_right_option"
+					position = { x = 325 y = 190 }
+					quadTextureSprite ="GFX_DD_italy_war_right_option"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_button_DD_italy_war_become_powerful"
+					position = { x = 100 y = 700 }
+					quadTextureSprite ="GFX_DD_italy_war_become_powerful"
+					scripted = yes
+				}
+				guiButtonType = {
+					name = "gui_button_DD_italy_war_interfere"
+					position = { x = 350 y = 700 }
+					quadTextureSprite ="GFX_DD_italy_war_interfere"
+					scripted = yes
+				}
+
+			}
+		}
+		#进入意大利战争局势
+		guiButtonType = {
+			name = "DD_italy_war_open_gui"
+			position = { x = 925 y = 10 }
+			quadTextureSprite ="GFX_DD_italy_war_open"
+			clicksound = macro_build
+			scripted = yes
 		}
 		#NYDD
 

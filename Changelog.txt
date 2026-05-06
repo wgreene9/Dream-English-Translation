@@ -1,3 +1,55 @@
+4.17.2026
+
+1. Thessaloniki
+
+Second route - Roman Pluralism update!
+- Begin the debate on revenge via the event "Beneath the Jubilation" which triggers after completing the mission "The Legitimate Coronation". Selecting the second option four times leads to the Roman Pluralism route, after winning the ensuing civil war. Utilise the powerful culture assimilation mechanic, but beware of your Roman Order… The Tower of Babel was not built in a day. And when it collapses, it will be the end for the Roman peoples.
+- The original route has been renamed Greek Revanchism. Greek cultures have been added across all of Europe for this route. After converting 5 Greek culture provinces in each region, corresponding events will trigger to strengthen your Hellenic Legion!
+- Added a mysterious easter egg.
+- Added a super event for both routes, which triggers upon completing the final government reform upgrade.
+- Autocephalous Patriarchates can no longer be annexed directly. Instead, they use a 50-year annexation mechanic, though they are cheaper to annex than ordinary subjects (-25%).
+- All mission requirements for non-tributary subjects have been changed to also accept tributaries.
+
+2. Other
+
+- Added event previews for the following countries. To maintain mystery, some event descriptions will use riddles:
+   o Asturias (all routes), Morocco & Tlemcen, Fez, Algiers, Africa, Andalusia, Valencia, France.
+- Adjusted the mission tree layout for Thessaly.
+- Reworked the French Noble route. Most events now allow you to release Appanages instead of Continental Alliance members. After centralising, Continental Alliance members can also be converted into Appanages. Removed the overall cap on the bonuses from Appanages and Privileged Appanages in the "Establish a General Staff" mission (previously +1 army tradition and +10% combat ability total). This is now replaced with a doubled bonus for every 50 development, with a cap per subject (each Appanage provides at most +0.5 army tradition and +10% combat ability).
+- Fixed an error where favors were being spent on the wrong target.
+- The AI for Aragon has been strictly forbidden from completing the mission to vassalise Navarra, as it has been causing many players to fall into traps.
+- Fixed a bug where some Fez missions were giving double buffs.
+- The French government reform "Gendarmes" now grants 10 recruitable heavy cavalry units (Winged Hussars).
+- Added a GUI for the Italian Wars situation.
+- The decision "End Hohenstaufen Hegemony" is now a button, located in the same position as "Dismantle the Holy Roman Empire".
+- Fixed a bug where Russian nations could not form Russia.
+- Added ideas for: Swabia, Sweden (Norse), Suzdal, Elysion, New Macedonia, Arcadia.
+- Added level 6 cavalry units: Crusader Knights, Berber Cavalry, Hungarian Hussars.
+- Removed the "Great" from Great Britain (just "Britain" now). Hopefully, they can regain it in the future.
+- The Bulgarian uprising released by Romania is now renamed Tarnovo to distinguish it from regular Bulgaria.
+- Removed redundant Greek culture group cultures.
+- Fixed a bug where the decision to enfeoff France could not be completed.
+- Added an event for Lithuania and Kiev to form an alliance.
+- Added "Amazing Grace" as BGM for Asturias' ending event to match the other routes.
+- Modified cultures near Cumania.
+- The Teutonic Order now starts allied with Wallachia.
+- The Governor Aid event for Africa will no longer directly vassalise; instead, it will send 5k infantry. If they can defeat the enemy, they will become a vassal again after victory.
+- The University great project in Cairo now provides advisor cost reduction instead of government power.
+- Added an event to expel the Crusaders from Africa (triggers when there are no Catholic, Iberian culture group, or Latin culture group countries in the Maghreb region).
+- The mission for inheriting Africa will now ask whether you wish to inherit.
+- When Brandenburg turns Poland into a subject, it now removes the forced vassalisation opinion penalty.
+- Added a good ending for the hidden path of the Military Government route.
+- Added a status quo ending for the Italian Wars.
+- Added a decision to unify Polish culture.
+- Added a decision to rebuild Wales.
+- Fixed a bug causing the Imperial Catholic Religious Center to produce infinite value.
+- The League of the Public Weal now only imposes a -25 peace desire penalty.
+- The Inquisition now removes religious zeal from provinces.
+- Fixed a bug where Liandao (Zhemin) would not turn into a republic after attaining the Mandate of Heaven.
+- Fixed a bug where players could not invite others into the HRE.
+- Fixed an incorrect name for the French Unification War.
+- Other things forgotten.
+
 4.01.2026
 
 Hello everyone, it's time for the annual April Fools' Day update! (This update may not be save-compatible.)
@@ -10,6 +62,7 @@ Hello everyone, it's time for the annual April Fools' Day update! (This update m
 - Let the name of Capet return to Paris.
 
 2. Algiers
+
 - The wind of the Wild Soul Rebellion has finally blown to Algiers. Through the hands of Arslan, awaken your wildness and glimpse the truth!
 - Build a peaceful society not dominated by religion…
 - Equality? Tolerance? Or do you simply not care? Unleash your wildness this April Fools' Day…

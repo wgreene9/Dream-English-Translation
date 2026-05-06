@@ -178,7 +178,7 @@ DD_FEZ.1.t: "Supreme of Iberia"
 DD_FEZ.1.d: "None could have foreseen that after eight centuries of Reconquista, it would be us - the apparent interlopers - who would bring it to its final conclusion. Cunning opportunists ignited the wildfires of conflict, yet proved incapable of ending the chaos. Thus we came, and before the unstoppable blades of our Crusade, neither Muslim nor Christian, neither ancient kingdom nor upstart warlord could stand. Iberia's fractured past ends today.\n\nFrom this moment forward, Iberia shall know but one crown and one emperor - [Root.Monarch.GetName]."
 DD_FEZ.1.a: "The old days are gone, the conflicts settled."
 DD_FEZ.1.a_buff: "True Emperor of All Iberia"
-DD_FEZ.1.a.t: "Combines and doubles the effects of §Y'Chivalric Spirit'§!, §Y'Moorish Estates'§!, and §Y'False Imperial Crown'§! into §Y'True Emperor of All Iberia'§! until end of game, granting:\nCavalry Combat Ability: §G+20.0%§!\nHeathen Tolerance: §G+2.00§!\nYearly Legitimacy: §G+2.00§!\nGoverning Capacity: §G+300§!"
+DD_FEZ.1.a.t: "Combines and doubles the effects of §Y'Chivalric Spirit'§!, §Y'Intervening in Strife'§!, and §Y'Weight of the Crown'§! into §Y'True Emperor of All Iberia'§!:"
 
 DD_FEZ.2.t: "Days of Yore"
 DD_FEZ.2.d: "Mauritania - a name both foreign and familiar. Founded by a hero, yet no monarch since has been willing to shoulder its legacy. To the common folk, Mauritania resembles less a real historical kingdom and more an ethereal legend, a beautiful fable - anything but an actual nation, a people, or an identity.\n\nBut winds change direction. Kingdoms long fallen may rise again, and the forgotten shall return."
@@ -238,7 +238,7 @@ DD_FEZ.12.a: "The candle has been extinguished."
 DD_FEZ.13.t: "Crusade's Fervor"
 DD_FEZ.13.d: "The Crusade's mission is the foundation of our national unity, its purpose the compass guiding our campaigns. As our piety and holy war efforts flourish, the time has come to convert this religious zeal into tangible benefits. For the Governor, bestowing these blessings presents an opportunity to consolidate power while sanctifying our young monarch, ensuring his reign's longevity and stability."
 DD_FEZ.13.a: "This glory belongs to all Crusaders."
-DD_FEZ.13.a.t: "Strengthen clergy privileges §Y'Expansionist Zeal'§!"
+DD_FEZ.13.a.t: "Strengthen clergy privilege §Y'Expansionist Zeal'§!.\n"
 DD_FEZ.13.b: "A Crusader King? We happen to have one ready-made!"
 
 DD_FEZ.14.t: "Comrades-in-Arms?"
@@ -300,9 +300,9 @@ DD_FEZ_2_2_tooltip: "§RSecond Muslim Great Revolt§! has erupted"
 
 DD_FEZ_2_6_buff: "Berber Trade"
 
-DD_FEZ_2_8_buff: "Moorish Estates"
+DD_FEZ_2_8_buff: "Intervening in Strife" # Moorish Estates
 
-DD_FEZ_2_9_buff: "False Imperial Crown"
+DD_FEZ_2_9_buff: "Weight of the Crown" # False Imperial Crown
 
 DD_FEZ_2_12_buff: "March Toward Revival"
 DD_FEZ_2_12.t: "All §Y[Root.Religion.GetName]§! provinces in the §YMaghreb§! region will gradually convert to §YMauretanian§! culture"
@@ -320,7 +320,7 @@ DD_FEZ_zunwang_2_buff: "Path of Return"
 DD_FEZ_zunwang_3_buff: "Path of Return"
 FEZ_zunwang_tt3: "Modifier '§YPath of Return§!' additional effects:\nMorale Damage: §G+5.0%§!\nMovement Speed: §G+5.0%§!\n"
 
-DD_FEZ_2_9.t: "§Y[Root.GetName]§! gains §Gcores§! on @ASU§MAsturias§!'s core provinces.\n"
+DD_FEZ_2_9.t: "§Y[Root.GetName]§! gains §Gcores§! on @ASU@CAS@LON@GAL§MAsturias§!'s core provinces.\n"
 
 DD_FEZ_2_12.t: "Provinces in §YMaghreb§! region will gradually convert to §YMauretanian§! culture.\n"
 
@@ -331,7 +331,9 @@ DD_FEZ_2_14_buff2: "Administrative Reform"
 DD_FEZ_3_3_buff: "Throne-Stealing Crow"
 
 DD_FEZ_3_7_buff: "King of the Tower"
-DD_FEZ_3_7_culture.t: "All provinces with §Ystate religion§! will convert to §YMauretanian§! culture"
+DD_FEZ_3_7_culture.t: "All §Y[Root.Religion.GetName]§! provinces in the §YMaghreb§! region will convert to §YMauretanian§! culture.\n"
+
+DD_FEZ_3_7_tt: "£icon_ideas£ National Idea 2, §Y'Between Peaks and Seas'§!, gains: \n Land Attrition: §G-5.0%§!\n\n£icon_ideas£ National Idea 3, §Y'Trade Hub'§!, gains: \n Trade Efficiency: §G+5.0%§!\n Caravan Power: §G+5.0%§!\n\n£icon_ideas£ National Idea 4, §Y'Wealth as a Weapon'§!, gains: \n Privateer Efficiency: §G+5.0%§!\n Chance to Capture Enemy Ships: §G+5.0%§!\n\n£icon_ideas£ National Idea 5, §Y'Desert Riders'§!, gains: \n Cavalry Cost: §G+5.0%§!\n Cavalry Combat Ability: §G+5.0%§!\n\n£icon_ideas£ National Idea 6, §Y'Righteous Rebellion'§!, gains: \n Galley Combat Ability: §G+5.0%§!\n\n£icon_ideas£ National Idea 7, §Y'Merchant Ship Expertise'§!, gains: \n Ship Trade Power: §G+17.0%§!\n\n"
 
 DD_FEZ_3_9_buff: "Mediterranean Control"
 DD_FEZ_3_9.t: "Eligible provinces gain:"
@@ -340,13 +342,17 @@ DD_FEZ_3_9_b_buff: "Blue Barrier"
 DD_FEZ_3_11.t: "Unlocks province interaction '§YEstablish Moorish Estates§!'\n(§gLocated in upper right corner of province interface - check mod compatibility if not visible)§!\n"
 
 DD_FEZ_3_13_1_tooltip: "No §YMediterranean§! nation has more §YLight Ships§! than us."
-DD_FEZ_3_13_2_tooltip: "Have strongest trade power in at least §Y2§! trade nodes around §YMediterranean§! or §YBlack Sea§!"
+DD_FEZ_3_13_2_tooltip: "\n   Have strongest trade power in at least §Y2§! trade nodes around §YMediterranean§! or §YBlack Sea§!"
+DD_FEZ_3_13_modifier: "Trade Master"
 
-DD_FEZ_3_14.t: "Unlocks diplomatic action: '§YJust Love Pillaging§!', allowing us to... eliminate victims' grievances. §g(physically)§!\n"
+# DD_FEZ_3_14.t: "Unlocks diplomatic action: '§YJust Love Pillaging§!', allowing us to... eliminate victims' grievances. §g(physically)§!\n"
+DD_FEZ_3_14.t: "Unlocks diplomatic action: '§YLiteral Exegesis§!', allowing us to... eliminate the grievances of those we plunder.\n"
 DD_FEZ_3_14_buff: "Official Plundering"
-DD_FEZ_clear_action: "Just Love Pillaging"
+# DD_FEZ_clear_action: "Just Love Pillaging"
+DD_FEZ_clear_action: "Literal Exegesis"
 DD_FEZ_clear_action_desc: "Pillaging doesn't count as theft... pillaging!... Crusader affairs, can they be called theft?"
-DD_FEZ_clear_action_title: "Just Love Pillaging"
+# DD_FEZ_clear_action_title: "Just Love Pillaging"
+DD_FEZ_clear_action_title: "Literal Exegesis"
 DD_FEZ_clear_action_tooltip: "Pillaging doesn't count as theft... pillaging!... Crusader affairs, can they be called theft?"
 
 DD_FEZ_3_15_huanzheng_yes: "£yes£If power has been returned to de Vivar family"
@@ -354,6 +360,7 @@ DD_FEZ_3_15_huanzheng_no: "£no£If power has been returned to de Vivar family"
 DD_FEZ_3_15_shijun_yes: "£yes£If power has been seized by de Fez family"
 DD_FEZ_3_15_shijun_no: "£no£If power has been seized by de Fez family"
 DD_FEZ_3_15_huanzheng.t: "Government mechanic '§YRegency Power§!' will be locked at §Gminimum value§!.\n"
+DD_FEZ_3_15_tt2: "After all these years, oh Prince, has §Y[Root.GetName]§! become what you desired?\n"
 DD_FEZ_3_15_shijun.t: "Government mechanic '§YRegency Power§!' locked at §Gmaximum value§!.\n"
 DD_FEZ_3_15_huanzheng_buff: "Governor's Legacy"
 DD_FEZ_3_15_shijun_buff: "Governor's Legacy"
@@ -376,18 +383,22 @@ DD_FEZ_4_2_buff: "Diplomatic Finesse"
 DD_FEZ_4_6_buff: "Eastern Frontier"
 DD_FEZ_4_6_b_buff: "Legion Integration"
 
-DD_FEZ_4_8_yes_t: "£yes£If we complete the mission while at war with @HSN§YAyyubids§!"
-DD_FEZ_4_8_no_t: "£no£If we complete the mission while at war with @HSN§YAyyubids§!"
+DD_FEZ_4_8_yes_t: "£yes£If we complete the mission with a war against @HSN§YAyyubids§!"
+DD_FEZ_4_8_no_t: "£no£If we complete the mission with a war against @HSN§YAyyubids§!"
 DD_FEZ_4_8_zhanzheng_buff: "Loyal Vassal"
 DD_FEZ_4_8_modifier: "Shattered Sword of Islam"
+DD_FEZ_4_8_tt: "Provinces we control in the §YEgypt§! region belonging to @HSN§Y[HSN.GetName]§! will be ceded to us.\n"
+DD_FEZ_4_8_yes_t2: "£yes£If @CAJ§Y[CAJ.GetName]§! is our §Msubject§!:"
+DD_FEZ_4_8_no_t2: "£no£If @CAJ§Y[CAJ.GetName]§! is our §Msubject§!:"
 
 DD_FEZ_4_9.t: "Great Project '§YKaaba§!' will be converted to '§YMecca Cathedral§!'.\n"
 
 DD_FEZ_4_10.t: "When completing §Mmissionary§! work in §YArabia§! region, gain §Y5§! of each monarch power and §Y0.1§! years of income.\n"
 
 DD_FEZ_4_14.tooltip: "§RThe Governor of Fez is on death's door.§!"
+DD_FEZ_4_14_tt: "With the Governor at death's door, he prepares to make one final §Rchoice§!...\n\n§g(The outcome depends on the Regency balance)§!"
 
-DD_FEZ_5_2.t: "If @AFR§RAfrica§! §Gagrees§!,\nwe will receive §Y10§! prestige, §Y1§! year of income and §Y1§! year of manpower.\n\n§RIf we're hostile with @AFR§RAfrica§!, obviously nothing will happen.§!\n"
+DD_FEZ_5_2.t: "If @AFR§RAfrica§! §Gagrees§!,\nwe will receive §G10§! prestige, §G1§! year of income and §G1§! year of manpower.\n\n§RIf we're hostile with @AFR§RAfrica§!, obviously nothing will happen.§!\n"
 
 DD_FEZ_5_4_yes: "£yes£If our capital has no §YCardinal§! when completing, we will gain one.\n"
 DD_FEZ_5_4_no: "£no£If our capital has no §YCardinal§! when completing, we will gain one.\n"
@@ -412,7 +423,7 @@ DD_FEZ_5_6_rongren_no: "£no£If we completed through §Mtolerance§!"
 
 DD_FEZ_5_9_buff: "Holy Land"
 
-DD_FEZ_2_12_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and are §Yfull cores§! of §Y[Root.GetName]§!"
-DD_FEZ_2_13_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and have been upgraded at least §Y2§! times"
-DD_FEZ_2_14_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region belong to §Y[Root.GetName]§! and have autonomy below §Y5§!"
-DD_FEZ_3_7_ttt: "All §Ycolonized§! provinces in §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! or its non-tributary subjects"
+DD_FEZ_2_12_ttt: "All §Ycolonized§! provinces in the §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! and are §Yfull cores§! of §Y[Root.GetName]§!"
+DD_FEZ_2_13_ttt: "All §Ycolonized§! provinces in the §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! and have been developed at least §Y1§! time or have §Y1§! building"
+DD_FEZ_2_14_ttt: "All §Ycolonized§! provinces in the §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! and have autonomy below §Y5§! (at minimum floor)"
+DD_FEZ_3_7_ttt: "All §Ycolonized§! provinces in the §YMaghreb§! region except §YMacaronesia§! belong to §Y[Root.GetName]§! or its non-tributary subjects"

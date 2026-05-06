@@ -2,7 +2,6 @@
 graphical_culture = muslimgfx
 color = { 58 188 41 }
 revolutionary_colors = { 8 0 5 } 	# Alleged Tricolor of the Republic of Salé
-historical_score = 100
 historical_idea_groups = {
   maritime_ideas
   defensive_ideas

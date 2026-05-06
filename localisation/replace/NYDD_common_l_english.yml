@@ -240,13 +240,15 @@ DD_has_papal_modifier_ttt: "Has the §YInvested in Papacy§! modifier"
 if_they_accept: "£yes£If they §Gaccept§!:"
 
 DD_FRA_nation_title: "@FR2 Rebuild France"
-DD_FRA_nation_desc: ""
+DD_FRA_nation_desc: "The unpopular rule of the House of Anjou has ended. The Capetian bloodline shall return to Paris to reign as the King of the Fleur-de-Lis."
 DD_BYZ_nation_title:"@BYZ Restore the Eastern Roman Empire" #@BYZ Rebuild Byzantium
-DD_BYZ_nation_desc: ""
+DD_BYZ_nation_desc: "In the wake of the Fourth Crusade, the final embers of the Roman Empire faded. After expelling the vile Frankish Greek Principalities, we have finally rebuilt a fragment of that ancient and great realm."
 DD_BYZ_nation_tt: "§YThracian§!, §YThessalonican§!, §YThessalian§!, §YEpirote§!, and §YAchaean§! will be unified into §YGreek§! culture.\n" # §YThrace§!, §YThessaloniki§!, §YThessaly§!, §YEpirus§!, and §YAchaea§! will be unified into §YGreek§! culture.
 
-DD_BOP_nation_title: "@BOP Reestablish the Kingdom of the Bosporus"
-DD_BOP_nation_desc: ""
+DD_BOP_nation_title: "@BOP Establish the Bosporan Kingdom"
+DD_BOP_nation_desc: "Bosporus was the name the Romans gave to this land. Through the ages, that name gradually came to symbolize Romanness itself. From Bosporus, we shall rebuild the boundaries of Rome."
+DD_WLS_nation_title: "@WLS Unify Wales"
+DD_WLS_nation_desc: "Under foreign invasion, Wales has yet to unite. But now, this injustice shall end. The Duke of [Root.GetName] has successfully united Wales, bringing hope to the Welsh people."
 
  #music Theme Songs
 CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
@@ -262,7 +264,7 @@ DD_END: "----------------------------------------\n"
 UNTIL_AT_PEACE: "until at peace"
 UNTIL_AT_WAR: "until at war"
 
-CANT_JOIN_HRE_WITHOUT_PRESSION:"We cannot join the Holy Roman Empire without the permission of the Holy Roman Emperor."
+CANT_JOIN_HRE_WITHOUT_PRESSION:"We cannot join the Holy Roman Empire without the permission of the Holy Roman Emperor.\n"
 
 DD_common_1_t:"Mission Tree Switching"
 DD_common_1_d:"[Root.GetName] has multiple pages of mission trees. You can switch between them at any time using the button in the top-right corner of the mission tree interface. If the button is not present, please check mod compatibility."
@@ -310,9 +312,54 @@ DD_allow_cb_imperial_effect_modifier: "Imperialist Propaganda"
 desc_DD_allow_cb_imperial_effect_modifier: "Becoming part of our great empire is their best choice!"
 DD_allow_cb_imperial_effect_tt2: "Since we have already unlocked the '§YImperialism§!' Casus Belli, as a §Ysubstitute§!, we will gain the following effects:"
 DD_event_preview_tt: "\n§TEvent Preview§!:"
+DD_event_option1_tt: "§JOption 1§!:\n"
+DD_event_option2_tt: "§JOption 2§!:\n"
 
 DD_enbale_muslim_great_project_tt:"§GEnables§! all §YMuslim§! great projects.\n"
 DD_enbale_christian_great_project_tt:"§GEnables§! all §YChristian§! great projects.\n"
 DD_hre_core_tt:"§Y[Root.GetName]§! gains §Gcores§! on all required provinces.\n"
 
 tooltip_balkan_greek_capital:"Is the capital of a country with §YGreek§! culture in the §YBalkans§! region"
+
+DD_POL_unite_culture_title: "£dip£ Unify Poland"
+DD_POL_unite_culture_desc: "Our great Poland nearly perished under foreign invasion. But heaven never seals off all exits - now that we have reunified the Polish borders, it is time to unite as one culture, one nation!"
+
+DD_21P_1a_tt_show_now_2: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
+DD_21P_1a_tt_show_now_3: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
+DD_21P_1a_tt_show_now_4: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!+§Y[1.21p_card_4.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
+DD_21P_1a_tt_show_now_5: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!+§Y[1.21p_card_4.GetValue]§!+§Y[1.21p_card_5.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
+
+DD_21P_3a_tt_show_now_2: "Opponent's hand: §Y[1.21p_card2_1.GetValue]§!+§Y[1.21p_card2_2.GetValue]§!=§O[1.total_card2_point.GetValue]§!\n"
+DD_21P_3a_tt_show_now_3: "Opponent's hand: §Y[1.21p_card2_1.GetValue]§!+§Y[1.21p_card2_2.GetValue]§!+§Y[1.21p_card2_3.GetValue]§!=§O[1.total_card2_point.GetValue]§!\n"
+DD_21P_3a_tt_show_now_4: "Opponent's hand: §Y[1.21p_card2_1.GetValue]§!+§Y[1.21p_card2_2.GetValue]§!+§Y[1.21p_card2_3.GetValue]§!+§Y[1.21p_card2_4.GetValue]§!=§O[1.total_card2_point.GetValue]§!\n"
+DD_21P_3a_tt_show_now_5: "Opponent's hand: §Y[1.21p_card2_1.GetValue]§!+§Y[1.21p_card2_2.GetValue]§!+§Y[1.21p_card2_3.GetValue]§!+§Y[1.21p_card2_4.GetValue]§!+§Y[1.21p_card2_5.GetValue]§!=§O[1.total_card2_point.GetValue]§!\n"
+
+DD_21P_1_t: "21 - Your Turn"
+DD_21P_1_d: "The rules are simple: if your hand exceeds 21, you lose. Reach exactly 21, or score higher than the opponent's total, and you win. The opponent will act after you choose 'Stand.'"
+DD_21P_1a: "Hit"
+DD_21P_1b: "Stand"
+DD_21P_1a_tt_card_one_more: "§OMy turn! Draw!§!\n"
+DD_21P_1a_tt_card_limit: "§RYour hand is already at the limit!§!\n"
+DD_21P_1_you_lose: "You lose!"
+DD_21P_1_you_win: "You win!"
+DD_21P_1a_tt_card_boom: "§ROver 21! Hand busted! You lose!§!\n"
+DD_21P_1a_tt_card_win: "§M21! You win!§!\n"
+DD_21P_1a_tt_show_ai: "Opponent's hand: §Y[1.21p_card2_1.GetValue]§!+?\n"
+
+DD_21P_3_t: "21 - Opponent's Turn"
+DD_21P_3_d: "It's now the opponent's turn. You can only watch and do nothing."
+DD_21P_3a: "Continue"
+DD_21P_3b: "Result"
+
+DD_21P_3_because_boom: "§JThe opponent's hand exceeded 21 and busted! You win!§!\n"
+DD_21P_3_because_small: "§OThe opponent's hand total is higher than yours. You lose!§!\n"
+DD_21P_3_because_bigger: "§JThe opponent's hand total is not higher than yours. You win!§!\n"
+DD_21P_3_because_idk: "§RIf you're seeing this, there's a bug. Please report this to the developers!§!\n"
+DD_21P_3_you_win: "§MYou win!§!\n"
+DD_21P_3_you_lose: "§RYou lose!§!\n"
+DD_21P_ing: "Blackjack in progress"
+DD_21P_1a_tt_AI_turn: "§YOpponent's turn next.§!\n"
+DD_21_test_title: "Blackjack"
+DD_21_test_desc: "Deer God forced me to make this."
+
+province_is_or_accepts_culture_ttt: "Province is of owner's culture or an accepted culture"

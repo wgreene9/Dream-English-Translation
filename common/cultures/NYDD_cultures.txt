@@ -146,7 +146,7 @@ east_slavic = {
 	pinsk_es = {}
 	qieerwen_es = {}
 	wolun_es = {}
-	halich_es = {}
+	# halich_es = {}
 	kiev_es = {}
 	temutalagan_es = {}
 	xieweier_es = {}
@@ -159,25 +159,28 @@ baltic = {
 }
 
 byzantine = {
+	province = {
+		local_has_banners = yes
+	}
 	BYZ_moxiya = {}
-	BYZ_dulasiweng = {}
+	# BYZ_dulasiweng = {}
 	BYZ_yililiya = {}
-	BYZ_daqiya = {}
-	BYZ_nixiya = {}
-	BYZ_aiaoniya = {}
-	BYZ_lvdiya = {}
-	BYZ_pafulageniya = {}
-	BYZ_likaoniya = {}
+	# BYZ_daqiya = {}
+	# BYZ_nixiya = {}
+	# BYZ_aiaoniya = {}
+	# BYZ_lvdiya = {}
+	# BYZ_pafulageniya = {}
+	# BYZ_likaoniya = {}
 	BYZ_kapaduoxiya = {}
 	BYZ_fulijiya = {}
 
-	BYZ_lvxiya = {}
+	# BYZ_lvxiya = {}
 	BYZ_agean = {}
 	BYZ_qiliqiya = {}
 	BYZ_krete = {}
 	BYZ_cyp = {}
-	BYZ_galatia = {}
-	BYZ_maixiya = {}
+	# BYZ_galatia = {}
+	# BYZ_maixiya = {}
 	# BYZ_aopuxijin = {}
 	# BYZ_bithynia = {}
 
@@ -190,6 +193,11 @@ byzantine = {
 	DD_ELY_culture = {}
 	DD_NMC_culture = {}
 	DD_acadia_culture = {}
+
+	BYZ_bosphorus = {}
+
+	BYZ_scania = {}
+	BYZ_hyperborea = {}
 }
 
 carpathian = {

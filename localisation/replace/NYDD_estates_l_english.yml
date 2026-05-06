@@ -52,3 +52,8 @@ estate_muslim_privilege_slots: "Heathen Privilege Slots"
 estate_knight_loyalty_modifier: "Knight Loyalty"
 estate_knight_influence_modifier: "Knight Influence"
 estate_knight_privilege_slots: "Knight Privilege Slots"
+
+DD_estate_klirikoi: "Klirikoi"
+DD_estate_latin_burgher: "Latin Burghers"
+DD_estate_emporoi: "Emporoi"
+DD_estate_eugeneis: "Eugeneis"

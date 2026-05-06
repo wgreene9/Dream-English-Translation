@@ -195,6 +195,9 @@
  DD_NMC_culture: "New Macedonian"
  DD_acadia_culture: "Arcadian"
  BYZ_bosphorus: "Bosporan"
+
+ BYZ_scania:"Scandian"
+ BYZ_hyperborea:"Hyperborean"
  
 #Carpathia
  wallachia: "Wallachian"

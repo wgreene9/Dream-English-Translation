@@ -2,7 +2,6 @@
 graphical_culture = westerngfx
 color = { 0 129 205 }
 revolutionary_colors = { 1 8 5 } 	# Belgium
-historical_score = 650
 historical_idea_groups = {
   administrative_ideas
   defensive_ideas

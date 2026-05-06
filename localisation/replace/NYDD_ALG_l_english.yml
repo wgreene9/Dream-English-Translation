@@ -428,3 +428,11 @@ NYDD_ALG_humanity_desc:"Some may ask: what do we seek, throwing ourselves so fer
 NYDD_ALG_humanity_modifier:"Altruism"
 desc_NYDD_ALG_humanity_modifier:"An ethic that places the interests of others above one's own."
 NYDD_ALG_humanity_tt:"When acquiring §Ynew provinces§!, for every §G+2.00§! tolerance of heathens, the province loses §G-5.0%§! local autonomy and §G-5§! years of separatism. Up to §G-25.0%§! local autonomy and §G-25§! years of separatism can be lost in this way.\n"
+
+NYDD_ALG_forward_tt2: "Send messengers to contact @TLC§Y[TLC.GetName]§!, wishing her §Rfair winds§!...\n"
+NYDD_ALG_our_end_tt2: "What do you mean, '§YI have a plan§!?'"
+NYDD_ALG_not_so_far_tt: "Are you §Jsatisfied§! now?"
+NYDD_ALG_not_so_far_tt2: "Face the §Rblood-soaked§! world.\n"
+NYDD_ALG_not_so_far_tt3: "Witness the §Oceaseless strife§! of this world.\n"
+NYDD_ALG_swordmaker_tt: "§OFairy tales never existed§! - §Rthey are merely written on walls§!.\n"
+NYDD_ALG_heart_betrayer_tt: "April Fools' update—meow!\n"

@@ -1,12 +1,11 @@
 #Country Name: Please see filename.
 graphical_culture = muslimgfx
-color = {   
+color = {
  100
   221
-  80 
+  80
 }
 revolutionary_colors = { 5 9 5 } 	# Ottoman Civil Ensign
-historical_score = 5500
 historical_idea_groups = {
   humanist_ideas
   trade_ideas

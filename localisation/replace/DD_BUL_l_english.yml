@@ -1,6 +1,6 @@
 ﻿l_english:
-BU1:0 "Bulgaria"
-BU1_ADJ:0 "Bulgarian"
+BU1:0 "Tarnovo"
+BU1_ADJ:0 "Tarnovan"
 DD_BUL_Gorko_ruler_modifier:0 "Stoyan's Indomitability"
 DD_BUL_support_of_Bogomilists:0 "Aid of the Bogomils"
 DD_BUL.0.t:0 "Restless Serfs"
@@ -13,7 +13,7 @@ DD_BUL.2.t:0 "Defection in [Root.Province.GetName]"
 DD_BUL.2.d:0 "We once thought these Bulgarians were as silent, obedient, and helpless as the soil beneath their plows. In the palace at [Root.Province.GetName], we feasted on their tax-grain and listened to their cringing acquiescence. Yet, when that thug nicknamed "Cabbage" – Stoyan – appeared on the horizon with his ragged mob, all pretense crumbled.\n\nThe mutiny did not begin outside the walls, but in every dark corner. Servants who usually only groomed horses and cleaned boots suddenly pulled sharpened axes from the haystacks; impoverished priests no longer prayed for peace in their sermons, but whispered the fearsome name of "Gorko". In the dead of night, the door bolts were greased for silence, and the garrison's drinking water was laced with hallucinogenic herbs.\n\nWhen Stoyan's crude banner surged through the gate, he was met not with resistance, but with the near-frantic cheers of the Bulgarians. The order we cultivated here for decades, in the face of this fury surging from the mud, proved more fragile than parchment. This land is awakening, and we will either be consumed by it or utterly cast out."
 DD_BUL.2.a:0 "These mud-foots dare turn on their masters!"
 
-# DD_ERO_ideas:0 "Bulgarian Ideas"
+DD_BUL_ideas:0 "Bulgarian Ideas"
 DD_BUL_ideas_start:0 "Bulgarian Tradition"
 DD_BUL_ideas_bonus:0 "Bulgarian Ambition"
 BUL_basic_ideas_1:0 "Establish Order"

@@ -3,7 +3,7 @@ add_government_reform = NYDD_kindom_of_crusder_reform
 
 primary_culture = koj_culture
 religion = catholic
-technology_group = eastern
+technology_group = western
 capital = 379	# Jerusalem
 
 1444.1.1= {

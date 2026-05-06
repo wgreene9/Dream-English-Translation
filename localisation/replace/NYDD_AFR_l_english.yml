@@ -118,7 +118,7 @@ DD_AFR_24_t: "The Drums Fall Silent"
 DD_AFR_24_d: "Finally, this terrifying calamity has been brought under control. Incompetent officials have been replaced, corrupt institutions have been reformed, and the ringleaders of the unrest have been severely punished. But this is by no means a permanent solution. We must find a way to completely eradicate this stubborn disease, or it will become a nightmare haunting the empire forever. We cannot tolerate the existence of infidels threatening the empire in its core regions... We must completely purge them!"
 DD_AFR_24a: "No time to lose!"
 # DD_AFR_24a_tt: "Enable the decision to exterminate, using 100 military points in a province with an army stationed, either yours or a vassal's. This will spawn 10k to 15k Sunni rebels to fight you. Success will change the province's culture and religion, and add the 'Extermination' modifier for 1 year, increasing unrest by +1 and separatism by +5 years. This modifier can stack. Allows the establishment of Moorish estates, costing 50 administrative points to establish or cancel, in non-overseas culture provinces. The province gains the 'Moorish Estate' modifier until the end of the game, increasing local unrest by +8, local goods produced by +50%, reducing local separatism by -10 years, and increasing local production efficiency by +20%."
-DD_AFR_24a_tt: "Allows the province interaction '§YEstablish Moorish Estate§!', which will grant the province:"
+DD_AFR_24a_tt: "Unlocks the province interaction '§YEstablish Moorish Estate§!', which will grant the province:"
 DD_AFR_25_t: "The Way of St. James"
 DD_AFR_25_d: "Iberia, the cold and troubled old homeland. Once, Christian believers prayed for God's blessing on this uncertain land, while under the crescent moon, infidels still lorded over the ancestral lands of the Iberians. The pilgrimage of St. James, the road to Compostela, is soaked in blood and tears, the mud and rain of flesh falling back onto necks. To this day, the rhythm of the Song of the Cid still echoes through the cities and countryside.\n\nHow can we bear to be slaves forever? Those who sing the name of Christ the Lord, you shall be redeemed now! With the cross and the sea at your back, go and fight. In the name of God, the lost shall outline the kingdom's borders with their blood, and a new nation shall rise from the ruins. The cold night will end, the rivers and mountains will be restored, the era of the Moors is over, and the broken kingdom will be reborn!"
 DD_AFR_25a_modifier: "Reconquista Zeal"
@@ -303,9 +303,9 @@ DD_AFR_55a: "Kairouan becomes war's cinder - Maghreb's Muslim heart extinguished
 DD_AFR_kailuwa_goodbye_tt: "§RThis atrocity won't be forgiven!§!\n"
 DD_AFR_55a_modifier: "Kairouan Atrocity"
 
-DD_AFR_56_t: ""
-DD_AFR_56_d: ""
-DD_AFR_56a: ""
+DD_AFR_56_t: "Clearing the Seas of Pirates"
+DD_AFR_56_d: "The city of Tunis has never been as lively as today - especially under the suffocating rule of the Franks, it was a city dead to Muslims. But that changes from this day onward - colorful banners now fly over this liberated coastal town, proudly raising Africa's head high. In the streets, at the harbor, in the taverns, Allah's poor and faithful children cheer loudly for their freedom.\n\nThe last Frankish ship has departed African soil. These invaders who seized our lands centuries ago have now been driven from Africa like beaten dogs by the surging waves of the Mediterranean. Tunis's great cathedral is packed with white-robed believers - the golden cross has been torn down. Soon, this too shall become a sacred mosque of Allah. The Franks have left this azure sea; now, the rest of the story belongs to us."
+DD_AFR_56a: "Islamic Reconquista."
 
 DD_AFR_57_t: "African Refugee Crisis"
 DD_AFR_57_d: "With Saracens capturing our last stronghold, African Kingdom vanishes from Maghreb. Tunis falls; Christians flee across Mediterranean seeking sanctuary.\n\nBattle-hardened refugees reach our borders - potential military assets. They flood European courts and cities, desperate for foothold."
@@ -609,7 +609,7 @@ desc_DD_AFR_29a_modifier: "We are Jerusalem's protectors!"
 
 NYDD_AFR_new_nation_ttt: "All §Ycolonized§! provinces outside §YMacaronesia§! belong to §Y[Root.GetName]§! or non-tributary subjects"
 # NYDD_AFR_new_nation_ttt2: "Is §YAfrican§! or §YMauritanian§! culture"
-NYDD_AFR_new_nation_ttt2: "All colonized provinces in the §YMaghreb§! region outside the §YMacaronesia§! area are of §YAfrican§!, §YMauretanian§!, or §YCyrenaican§! culture"
+NYDD_AFR_new_nation_ttt2: "All colonized provinces in the §YMaghreb§! region outside the §YMacaronesia§! area are of §YAfrican§!, §YMauretanian§!, or §YCyrenaican§! culture, or have established a §YMoorish Estate§!"
 
 DD_AFR_GEN_buy_jierba_tt: "We will pay the equivalent of §Y[2954.GetName]'s development§!§Tx3§! times the §YGenoese monthly income§! to purchase §Y[2954.GetName]§!.\n\n§MAlliance§! or having a §Mhigh§! army size will make it easier for them to §Gagree§!.\n"
 DD_AFR_58a_tt: "§Y[AFR.GetName]§! will pay §Y[Root.temp2.GetValue]§!£icon_gold£\n"
@@ -642,3 +642,23 @@ DD_AFR_plantation_modifier_cant_do_this: "Provinces with the modifier '§YMooris
 
 DD_AFR_36a_modifier: "Vengeful Spirit"
 desc_DD_AFR_36a_modifier: "I swear I shall reclaim everything..."
+
+DD_AFR_3b_modifier: "African Support"
+desc_DD_AFR_3b_modifier: "Africa has sent us valuable support."
+DD_AFR_3b_tt: "After the §YSecond Great Muslim Uprising§! ends, they will once again become our §Yvassal§!.\n"
+
+DD_AFR_back_to_subject_title: "Return to Africa"
+DD_AFR_back_to_subject_desc: "Let us return to Africa's embrace."
+
+DD_AFR_61_d: "[From.GetName] has successfully crushed the Muslim uprising. [From.Monarch.GetName] travels wearily to [Root.Capital.GetName] to swear fealty once more."
+DD_AFR_61_t: "Back on Track"
+DD_AFR_61_d_FEZ: "As one of the first Mauritanian knights to receive enfeoffment, the House of Fez is among Africa's founding fathers - no one dares question their loyalty to the kingdom. De Fez has ruled in Fez for over a century, far from the kingdom's power center and occupied with suppressing the Moroccans. But [From.Monarch.GetName] seems different. Though already middle-aged, a burning ambition has never been concealed beneath those ancient, placid eyes. [From.Monarch.GetName] may be utterly loyal to the kingdom and the crusade, but not necessarily to [Root.Monarch.GetName]'s rule. Regardless, the kingdom still welcomes his return."
+DD_AFR_61_d_ALG: "As the first Muslim tribal leader to surrender, Algiers' governor [From.Monarch.GetName] proved remarkably farsighted. We treated the turncoat with due courtesy - his family's rule over Algiers was recognized by the kingdom, though it earned them the contempt of their own people. As for protecting Muslim refugees under his gubernatorial authority, we chose to look the other way. This barren land requires obedience, not governance. The apprehensive [From.Monarch.GetName] rushed to [Root.Capital.GetName] to pay homage the moment the war ended. [Root.Monarch.GetName] could see that any genuine loyalty seemed buried deep within an inscrutable heart. Assuming he had merely sheltered a few more remnants, the king ordered him to accelerate Christianization and dismissed him. After all, Africa remains in turmoil."
+DD_AFR_61a: "[From.Monarch.GetName] has governed wisely."
+
+NYDD_AFR_cross_land_tt: "We will release @HCR§Y[HCR.GetName]§! as a Colonial Nation in the §YBrazil§! region.\n"
+NYDD_AFR_knightland_tt: "We may release @SP9§Y[SP9.GetName]§! in §YIberia§! as a §YCrusader Subject§!, or gain:\n"
+NYDD_AFR_reform_army_tt: "We will choose one of several army reforms. Available modifiers are as follows:\n"
+NYDD_AFR_new_nation_tt3: "We will choose the fate of the §YMauritania§! Knights, either integrating them into the §YAfrica§! Knights or §Mmaintaining the status quo§!.\n"
+NYDD_AFR_mecca_tt: "We will choose the fate of the heart of the Islamic world - the §YKaaba§! - §Rdestroy§! it or §Mconvert§! it.\n"
+NYDD_AFR_dawn_tt: "Looking back upon the life of @AFR§YAfrica§!, it has endured countless hardships to finally achieve greatness. Crusaders, close your eyes and rest now - for there shall be no more death nor tears.\n"

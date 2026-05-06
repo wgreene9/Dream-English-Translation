@@ -34,16 +34,15 @@ BAV = {
 		block_disinherit = yes
 	}
 	queen = {
-		monarch = {
-			name = "Barbara II"
-			dynasty = "von Wittelsbach"
-			birth_date = 1410.12.15
-			death_date = 1460.11.29
-			adm = 5
-			dip = 3
-			mil = 2
-			female = yes
-		}
+		name = "Barbara II"
+		dynasty = "von Wittelsbach"
+		country_of_origin = BAV
+		birth_date = 1410.12.15
+		death_date = 1460.11.29
+		adm = 5
+		dip = 3
+		mil = 2
+		female = yes
 	}
 	clear_scripted_personalities = yes
 	set_heir_flag = DD_SWA_BAV_heir_flag
