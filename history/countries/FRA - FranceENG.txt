@@ -50,5 +50,6 @@ change_estate_land_share = {
         adm = 2
         dip = 2
         mil = 3
+		block_disinherit = yes
 	}
 }

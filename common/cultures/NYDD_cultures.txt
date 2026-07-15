@@ -161,6 +161,7 @@ baltic = {
 byzantine = {
 	province = {
 		local_has_banners = yes
+		local_has_carolean = yes
 	}
 	BYZ_moxiya = {}
 	# BYZ_dulasiweng = {}

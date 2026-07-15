@@ -50,7 +50,7 @@ mechanic_fake_republic_reset_on_40_yes:"The '§YGilded Republic§!' government m
 mechanic_unlock_desicion_all_prov_seat_yes:"Unlocks the decision '§YGrant All Seats§!', allowing us to grant seats to all provinces under our control."
 mechanic_republican_subject_gain_republican_yes:"§YRepublican Subjects§! gain §G+1.00§! Republican Tradition"
 mechanic_no_religious_cb_yes:"§RDisabled§! §YCrusade§! and §YCleanse Heresy§! casus belli"
- mechanic__yes:""
+mechanic_has_special_tax_for_overlord_yes:"Is required to pay regular taxes to its suzerain"
  mechanic__yes:""
  mechanic__yes:""
  mechanic__yes:""
@@ -282,6 +282,21 @@ DD_ALG_humanity_power_desc:"Lose humanity, and much is lost; lose ferocity, and 
 monthly_DD_ALG_humanity_power:"Monthly Ferocity"
 DD_ALG_humanity_power_gain_modifier:"Ferocity Gain Modifier"
 
+ability_DD_NED_election_mechanic:"§YDutch Balance of Power§!"
+DD_NED_republican_vs_monarchy:"Stadtholder vs. Grand Pensionary"
+DD_NED_republican_vs_monarchy_desc:"The center of power in the Netherlands constantly tilts between the Stadtholder's office and the Grand Pensionary. The government of the United Provinces is like an ever-shifting scale. Through official appointments, political rivalries, and parliamentary debates, both the Stadtholder and the Grand Pensionary perpetually seek to influence the entire government. Whether nominating a Monarchist or Republican Grand Pensionary, or appointing a Centralist or Provincialist Stadtholder, the players in the Low Countries have but one goal: to control the House of Cards that is the Netherlands.\n\nWhen the §YBalance of Power§! is below §O0§!, a §YStadtholder§! of the §YNassau§! dynasty shall become the ruler, and elections will only be held upon death.\n\nWhen the §YBalance of Power§! is greater than or equal to §M0§!, a §YRepublican§! §YGrand Pensionary§! shall become the ruler, with elections held every §Y4§! years.\n\nEvery §O-20§! Balance of Power grants:\nLand Force Limit: §G+5.0%§!\nStability Cost Modifier: §G-5.0%§!\nManpower Recovery Modifier: §G+5.0§!\nYearly Legitimacy: §G+0.5§!\n\nEvery §M+20§! Balance of Power grants:\nNaval Force Limit: §G+5.0%§!\nProduction Efficiency: §G+5.0%§!\nTrade Efficiency: §G+5.0§!\nGlobal Trade Power: §G+5.0%§!\nYearly Legitimacy: §R-0.25§!\n"
+
+ability_NYAB_NED_colony_mechanic:"§YDutch Colonial Ministry§!"
+NYAB_NED_colony_power:"Colonial Reserve"
+NYAB_NED_colony_power_desc:"When the §YColonial Reserve§! exceeds §G100§! £icon_colonial_growth£, each time a colonist brings settlers to a colony, an additional §G100§! £icon_colonial_growth£ will be added, with the corresponding amount deducted from the §YColonial Reserve§!. This mechanic does not take effect if the §YColonial Reserve§! is §Rbelow§! §G100§! £icon_colonial_growth£.\n\nThe following actions can increase the §YColonial Reserve§!:\n- When exploiting the development of a §Ynon-overseas province§!, every §Y10§! development grants §G50§! £icon_colonial_growth£, up to a maximum of §R250§! £icon_colonial_growth£. Provinces with less than §Y10§! development only grant §G25§! £icon_colonial_growth£.\n"
+NYAB_NED_colony_fever_title:"@NED Dutch Colonial Planning Bureau £icon_colonial_growth£"
+NYAB_NED_colony_fever_desc:""
+NYAB_NED_colony_fever_tt:"Colonial Reserve: §G[Root.ned_colonize_expansion_value.GetValue]§! £icon_colonial_growth£\n"
+ned_colonize_expansion_value:"Colonial Reserve"
+NYAB_NED_colony_fever_tt1:"Current status of our Colonial Reserve usage: §GEnabled§!\n"
+NYAB_NED_colony_fever_tt2:"Current status of our Colonial Reserve usage: §RDisabled§!\n"
+NYAB_NED_colony_fever_tt3:"When the §YColonial Reserve§! is §Genabled§!, each time a colonist brings settlers to a colony, an additional §G100§! £icon_colonial_growth£ will be added, with the corresponding amount deducted from the §YColonial Reserve§!. This mechanic does not take effect if the §YColonial Reserve§! is §Rbelow§! §G100§! £icon_colonial_growth£.\n\nThe following actions can increase the §YColonial Reserve§!:\n- When exploiting development, every §Y10§! development grants §G50§! £icon_colonial_growth£, up to a maximum of §R250§! £icon_colonial_growth£. Provinces with less than §Y10§! development only grant §G25§! £icon_colonial_growth£.\n"
+
 # Government Reforms
 
  #t1
@@ -423,6 +438,9 @@ NYDD_GER_fed_reform: "German Federation"
 NYDD_GER_fed_reform_desc: "As the first empire of the Germans headed to its grave, the Second German Empire rose from the ruins of the Holy Roman Empire. This new homeland for the German people unified the peoples of the South and the North, granting all German lands equal status. The nascent Germany is a federal empire composed of seven states—North Germany, Rhineland, Bavaria, Baden, Austria, Württemberg, Franconia, and the Special Region of Bohemia—with the head of the House of Hohenzollern serving as the Emperor of the Empire."
 NYDD_GER_fed_reform2: "German Imperial Government"
 NYDD_GER_fed_reform2_desc: "Through the Chancellor system and Imperial government reforms, Germany now possesses a mature modern political system. The Kaiser holds the power to appoint and dismiss the Chancellor, the President of the Imperial Diet, and the Imperial Chief Justice, as well as to veto and pass laws. The Chancellor, the President, and the Chief Justice exercise executive, legislative, and judicial powers on behalf of the Emperor. The leader of the Imperial government, the Chancellor, is elected by the Imperial Diet and recommended to the Emperor, while the cabinet is confirmed after the Chancellor selects a list of candidates for the Emperor's appointment. The Imperial Chancellor has evolved from the initial chief minister serving the monarch into the Empire's leader assisting the Emperor today, becoming one of the dual political centers of the German Empire."
+NYDD_GER_subject_reform: "Confederate State"
+NYDD_GER_subject_reform_desc: "Typically held by a relative of the Kaiser, this office is designed to control the state for the service of the Empire."
+
 NYDD_BRA_navy_reform: "Imperial High Seas Fleet"
 NYDD_BRA_navy_reform_desc: "Ruled by a group of shrewd naval admirals, escorting the high seas for the Empire."
 
@@ -455,6 +473,13 @@ NYDD_MLO_parliament_reform:"The Grand Council of Italy"
 NYDD_MLO_parliament_reform_desc:"The Grand Council of Italy is a legislative and decision-making body that evolved from the Milanese councils of the League era and even earlier. Although its powers are limited, it retains certain advisory functions as a body representing the citizenry. During the Sforza dynasty's rule, the ever-strengthening princely power further weakened the manipulated council's functions, turning it into a symbolic institution, yet it remains an important tool for legitimizing royal authority and representing the will of the people."
 NYDD_LOM_free_italy_reform:"The Italian Committee"
 NYDD_LOM_free_italy_reform_desc:"The Committee is mainly composed of families from Southern Italy, most of whom were either expelled by the Medici or harbor resentment towards them."
+
+DD_NED_united_province_reform:"United Provinces of the Netherlands"
+DD_NED_united_province_reform_desc:"Among the monarchies of Europe, the Netherlands stands as a young and peculiar exception. Legally, the Netherlands is a union jointly formed by the provinces of the Low Countries, and the States General, representing the provinces and their Stadtholders, is the supreme authority of the United Provinces. Due to the outstanding contributions of the Prince of Nassau and his successors to the independence of the Low Countries, the office of Stadtholder, who leads the Netherlands, is hereditarily held by the successive Princes of Nassau. The entire politics of the United Provinces revolves around the cooperation and rivalry between the Stadtholder and the Grand Pensionary, forming a unique political system of checks and balances between the central and local, the monarchical and the republican."
+DD_NED_empire_subject_reform:"Imperial Viceroyalty of the Netherlands"
+DD_NED_empire_subject_reform_desc:""
+DD_NED_kingdom_reform:"Kingdom of the Netherlands"
+DD_NED_kingdom_reform_desc:""
 
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
@@ -697,6 +722,11 @@ FIRST_CITIZEN:"First Citizen"
 DICTATOR_DD:"Dictator"
 DD_SILING: "Imperial Commander"
 HOLY_FEM: "Holy Maiden"
+
+NED_ZHIZHENG:"Stadtholder"
+NED_ZHIZHENG_fem:"Stadtholderess"
+NED_YIZHANG:"Grand Pensionary"
+NED_YIZHANG_fem:"Grand Pensionary"
 
 # Persia and Central Asia
 NYDD_ILK_reform: "Ilkhanate"

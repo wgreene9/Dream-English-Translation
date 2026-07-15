@@ -354,7 +354,7 @@ DD_BRA_59_d: "The Kingdom of Poland, referred to by most Germans as 'our backyar
 DD_BRA_59a: "Perhaps it's better to support the honest Prince of Masovia."
 DD_BRA_59b: "A King of Poland sounds quite fitting for a Hohenzollern."
 DD_BRA_59c: "Poland will fare better under our direct rule."
-DD_BRA_59C_tt: "Unlocks the §YPolish§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning provinces with the §YMazovian§!, §YPoznań§!, §YVistulan§!, and §YPolish§! cultures.)§!\n"
+DD_BRA_59C_tt: "Unlocks the §YPolish§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning provinces with the §YMazovian§!, §YPoznań§!, §YVistulan§!, and §YPolish§! cultures.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
 DD_GER_need_to_unlock_kaiser_union_tt: "§gThe government reform '§YKaiser's Union§!' must be unlocked for the §OCultural Integration§! mechanism to Germanize other regions. The government reform '§YKaiser's Union§!' can be enacted through the mission '§YBridging the Divide§!'.\n§!"
 
 DD_BRA_60_t: "The Iron Crown of Lombardy"
@@ -591,9 +591,9 @@ DD_BRA_101_t:"The Emperor Has Refused"
 DD_BRA_101_d:"The corrupt Emperor has rejected our rightful request to join the Holy Roman Empire."
 DD_BRA_101a:"Their loss."
 
- DD_BRA_102_t:""
- DD_BRA_102_d:""
- DD_BRA_102a:""
+ DD_BRA_102_t:"\n\n\n\n\n\n\n\n£icon_GER_unite_pic£\n£icon_GER_unite_text£"
+ DD_BRA_102_d:"\n\n\n\n\n\n\n\n\n"
+ DD_BRA_102a: "The Dragon of the Rhine awakens."
  DD_BRA_103_t:""
  DD_BRA_103_d:""
  DD_BRA_103a:""
@@ -770,8 +770,8 @@ NYDD_BRA_england_desc: "Britain across the Channel has suffered invasions from V
 
 NYDD_BRA_keep_eastern_tt: "Adjusts the '§YEastern Focus§!' modifier:\n[local_build_cost]: §G-5.0%§!\n[local_build_time]: §G-5.0%§!\n[local_development_cost]: §G-5.0%§!\n[local_prosperity_growth]: §G+1.00§!\n"
 NYDD_BRA_end_darkness_tt: "Adjusts the '§YEastern Focus§!' modifier:\n[local_build_cost]: §G-5.0%§!\n[local_build_time]: §G-5.0%§!\n[local_development_cost]: §G-5.0%§!\n[local_manpower_modifier]: §G+10.0%§!\n"
-NYDD_BRA_france2_tt: "Unlocks the §YFrench§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YFrench§! culture group.)§!\n"
-NYDD_BRA_england_tt: "Unlocks the §YBritish§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YBritish§! culture group and provinces with the §YAnglois§! culture.)§!\n"
+NYDD_BRA_france2_tt: "Unlocks the §YFrench§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YFrench§! culture group.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
+NYDD_BRA_england_tt: "Unlocks the §YBritish§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YBritish§! culture group and provinces with the §YAnglois§! culture.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
 
 NYDD_BRA_low_countries_title: "Treaty of Utrecht"
 NYDD_BRA_low_countries_desc: "As the breadbasket of the Holy Roman Empire, the Low Countries have always been a wealthy land with prosperous trade and a developed economy. By signing the Treaty of Utrecht, we will be able to maximize their economic potential in exchange for granting them freedom."
@@ -792,7 +792,7 @@ NYDD_BRA_control_noble_desc: "In the past, the German nobility held significant 
 NYDD_BRA_fed_law_tt: "The diplomatic action '§YEstablish Bundesstaat§!' no longer costs £dip£.\n§GRemove§! all '§YPrincely Autonomy§!' and '§YAdministrative Integration§!' modifiers.\n\n§Y[Root.GetName]§! gains §G10§! points of §MConfederation Cohesion§!.\n"
 DD_GER_silesia_modifier: "Silesian Industrialization"
 desc_DD_GER_silesia_modifier: "Silesia possesses vast valuable minerals and hidden coal reserves; she will become a world-renowned industrial center!"
-NYDD_BRA_low_countries_tt: "Unlocks the §YNetherlands§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces with §YDutch§!, §YFlemish§!, §YEast Frisian§!, and §YWalloon§! cultures.)§!\n"
+NYDD_BRA_low_countries_tt: "Unlocks the §YNetherlands§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces with §YDutch§!, §YFlemish§!, §YFrisian§!, §YEast Frisian§!, and §YWalloon§! cultures.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
 
 NYDD_BRA_heal_pain_title: "Bridging the Divide" # Heal the Divisions
 NYDD_BRA_heal_pain_desc: "The German nation, once drifting apart due to division, is getting back on track under our leadership. We will bridge the differences between regions and rebuild a united and unified German people."
@@ -859,8 +859,8 @@ NYDD_JHC_GER_chancellorship_desc: "The Chancellor was originally merely a servan
 
 NYDD_ger_chancellorship: "Iron-Fisted Chancellor"
 
-NYDD_BRA_justland_tt: "Unlocks the §YDanish§!, §YNorwegian§!, and §YSwedish§! options in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, or §YSwedish§! culture.)§!\n\nWhen all three of the above cultures are integrated, we will also unlock the option to integrate the §YScandinavian§! culture.\n"
-DD_GER_allow_integrate_Nordseedeutsch_germanic_tt: "Unlocks the §YNorth Sea German§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, §YSwedish§!, §YIcelandic§!, §YGotlandic§!, and §YNorse§! cultures.)§!\n"
+NYDD_BRA_justland_tt: "Unlocks the §YDanish§!, §YNorwegian§!, and §YSwedish§! options in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, or §YSwedish§! culture.)§!\n\nWhen all three of the above cultures are integrated, we will also unlock the option to integrate the §YScandinavian§! culture.\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
+DD_GER_allow_integrate_Nordseedeutsch_germanic_tt: "Unlocks the §YNorth Sea German§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YDanish§!, §YNorwegian§!, §YSwedish§!, §YIcelandic§!, §YGotlandic§!, and §YNorse§! cultures.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
 NYDD_BRA_papal_modifier2: "Guardianship of the Holy See"
 NYDD_BRA_papal_modifier: "Defend the Holy See"
 
@@ -876,7 +876,7 @@ NYDD_BRA_byz_desc: "Although Constantinople is but a pitiful shadow of the great
 NYDD_BRA_integrate_others_title: "Domestic Integration" #Integrate Domestic Peoples
 NYDD_BRA_integrate_others_desc: "Our Empire is not only the homeland of the Germans but also a united multinational state. The various German ethnic groups that diverged due to fragmentation, along with the ethnic minorities under Imperial rule, will move towards a future of unity and integration under our leadership, reconstructing a new German nation based on equality and harmony."
 
-NYDD_BRA_hungry_tt: "Unlocks the §YCarpathian§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YWallachian§!, §YMoldavian§!, and §YTransylvanian§! cultures.)§!\n\nUnlocks the §YHungarian and Slovak§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YMagyar§! and §YSlovak§! cultures.)§!"
+NYDD_BRA_hungry_tt: "Unlocks the §YCarpathian§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YWallachian§!, §YMoldavian§!, and §YTransylvanian§! cultures.)§!\n\nUnlocks the §YHungarian and Slovak§! option in the government mechanism '§YCultural Integration§!'.\n§g(Requires owning all provinces of the §YMagyar§! and §YSlovak§! cultures.)§!\n§g(This option will only appear after completing the mission '§YBridging the Divide§!'.)§!\n"
 
 NYDD_BRA_integrate_others_ttt: " other cultures integrated using the government mechanism '§YCultural Integration§!' since the mission '§YBridging the Divide§!'."
 NYDD_BRA_integrate_others_tt: "Adds the following to the §YConfederation Member§! subject modifier '§YLocal Administration§!':\n[global_unrest]: §G-1.00§!\n\nThe §YConfederation Member§! subject modifier '§YGerman Monarch§!' will be §Gremoved§! after its culture group changes to §YGermanic§!.\n"

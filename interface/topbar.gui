@@ -1202,6 +1202,7 @@ guiTypes = {
 			#背景
 			guiButtonType = {
 				name = "DD_special_gui_bg"
+				scripted = yes
 				position = { x = 0 y = 0 }
 				quadTextureSprite ="GFX_DD_italy_war_background"
 			}

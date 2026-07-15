@@ -1,3 +1,33 @@
+5.23.2026
+
+- Added a super-event for Brandenburg forming Germany.
+- Reverted to the old method of hiding mission trees to prevent players using certain local versions from seeing incorrect mission trees.
+- Fixed several known Lombardy bugs.
+- France on the military government path can now inherit Brittany early or release it as a Marquisate through missions, without waiting for the Charlotte Coup event.
+- If AI Brittany's overlord is of the French culture group, Jeanne will always choose the Frankification path.
+- Fixed an incorrect duplicate reward for an Ibizan mission.
+- Brandenburg can now always integrate Dutch culture, regardless of event choices.
+- The Germanization option unlocked through missions will now have an additional tooltip stating that the "Bridging the Divide" mission must be completed to unlock it.
+- Added a special tier 1 government reform for Bundesstaat subjects to prevent them from picking certain bizarre reforms.
+- The "Win Hearts and Minds" federation diplomatic interaction can now be used on all subjects.
+- Andalusia's final mission now also counts provinces with Dhimmi autonomy.
+- Fixed a highlight error in the decision to release Italian Viceroyalty.
+- Bohemia's Czech path, after becoming Emperor, will no longer trigger events related to Imperial Catholicism. When completing the "Seize the Crown" mission, if the Great Schism of Christianity has not yet occurred and Bohemia is Emperor, they can preemptively trigger events to start the religious league war between Protestants and Roman Catholics. However, I advise against doing so.
+- Added three special Jeanne d'Arc event pictures for unique events in Bohemia's Jeanne d'Arc path (from FU).
+- Removed vanilla Byzantine events to prevent certain absurd situations.
+- The starting heir of France can no longer be disinherited, preventing France from falling under a personal union too early.
+- The League of Public Weal can now be dismantled by the war leader alone, preventing cases where France, as a subject, could still trigger the League of Public Weal war under certain circumstances.
+- Fixed a minor issue where France's Italian mission completion wouldn't trigger the corresponding ending event if completed last.
+- Fixed a display bug where other nations could see the Paris Accords privileges.
+- The effect "Cannot annex appanages" now also prevents annexation of privileged appanages.
+- The French Unification War is now only available in the first age.
+- Junior partners in a personal union will no longer pick a side in the Second Great Schism of Christianity.
+- Thessalonica's Roman multicultural path will no longer integrate Albania when integrating South Slavs. Albanian culture will also no longer be counted in the required number of South Slavic provinces.
+- The first time the "Collapse of Babel" triggers, it will no longer cause a total collapse; one additional chance will be given.
+- Fixed an issue where the Italian War UI might display incorrectly under certain circumstances.
+- Secretly added a special unit for Rhomanía. Hopefully nobody notices.
+
+
 4.17.2026
 
 1. Thessaloniki
