@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_heishui_dubo_reform
+technology_group = chinese
+primary_culture = songze_chi
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 1
+capital = 2186
+add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Chong"
+		dynasty = "Zhao"
+		birth_date = 1409.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

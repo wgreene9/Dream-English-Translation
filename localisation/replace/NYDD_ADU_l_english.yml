@@ -159,7 +159,7 @@
  DD_ADU_24a_tt: "§GExtends§! modifier '§YReturn to the Maghreb§!' by §J10§! years.\n"
  DD_ADU_24a_tt2: "While '§YReturn to the Maghreb§!' is active, occupied §YMaghreb§! provinces gain §Gautomatic territorial cores§!.\n"
  DD_ADU_24a_tt3: "Provinces with §YMoroccan§! culture lose §G10§! years of separatism.\n"
- DD_ADU_24a_tt5: "While '§YReturn to the Maghreb§!' is active, gained §YMaghreb§! provinces reduce separatism by §G5§! years.\n(§gApplies immediately to currently owned provinces.§!)\n"
+ DD_ADU_24a_tt5: "While '§YReturn to the Maghreb§!' is active, gained §YMaghreb§! provinces reduce separatism by §G5§! years.\n§g(Applies immediately to currently owned provinces.)§!\n"
  DD_ADU_24a_tt4: "While '§YReturn to the Maghreb§!' is active, occupied §YMaghreb§! provinces gain §Gfull cores§!.\n"
  DD_ADU_25_t: "Judgment"
  DD_ADU_25_d: "'Zayyanid, you stand accused of murder, apostasy, corruption, treason, and dozens of other crimes. How do you plead?'\n\nThe former governor of Algiers, the shameful traitor of Muslims, the so-called 'Duke' of Zayyanids sat quietly in his seat before lifting his gaze to the judge. He had long known this day would come - known since the Zayyanid family first spilled their brethren's blood.\n\nYet his heart still pounded like war drums. He understood his mission, recognized his fate, but in life's final moments, could scarcely comprehend his own heart. Those necessary evils, the dignity sacrificed for survival, the hidden desires and guilt buried deep within - all formed an impenetrable fog that imprisoned him in darkness.\n\n'For my people,' Zayyanid rasped, though his eyes remained steady as stone, 'for survival, I had no choice.'\n\nThe qadi looked down at the duke and brought down his gavel."
@@ -888,3 +888,6 @@ NYDD_ADU_reward_turks_tt: "We shall decide the §YTurks§!' place in our army, c
 NYDD_ADU_legacy_tt: "Time is short. We must decide whether to §Mmarch north against the Christians§! or §Ounify the southern Taifas§! first.\n"
 NYDD_ADU_fate_of_christan_tt: "We shall decide the fate of the §Yunbelievers§!. The choice is simple: §Oforced conversion§! or §Mmagnanimity§!?\n"
 NYDD_ADU_ture_caliph_tt: "The age of war and cold blood is past. The §OGolden Dawn§! of the Muslims has only just begun!\n"
+
+MISIR_NAME: "Misr"
+MISIR_NAME_ADJ: "Misri"

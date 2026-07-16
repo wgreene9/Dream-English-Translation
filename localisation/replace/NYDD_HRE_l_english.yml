@@ -9,9 +9,11 @@ cb_imperial_ban_DD_wg:"Imperial Ban"
 cb_imperial_ban_DD_wg_desc:"The wargoal is to demonstrate hegemony."
 DD_IMPERIAL_BAN_WAR_NAME:"$ORDER$$FIRST$ Imperial Ban against $SECOND_NAME$"
 
- DD_HRE_end_SWA_title: "£hre£End the Hohenstaufen Hegemony"
- DD_HRE_end_SWA_desc: "The weak Hohenstaufen Emperor can no longer protect us. It is time to elect a new Emperor."
- DD_HRE_end_SWA_tt: "§YThe monarchic state§! with the highest development in the Holy Roman Empire will become the new §YEmperor§!.\n"
+DD_HRE_end_SWA_title: "£hre£End the Hohenstaufen Hegemony"
+DD_HRE_end_SWA_desc: "The weak Hohenstaufen Emperor can no longer protect us. It is time to elect a new Emperor."
+DD_HRE_end_SWA_tt: "§YThe monarchic state§! with the highest development in the Holy Roman Empire will become the new §YEmperor§!.\n"
+DD_end_SWA_button_ttt1:"Warscore is below §R-50.0§!" #  in a §Ymajor war§!
+DD_end_SWA_button_ttt2:"Warscore is below §R-90.0§!" #  in a §Ymajor war§!
 
 DD_HRE_1_t: "France and the Empire"
 DD_HRE_1_d: "Since the defeat of Southern France by the Emperor during the Albigensian Crusade and its incorporation into the Holy Roman Empire, it has maintained a high degree of autonomy. However, after the North-South War in Germany, the Emperor has increasingly neglected the management of France. The princes in this region now act on their own, fulfilling almost no obligations except for occasionally symbolically attending the Imperial Diet and sending a few hundred men in response to the Emperor's call. The bond between France and the Empire has become nominal, and the ancient oath has long since faded with time.\nTaking advantage of the Emperor's current weakness, the princes of France are eager to seize the opportunity to break away from the Empire and pursue the glory of the King of France. If the Emperor still harbors the intention of re-binding France to the Empire, it would be best to act quickly to restrain France; otherwise, it would be wise to decisively allow France to leave the Empire, preserving dignity for both sides."
@@ -270,3 +272,5 @@ DD_emperor_landfriede_tt:"Members of the §YHoly Roman Empire§! are forbidden f
 DD_HRE_BAN_INTER_WAR:"The Holy Roman Empire has enacted '§YEwiger Landfriede§!'. We cannot declare war on other members of the Holy Roman Empire."
 DD_dismantel_button:"Dismantle the Holy Roman Empire"
 DD_dismantel_button_tooltip:"To dismantle the §Yhereditary§! Holy Roman Empire, you must control the current Emperor [Emperor.GetName]'s capital, §Y[Emperor.Capital.GetName]§!, and have §G+75.0%§! war score in a war where they are the war leader. Additionally, all Electors must be your allies or subjects, or their capitals must be under your control.\n\n§g(Note: If the Emperor's war score is below §Y-90.0%§! in all wars, other Electors may also choose to elect a new Emperor.)§!\n "
+
+HRE_END: "End Hohenstaufen Rule"

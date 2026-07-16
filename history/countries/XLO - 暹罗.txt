@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = xianluo_chi
+religion = wu_confucianism
+religious_school = fengjiao_school
+government_rank = 2
+capital = 600
+
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Xin"
+		dynasty = "Li"
+		birth_date = 1407.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}

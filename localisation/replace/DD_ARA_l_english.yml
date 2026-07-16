@@ -79,7 +79,7 @@ DD_ARA_fight_reform_desc: "Due to its unique geography and longstanding policies
 
 ability_DD_ARA_fight_ability: "§RPeninsular Faction§! vs §MLatin Faction§!"
 DD_ARA_fight_power: "Faction Struggle Intensity"
-DD_ARA_fight_power_desc: "Aragon's factional struggle stems from its unique position and diplomatic traditions. The competition between foreign nobles and local powers has become its most pressing political issue.\n\n§OMake our inevitable choice.§!\n\nPositive values favor the §RPeninsular Faction§! - focusing on domestic development, religious tolerance, and diplomatic solutions.\n\nNegative values favor the §MLatin Faction§! - prioritizing foreign ties, religious militancy, and military solutions.\n\nAt minimum intensity:\nYearly Army Tradition: §G+2.00§!\nDiplomatic Reputation: §G+2.00§!\nProvince Warscore Cost: §G-20.0%§!\n"
+DD_ARA_fight_power_desc: "Aragon's factional struggle stems from its unique position and diplomatic traditions. The competition between foreign nobles and local powers has become its most pressing political issue.\n\n§OMake our inevitable choice.§!\n\n§YPositive values§! favor the §RPeninsular Faction§! - focusing on domestic development, religious tolerance, and diplomatic solutions.\n\nNegative values favor the §MLatin Faction§! - prioritizing foreign ties, religious militancy, and military solutions.\n\nAt minimum intensity:\nYearly Army Tradition: §G+2.00§!\nDiplomatic Reputation: §G+2.00§!\nProvince Warscore Cost: §G-20.0%§!\n"
 
 DD_ARA_fight_interaction_1: "Mobilize Local Peasants"
 DD_ARA_fight_interaction_2: "Compromise Royal Authority" 
@@ -785,7 +785,7 @@ DD_SP7_bandao_3_8_desc: "Beyond the western waves, we've discovered a coast bloo
 DD_SP7_bandao_3_10_title: "Advance Up the Mississippi"
 DD_SP7_bandao_3_10_desc: "Following the Mississippi upstream reveals golden lands unfolding before us - a prosperous future beckons!"
 
-DD_SP7_bandao_3_11_title:0 "Unthinkable Dream"
+DD_SP7_bandao_3_11_title:0 "The Dream yet to be Dreamed" # Unthinkable Dream
 DD_SP7_bandao_3_11_desc:0 "Prosperity and peace, wealth and tranquility, an empire ruling the world, a glorious and radiant era. The dream we once dared not imagine has now become reality. The world lies at our feet, and we shall continue to conquer the future."
 
 DD_SP7_bandao_3_13_title:0 "Piety and Gold"
@@ -1171,7 +1171,7 @@ DD_SP7_bandao_3_6_buff: "Leviathan's Birthfoam"
 DD_SP7_bandao_3_8_buff: "Floral Sea at World's End"
 DD_SP7_bandao_3_10_buff: "Advance into Mississippi"
 DD_SP7_bandao_3_11.t: "§TReduces requirements to become hegemon§!.\n"
-DD_SP7_bandao_4_5.t: "§YOur rule over the Papacy will not incur any negative effects§!\n"
+DD_SP7_bandao_4_5.t: "§YOur rule over the Papacy will not incur any negative effects.§!\n"
 DD_SP7_bandao_4_7_buff: "Exploring the Fortunate Isles"
 DD_SP7_bandao_4_8_buff: "Crossing the Caribbean"
 DD_SP7_bandao_4_9_buff: "Into Olmec Lands"
@@ -1597,7 +1597,7 @@ DD_SP7_lading_2_2_waijiao_no: "£no£If we complete the mission diplomatically"
 DD_SP7_lading_2_2_zhengfu_buff: "Provence March"
 DD_SP7_lading_2_2_buff: "Provence March"
 
-DD_SP7_lading_2_4.t: "@FRA§Y[FRA.GetName]§!'s fiefs shall §Gpledge allegiance§! to us instead.\n@FRA§Y[FRA.GetName]§! will be §Rdismembered§!.\n"
+DD_SP7_lading_2_4.t: "@[183.Owner.GetTag]§Y[183.Owner.GetName]§!'s appanages will §Gpledge allegiance§! to us instead.\n@[183.Owner.GetTag]§Y[183.Owner.GetName]§! will be §Rdismembered§!.\n"
 DD_SP7_lading_2_4_buff: "New Glory"
 
 DD_ARA_french: "Aragne"
@@ -1669,3 +1669,14 @@ DD_ARA.3.a_2_ex_decision_ttt: "Control any province in @ASU§Y[ASU.GetName]§!'s
 
 DD_SP7_lading_1_4_buff: "Breton Relations"
 DD_ARA_muslim_disaster.6.b_buff: "Docile Vassal"
+
+DD_SP7_bandao_4_5_modifier: "King of Italy"
+desc_DD_SP7_bandao_4_5_modifier: "We have secured all of Italy and imposed our will upon her."
+
+DD_ARA.66.b.t: "\nProvinces in the §YIberia§! region or culture group will gradually convert to §YFrench§! culture.\n"
+DD_SP7_lading_ex_1_10.t: "Provinces in the §YGermany§! region will gradually convert to §YFrancia Orientalis§! culture.\n"
+DD_SP7_bandao_2_3_tt: "§YMauritanian§! culture will begin §Gslowly spreading§! in provinces of §YMaghrebi§! region or culture group that follow §Y[Root.Religion.GetName]§!.\n"
+
+DD_SP7_bandao_2_12_tt: "§YAndalusian§! culture or culture group in the §YIberia§! region will convert to the §YIberian§! culture group.\n"
+
+DD_SP7_lading_ex_2_3_ttt: "Army size greater than all nations with capitals in §YFrance§! region"

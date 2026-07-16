@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = gaomian_chi
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 2
+capital = 2380
+
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Yuming"
+		dynasty = "Zou"
+		birth_date = 1409.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

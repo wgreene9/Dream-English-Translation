@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = molai_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 2
+capital = 596
+
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Rufa"
+		dynasty = "Zhu"
+		birth_date = 1409.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}

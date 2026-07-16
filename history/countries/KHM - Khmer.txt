@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+primary_culture = khmer
+religion = buddhism
+technology_group = chinese
+capital = 2378
+
+
+1393.1.1 = {
+	monarch = {
+		name = "Zhen"
+		dynasty = "An"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = NYDD_zongtongfu_reform
 technology_group = chinese
-primary_culture = zhuang_new
+primary_culture = gui_chi
 religion = wu_confucianism
 religious_school = fengjiao_school
 government_rank = 1

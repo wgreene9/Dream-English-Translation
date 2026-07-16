@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = jinzhou_chi
+religion = wu_confucianism
+religious_school = fengjiao_school
+government_rank = 2
+capital = 2673
+add_harmonized_religion = hinduism
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Suru"
+		dynasty = "Ma"
+		birth_date = 1401.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

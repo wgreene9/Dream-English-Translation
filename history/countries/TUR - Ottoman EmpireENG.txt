@@ -1,13 +1,12 @@
 government = monarchy
 add_government_reform = ottoman_government
-primary_culture = turkish
+primary_culture = ottoman_turkish
 religion = outward_confucianism
 religious_school = rangyi_school
 technology_group = ottoman
 capital = 317 
 national_focus = MIL
 add_army_professionalism = 0.1
-add_accepted_culture = BYZ_nixiya
 
 change_estate_land_share = {
 	estate = estate_church

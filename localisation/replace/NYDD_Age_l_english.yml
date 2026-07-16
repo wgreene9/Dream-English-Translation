@@ -26,6 +26,9 @@ ab_musketeer_ability:"@FRA French Musketeers"
 ab_BRA_ability:"@BRA Dawn of the Confederation"
 ab_gual_ability:"@FR3 Gallic Declaration"
 
+ab_NED_ability:"@NE8Crusaders of the Stars"
+ab_NED_ability_tt:"While this modifier is active, colonising provinces may grant the following modifiers:"
+
 #Third Age: Absolutism
 
 ab_other_ability_3:"Unique Age Ability"

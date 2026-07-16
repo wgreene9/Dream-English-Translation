@@ -2352,10 +2352,10 @@
  flavor_kbo.8.t:0 "Disputed Succession"
  flavor_kbo.8.d:0 "With the death of our ruler, the usual disputed succession has taken place with a pretender taking up arms against the royal heir."
  flavor_kbo.8.a:0 "Ok."
- jianghuai:0 "Jianghuai"
- xibei:0 "Xibei"
+ jianghuai:0 "Huai" # Jianghuai
+ xibei:0 "Long" # Xibei
  hubei:0 "Hubei"
- zhongyuan:0 "Zhongyuan"
+ zhongyuan:0 "Henan" # Zhongyuan (Yu)
  shandong_culture:0 "Shandong"
  flavor_mer.2.a.tt:0 "Marwar declares Independence."
  LEDGER_TC_EFF_CARAVAN_POWER:0 "Caravan Power"

@@ -1,3 +1,7 @@
+is_Hohenstaufen_dynasty = {
+	dynasty = "von Hohenstaufen"
+}
+
 is_Luxemburg_dynasty = {
 	dynasty = "von Luxemburg"
 }

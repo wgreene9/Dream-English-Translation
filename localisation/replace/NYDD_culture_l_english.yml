@@ -50,6 +50,7 @@
  west_saxons: "West Saxon"
 
  hungarian_germanic:"Hungarian" #Ungarisch?
+ afrika_germanic:"Afrikaner"
  
 #iberia
  lusitania: "Lusitanian"
@@ -237,6 +238,47 @@
  miao_chi: "Miao"
  dian_chi: "Dian"
  anxi_chi: "Anxi"
+
+gaoli_chi:"Li"
+sanhan_chi:"Han"
+bai_chi:"Bai"
+yi_chi:"Yi"
+qian_chi:"Qian"
+gui_chi:"Gui"
+
+jiwei_chi:"Wei"
+heishui_chi:"Hun"
+songze_chi:"Song"
+bohai_chi:"Bo"
+guyan_chi:"Gu"
+
+miandian_chi:"Pu"
+linyang_chi:"Lin"
+lancang_chi:"Lan"
+xianluo_chi:"Luo"
+gaomian_chi:"Rong"
+linyi_chi:"Zhan"
+
+molai_chi:"Mo"
+jinzhou_chi:"Jin"
+shunta_chi:"Shun"
+zhaowa_chi:"Zhao"
+luozhou_chi:"Luo"
+chenghai_chi:"Cheng"
+liya_chi:"Li"
+fuzhou_chi:"Fu"
+shayao_chi:"Yao"
+lunzhou_chi:"Lun"
+haiyuan_chi:"Yuan"
+minghai_chi:"Ming"
+penglai_chi:"Peng"
+shuozhou_chi:"Shuo"
+
+#突厥组
+turkish_cg:"Turkic"
+ottoman_turkish:"Ottoman Turkish"
+seljuk_turkish:"Seljuk Turkish"
+unite_turkish:"Turkic"
 
 DD_culture_1_t: "Prussian Germanization"
 DD_culture_1_d: "Through our relentless efforts, not only have increasing numbers of German immigrants arrived in the lands of Prussia, but the local native Prussians have also begun to gradually integrate into our Germanic culture. The tide of Germanization is sweeping across Prussia, transforming this once-neglected wilderness into the beautiful homeland of the virtuous and industrious German nation.\n\nThe intermingling of Germans and Prussians has gradually formed a unique local culture. Due to frequent attacks from other pagan tribes in the past, both the arriving Germans and the native Prussians are natural warriors. This martial spirit may become a significant asset in our pursuit of global influence."

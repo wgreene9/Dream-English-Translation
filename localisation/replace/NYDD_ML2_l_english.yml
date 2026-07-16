@@ -159,7 +159,7 @@ DD_ML2_12a:"Damned land-lubbers!"
 # cb_NYDD_pirate_raid_desc:0 "Catch them off guard!"
 # NYDD_plunder_war:0 "Demonstrate Naval Supremacy"
 # NYDD_plunder_war_desc:0 "Gain war score by achieving naval superiority"
-# NYDD_PLUNDER_WAR_NAME:0 "$ORDER$$FIRST$'s §YRaiding War§! against $SECOND_NAME$!"
+# NYDD_PLUNDER_WAR_NAME:0 "$ORDER$$FIRST$ §YRaiding War§! against $SECOND_NAME$!"
 # po_NYDD_plunder_war_trophies_count:0 "Number of Provinces Plundered"
 
 # NYDD_ML2_scare_fleet_reform:0 "Fleet of Fear"

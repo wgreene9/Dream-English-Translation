@@ -1204,7 +1204,7 @@ NYDD_ASU_gaelicia_tt: "At this point, §YCarlos I§! can only turn to his brothe
 NYDD_ASU_brother_in_wall_tt: "Weaken the influence of §Y[Root.Heir.GetName]§!'s brothers to gain advantages in the coming civil war.\n"
 NYDD_ASU_mountain_shadow_tt: "Our dear §YUncle Sancho§! seems to enjoy fishing - perhaps he can fish for a lifetime.\n"
 NYDD_ASU_what_is_done_is_done_tt2: "Let us end this pointless civil war.\n"
-NYDD_ASU_stage_3_tt_CAS: "Let us attempt to form a §Galliance§! with @[183.Owner.GetFlag]§Y[183.Owner.GetName]§!.\n"
+NYDD_ASU_stage_3_tt_CAS: "Let us attempt to form a §Galliance§! with @[183.Owner.GetTag]§Y[183.Owner.GetName]§!.\n"
 NYDD_ASU_after_dawn_tt: "After dawn comes an even deeper §gdarkness§!.\n"
 NYDD_ASU_wuffering_wave_tt: "§MAn ending, yet also a beginning. Through suffering, a great cause is finally achieved.§!\n"
 NYDD_LON_univeral_empire_tt1: "§JOld days buried in ashes, new buds break through the soil.§!\n"

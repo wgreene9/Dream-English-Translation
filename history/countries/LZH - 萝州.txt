@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = luozhou_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 2
+capital = 636
+
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Zizheng"
+		dynasty = "Tao"
+		birth_date = 1407.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

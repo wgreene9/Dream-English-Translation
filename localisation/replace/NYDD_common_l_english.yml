@@ -251,7 +251,7 @@ DD_WLS_nation_title: "@WLS Unify Wales"
 DD_WLS_nation_desc: "Under foreign invasion, Wales has yet to unite. But now, this injustice shall end. The Duke of [Root.GetName] has successfully united Wales, bringing hope to the Welsh people."
 
  #music Theme Songs
-CHANNEL_music_DD_music: "~Theme of the Unseen Dream~"
+CHANNEL_music_DD_music: "~The Dream yet to be Dreamed Theme~"
 DD_amazing_grace: "01.@SPAAmazing Grace"
 DD_our_kindom_will_fall: "02.@AFROur Kingdom Will Fall"
 
@@ -324,6 +324,17 @@ tooltip_balkan_greek_capital:"Is the capital of a country with §YGreek§! cultu
 DD_POL_unite_culture_title: "£dip£ Unify Poland"
 DD_POL_unite_culture_desc: "Our great Poland nearly perished under foreign invasion. But heaven never seals off all exits - now that we have reunified the Polish borders, it is time to unite as one culture, one nation!"
 
+sinicize_mongols_ct_DD:"The §YMongol§! culture group will become part of the §YChinese§! culture group.\n"
+
+develop_prov_get_1_development_modifier:"Chance of extra development when developing"
+DD_ambitiou_personality:"Ambitious"
+desc_DD_ambitiou_personality:"This ruler is highly ambitious, with grand vision and sound strategy."
+DD_ambitiou_personality_die_desc:"A great man has left us—this is a loss to our nation."
+CANNOT_DECLARE_WARS_TO_OVERLORD_ALLY:"Cannot declare war on our overlord's allies"
+CANT_NOT_WAR_SUBJECT:"This nation is a special subject of another state. Declare war on its overlord instead."
+
+TT_DD_divider:"========================================"
+
 DD_21P_1a_tt_show_now_2: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
 DD_21P_1a_tt_show_now_3: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
 DD_21P_1a_tt_show_now_4: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!+§Y[1.21p_card_4.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
@@ -363,3 +374,7 @@ DD_21_test_title: "Blackjack"
 DD_21_test_desc: "Deer God forced me to make this."
 
 province_is_or_accepts_culture_ttt: "Province is of owner's culture or an accepted culture"
+
+DD_common_2_t:"You are playing a non-recommended nation"
+DD_common_2_d:"The nation you are currently playing has not yet been fully developed, or is merely a background nation. We strongly advise against playing this nation, as it may have incomplete mechanics, forced event deaths, or other unforeseen issues. To ensure the best possible gameplay experience, we recommend that you return to the main menu and choose one of the other recommended nations. If you insist on continuing with the current nation, the developers cannot guarantee a smooth gaming experience going forward. We apologise in advance."
+DD_common_2a:"I acknowledge that '§RI am playing a non-recommended nation§!'."

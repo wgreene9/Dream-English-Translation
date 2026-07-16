@@ -46,9 +46,12 @@ fu_den_haag_dike_desc: "The Dutch have a long history of dike construction datin
 fu_amsterdam_dike_desc: "The Dutch have a long history of dike construction dating back to the Roman Empire. As the Low Countries lie in low-lying marshland, dikes became essential for agricultural development. Early dikes relied on simple enclosure methods, while modern dikes primarily use windmill-powered drainage systems."
 
 NYAB_NED_red_house:"Dutch Red House"
-NYAB_NED_red_house_desc:"The Dutch Red House is the headquarters of the Dutch East India Company, overseeing the administration of the entire East Indies."
+NYAB_NED_red_house_desc:"The Dutch Stadthuys was originally the headquarters of the Dutch East India Company, and later became the administrative centre for all of the East Indies."
 
 NYAB_NED_zeelandia:"Fort Zeelandia"
 NYAB_NED_zeelandia_desc:"Fort Zeelandia is a fortress built by the Dutch to maintain governance over Formosa."
 DD_NED_zuiderzee_project:"Zuiderzee Works"
 DD_NED_zuiderzee_project_desc:"The ambitious Dutch land reclamation project, seeking to build a dam to turn the Zuiderzee into a lake.\n"
+
+DD_NED_batavia:"Batavia Colonial Office"
+DD_NED_batavia_desc:"Batavia is the headquarters of the Dutch East India Company, boasting excellent infrastructure and a prime port location, making it one of the busiest ports in the East Indies."

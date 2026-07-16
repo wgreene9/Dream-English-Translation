@@ -31,6 +31,16 @@ change_estate_land_share = {
 		dip = 3
 		mil = 2
 	}
+	heir = {
+		name = "Ladislaus"
+		dynasty = "von Habsburg"
+		monarch_name = "Ladislaus I"
+		birth_date = 1440.2.22
+		death_date = 1453.11.24
+		adm = 4
+		dip = 3
+		mil = 1
+	}
 	clear_scripted_personalities = yes
 }
 

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = miandian_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 2
+capital = 2399
+
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Heqing"
+		dynasty = "Cui"
+		birth_date = 1412.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

@@ -206,10 +206,31 @@ DD_AFR_46a = {
 }
 DD_SWA_1a = {
 	define_ruler = {
+        name = "Augustus I"
+        adm = 2
+        dip = 2
+        mil = 4
+        hide_skills = yes
 		dynasty = "von Hohenstaufen"
-		change_mil = 1
 		change_original_dynasty = yes
 	}
+}
+DD_SWA_1a2 = {
+    define_ruler = {
+        hide_skills = yes
+		dynasty = "von Hohenstaufen"
+		change_original_dynasty = yes
+	}
+    define_heir = {
+        name = "Augustus"
+        monarch_name = "Augustus I"
+        dynasty = "von Hohenstaufen"
+        adm = 2
+        dip = 2
+        mil = 4
+        birth_date = 1428.11.11
+        block_disinherit = yes
+    }
 }
 
 DD_MOR_27a = {
@@ -528,7 +549,8 @@ JCR = {
 		adm = 4
 		dip = 4
 		mil = 5
-		claim = 0
+		age = 20
+		claim = 10
 		no_consort_with_heir = yes
 	}
 }
@@ -1716,6 +1738,7 @@ DD_HUN_2c = {
 	}
 	define_heir = {
 		name = "Matthias"
+		monarch_name = "Matthias I"
 		dynasty = "Hunyadi"
 		adm = 4
 		dip = 5
@@ -1759,10 +1782,10 @@ DD_PIC_10a = {
 	define_heir = {
 		name = "Charles"
 		dynasty = "Capet"
-		age = 30
 		adm = 4
 		dip = 4
 		mil = 4
+        birth_date = 1418.11.11
 	}
 }
 DD_PIC_10a2 = {
@@ -1773,5 +1796,196 @@ DD_PIC_10a2 = {
 		dip = 3
 		mil = 3
 		age = 27
+        birth_date = 1421.11.11
+	}
+}
+DD_ENG_14a = {
+	define_ruler = {
+		dynasty = "????"
+		max_age = 40
+	}
+}
+DD_NED_13a = {
+	define_ruler = {
+		name = "Hendrik I"
+		dynasty = "van Nassau"
+		age = 38
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+DD_NED_4a = {
+	define_ruler = {
+		name = "Willem II"
+		dynasty = "van Nassau"
+		age = 40
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+DD_NED_define_nassau_ruler = {
+	define_exiled_ruler = {
+		dynasty = "van Nassau"
+		change_mil = 1
+		min_age = 20
+		max_age = 40
+		exiled_as = DD_NED_nassau_ruler
+	}
+}
+DD_NED_define_nassau_ruler_exiled = {
+	define_exiled_ruler = {
+		exiled_as = DD_NED_nassau_ruler
+		dynasty = "van Nassau"
+		change_mil = 1
+		min_age = 20
+		max_age = 40
+	}
+}
+DD_NED_4a = {
+	define_ruler = {
+		name = "Willem I"
+		dynasty = "van Nassau"
+		adm = 5
+		dip = 6
+		mil = 3
+		age = 40
+	}
+}
+DD_NED_5a = {
+	define_ruler = {
+		name = "Joachim I"
+		dynasty = "von Hohenstaufen"
+		adm = 4
+		dip = 2
+		mil = 3
+		age = 16
+	}
+}
+NYDD_NED_navy2_BRB = {
+	create_flagship = {
+		name = "Prins Joachim" # Prince Joachim
+		type = heavy_ship
+	}
+}
+NYDD_NED_navy2_HOL = {
+	create_flagship = {
+		name = "De Verenigde Provinciën" # United Provinces / Zeventien Provinciën
+		type = heavy_ship
+	}
+}
+DD_ned_dutch_expedition = {
+	define_advisor = {
+		type = fu_cartographer
+		name = "Gerardus Mercator"
+		culture = flemish
+		discount = yes
+		skill = 2
+		location = 92 #Brabant
+	}
+}
+NYAB_NED_event_20a = {
+	define_ruler = {
+		name = "Johan van Oldenbarnevelt"
+		adm = 4
+		dip = 6
+		mil = 2
+		age = 40
+	}
+}
+
+DD_KOJ_11b = {
+    define_consort = {
+        name = "Simon"
+        dynasty = "d'Ibelin"
+        adm = 3
+        dip = 2
+        mil = 6
+		birth_date = 1414.11.11
+    }
+}
+DD_KOJ_13a1 = {
+    define_consort = {
+        name = "Auguste"
+        dynasty = "von Hohenstaufen"
+        adm = 2
+        dip = 2
+        mil = 4
+        birth_date = 1428.11.11 
+    }
+}
+DD_KOJ_13a2 = {
+    define_consort = {
+        name = "Diana"
+        dynasty = "von Hohenstaufen"
+        adm = 4
+        dip = 4
+        mil = 4
+        female = yes
+        birth_date = 1417.11.11 
+    }
+}
+
+NYAB_NED_ZCG_conquistador = {
+	define_conquistador = {
+		name = "Zheng Chenggong"
+		shock = 4
+		fire = 4
+		manuever = 3
+		siege = 5
+	}
+}
+NYAB_NED_ZCG_admiral = {
+	define_admiral = {
+		name = "Zheng Chenggong"
+		shock = 3
+		fire = 3
+		manuever = 5
+		siege = 5
+		trait = prize_hunter_personality
+	}
+}
+NYAB_NED_ZCG_ruler = {
+	define_ruler = {
+		name = "Zheng Chenggong"
+		age = 30
+		change_adm = 1
+		change_dip = 1
+		change_mil = 3
+	}
+}
+DD_NED_89a = {
+	1822 = {
+		change_province_name = "Shanghai"
+		rename_capital = "Shanghai"
+	}
+}
+NYAB_NED_630_name = {
+	630 = {
+		change_province_name = "Batavia"
+		rename_capital = "Batavia"
+	}
+} 
+NYDD_NED_king_of_channel = {
+	1272 = { change_province_name = "Netherlands Channel" }
+}
+
+DD_NED_112a = {
+	define_advisor = {
+		type = treasurer
+		skill = 4
+		cost_multiplier = 0.25
+		culture = swabian
+		name = "Walther von Cronberg"
+	}
+}
+DD_NED_112b = {
+	define_general = {
+		name = "Walther von Cronberg"
+		shock = 5
+		fire = 4
+		manuever = 3
+		siege = 3
 	}
 }

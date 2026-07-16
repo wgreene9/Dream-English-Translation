@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = lunzhou_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 1
+capital = 644
+
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Zongxu"
+		dynasty = "Shen"
+		birth_date = 1408.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}

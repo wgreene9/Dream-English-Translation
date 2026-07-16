@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = linyi_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 2
+capital = 607
+
+add_harmonized_religion = vajrayana
+add_harmonized_religion = wu_confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Guan"
+		dynasty = "Tong"
+		birth_date = 1407.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

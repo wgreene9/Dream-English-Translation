@@ -1,3 +1,36 @@
+7.14.2026
+
+1. Netherlands Update
+
+- Under the shock of famine, the overburdened Low Countries are restless. Represented by Willem van Nassau, the Prince of Holland, and the Imperial Third Prince Joachim, Regent of Brabant, the two factions vie for influence, stirring up storms across this low-lying land. Some strive to maintain stability, hoping to peacefully realize their ideals—while others are already poised to strike.
+- The victor will unify the Low Countries, securing a bright (or perhaps darker) future for the Netherlands. Break free from shackles, step onto the world stage, and make the arrogant take notice—the fate of this land hangs in the balance.
+- Seek your destiny within a brand-new mission tree, spread commerce and civilization across the globe, and build a Dutch empire on which the sun never sets!
+
+2. Other
+
+- Replaced the main theme with "A Viking's Trail" (CK2).
+- East Asia has undergone major changes, with updates to the political situation and background of the Manchuria region and the East Indies (Southern Skies) subcontinent. Specific background details can be viewed via the starting introductions.
+- Added back the vanilla Mongolian and Chinese mission trees for players who wish to experience them.
+- To prevent bugs caused by tag-switching during wartime, Greater France will now also only be formed upon unifying France.
+- The "Wool Alliance" (Auld Alliance) event will only trigger if France still owns provinces in the France region.
+- Added four events corresponding to the unification of France for each of France's four paths. (The bastard path triggers upon unifying England instead)
+- Added a new event for Jerusalem: "The Queen's Wedding." After a successful Crusader victory in Jerusalem, the kingdom may choose Augustus of Sicily as a consort, leading toward a personal union.
+- In the Swabian event "Frederick's Legacy," the Low Countries will no longer become independent. The status of the Low Countries will instead depend on whether Holland or Brabant wins the Dutch Revolt disaster.
+- Added a new Colonial Standardization mechanic: as long as you have a colonist, you can view it next to the native policy options in the stability interface. You can check your current standardization level and the conditions required to reach the next level. (It only has 3 levels, actually.)
+- Halved the size of rebel forces in AI Africa's Third Muslim Revolt.
+- Brandenburg will no longer execute its dynasty-related events while it is a junior partner in a personal union, preventing an unwanted independence.
+- Added a "Non-Recommended Nation Detector," with a sincere recommendation not to play as non-recommended nations.
+- Added a new event, "Greeks Rediscovered," which will trigger when a European Christian nation discovers a Greek state along the West African coast.
+- Upon completing all missions, Zhejiang and Fujian will now switch to the generic Chinese mission tree.
+- Reduced the penalties for Thessalonica's first time triggering "The Collapse of Babel" event.
+- Fixed an issue where conquistadors dispatched by Aragon would not become part of their colonial nation.
+- "End Hohenstaufen Hegemony" can now be achieved once any nation reaches the required war score.
+- Added descriptive text for Swabian ideas.
+- Reformed zeal costs have been reverted to 5.
+- Strengthened the privileges of the Knight estate.
+- Fixed several text errors.
+- Other minor fixes and adjustments.
+
 5.23.2026
 
 - Added a super-event for Brandenburg forming Germany.

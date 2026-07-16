@@ -51,7 +51,7 @@ mechanic_unlock_desicion_all_prov_seat_yes:"Unlocks the decision '§YGrant All S
 mechanic_republican_subject_gain_republican_yes:"§YRepublican Subjects§! gain §G+1.00§! Republican Tradition"
 mechanic_no_religious_cb_yes:"§RDisabled§! §YCrusade§! and §YCleanse Heresy§! casus belli"
 mechanic_has_special_tax_for_overlord_yes:"Is required to pay regular taxes to its suzerain"
- mechanic__yes:""
+mechanic_min_autonomy_10_in_new_world_yes:"Provinces in the §YNew World§! under our control lose §G-10.0§! local autonomy."
  mechanic__yes:""
  mechanic__yes:""
 
@@ -62,14 +62,6 @@ desc_gov_coastal_government_DD: "This is a coastal province. Penalties are reduc
 
 republican_subject_gain_republican_modifier:"Subject Republican Tradition"
 desc_republican_subject_gain_republican_modifier:"Thanks to the selfless guidance of our suzerain, we fully understand the Republic."
-
- MAHDI_COUNTRY: "Mahdi State"
- MAHDI: "Mahdi"
- TLC_union: "Habrullah League"
- EMIR_OF_EMIR: "Grand Emirate"
-
-FED_EMPIRE: "Federal Empire"
-GER_MINISTER: "Chancellor"
 
  # Government Mechanics
  ability_DD_AFR_holy_war_mechanic: "§OHoly War Zeal§!"
@@ -282,20 +274,32 @@ DD_ALG_humanity_power_desc:"Lose humanity, and much is lost; lose ferocity, and 
 monthly_DD_ALG_humanity_power:"Monthly Ferocity"
 DD_ALG_humanity_power_gain_modifier:"Ferocity Gain Modifier"
 
+DD_NED_republican_vs_monarchy_gain_modifier:"Balance of Power Modifier"
+monthly_DD_NED_republican_vs_monarchy:"Monthly Balance of Power"
 ability_DD_NED_election_mechanic:"§YDutch Balance of Power§!"
 DD_NED_republican_vs_monarchy:"Stadtholder vs. Grand Pensionary"
 DD_NED_republican_vs_monarchy_desc:"The center of power in the Netherlands constantly tilts between the Stadtholder's office and the Grand Pensionary. The government of the United Provinces is like an ever-shifting scale. Through official appointments, political rivalries, and parliamentary debates, both the Stadtholder and the Grand Pensionary perpetually seek to influence the entire government. Whether nominating a Monarchist or Republican Grand Pensionary, or appointing a Centralist or Provincialist Stadtholder, the players in the Low Countries have but one goal: to control the House of Cards that is the Netherlands.\n\nWhen the §YBalance of Power§! is below §O0§!, a §YStadtholder§! of the §YNassau§! dynasty shall become the ruler, and elections will only be held upon death.\n\nWhen the §YBalance of Power§! is greater than or equal to §M0§!, a §YRepublican§! §YGrand Pensionary§! shall become the ruler, with elections held every §Y4§! years.\n\nEvery §O-20§! Balance of Power grants:\nLand Force Limit: §G+5.0%§!\nStability Cost Modifier: §G-5.0%§!\nManpower Recovery Modifier: §G+5.0§!\nYearly Legitimacy: §G+0.5§!\n\nEvery §M+20§! Balance of Power grants:\nNaval Force Limit: §G+5.0%§!\nProduction Efficiency: §G+5.0%§!\nTrade Efficiency: §G+5.0§!\nGlobal Trade Power: §G+5.0%§!\nYearly Legitimacy: §R-0.25§!\n"
 
 ability_NYAB_NED_colony_mechanic:"§YDutch Colonial Ministry§!"
+monthly_NYAB_NED_colony_power:"Monthly Colonial Reserve"
+NYAB_NED_colony_power_gain_modifier:"Colonial Reserve Modifier"
 NYAB_NED_colony_power:"Colonial Reserve"
-NYAB_NED_colony_power_desc:"When the §YColonial Reserve§! exceeds §G100§! £icon_colonial_growth£, each time a colonist brings settlers to a colony, an additional §G100§! £icon_colonial_growth£ will be added, with the corresponding amount deducted from the §YColonial Reserve§!. This mechanic does not take effect if the §YColonial Reserve§! is §Rbelow§! §G100§! £icon_colonial_growth£.\n\nThe following actions can increase the §YColonial Reserve§!:\n- When exploiting the development of a §Ynon-overseas province§!, every §Y10§! development grants §G50§! £icon_colonial_growth£, up to a maximum of §R250§! £icon_colonial_growth£. Provinces with less than §Y10§! development only grant §G25§! £icon_colonial_growth£.\n"
-NYAB_NED_colony_fever_title:"@NED Dutch Colonial Planning Bureau £icon_colonial_growth£"
-NYAB_NED_colony_fever_desc:""
-NYAB_NED_colony_fever_tt:"Colonial Reserve: §G[Root.ned_colonize_expansion_value.GetValue]§! £icon_colonial_growth£\n"
-ned_colonize_expansion_value:"Colonial Reserve"
-NYAB_NED_colony_fever_tt1:"Current status of our Colonial Reserve usage: §GEnabled§!\n"
-NYAB_NED_colony_fever_tt2:"Current status of our Colonial Reserve usage: §RDisabled§!\n"
+NYAB_NED_colony_power_desc:"Colonial Reserve represents our state's planned investment in the colonies. More is generally better.\n\nThe following actions increase §YColonial Reserve§!:\n- Development, up to §G+5.0§!\n- Exploiting development in §Ynon-overseas§! provinces grants §G50§! Colonial Reserve per §Y10§! development, up to §R250§! Colonial Reserve. Provinces with less than §Y10§! development grant §G25§! Colonial Reserve.\n\nThrough the button in the top-right corner of the §Yprovince colonial interface§!, we may spend §R500§! Colonial Reserve to establish a §Ysettlement zone§!.\n"
 NYAB_NED_colony_fever_tt3:"When the §YColonial Reserve§! is §Genabled§!, each time a colonist brings settlers to a colony, an additional §G100§! £icon_colonial_growth£ will be added, with the corresponding amount deducted from the §YColonial Reserve§!. This mechanic does not take effect if the §YColonial Reserve§! is §Rbelow§! §G100§! £icon_colonial_growth£.\n\nThe following actions can increase the §YColonial Reserve§!:\n- When exploiting development, every §Y10§! development grants §G50§! £icon_colonial_growth£, up to a maximum of §R250§! £icon_colonial_growth£. Provinces with less than §Y10§! development only grant §G25§! £icon_colonial_growth£.\n"
+
+DD_NED_buy_colony_1:"Colonial Propaganda"
+DD_NED_buy_colony_1_desc:"Encourage people to sail abroad to unknown distant lands. Of course, this may require some propaganda funding.\n"
+DD_NED_colonial_growth_2:"Colonial Growth"
+DD_NED_colonial_growth_2_desc:"Colonisation cannot rely solely on voluntary efforts—appropriate official guidance can also be beneficial.\n"
+DD_NED_colonial_growth_2_tt:"As long as §YColonial Reserve§! is at least §G+200§!, each month when a §Ycolonist§! introduces settlers to a colony, an additional §G+100§! settlers will be added, consuming the corresponding §YColonial Reserve§!. §g(This mechanic does not apply to settlement zones, as they do not receive settlers from colonists.)§!\n"
+DD_NED_colonial_growth_2_tt_clr:"Current §MColonial Growth§! mechanic: §Genabled§!\n"
+DD_NED_colonial_growth_2_tt_set:"Current §MColonial Growth§! mechanic: §Rdisabled§!\n"
+DD_NED_anto_colonize_3:"Auto-Colonisation"
+DD_NED_anto_colonize_3_desc:"By authorising private exploration companies to establish colonies, I can foresee colonies springing up like bamboo shoots after rain.\n"
+DD_NED_anto_colonize_3_tt:"When §YColonial Reserve§! is at least §G+500§!, once per year we will spend §R-500§! Colonial Reserve to randomly establish a §Ysettlement zone§! in an §Yuncolonised province§! within §Ycolonial range§! (not exceeding colonist limit), up to §G10§! zones. If the colony limit has already been reached, it will instead add §G+100§! settlers to a random colony.\n\nWhile this effect is active, §Rmanual colonisation is disabled§!, and each colonist grants an additional §G+5§! monthly Colonial Reserve.\n"
+DD_NED_anto_colonize_3_ttt:"Has not changed auto-colonisation settings in the last 5 years."
+DD_NED_anto_colonize_3_tt_clr:"Current §OAuto-Colonisation§! mechanic: §Genabled§!\n"
+DD_NED_anto_colonize_3_tt_set:"Current §OAuto-Colonisation§! mechanic: §Rdisabled§!\n"
 
 # Government Reforms
 
@@ -476,10 +480,10 @@ NYDD_LOM_free_italy_reform_desc:"The Committee is mainly composed of families fr
 
 DD_NED_united_province_reform:"United Provinces of the Netherlands"
 DD_NED_united_province_reform_desc:"Among the monarchies of Europe, the Netherlands stands as a young and peculiar exception. Legally, the Netherlands is a union jointly formed by the provinces of the Low Countries, and the States General, representing the provinces and their Stadtholders, is the supreme authority of the United Provinces. Due to the outstanding contributions of the Prince of Nassau and his successors to the independence of the Low Countries, the office of Stadtholder, who leads the Netherlands, is hereditarily held by the successive Princes of Nassau. The entire politics of the United Provinces revolves around the cooperation and rivalry between the Stadtholder and the Grand Pensionary, forming a unique political system of checks and balances between the central and local, the monarchical and the republican."
-DD_NED_empire_subject_reform:"Imperial Viceroyalty of the Netherlands"
-DD_NED_empire_subject_reform_desc:""
+DD_NED_empire_subject_reform:"Kommissariat of the Netherlands" # Imperial Viceroyalty - Reichskommissariat of the Netherlands
+DD_NED_empire_subject_reform_desc:"The Low Country Commissionerate is a crown land directly under the Emperor—the House of Hohenstaufen. Traditionally, it is governed by a locally appointed Governor and an Imperial Commissioner (i.e., Regent) from the royal house. After the Dutch Revolt, the Governor's position gradually became ceremonial, with authority shifting to the Regent and the council surrounding him, ruling the Low Countries on behalf of the Crown."
 DD_NED_kingdom_reform:"Kingdom of the Netherlands"
-DD_NED_kingdom_reform_desc:""
+DD_NED_kingdom_reform_desc:"After being appointed Viceroy of the Netherlands, Prince Joachim truly became the legitimate lord of the Netherlands. Though the Netherlands had been the Empire's loyal hound throughout these years, Joachim secretly strengthened his grip over the Low Countries, with his descendants ruling here as Viceroys in perpetuity. Thus, upon declaring independence, the Netherlands immediately became a centralised absolute monarchy, and the Imperial Knights' Low Country chapter—once loyal to the Emperor—chose to follow their Low Country sovereign, becoming an influential force within the government of the Kingdom of the Netherlands."
 
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
@@ -531,12 +535,17 @@ NYDD_ML2_norse_old_way_reform_desc: "These Norse people still stubbornly adhere 
 
 NYDD_LAN_family_reform:"Family is Always Family"
 NYDD_LAN_family_reform_desc:"Make no mistake, members of the Medici family do not rule this country hereditarily. They merely happen, at the right time, through legitimate elections, to appear in suitable positions. There is absolutely no fraud involved."
-NYDD_LOM_parliament_reform:"The League Council"
-NYDD_LOM_parliament_reform_desc:"To resolve the factional issues that have long plagued the Lombard League, the Administrator decided to establish a representative council acceptable to all three factions, calling upon all parties and groups to resolve disputes within the council rather than resorting to force. This has also, to some extent, alleviated the problem of Republican Faction members monopolizing the Administrator's position."
+NYDD_LOM_praliament_reform:"The League Council"
+NYDD_LOM_praliament_reform_desc:"To resolve the factional issues that have long plagued the Lombard League, the Administrator decided to establish a representative council acceptable to all three factions, calling upon all parties and groups to resolve disputes within the council rather than resorting to force. This has also, to some extent, alleviated the problem of Republican Faction members monopolizing the Administrator's position."
 NYDD_MLO_renaissance_reform:"Renaissance Monarch"
 NYDD_MLO_renaissance_reform_desc:"As the birthplace of the Renaissance, we must vigorously promote the patronage of Renaissance culture. This can only benefit us."
-NYDD_MLO_parliament_rev_reform:"Revolutionary Parliament"
-NYDD_MLO_parliament_rev_reform_desc:"As the source of the revolution, the Grand Council of Italy has been restructured into the Revolutionary Parliament, adding more seats representing commoners and merchants. We achieved victory with the people's help, so it is only right that we protect the people."
+NYDD_MLO_praliament_rev_reform:"Revolutionary Parliament"
+NYDD_MLO_praliament_rev_reform_desc:"As the source of the revolution, the Grand Council of Italy has been restructured into the Revolutionary Parliament, adding more seats representing commoners and merchants. We achieved victory with the people's help, so it is only right that we protect the people."
+
+NYDD_NED_german_noble_reform:"German Military Merit"
+NYDD_NED_german_noble_reform_desc:"With the Regent's victory, many German nobles replaced the rebellious Dutch nobles and received lands in the Netherlands. These German newcomers were mostly military aristocrats rewarded for their martial achievements, reliant on agriculture and land. Their descendants still revere the military and remain loyal to the monarch, forming the backbone of our army. Meanwhile, other hereditary Dutch nobles, by swearing fealty to our government, enjoy equally noble and equal status, holding key positions in the Regent's administration. Many Dutch nobles actively participate in colonisation and overseas trade, transforming into a new commercial nobility and investing in various industries. The united cooperation of German military nobles and Dutch hereditary nobles will surely make our state more efficient and powerful."
+NYDD_NED_republic_legacy_reform:"Legacy of the Grand Alliance"
+NYDD_NED_republic_legacy_reform_desc:"Though the Republican League was as fleeting as a flower, dissolving swiftly after the victory of the Dutch independence revolution, it left behind a legacy that cannot be ignored. The nobles of the Netherlands have become accustomed to banding together in parliament, coalescing into mutually aligned political factions united under leaders such as the Stadtholder, the Grand Pensionary, or other figures. This has not only improved the quality of our government's decision-making but also allowed diverse interests to be expressed and satisfied. And when the nation calls, the Dutch nobles can unite once more, reviving the spirit of cooperation that defined the Grand Alliance in bygone days."
 
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
@@ -577,6 +586,12 @@ NYDD_LAN_paint_it_reform_desc:"The newly established republican states in other 
 NYDD_MLO_expand_parliament_reform:"National Delegations"
 NYDD_MLO_expand_parliament_reform_desc:"As our national territory expands, the original council composed solely of Italians is no longer sufficient. Following the successful model of the Council of Constance, we will also divide the council into national delegations to improve its efficiency."
 
+
+NYDD_NED_colonial_reform:"Dutch Colonial Ministry"
+NYDD_NED_colonial_reform_desc:"With the opening of new sea routes, our colonial activities have become increasingly vigorous, even gradually becoming a primary focus and direction. Therefore, the colonial office formerly under the Trade Ministry has received growing attention and has at last been elevated to a formal new department—the Dutch Overseas Colonial Ministry. This ministry oversees colonisation, population, overseas commerce, territorial expansion, and colonial military affairs, dedicated to developing, managing, and expanding all colonial-related industries and matters for the benefit of the Netherlands, and works closely with the Trade Ministry and the Navy."
+NYDD_NED_colonial_reform_modifier:"Colonial Ministry Administration"
+desc_NYDD_NED_colonial_reform_modifier:"The New World is truly a land of opportunity."
+
  #t4
 NYDD_ASU_religion_happy_reform: "Spanish Inquisition"
 NYDD_ASU_religion_happy_reform_desc: "Originally established by Pope Gregory IX and operated by the Dominican Order, the Inquisition served as an ecclesiastical court to try heresy and blasphemy. After the Reconquista's victory, the Iberian Inquisition became a new judicial body serving the Crown - investigating, trying, and punishing heresy while enforcing Church authority and Catholic doctrine in newly reclaimed territories. Contrary to foreign stereotypes, the actual Inquisition was renowned for its rigorous procedures, fair trials, and humane treatment."
@@ -601,6 +616,9 @@ NYDD_ASU_religion_tolerance_reform_desc: "Though we triumphed in the Reconquista
  #1.1
 NYDD_BOH_sub_utraque_specie_reform: "Religious Reconciliation"
 NYDD_BOH_sub_utraque_specie_reform_desc: "Latin 'sub utraque specie'\nMeans 'equality for all,' originating from the famous Hussite Utraquist faction. After the death of Jan Hus, his followers, the Utraquists, gradually became the dominant religious faction in Bohemia, advocating for church reform. As the Hussite Wars concluded, it is time for us to heal the internal divisions within the nation, maintaining consensus and cooperation with Rome—including communion in both kinds, free preaching of the Gospel, reduction of church lands, and clerical discipline reforms."
+
+NYAB_NED_humanist_reform:"Embrace Humanism"
+NYAB_NED_humanist_reform_desc:"Since the great philosopher Erasmus, the Low Countries have been the cradle of humanist philosophy. It is time to make humanist philosophy an inseparable part of the state."
 
 # #t4
 # NYDD_ASU_religion_happy_reform: "Inquisition"
@@ -632,6 +650,9 @@ NYDD_ADU_old_general_reform_desc: "The officer corps has always been our core st
 
 NYDD_BOH_hussite_order_reform: "Hussite Order"
 NYDD_BOH_hussite_order_reform_desc: "A knightly order founded in the name of Jan Hus, initially dedicated to healing and aiding the wounded, now gradually evolving into a military religious order for crusading against heretics and pagans."
+
+NYDD_BRB_empire_knight_reform:"Imperial Knights"
+NYDD_BRB_empire_knight_reform_desc:"The Imperial Knights are a royal order directly under the Emperor, composed of the most elite and loyal noble knights, sworn to the master of the Double-Headed Eagle Crown. In the early days of the Commissionerate, to better rule and control the Low Countries, a portion of the Knights was dispatched by the Emperor to help maintain order, serving as the Crown's eyes in the Low Countries. Over the years, the Low Country chapter of the Imperial Knights has become the region's most important military elite, also known as the Alden Knights after their headquarters at Alden Biesen Castle in Limburg."
 
 #t6 Conciliar Bodies
 NYDD_ASU_zixunhui_good_reform: "Empowered Advisory Council"
@@ -678,6 +699,11 @@ NYDD_LAN_13_persons_reform_desc:"Originating from Lorenzo de' Medici 'il Magnifi
 # mechanic__yes: ""
 # mechanic__yes: ""
 
+NYAB_NED_staten:"Dutch States-General"
+NYAB_NED_staten_desc:"The Dutch States-General (Staten-Generaal) is the assembly of all territories within the Netherlands, composed of representatives of nobles, clergy, and burghers from each province, aimed at simplifying taxation—particularly by stabilising and coordinating provincial currencies. Objectively speaking, the States-General has fostered cohesion within the Netherlands, making people across the provinces aware of the concept of the Netherlands as a single nation. Generally, the States-General is convened by the provincial governors in consultation, then negotiates with the estates of each province on matters of state such as taxation and legislation."
+NYAB_NED_staten2:"Dutch Council of State"
+NYAB_NED_staten2_desc:"After much busy governance, the Council of State (de Raad van State) gradually took shape.\nIts predecessor was the Estates-General convened by the permanent delegation. Like the Estates-General, the permanent Estates-General was still composed of representatives from each province. Owing to the urgency and timeliness of affairs, they had greater latitude to act expediently, and in practice they often engaged in more private consultations and compromises to reach swift decisions. The Council was chaired each week by a representative from a different region, with a clerk present to keep records. Regardless of how many representatives were in attendance, each region had only one vote. The Council of State would determine policies across various fields—military, economic, expansion, and so on—and appoint the corresponding ministers."
+
 #7 Administration
  #1.1
 NYDD_FRA_zongcan_reform: "General Staff Headquarters"
@@ -689,11 +715,17 @@ NYDD_BOH_royal_office_reform_desc: "Established by the king, the Czech Royal Cha
 NYDD_LOM_reformed_freestate_reform:"Restructured Free States"
 NYDD_LOM_reformed_freestate_reform_desc:"People once described the old Free State system as neither fish nor fowl. But now, a brand new Free State system makes a shocking return. It will bring infinite surprises to the people of Italy and beyond."
 
+NYDD_NED_office_reform:"Secretary of State"
+NYDD_NED_office_reform_desc:"Unlike ordinary local bureaucrats and government officials, the Dutch Secretaries of State are a corps of professional elite bureaucrats directly accountable to the highest central government of the Netherlands. Their appointments, promotions, and transfers are handled by the Council of State, covering top-level decision-making across various government departments, assisting departmental heads and even the head of state. In the provinces, they are likewise the core bureaucrats managing actual administrative affairs, overseeing local governance and reporting to the centre."
+
 #8 Economy
 
  #1.1
 NYDD_BOH_invite_german_reform: "Invite German Settlers"
 NYDD_BOH_invite_german_reform_desc: "There remain vast uninhabited forests and developable farmland within Bohemia. We should invite landless German peasants to settle and cultivate Bohemian lands. This will help develop Bohemia's expansive territories, augment feudal resources and manpower. Simultaneously, we can learn techniques from German craftsmen and, incidentally, levy substantial taxes on them."
+
+NYAB_NED_state_govern:"Water Boards"
+NYAB_NED_state_govern_desc:"As the Low Countries were drained for agriculture, administrative bodies for water management—the Water Boards (waterschap, heemraadschap)—emerged. Dikes and polders were built and maintained by those who directly benefited, primarily farmers and landowners. Upstream farmers had to pay high maintenance costs, while inland inhabitants often refused to maintain dikes, leading to local nobles being appointed to take charge. The Water Boards were granted enforcement powers, authorised to punish those who threatened the canals, from fines to even the death penalty. The first Water Board was established in the 12th century, typically controlling a single polder or dike."
 
 #9 Legitimacy 
 NYDD_FRA_sunking_reform: "Sun King"
@@ -714,6 +746,10 @@ NYDD_LOM_roman_reform_desc:"Once, a great nation stood upon Europe. We did not c
 #10
 
 #Titles & Government Names
+MAHDI_COUNTRY: "Mahdi State"
+MAHDI: "Mahdi"
+TLC_union: "Habrullah League"
+EMIR_OF_EMIR: "Grand Emirate"
 
 LOM_UNION:"Union"
 LOM_ADM_RULER:"Administrator"
@@ -722,6 +758,14 @@ FIRST_CITIZEN:"First Citizen"
 DICTATOR_DD:"Dictator"
 DD_SILING: "Imperial Commander"
 HOLY_FEM: "Holy Maiden"
+
+FED_EMPIRE: "Federal Empire"
+GER_MINISTER: "Chancellor"
+
+EMPIRE_kommissariat:"Reichskommissariat" # Imperial Commissionerate
+NED_REGENT:"Regent"
+NED_ZONGDU:"Governor"
+NED_VICEKING:"Viceroy"
 
 NED_ZHIZHENG:"Stadtholder"
 NED_ZHIZHENG_fem:"Stadtholderess"
@@ -759,6 +803,16 @@ NYDD_fanwang_reform_desc: ""
 NYDD_biansai_reform: "Borderland Frontier Princedom"
 NYDD_biansai_reform_desc: ""
 
+NYDD_nantian_xuanzhen_reform: "Xuanzheng Yuan"
+NYDD_nantian_xuanzhen_reform_desc: ""
+NYDD_nantian_warlord_reform: "Nantian Warlords"
+NYDD_nantian_warlord_reform_desc: ""
+
+NYDD_heishui_zongbing_reform: "Heishui Supreme Command"
+NYDD_heishui_zongbing_reform_desc: ""
+NYDD_heishui_dubo_reform: "Heishui Dubo"
+NYDD_heishui_dubo_reform_desc: ""
+
 NYDD_shogunate:"Daijo-kan United Shogunate"
 NYDD_shogunate_desc:""
 NYDD_suwo_reform:"Soga Dynasty"
@@ -781,6 +835,14 @@ TIANCHAO: "Celestial Dynasty"
 TIANZI: "Son of Heaven"
 HUANGCHAO: "Imperial Dynasty"
 HUANGDI: "Emperor"
+XUANZHENGSHI: "Xuanzheng Commissioner"
+DAXUANZHENGSHI: "Grand Xuanzheng Commissioner"
+ZONGBINGFU: "Supreme Command"
+ZONGBING: "Supreme Commander"
+GUZHEN: "Garrison Command"
+DUBO: "Dubo"
+DADUFU: "Grand Metropolitan Prefecture"
+DADUBO: "Grand Dubo"
 
 DAIJIN: "Daijin"
 KANPAKU: "Kampaku"

@@ -52,6 +52,7 @@ germanic = {
 	west_saxons = {} #西撒克逊，不列颠
 
 	hungarian_germanic = {} #匈牙利
+	afrika_germanic = {} #阿非利卡
 }
 iberian = {
 	asutuliyasi = {}
@@ -234,8 +235,45 @@ mongol_cg = {
 }
 east_asian = {
 	dihua_chi = {}
-	liao_chi = {}
 	dian_chi = {}
+	liao_chi = {}
 	miao_chi = {}
 	anxi_chi = {}
+	gui_chi = {}
+
+	gaoli_chi = {}
+	sanhan_chi = {}
+	bai_chi = {}
+	yi_chi = {}
+	qian_chi = {}
+
+	#东北
+	jiwei_chi = {}
+	heishui_chi = {}
+	songze_chi = {}
+	bohai_chi = {}
+	guyan_chi = {}
+
+	#南天
+	miandian_chi = {}
+	linyang_chi = {}
+	lancang_chi = {}
+	xianluo_chi = {}
+	gaomian_chi = {}
+	linyi_chi = {}
+
+	molai_chi = {}
+	jinzhou_chi = {}
+	shunta_chi = {}
+	zhaowa_chi = {}
+	luozhou_chi = {}
+	chenghai_chi = {}
+	liya_chi = {}
+	fuzhou_chi = {}
+	shayao_chi = {}
+	lunzhou_chi = {}
+	haiyuan_chi = {}
+	minghai_chi = {}
+	penglai_chi = {}
+	shuozhou_chi = {}
 }

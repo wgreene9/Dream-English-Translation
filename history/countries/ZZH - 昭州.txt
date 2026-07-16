@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = zhaowa_chi
+religion = wu_confucianism
+religious_school = fengjiao_school
+government_rank = 2
+capital = 628
+add_harmonized_religion = hinduism
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Diaoyang"
+		dynasty = "Shen"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

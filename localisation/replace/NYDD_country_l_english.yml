@@ -74,6 +74,15 @@
  NE5: "Antwerp"
  NE6: "Zeeland"
 
+ NE8:"Netherlands"
+ NE9:"Netherlands"
+
+ VO0:"Oost-Aziatische Raad" # Vereenigde Oostaziatische Raad
+ VO1:"Afrika"
+ VO2:"Nieuw Amsterdam" # New Amsterdam
+ VO3:"Noordsche Compagnie" # Northern Shipping Company
+ VO4:"West-Indische Compagnie" # West India Company
+
  FRC: "Francia"
  FR1: "Franco-British Commonwealth"
  FR2: "France" # formerly Bretagne
@@ -201,6 +210,42 @@ HM9:"Tianshan Liandao"
 JP1:"Soga"
 JP2:"Daijo-kan"
 
+#南天 (Southern Heaven)
+LNN:"Lan"
+MNN:"Mian"
+XLO:"Siam"
+LYG:"Linyang"
+LYI:"Linyi"
+RNG:"Nanrong"
+JLO:"Jiulong"
+
+MOO:"Molai"
+LOY:"Longya"
+JIH:"Jinzhou"
+JGG:"Nantian"
+SGG:"Shungang"
+ZZH:"Zhaozhou"
+LZH:"Luozhou"
+CAI:"Chenghai"
+LYA:"Liya"
+FUU:"Fuzhou"
+SYA:"Shayao"
+LNZ:"Lunzhou"
+MIH:"Mingyang"
+HAY:"Haiyuan"
+PNG:"Pengzhang"
+SZH:"Shuozhou"
+
+#黑水 (Heishui / Black Water)
+GYA:"Guyan"
+HSH:"Heishui"
+HNS:"Hunshan"
+HNT:"Huntong"
+JWE:"Jiwei"
+JHA:"Jinghai"
+YIZ:"Yizhen"
+ZHE:"Zhen"
+
 # Region: North Africa, Iberia
  AFR_ADJ: "African"
  MOT_ADJ: "Mauretanian"
@@ -274,6 +319,15 @@ JP2:"Daijo-kan"
  NE4_ADJ: "Brussels"
  NE5_ADJ: "Antwerpian" # Antwerp
  NE6_ADJ: "Zeelander" # Zeeland
+
+ NE8_ADJ:"Dutch"
+ NE9_ADJ:"Dutch"
+
+ VO0_ADJ:"Oost-Aziatische" # East Asia Council
+ VO1_ADJ:"Afrikaner"
+ VO2_ADJ:"Nieuw Amsterdamer"
+ VO3_ADJ:"Noordsche" # Northern Shipping Company
+ VO4_ADJ:"West-Indische" # West India Company
 
  FRC_ADJ: "Frankish"
  FR1_ADJ: "Franco-British"
@@ -400,3 +454,39 @@ HM9_ADJ:"Tianshan"
 #Japan
 JP1_ADJ:"Soga"
 JP2_ADJ:"Daijo-kan"
+
+#南天 (Southern Heaven) - Adjective Forms
+LNN_ADJ:"Lan"
+MNN_ADJ:"Mian"
+XLO_ADJ:"Siamese"
+LYG_ADJ:"Linyang"
+LYI_ADJ:"Linyi"
+RNG_ADJ:"Nanrong"
+JLO_ADJ:"Jiulong"
+
+MOO_ADJ:"Molai"
+LOY_ADJ:"Longya"
+JIH_ADJ:"Jinzhou"
+JGG_ADJ:"Nantian"
+SGG_ADJ:"Shungang"
+ZZH_ADJ:"Zhaozhou"
+LZH_ADJ:"Luozhou"
+CAI_ADJ:"Chenghai"
+LYA_ADJ:"Liya"
+FUU_ADJ:"Fuzhou"
+SYA_ADJ:"Shayao"
+LNZ_ADJ:"Lunzhou"
+MIH_ADJ:"Mingyang"
+HAY_ADJ:"Haiyuan"
+PNG_ADJ:"Pengzhang"
+SZH_ADJ:"Shuozhou"
+
+#黑水 (Heishui / Black Water) - Adjective Forms
+GYA_ADJ:"Guyan"
+HSH_ADJ:"Heishui"
+HNS_ADJ:"Hunshan"
+HNT_ADJ:"Huntong"
+JWE_ADJ:"Jiwei"
+JHA_ADJ:"Jinghai"
+YIZ_ADJ:"Yizhen"
+ZHE_ADJ:"Zhen"

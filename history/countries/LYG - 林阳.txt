@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = linyang_chi
+religion = outward_confucianism
+religious_school = rangyi_school
+government_rank = 2
+capital = 4399
+
+add_harmonized_religion = vajrayana
+add_harmonized_religion = confucianism
+1444.1.1 = {
+	monarch = {
+		name = "Yande"
+		dynasty = "Cheng"
+		birth_date = 1410.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

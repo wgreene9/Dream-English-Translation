@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = NYDD_nantian_warlord_reform
+technology_group = chinese
+primary_culture = fuzhou_chi
+religion = confucianism
+religious_school = mingzheng_school
+government_rank = 2
+capital = 656
+add_harmonized_religion = animism
+add_harmonized_religion = vajrayana
+
+1444.1.1 = {
+	monarch = {
+		name = "Wubin"
+		dynasty = "Yu"
+		birth_date = 1404.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
