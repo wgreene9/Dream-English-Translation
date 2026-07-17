@@ -587,7 +587,7 @@ DD_ML2_look_for_treasure_desc:0 "Not enough!\n"
 DD_ML2_share_the_spoils:0 "Share the Spoils"
 DD_ML2_share_the_spoils_desc:0 "Wealth should sometimes be shared with the sailors. That way, they will be even more devoted to fighting for us.\n"
 DD_ML2_invite_the_legendary_pirate:0 "Rising Fame"
-DD_ML2_invite_the_legendary_pirate_desc:0 "Our esteemed Grand Captain [Root.Monarch.GetName] is renowned far and wide!\nIt's time to build a pirate ship exclusively for him!\n"
+DD_ML2_invite_the_legendary_pirate_desc:0 "Our esteemed Grand Captain is renowned far and wide!\nIt's time to build a pirate ship exclusively for him!\n"
 DD_ML2_invite_the_legendary_pirate.tt:0 "A §YLegendary Pirate§! will arrive with his §YPirate Ship§! to serve as the leader of the @DDF\n\n§YArmada del Terror§! (Fear Fleet)!\n\n§YLegendary Pirates§! will have lower §YAdministrative§! points but higher §YDiplomatic§! and §YMilitary§! points"
 
 DD_ML2_assemble_fleet_tt:"While this modifier is active, recruiting a §YAdmiral§! grants an additional §G2§! Naval Tradition.\n"

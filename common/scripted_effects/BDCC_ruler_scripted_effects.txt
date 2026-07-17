@@ -2,7 +2,7 @@ BUL_Stoyan_ruler = {
 	define_ruler = {
 		dynasty = "Zapryanov"  # Zapryanov
 		male = yes
-		culture = bul
+		culture = bulgarian
 		name = "Stoyan" #Stoyan
 		claim = 80
 		age = 26
@@ -15,7 +15,6 @@ BUL_Stoyan_ruler = {
 		shock = 4
 		manuever = 2
 		siege = 3
-		female = no
 	}
 } 
 

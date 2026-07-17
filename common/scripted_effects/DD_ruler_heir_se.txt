@@ -1826,12 +1826,11 @@ DD_NED_4a = {
 	}
 }
 DD_NED_define_nassau_ruler = {
-	define_exiled_ruler = {
+	define_ruler = {
 		dynasty = "van Nassau"
 		change_mil = 1
 		min_age = 20
 		max_age = 40
-		exiled_as = DD_NED_nassau_ruler
 	}
 }
 DD_NED_define_nassau_ruler_exiled = {

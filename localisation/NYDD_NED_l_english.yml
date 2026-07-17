@@ -939,11 +939,11 @@ NYDD_NED_treathen_freedom_tt_HOL3:"We will gain a casus belli '§YSurprise Attac
 NYDD_NED_rise_up_eng_union_modifier:"Preparing a Naval Blockade"
 desc_NYDD_NED_rise_up_eng_union_modifier:"If we are to rule the Isles, our navy must be strong."
 NYDD_NED_rise_up_eng_union_tt:"The mission '§YThis Shore Is That Shore§!' will gain an additional §Mdiplomatic§! completion path.\nThe trade power requirement for the mission '§YMaster of the Channel§!' is reduced to §G50.0%§!.\n"
-NYDD_NED_united_kingdom_ttt:"Provinces in the §YBritain§! region held by us, our subjects, or our §Y[NED_english_ally.GetName]§! ally or its subjects."
+NYDD_NED_united_kingdom_ttt:"Provinces in the §YBritain§! region held by us, our subjects, or our §Y[ned_english_ally.GetName]§! ally or its subjects."
 NYDD_NED_united_kingdom_tt:"We shall decide the fate of our former allies @ENG§Ythe English§!—shall we establish a subject state or administer it ourselves?\n"
-NYDD_NED_united_kingdom_ttyes:"£yes£If our §Y[NED_english_ally.GetName]§! ally holds at least §G10§! provinces in the §YBritain§! region:"
-NYDD_NED_united_kingdom_ttno:"£no£If our §Y[NED_english_ally.GetName]§! ally holds at least §G10§! provinces in the §YBritain§! region:"
-NYDD_NED_united_kingdom_tt2:"From now on, whenever either @[Root.GetTag]§Y[Root.GetName]§! or @[NED_english_ally.GetTag]§Y[NED_english_ally.GetName]§! holds §G50.0%§! trade share in the §YEnglish Channel§!, the other will receive:\nTrade efficiency: §G+25.0%§!\n"
+NYDD_NED_united_kingdom_ttyes:"£yes£If our §Y[ned_english_ally.GetName]§! ally holds at least §G10§! provinces in the §YBritain§! region:"
+NYDD_NED_united_kingdom_ttno:"£no£If our §Y[ned_english_ally.GetName]§! ally holds at least §G10§! provinces in the §YBritain§! region:"
+NYDD_NED_united_kingdom_tt2:"From now on, whenever either @[Root.GetTag]§Y[Root.GetName]§! or @[ned_english_ally.GetTag]§Y[ned_english_ally.GetName]§! holds §G50.0%§! trade share in the §YEnglish Channel§!, the other will receive:\nTrade efficiency: §G+25.0%§!\n"
 NYDD_NED_united_kingdom_dip_TRADE:"Cooperation for Mutual Benefit"
 DD_NED_english_friend_trade_modifier:"Cooperation for Mutual Benefit"
 desc_DD_NED_english_friend_trade_modifier:"The Dutch have reached an agreement with the English to share the trade of the Channel."
@@ -972,7 +972,7 @@ desc_NYDD_NED_develop_swamp_modifier2:"Just another ruler, no different from the
 NYDD_NED_normandy_modifier:"Master Diplomat"
 desc_NYDD_NED_normandy_modifier:"Kind words forge kind bonds; harsh words wound the heart."
 NYDD_NED_normandy_tt2:"The Normans came to pillage our lands centuries ago, and have since become an inseparable part of France. How shall we treat them—grant them the status of a §Yforeign Confederation member§!, or §Jabsorb§! their greeting?\n"
-NYDD_NED_france_tt:"We must decide the course of our relationship with the French—shall we be §Jeternal friends§! or §Rallies of convenience§!?\n\nIf both missions '§YRiding the Waves, Chasing the Sound§!' and '§YThe Walloon Fields§!' are completed §Mdiplomatically§! for the same nation, this event will unlock additional options.\n"
+NYDD_NED_france_tt:"We must decide the course of our relationship with the French—shall we be §Jeternal friends§! or §Rallies of convenience§!?\n\nIf both missions '§YChasing Waves and Sounds§!' and '§YThe Walloon Fields§!' are completed §Mdiplomatically§! for the same nation, this event will unlock additional options.\n"
 NYDD_NED_france_tt2:"The crimes France has committed against the Low Countries are beyond counting—it is time to §Rerase§! them from the map. But in what form?\n"
 
 NYDD_NED_new_sun_arise_title:"A New Sun Rises"
@@ -1407,6 +1407,7 @@ DD_NED_set_colony_gui_tt:"§Y[From.GetName]§! will spend §R500§! colonial res
 DD_NED_set_colony_gui_ttt:"Current number of colonies does not exceed colonist limit."
 DD_NED_75a_modifier:"Tax Exemption"
 desc_DD_NED_75a_modifier:"Abolish all those exorbitant taxes!"
+DD_NED_set_colony_gui_ttt2:"Fewer than 10 colonies"
 
 NYDD_NED_centralize_ttt:"Has not granted the estate privilege '§YStatutory Rights of Estates§!'."
 
@@ -1416,3 +1417,4 @@ DD_NED_forever_personality_die_desc:"Thank heavens—finally over."
 
 DD_NED_choose_support_HOL:"Support the Holland Faction"
 DD_NED_choose_support_BRB:"Support the Brabant Faction"
+DD_NED_FRA_Friend_op:"Franco-Dutch Alliance"

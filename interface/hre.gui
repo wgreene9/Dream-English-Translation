@@ -527,7 +527,9 @@ guiTypes = {
 		guiButtonType = {
 			name = "DD_dismantel_button"
 			position = { x= 417 y = 686}
-			quadTextureSprite ="GFX_DD_dismantel_button"
+			quadTextureSprite ="button_type_1"
+			buttonText = "HRE_DISMANTLE"
+			buttonFont = "vic_18"
 			scripted = yes
 		}
 		#世袭时终结霍亨斯陶芬霸权
