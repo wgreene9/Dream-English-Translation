@@ -4,12 +4,13 @@ primary_culture = island_sca
 religion = catholic
 technology_group = western
 capital = 4364 # inner hebrides
-government_rank = 1
+government_rank = 2
 
 1423.1.1 = {
 	monarch = {
-		name = "Cottair III"
-		dynasty = "Funder"
+		name = "Ketill"
+		monarch_name = "Ketill III 'Finnr'"
+		dynasty = "Crovan"
 		adm = 2
 		dip = 2
 		mil = 2

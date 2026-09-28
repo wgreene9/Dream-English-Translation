@@ -1,14 +1,13 @@
 government = monarchy
 add_government_reform = NYDD_nantian_warlord_reform
 technology_group = chinese
-primary_culture = lancang_chi
+primary_culture = lunzhou_chi
 religion = confucianism
 religious_school = mingzheng_school
 government_rank = 1
-capital = 614
+capital = 644
 
 add_harmonized_religion = vajrayana
-add_harmonized_religion = mahayana
 
 1444.1.1 = {
 	monarch = {

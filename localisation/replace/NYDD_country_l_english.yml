@@ -13,7 +13,6 @@
  ITL: "Italia" # Italyya
  IBM: "Hispania"
  MGB: "Maghreb"
- EN9: "New England"
  UMA: "Umayyads"
 
  SP9: "Iberia"
@@ -21,6 +20,7 @@
  SP7: "United Kingdoms of Iberia"
  SP6: "Francia"
  SP5: "Sancho's Expedition"
+ SP4: "Hispania"
  HCR: "Holy Cross Land"
  
 # Region: Egypt, Mashriq, Arabia
@@ -47,6 +47,8 @@
  THR: "Thrace"
  LSW: "Lesbos"
 
+ YU1: "Yugoslavia"
+
 # Europe
  PTU: "Poitou"
  DLW: "Danelaw"
@@ -55,6 +57,8 @@
  YWK: "Jórvík"
  AQT: "Aquitaine"
  DNL: "Danelagen" # Daneland
+ JUT: "Jutland"
+ HOS: "Schleswig"
 
  EN1: "Sussex"
  EN2: "Kent"
@@ -62,7 +66,17 @@
  EN4: "Essex"
  EN5: "Norfolk"
  EN6: "Calais"
+ EN7: "England"
  EN8: "England"
+ EN9: "New England"
+
+ GB1: "Great Britain"
+ GB2: "United Kingdom"
+ GB3: "United Kingdom"
+ GB4: "North Sea Empire"
+ GB5: "British Union"
+ GB6: "Britannia"
+ GB7: "Holy Britannia"
 
  WL1: "Gwynedd"
  WL2: "Glamorgan"
@@ -259,7 +273,6 @@ ZHE:"Zhen"
  ITL_ADJ: "Italian" # Italyyan
  IBM_ADJ: "Hispanian"
  MGB_ADJ: "Maghrebi"
- EN9_ADJ: "New English"
  SP9_ADJ: "Iberian"
  UMA_ADJ: "Umayyad"
 
@@ -268,6 +281,7 @@ ZHE:"Zhen"
  SP7_ADJ: "United Kingdoms of Iberia"
  SP6_ADJ: "Frankish"
  SP5_ADJ: "Sancho Expedition"
+ SP4_ADJ: "Hispanian"
 
 # Region: Egypt, Mashriq, Arabia
  ATI_ADJ: "Antiochan"
@@ -293,6 +307,8 @@ ZHE:"Zhen"
  THR_ADJ: "Thracian"
  LSW_ADJ: "Lesbian"
 
+ YU1_ADJ: "Yugoslavic"
+
  # Europe
  PTU_ADJ: "Poitou"
  DLW_ADJ: "Danelaw"
@@ -301,6 +317,8 @@ ZHE:"Zhen"
  YWK_ADJ: "Jórvík"
  AQT_ADJ:"Aquitanian"
  DNL_ADJ: "Danelagen"
+ JUT_ADJ: "Jutlander"
+ HOS_ADJ: "Schleswiger"
  
  EN1_ADJ: "Sussex"
  EN2_ADJ: "Kent"
@@ -308,7 +326,17 @@ ZHE:"Zhen"
  EN4_ADJ: "Essex"
  EN5_ADJ: "Norfolk"
  EN6_ADJ: "Calaisian"
+ EN7_ADJ: "English"
  EN8_ADJ:"English"
+ EN9_ADJ: "New English"
+
+ GB1_ADJ: "British"
+ GB2_ADJ: "British"
+ GB3_ADJ: "British"
+ GB4_ADJ: "North Sea"
+ GB5_ADJ: "British"
+ GB6_ADJ: "Britannian"
+ GB7_ADJ: "Holy Britannian"
 
  WL1_ADJ:"Gwyneddian"
  WL2_ADJ:"Glamorganian"

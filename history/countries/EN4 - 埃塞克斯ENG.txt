@@ -7,13 +7,14 @@ capital = 238
 mercantilism = 25
 government_rank = 1
 
+#Essex
 1444.1.1 = {
 	monarch = {
-		name = "Henry"
-		dynasty = "Oxford"
-		ADM = 6
+		name = "John"
+		dynasty = "Deville"
+		ADM = 5
 		DIP = 1
 		MIL = 1
-		birth_date = 1406.11.11
+		birth_date = 1408.11.11
 	}
 }

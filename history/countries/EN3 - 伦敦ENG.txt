@@ -7,6 +7,7 @@ capital = 236
 mercantilism = 25
 government_rank = 1
 
+#London
 1444.1.1 = {
 	monarch = {
 		name = "Humphrey"

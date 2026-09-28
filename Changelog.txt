@@ -1,3 +1,37 @@
+9.27.2026
+The Dream yet to be Dreamed mod team wishes everyone a happy Mid-Autumn Festival!
+
+1. England (London) Update
+
+- In the catastrophe of 1066, England fell into ruin, but fate never abandoned England. The restorers of the Five-Province League endured humiliation and rose again from the ashes.
+- Under the unjust rule of foreigners, the last Englishmen of the Five-Province League have finally awaited their chance for restoration. Defeat your old friends, send the French home, push the Vikings into the sea, and rebuild our ancient and great motherland—England.
+- Out of Many, One. England will unite all the peoples of Britain, establishing a new nation full of possibilities, no matter which path is chosen. Will you restore the long-vacant throne? Or reunite the people under a republic? England awaits the voice of its people. England will have a total of 6 selectable paths, including Wessex, Angevin, Cnutling, Republican, and two hidden paths.
+- Take revenge on old enemies, unite or conquer the peoples of Britain, and write England's future!
+
+2. New Christian Religious Mechanics — Gallican Church, Outremer Christianity, and Imperial Catholicism
+
+- Anglicanism will now be returned to England, while France will have the brand-new Gallican Church to replace it—a church faction advocating for the legitimate right of the French king to intervene in religious affairs within France.
+- Outremer Christianity—a new Reformed sect led by the Crusader states overseas and the Patriarch of Jerusalem, a new heresy featuring a total of 10 patriarchs and church leaders by the end of the game, with 27 unique teachings in total.
+- Imperial Catholicism will now convene councils exclusive to Imperial Catholicism to determine major policies for the church and its member states.
+
+3. Other
+
+- Subdivided the Scandinavian culture group.
+- Added loading screen tips with The Dream yet to be Dreamed's unique flavor.
+- Fixed a bug where the Empire of Thessalonica could form the Kingdom of Thessalonica. Kingdom of Thessalonica will only have a mission tree when formed by Thessaly.
+- Optimized Brittany's event chain, doubling its trigger speed. (This means Jeanne will be 6 years old at birth.)
+- Added a new formable nation for Valencia: Hispania.
+- Added a decision for the Empire of Thessalonica to spend 2 stability to pause cultural integration.
+- Added 3 new German Tension events; one will be randomly selected to trigger each game.
+- German Tension will now grow faster over time.
+- Replaced France's starting Londoner rebels with Cornish rebels.
+- Fixed an issue where entering the Lombard Imperial path with slow clicking would grant the Republican path's exclusive penalties.
+- Optimized most of Thessalonica's event broadcasts so they will only broadcast in the Balkans and Anatolia.
+- France can no longer join the Second North-South War while it is a subject.
+- Iberian nations can now establish the Society of Jesus (Jesuit Order).
+- Fixed several incorrect event previews.
+- Fixed several text issues.
+
 7.14.2026
 
 1. Netherlands Update

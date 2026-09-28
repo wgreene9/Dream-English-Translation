@@ -76,6 +76,9 @@ khawarij_religion_desc: "The Kharijites, an ancient Islamic sect, emerged during
 khawarij_school: "Khariji"
 khawarij_school_desc: "The Kharijites, an ancient Islamic sect, emerged during the era of Caliph Ali, like the Sunnis and Shiites, and caused great turmoil in the Arab world by assassinating Ali and Muawiyah. They oppose both Shiite and Sunni views, advocating for the strict election of leaders based on Islamic egalitarian principles. Any Muslim, regardless of status or ethnic background, who possesses the necessary leadership skills, has the right to be elected, even a slave. The Caliph must strictly obey Allah, otherwise, he should be overthrown. They aim to establish a 'democratic Islam,' abolishing the custom of inheriting leadership through tribal or blood relations, and place great emphasis on Sharia, advocating for the equal distribution of land and spoils among all Muslims, hence also known as the Military Democrats. After being exiled to Mesopotamia, they launched uprisings against the Caliph, which were suppressed several times. Today, besides the followers hidden in Mesopotamia, there are remnants who have sailed into exile in Iberia."
 
+tayyibi_school: "Tayyibi School"
+tayyibi_school_desc:""
+
 harmonized_confucianism: "Harmonized Confucianism"
 
 greek_religion: "Scholastikos"
@@ -94,24 +97,115 @@ suomi_pagan_religion_desc: "An ancient belief system of the Suomi region."
 insular_catholic:"Insular Catholic"
 insular_catholic_religion_desc:"A distinctive practice of Christian faith in the Gaelic regions, often considered part of the Roman Catholic Church. Due to Ireland's distance from Rome, some Christian customs differ, such as monastic family inheritance and eremitic traditions."
 insular_catholic_fervor_church:"Sponsor Churches"
-insular_catholic_fervor_church_short:"Sponsor Churches"
+insular_catholic_fervor_church_short:"Building"
 insular_catholic_fervor_help_people:"Aid the Poor"
-insular_catholic_fervor_help_people_short:"Aid the Poor"
+insular_catholic_fervor_help_people_short:"Charity"
 insular_catholic_fervor_goods:"Develop Production"
-insular_catholic_fervor_goods_short:"Develop Production"
+insular_catholic_fervor_goods_short:"Production"
 insular_catholic_fervor_colony:"Encourage Migration"
-insular_catholic_fervor_colony_short:"Encourage Migration"
+insular_catholic_fervor_colony_short:"Migration"
 
 DD_insular_catholic_373_holy_site_modifier_trigger:"Insular Holy Site: Tara"
 desc_DD_insular_catholic_373_holy_site_modifier_trigger:"The Hill of Tara, where the 'Lia Fáil' (Stone of Destiny) rests, is said to be the coronation site of countless High Kings of Ireland."
 DD_insular_catholic_373_holy_site_modifier:"Insular Holy Site: Tara"
 desc_DD_insular_catholic_373_holy_site_modifier:"The Hill of Tara, where the 'Lia Fáil' (Stone of Destiny) rests, is said to be the coronation site of countless High Kings of Ireland."
 
-# May overwrite vanilla definitions
-anglican:0 "Anglicanism"
-anglican_religion_desc:0 "Anglicanism, formally known as the Holy Gallican Church, recognizes the head of state as its supreme governor. Theologically and institutionally, Anglicanism retains many Catholic elements while incorporating influences from Reformed Puritanism and Continental Protestantism."
+french_catholic: "Gallican"
+french_catholic_religion_desc: "The Gallican Church, also known as the French Holy Catholic Church, has its highest leader as the head of state. In theology and institution, the Gallican Church retains many Catholic elements while also being influenced by the Reformation movement."
 
-# Religious mechanics
+french_catholic_ASPECTS_LONG: "Church Doctrines"
+french_catholic_ASPECTS_SHORT: "Doctrines"
+french_catholic_ASPECTS_POWER_NAME: "Church Power"
+
+DD_franch_aspect_adm_1_king: "Royal Appointment"
+desc_DD_franch_aspect_adm_1_king: "The King can directly appoint bishops, achieving an autonomous church.\n\nWhen constructing §YChurches§! buildings, there is a §G+50.0%§! chance to gain §G1§! tax base.\n§g(Once per province)§!\n"
+DD_franch_aspect_adm_2_roma: "Submission to Rome"
+desc_DD_franch_aspect_adm_2_roma: "We have to acknowledge the jurisdiction of Rome, and bishops are still decided by Rome.\n\nMutual §G+25.0§! opinion with all existing known §YRoman Catholic§! countries.\n"
+DD_franch_aspect_adm_3_election: "Bishop Nomination"
+desc_DD_franch_aspect_adm_3_election: "Our domestic bishops are nominated by the King, and then the Pope selects one from a list provided abroad, which undoubtedly appeases both the domestic realm and Rome.\n\n§YChurch§! buildings additionally grant the province §G-1.00§! unrest.\n"
+
+DD_franch_aspect_adm_2_roma_op: "Submission to Rome"
+DD_franch_aspect_adm_3_election_modifier: "Bishop Nomination"
+desc_DD_franch_aspect_adm_3_election_modifier: "Bishop nomination makes the bishops happier, and this church is also more convincing to the people."
+
+DD_franch_aspect_dip_1_expand: "Patronize Monasteries"
+desc_DD_franch_aspect_dip_1_expand: "Our domestic monasteries cannot survive without Rome, and it is necessary for us to patronize these monasteries to help them better fulfill Christ's will.\n\nWhen §YCelebrating§!, a random §Y1§! §Ystate religion§! province with a §YChurch§! building under our rule gains §G1§! tax base.\n"
+DD_franch_aspect_dip_2_reform: "Reformation Diplomacy"
+desc_DD_franch_aspect_dip_2_reform: "In the wave of reform, we cannot stand aside. Comparatively, we all have a similar goal — Rome.\n\nWhen §YCelebrating§!, mutual §G+10.0§! opinion with §YProtestant§!, §YReformed§!, §YAnglican§!, and §YImperial Catholic§! countries. §g(Maximum §G+100.0§!)§!\n"
+DD_franch_aspect_dip_3_free: "Freedom of Faith"
+desc_DD_franch_aspect_dip_3_free: "Our domestic religious composition is complex and diverse, and it is necessary to grant them the right to free belief. This is also for the stability of our nation.\n\nWhen §YCelebrating§!, we will gain §G+1§! stability or §G25§!£adm£.\n"
+
+DD_franch_aspect_dip_2_reform_tt: "Mutual §G+10.0§! opinion with §YProtestant§!, §YReformed§!, §YHussite§!, §YAnglican§!, and §YImperial Catholic§! countries.\n"
+DD_franch_aspect_dip_2_reform_op: "Reformation Diplomacy"
+
+DD_franch_aspect_mil_1_holywar: "Eradicate Heresy"
+desc_DD_franch_aspect_mil_1_holywar: "In the wave of the Reformation, there are simply too many heretics, and heavy cavalry must be sent to send them all to heaven.\n\nEnables the casus belli \"§YCleanse Heresy§!\" against §YHeretic§! countries (§G75.0%§! aggressive expansion and warscore cost).\n"
+DD_franch_aspect_mil_2_kinght: "Patronize Knightly Orders"
+desc_DD_franch_aspect_mil_2_kinght: "The knightly orders need funding for modernization, and since we have money, let's sponsor them a little.\n\nWhen §YDeclaring War§!, we will gain §G+10.0%§! cavalry combat ability for §Y5§! years. §g(Refreshes, does not stack)§!\n"
+DD_franch_aspect_mil_3_free: "War Blessing"
+desc_DD_franch_aspect_mil_3_free: "The Church has decided to support our righteous cause. For this, we can rightfully levy war taxes.\n\nWhile at §YWar§!, we will gain §G+10.0%§! national tax modifier.\n"
+DD_franch_aspect_mil_1_holywar_modifier: "Eradicate Heresy"
+desc_DD_franch_aspect_mil_1_holywar_modifier: "War, a performance art."
+DD_franch_aspect_mil_3_free_modifier: "War Blessing"
+desc_DD_franch_aspect_mil_3_free_modifier: "The Church has decided to support our righteous cause."
+DD_franch_aspect_mil_2_kinght_modifier: "Knightly Order Support"
+desc_DD_franch_aspect_mil_2_kinght_modifier: "The knights of the order have arrived on the battlefield."
+
+oversea_catholic: "Outremer"
+oversea_catholic_religion_desc: "Outremer Christianity is in fact a self-reform of the Patriarchate of Jerusalem, a new denomination that merged with the Eastern Catholic Churches and numerous local Eastern sects, tolerating and incorporating many traditions that Orthodoxy considers heretical or even pagan. It is effectively a syncretic faith that emerged after the overseas crusader kingdoms ruled the region for hundreds of years, and was accepted by the local peoples. This denomination even revived certain Gnostic doctrines, advocating for the religious unity and harmony of Eastern peoples, and is led by an elected Patriarch of Jerusalem."
+
+ylsl_zj_1444: "Bartolomeo della Rovere"
+ylsl_zj_1444_adm: "In the Name of the Father"
+ylsl_zj_1444_dip: "In the Name of the Holy Spirit"
+ylsl_zj_1444_mil: "In the Name of the Son"
+
+ylsl_zj_1490: "Giovanni Antonio Sangiorgio"
+ylsl_zj_1490_adm: "Promote Sacramental Autonomy"
+ylsl_zj_1490_dip: "The Gospel Shelters All Beings"
+ylsl_zj_1490_mil: "Pray for the Union of Spirit and Flesh"
+
+ylsl_zj_1511: "Rodrigo de Carvajal"
+ylsl_zj_1511_adm: "Recognize Sacred Tradition and Scripture"
+ylsl_zj_1511_dip: "Restrain the Sword of Excommunication"
+ylsl_zj_1511_mil: "Establish Scholarly Preaching"
+
+ylsl_zj_1539: "Cristoforo Spiriti"
+ylsl_zj_1539_adm: "Revere the Name of Christ"
+ylsl_zj_1539_dip: "Forbid Atonement Through Sin"
+ylsl_zj_1539_mil: "Platonic Rediscovery"
+
+ylsl_zj_1556: "Giovanni Antonio Facchinetti de Nuce"
+ylsl_zj_1556_adm: "Govern All Monasteries"
+ylsl_zj_1556_dip: "Guide the Lost Back to the Path"
+ylsl_zj_1556_mil: "Heretics Justified by Good Works"
+
+ylsl_zj_1584: "Fabio Blondus de Montealto"
+ylsl_zj_1584_adm: "Virtue Is Incorruptible"
+ylsl_zj_1584_dip: "Preserve the Rite of Enduring Grace"
+ylsl_zj_1584_mil: "The Broad and Tolerant Faithful"
+
+ylsl_zj_1618: "Diofebo Farnese"
+ylsl_zj_1618_adm: "Reexamine the Schools of the Learned"
+ylsl_zj_1618_dip: "Permit Multilingual Scripture Translation"
+ylsl_zj_1618_mil: "Inspire Free Will"
+
+ylsl_zj_1622: "Domenico de Marini"
+ylsl_zj_1622_adm: "Have Mercy on Sinners and Their Sins"
+ylsl_zj_1622_dip: "Honor the One Holy Lord Together"
+ylsl_zj_1622_mil: "The Patriarch Resides Permanently in the Holy Place"
+
+ylsl_zj_1635: "Aegidius Ursinus de Vivere"
+ylsl_zj_1635_adm: "Equalize the Seven Sacraments"
+ylsl_zj_1635_dip: "Holy Orders Pure and Singular"
+ylsl_zj_1635_mil: "Religious Orders Renounce Arms and Grant Absolution"
+
+ylsl_zj_1647: "Reformed Priesthood Society"
+ylsl_zj_1647_adm: "Shepherds Guide with Benevolent Persuasion"
+ylsl_zj_1647_dip: "Examine Sacred and Human Law Together"
+ylsl_zj_1647_mil: "Ecclesiastical Council Supreme"
+
+NEW_GURU_TITLE:0 "New Bishop"
+NO_GURU_TITLE:0 "No Bishop"
 
 # Imperial Catholicism, Holy Sites
 pick_empire_catholic_blessing: "He will wipe away every tear from their eyes. There will be no more death or mourning or crying or pain."
@@ -145,6 +239,10 @@ eastern_religion_group: "Buddhist"
 JIAOHUA_NAME: "Civilizing Mission"
 
 sunni_center_of_reformation: "Mission Center"
+roma_catholic_center_of_reformation: "Mission Center"
+empire_catholic_center_of_reformation: "Center of Reformation"
+french_catholic_center_of_reformation: "Center of Reformation"
+oversea_catholic_center_of_reformation: "Center of Reformation"
 
 # muslim_confucianism: "Hui Religion"
 # muslim_confucianism_religion_desc: ""

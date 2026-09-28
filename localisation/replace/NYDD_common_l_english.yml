@@ -194,8 +194,7 @@ cb_great_conqust_DD_desc: "All their lands rightfully belong to us!"
 cb_great_conqust_wg: "Great Conquest" 
 cb_great_conqust_wg_desc: "The war goal is to demonstrate hegemony."
 
- roma_catholic_center_of_reformation: "Center of Reformation"
- empire_catholic_center_of_reformation: "Center of Reformation"
+
 
  province_can_not_make_core_tt: "Resistance in this province is too strong to create a core at this time."
 
@@ -249,6 +248,9 @@ DD_BOP_nation_title: "@BOP Establish the Bosporan Kingdom"
 DD_BOP_nation_desc: "Bosporus was the name the Romans gave to this land. Through the ages, that name gradually came to symbolize Romanness itself. From Bosporus, we shall rebuild the boundaries of Rome."
 DD_WLS_nation_title: "@WLS Unify Wales"
 DD_WLS_nation_desc: "Under foreign invasion, Wales has yet to unite. But now, this injustice shall end. The Duke of [Root.GetName] has successfully united Wales, bringing hope to the Welsh people."
+
+DD_YU1_nation_title: "@YU1 Establish the Kingdom of Yugoslavia"
+DD_YU1_nation_desc: "The people of Yugoslavia are united under the rule of [Root.GetName]. No more division and strife; in this newborn kingdom, all peoples shall be equal and free."
 
  #music Theme Songs
 CHANNEL_music_DD_music: "~The Dream yet to be Dreamed Theme~"
@@ -333,7 +335,27 @@ DD_ambitiou_personality_die_desc:"A great man has left us—this is a loss to ou
 CANNOT_DECLARE_WARS_TO_OVERLORD_ALLY:"Cannot declare war on our overlord's allies"
 CANT_NOT_WAR_SUBJECT:"This nation is a special subject of another state. Declare war on its overlord instead."
 
-TT_DD_divider:"========================================"
+province_is_or_accepts_culture_ttt: "Province is of owner's culture or an accepted culture"
+
+DD_common_2_t:"You are playing a non-recommended nation"
+DD_common_2_d:"The nation you are currently playing has not yet been fully developed, or is merely a background nation. We strongly advise against playing this nation, as it may have incomplete mechanics, forced event deaths, or other unforeseen issues. To ensure the best possible gameplay experience, we recommend that you return to the main menu and choose one of the other recommended nations. If you insist on continuing with the current nation, the developers cannot guarantee a smooth gaming experience going forward. We apologise in advance."
+DD_common_2a:"I acknowledge that '§RI am playing a non-recommended nation§!'."
+
+DIPLOMACYACTION_CATEGORY_subject:"Subject Interactions"
+DD_give_subject_region_province:"Grant Subject Region Provinces"
+DD_give_subject_region_province_title:"Grant Subject Region Provinces"
+DD_give_subject_region_province_tooltip:"This grants §Y[From.GetName]§! all provinces belonging to §Y[Root.GetName]§! in the region where its capital is located, inheriting §Y[Root.GetName]§!'s core or claim on each province. Each granted province reduces their liberty desire by §G-1.0%§!.\n\n§g(Think twice before doing this — consider capital location, overextension, mission requirements, and other issues)§!\n"
+DD_give_subject_region_province_desc:"This grants §Y[From.GetName]§! all provinces belonging to §Y[Root.GetName]§! in the region where its capital is located, inheriting §Y[Root.GetName]§!'s core or claim on each province. Each granted province reduces their liberty desire by §G-1.0%§!.\n\n§g(Think twice before doing this — consider capital location, overextension, mission requirements, and other issues)§!\n"
+
+# Found from vanilla German localisation
+CAN_NOT_BUILD_COLONIES:"Cannot establish colonies"
+CAN_NOT_BUILD_BUILDINGS:0 "Cannot construct buildings"
+CAN_NOT_BUILD_MISSIONARIES:0 "Cannot send missionaries"
+CAN_NOT_DECLARE_WAR:0 "Cannot declare war"
+CAN_NOT_SEND_MERCHANTS:0 "Cannot send merchants"
+CAPED_BY_FORCELIMIT:0 "Cannot exceed force limit"
+
+ TT_DD_divider:"===============================================\n"
 
 DD_21P_1a_tt_show_now_2: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
 DD_21P_1a_tt_show_now_3: "Current hand: §Y[1.21p_card_1.GetValue]§!+§Y[1.21p_card_2.GetValue]§!+§Y[1.21p_card_3.GetValue]§!=§T[1.total_card_point.GetValue]§!\n"
@@ -372,9 +394,3 @@ DD_21P_ing: "Blackjack in progress"
 DD_21P_1a_tt_AI_turn: "§YOpponent's turn next.§!\n"
 DD_21_test_title: "Blackjack"
 DD_21_test_desc: "Deer God forced me to make this."
-
-province_is_or_accepts_culture_ttt: "Province is of owner's culture or an accepted culture"
-
-DD_common_2_t:"You are playing a non-recommended nation"
-DD_common_2_d:"The nation you are currently playing has not yet been fully developed, or is merely a background nation. We strongly advise against playing this nation, as it may have incomplete mechanics, forced event deaths, or other unforeseen issues. To ensure the best possible gameplay experience, we recommend that you return to the main menu and choose one of the other recommended nations. If you insist on continuing with the current nation, the developers cannot guarantee a smooth gaming experience going forward. We apologise in advance."
-DD_common_2a:"I acknowledge that '§RI am playing a non-recommended nation§!'."

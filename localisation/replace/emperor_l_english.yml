@@ -580,8 +580,8 @@
  # Curia
  MODIFIER_CURIA_POWERS_COST:0 "Curia Powers cost"
  MODIFIER_APPOINT_CARDINAL_COST:0 "Appoint Cardinal cost"
- MODIFIER_UNREST_CATHOLIC_PROVINCES:0 "Unrest in Catholic provinces"
- MODIFIER_IMPERIAL_REFORM_CATHOLIC_APPROVAL:0 "Approval of Imperial Reforms by Catholic Princes"
+ MODIFIER_UNREST_CATHOLIC_PROVINCES:0 "Unrest in Roman Catholic provinces"
+ MODIFIER_IMPERIAL_REFORM_CATHOLIC_APPROVAL:0 "Approval of Imperial Reforms by Roman Catholic Princes"
  MODIFIER_CURIA_TREASURY_CONTRIBUTION:0 "Curia Treasury Contribution"
  apostolicae_servitutis:0 "Apostolicae Servitutis"
  apostolicae_servitutis_DESC:0 "In spite of many prohibitive laws of the Church, some ecclesiastics had drifted into the habit of occupying themselves with worldly business and pursuits.\n\nThis is outrageous and should stop."

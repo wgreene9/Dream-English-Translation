@@ -8,7 +8,7 @@
  DD_FRA_2_t: "The Unification War of France"
  DD_FRA_2_d: "The rebellion of the Cathar heresy remains an indelible stain upon the French nation, which sees itself as the heir to the Franks and Charlemagne—a divine retribution from God, with the southern lands destined to burn in the flames of sin. The atrocities of the heretics brought suffering, while the incompetence of the royal court and the disloyalty of southern dukes allowed the imperial court to extend their bloodstained hands into rightful French territories.\n\nNow, imperial intervention has finally bogged down in quagmire. Forces from all sides begin plotting to establish new authority over these blessed fleur-de-lis lands. The Parisian court has proclaimed sovereignty over the south—the chariot of French unification is unstoppable. Meanwhile, southern lords eagerly prepare northern campaigns after independence, amassing their own strength.\n\nRegardless, an unprecedented civil war is inevitable. Who shall claim the supreme glory of unifying France and the crown of fleur-de-lis? The Angevin king holding Paris' wealthy lands, or the ambitious southern dukes full of potential? The French people await with bated breath, while all Christendom watches closely."
  DD_FRA_2a: "God Save France!"
- DD_FRA_2a_tt: "Unlocks the '§YUnification War of France§!' Casus Belli, lasting until the §Yend of the Age of Discovery§!, allowing annexation of French provinces with §Greduced§! war score cost and aggressive expansion.\nOccupying §YFrench§! region provinces with this CB grants §Gterritorial cores§!."
+ DD_FRA_2a_tt: "Unlocks the '§YUnification War of France§!' Casus Belli, lasting until the §Yend of the Age of Discovery§!, allowing annexation of French provinces with §Greduced§! war score cost and aggressive expansion.\nIf we are a nation of the §YFrench§! culture group, occupying §YFrench§! region provinces with this CB grants §Gterritorial cores§!.\n"
  DD_FRA_2b:"Perhaps we could invite the southern dukes to negotiate a peaceful resolution..."
  DD_FRA_2b_tt:"§OBut what price are we willing to pay?§!\n"
  DD_FRA_2b_tt2:"At least §Y2§! countries must agree to begin §Ynegotiations§!.\n"
@@ -790,6 +790,8 @@ DD_FRA_85a:"You must climb higher...ever higher."
 DD_FRA_86_t:"Paradise Lost"
 DD_FRA_86_d:"News that shocked all Christendom spread across Europe, its impact on the Holy Father's flock far exceeding expectations - the Shepherd of Christ, Rome's Holy See, [PAP.Monarch.GetName] passed suddenly from apoplexy while returning from the Council of Constance where measures against the Imperial antipope were announced. The Church's leader had returned to our Heavenly Father's garden, leaving behind only a broken world.\n\nParis' royal court received word first, and like greedy wolves they refused to let this rare opportunity slip. By controlling over a third of the cardinals, France swiftly elected a new pope in Avignon, hoping to seize control of the Church and restore the lily's glory. But Rome's College of Cardinals, particularly the Italian cardinals, denounced them as Satan's hounds daring to steal the holy vestments.\n\nWhite smoke rose astonishingly fast over Rome - this time heralding not dawn and light, but war and sin. Since the 11th century East-West Schism under Michael, Christendom has again plunged into the abyss of strife and betrayal. The Empire, Avignon, and Rome - three popes now denounce each other as antipopes and excommunicate one another. Once the three pillars of Christendom have become a maelstrom tearing apart our unity and faith - a den of iniquity, a breeding ground for chaos."
 DD_FRA_86a:"'Between hope and despair, that narrow path called faith now trembles precariously.'"
+DD_FRA_86a_modifier: "Paradise Restored"
+desc_DD_FRA_86a_modifier: "The sunken Rome has crumbled."
 DD_FRA_87_t:"An Ordinary World"
 DD_FRA_87_d:""
 DD_FRA_87a:""
@@ -847,7 +849,7 @@ DD_FRA_97b: "Things have come to this... would you like to be queen?"
 DD_FRA_98_t:"The Day of Fiery Judgment"
 DD_FRA_98_d:"Servant of the Servants of God, Bishop of Rome [AVI.Monarch.GetName]\n\nTo all who read this letter, grace, mercy and peace\n\n'But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly.' The Heavenly Father spoke creation into being, yet this world is not eternal. Those who betrayed Christ shall face fiery retribution for their sins. But should wayward souls repent before Judgment Day - confessing their heresies and doctrinal errors - salvation may yet be theirs.\n\nAt times, we are called to contemplate Divine Mercy more deeply, that we may become living testaments to God's grace. Just as Jesus forgave His doubting disciples, so too shall He pardon lambs led astray by wicked shepherds. Those who worshipped false idols and rebelled against the Holy See, if they now repent and return to the Church's embrace, shall find forgiveness - for whoever has seen the Son has seen the Father.\n\nO sinners, the Day approaches. 'For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble.' The unrepentant shall perish in refining fire. Thus I implore all who strayed from Canon Law: return to Mother Church, lest purgatorial flames consume you."
 DD_FRA_98a:"'Christ's Bride desires the balm of mercy, not the sword of punishment...'"
-DD_FRA_98a_tt:"As the §YReligious League War§! continues, should we aid the §YPapal Holy League§! to victory, the official faith of the Holy Roman Empire will change to §YCatholicism§!.\n"
+DD_FRA_98a_tt:"As the §YReligious League War§! continues, should we aid the §YPapal Holy League§! to victory, the official faith of the Holy Roman Empire will change to §YGallicanism§!.\n"
 DD_FRA_99_t:"[From.GetName] Demands Church Union"
 DD_FRA_99_d:"[From.GetName] announces having occupied Rome and, after 'cordial discussions' with the Pontiff, declares the unification of both churches."
 DD_FRA_99a:"So be it..."
@@ -935,10 +937,17 @@ DD_FRA_112c:"Adopt 'United Kingdom'"
 DD_FRA_112d:"Adopt 'Dual Monarchy'"
 DD_FRA_112e:"Restore the original name"
 DD_FRA_112f:"Our decision is final (disables this option)"
+DD_FRA_112g: "Adopt 'England-France'"
+DD_FRA_112h: "Adopt 'Plantagenet Empire'"
+DD_FRA_112i: "Adopt 'Angleterre'" # Anglois
 FRANCE_ENGLAND:"France-England"
 FRANCE_ENGLAND_ADJ:"Franco-English"
 DULAL_MONACHY:"Dual Monarchy"
 DULAL_MONACHY_ADJ:"Dual Monarchical"
+ENGLAND_FRANCE: "England-France"
+ENGLAND_FRANCE_ADJ: "Anglo-French"
+JQH_EMPIRE: "Plantagenet Empire"
+JQH_EMPIRE_ADJ: "Plantagenet"
 DD_FRA_112f_tt:"§RThe 'Alter Realm Name' decision will permanently disappear!§!\n"
 
 DD_FRA_113_t:"The Evolution of Warfare"  
@@ -1091,7 +1100,7 @@ DD_FRA_139a:"'Do as you must.'"
 
 # Anglican Church Event
 DD_FRA_140_t: "The French Church"
-DD_FRA_140_d: "The Holy Catholic and Apostolic Church of France, abbreviated as the Gallican Church or the Church of Gaul, is a French church that emerged from the Roman Catholic Church. In the farcical standoff where the Imperial Church and the Roman Catholic Church divided the world, the cardinals controlled by the French court declared the churches of Rome and the Empire illegitimate in Avignon and elected their own Pope, thus writing the first page of the Gallican Church's history.\n\nUndoubtedly, the Gallican Church is absolutely loyal to Paris. After the religious wars and a series of conflicts caused by faith, the Gallican Church ultimately declared its independence from the Catholic Church, recognizing the King of France as the sacred leader of the church, while the Archbishop of Lyon serves as the Primate and Metropolitan of the entire French national church—that is, the Archbishop of Lyon or the Holy See of Lyon. The church adopts a three-fold holy order, believes in apostolic succession, and maintains most Catholic traditions in practice. It is the state church of France and most of its colonies and dependencies."
+DD_FRA_140_d: "The Holy Catholic and Apostolic Church of France, abbreviated as the Gallican Church, is a French church born out of Roman Catholicism. During the farce of confrontation between the Imperial Catholic and Roman Catholic churches that divided the world, the cardinals controlled by the French court declared the churches of Rome and the Empire illegitimate at Avignon and elected their own Pope, thus opening the first page of the Gallican Church in history.\n\nUndoubtedly, the Gallican Church is a French church absolutely loyal to Paris. After the Wars of Religion and a series of chaotic conflicts caused by faith, the Gallican Church finally declared its independence from the Catholic Church, proclaiming the King of France as the sacred leader of the church, with the Archbishop of Lyon serving as the Primate and Metropolitan of the entire French national church—that is, the Archbishop of Lyon or the Holy See of Lyon. The Gallican Church adopts a three-tier hierarchy, believes in apostolic succession, and maintains Catholic traditions in most customs. It is the state religion of France, as well as most of France's colonies and subject states."
 DD_FRA_140a: "In the One Lord alone."
 
 DD_FRA_142_t:"Redeeming Calais"
@@ -1176,7 +1185,7 @@ DD_FRA_unite_desc: "After centuries, we've liberated French lands from the Empir
  #The story involves Richard, the illegitimate son of the King's Governor of England, and Louis of France, along with his wife Elizabeth and her brother Malcolm. Originally, Louis was the legitimate heir. While suppressing the British rebels, he encounters Richard and is astonished to find that the two look almost like twins. (This could include a scene where bystanders mistake one for the other.) They then confront their father, only to discover the truth about Richard's illegitimate status. Fearing that his father might change his favor (since Richard is more courageous and intelligent compared to Louis, who is just an ordinary, even somewhat incompetent heir), Louis poisons and assassinates his father at night. Louis then ascends to the throne, declaring Richard the murderer and imprisoning him in the dungeon. Later, Malcolm, who has just arrived to stage a coup, confronts Louis. (The outcome depends on the situation.) Louis dies. Richard then ambushes and kills his uncle (they could also end up killing each other, in which case Elizabeth ascends to the throne). The survivor then takes the throne.
 
  NYDD_FRA_army_title:"Reorganize the Army"
- NYDD_FRA_army_desc:"After over a century of French civil war known as the 'Dark Ages', our army is now weak and corrupt. We must immediately reorganize and restore its combat effectiveness."
+ NYDD_FRA_army_desc:"After the French civil war known as the 'Dark Ages', our army is now weak and corrupt. We must immediately reorganize and restore its combat effectiveness."
  NYDD_FRA_britany_title:"Night of Lesser Britain"
  NYDD_FRA_britany_desc:"The Duchy of Brittany near us should be ruled by the loyal Marshal Gilles. Yet for some unknown reason, he has recently lost contact and ceased all communications with Paris. We ought to investigate this matter."
  NYDD_FRA_england_title:"Reclaim Anglovia"
@@ -1245,7 +1254,7 @@ NYDD_FRA_north_german2_tt2:"§Y[north_fed_leader.GetName]§!'s trust towards §Y
  desc_DD_FRA_channel_ptm:"As long as we control §Y[168.GetName]§! and have §Ydominant trade power§! in the §YEnglish Channel§!, all our provinces in the §YEnglish Channel§! trade node will gain:\n[trade_value_modifier]: §G+10.0%§!\n"
 
  NYDD_FRA_musketer_modifier2:"Musketeer Training"
- NYDD_FRA_musketer_tt:"Unlocks §M5§!th tier government reform: '§YTrain Musketeers§!'.\n"
+ NYDD_FRA_musketer_tt:"Unlocks §M5§!th tier government reform: '§YMusketeers of the Guard§!'.\n"
 
  NYDD_FRA_north_german_tt:"Unlocks the '§MCrossroads of Fate§!' interface, where we'll choose between '§YEstablish the Rhenish Confederation§!' or '§YForcefully Integrate the Rhineland§!'.\n§g(If not displaying, check mod compatibility)§!\n"
 
@@ -1426,7 +1435,7 @@ desc_NYDD_FRA_building_modifier:"France, our homeland, must be properly develope
 NYDD_FRA_building_tt:"Provinces with this modifier have a §G20.0%§! chance to gain an additional development point when increasing development. When development reaches §Y30§!, this modifier becomes §Gpermanent§!.\n"
 
 NYDD_FRA_chaos_rule_title:"Reign of Chaos"
-NYDD_FRA_chaos_rule_desc:"The crushing defeat of the Albigensian Crusade ushered in France's Dark Ages, and the subsequent century of civil war brought this era to its peak. Even now, a chain of misfortunes born from bizarre coincidences continues to unfold in Paris..."
+NYDD_FRA_chaos_rule_desc:"The crushing defeat of the Albigensian Crusade ushered in France's Dark Ages, and the subsequent civil war brought this era to its peak. Even now, a chain of misfortunes born from bizarre coincidences continues to unfold in Paris..."
 
 NYDD_FRA_blue_sea_title:"Azure Waves"
 NYDD_FRA_blue_sea_desc:"Oh, how blue the sea, look how blue this sea is. Just as blue as France's map color."
@@ -1453,7 +1462,7 @@ NYDD_FRA_shumi_title:"Reform the Privy Council"
 NYDD_FRA_shumi_desc:"Once merely an ordinary institution, we now elevate the Privy Council to royal cabinet status. Granting them proper authority will better serve France's needs."
 
 NYDD_FRA_paris_title:"Rebuild Paris"
-NYDD_FRA_paris_desc:"Since becoming France's capital, Paris has stood as our cultural and economic heart. Yet the Century of Civil War left deep scars. We must not only restore her, but expand - making her grander and more beautiful than ever."
+NYDD_FRA_paris_desc:"Since becoming France's capital, Paris has stood as our cultural and economic heart. Yet the Civil War left deep scars. We must not only restore her, but expand - making her grander and more beautiful than ever."
 
 NYDD_FRA_carribean_title:"Colonize the Caribbean"
 NYDD_FRA_carribean_desc:"The Caribbean islands are vital stepping stones to the New World. We must seize this opportunity before others do."
@@ -1830,7 +1839,7 @@ DD_FRA_make_S_appanage_to_appanage_desc:"Convert [From.GetName] into a regular a
 DD_FRA_make_S_appanage_to_appanage_tooltip:"Convert [From.GetName] into a regular appanage, costing us §R-1§! stability and §Y-1.00%§! [Root.GetNobilityName] estate land share, while increasing their liberty desire by §R+50.0%§!.\n"
 
 DD_FRA_public_union_member_op:"Commonweal Alliance Member"
-DIPLO_OPPINION_FRA:"Opinion of France"
+DIPLO_OPPINION_FRA:"[From.GetAdjective] Opinion of France"
 
 cb_FRA_public_war_DD:"Commonweal War"
 cb_FRA_public_war_DD_desc:"The time has come to decide France's fate."
@@ -2045,3 +2054,13 @@ NYDD_FRA_britany_tt: "Gilles has returned to Paris under the protection of the F
 NYDD_FRA_britany_ttt: "Troops have been dispatched to support Gilles"
 DD_FRA_give_up_england_claim_title: "Abandon Claims on England"
 DD_FRA_give_up_england_claim_desc: "English lands are worthless to us. It is time to let them go."
+
+DD_FRA_25a_tt2: "\n§RThis will also affect subsequent story events and rewards!§!\n\nThis will lead us to eventually form @FRC§Y[FRC.GetName]§!.\n"
+DD_FRA_25b_tt2: "\n§RThis will also affect subsequent story events and rewards!§!\n\nThis will lead us to eventually form @FR1§Y[FR1.GetName]§!.\n"
+DD_FRA_25c_tt2: "\n§RThis will also affect subsequent story events and rewards!§!\n\nThis will lead us to eventually form @FR6§Y[FR6.GetName]§!.\n"
+DD_FRA_25d_tt2: "\n§RThis will also affect subsequent story events and rewards!§!\n\nThis will lead us to eventually form @FR7§Y[FR7.GetName]§!.\n"
+
+DD_FRA_back_to_motherland_modifier: "France Returns in Glory!"
+desc_DD_FRA_back_to_motherland_modifier: "Kids, I'm not dead yet—I'm back. MAN!"
+DD_FRA_back_to_motherland_title: "@FRA Return to France"
+DD_FRA_back_to_motherland_desc: "Through countless hardships, we have finally returned to France."

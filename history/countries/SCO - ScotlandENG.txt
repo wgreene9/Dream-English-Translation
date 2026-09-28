@@ -11,6 +11,7 @@ government_rank = 1
 	monarch = {
 		name = "Fredrik V"
 		dynasty = "Ivarsson"
+		culture = skotland_sca
 		adm = 3
 		dip = 1
 		mil = 5

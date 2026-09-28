@@ -730,7 +730,7 @@ EDG_flavor_BRI_mission_30_a_heir_effect = {
 		adm = 3
 		dip = 3
 		mil = 3
-		age = 1
+		age = 5
 		female = yes
 		block_disinherit = yes
 	}
@@ -761,6 +761,16 @@ EDG_flavor_BRI_mission_31_a_regency_effect = {
 	}
 }
 EDG_flavor_BRI_mission_44_a_consert_effect = {
+	define_ruler = {
+		name = "Jeanne I"
+		dynasty = "de Rais"
+		adm = 5
+		dip = 5
+		mil = 5
+		female = yes
+		age = 16
+		claim = 100
+	}
 	define_consort = {
 		name = "Leo"
 		dynasty = "de Rennes"
@@ -1687,10 +1697,13 @@ DD_ENG_7bb = {
 	define_ruler = {
 		name = "Knut III"
 		dynasty = "Knýtlinga"
+		culture = yovik_sca
 		adm = 3
 		dip = 2
 		mil = 5
 		age = 20
+		claim = 75
+		change_original_dynasty = yes
 	}
 }
 
@@ -1702,26 +1715,34 @@ DD_ENG_7c = {
 		dip = 4
 		mil = 2
 		age = 24
+		claim = 90
+		change_original_dynasty = yes
 	}
 }
 DD_ENG_7d = {
 	define_ruler = {
 		name = "Tosca I"
 		dynasty = "de' Medici"
+		culture = tuscan
 		adm = 4
 		dip = 4
 		mil = 4
 		age = 18
+		claim = 100
+		change_original_dynasty = yes
 	}
 }
 DD_ENG_8a = {
 	define_ruler = {
 		name = "Henry I"
 		dynasty = "Plantagenet"
+		culture = anglois
 		adm = 3
 		dip = 3
 		mil = 4
 		age = 40
+		claim = 85
+		change_original_dynasty = yes
 	}
 
 }
@@ -1769,13 +1790,13 @@ DD_HUN_2d = {
 		claim = 50
 	}
 }
-DD_ENG_1a = {
+DD_ENG_16a = {
 	define_general = {
-		name = "Lucas Stafford"
+		name = "Lucas Villiers"
 		shock = 4
-		fire = 2
+		fire = 4
 		manuever = 4
-		siege = 2
+		siege = 4
 	}
 }
 DD_PIC_10a = {
@@ -1801,8 +1822,12 @@ DD_PIC_10a2 = {
 }
 DD_ENG_14a = {
 	define_ruler = {
-		dynasty = "????"
-		max_age = 40
+		name = "Jowan I"
+		dynasty = "Prydein"
+		age = 32
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 DD_NED_13a = {
@@ -1813,6 +1838,7 @@ DD_NED_13a = {
 		adm = 3
 		dip = 2
 		mil = 5
+        change_original_dynasty = yes
 	}
 }
 DD_NED_4a = {
@@ -1823,6 +1849,7 @@ DD_NED_4a = {
 		adm = 5
 		dip = 6
 		mil = 3
+        change_original_dynasty = yes
 	}
 }
 DD_NED_define_nassau_ruler = {
@@ -1860,6 +1887,7 @@ DD_NED_5a = {
 		dip = 2
 		mil = 3
 		age = 16
+        change_original_dynasty = yes
 	}
 }
 NYDD_NED_navy2_BRB = {
@@ -1986,5 +2014,303 @@ DD_NED_112b = {
 		fire = 4
 		manuever = 3
 		siege = 3
+	}
+}
+
+DD_ENG_6a = {
+	define_ruler = {
+		name = "Regency Council of England"
+		regency = yes
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+DD_ENG_25a = {
+	if = {
+		limit = {
+			government = monarchy
+		}
+		define_ruler = {
+			name = "David I"
+			dynasty = "Wallace"
+			change_mil = 3
+			change_original_dynasty = yes
+			age = 30
+		}
+	}
+	else = {
+		define_ruler = {
+			name = "David Wallace"
+			change_mil = 3
+			change_original_dynasty = yes
+			age = 30
+		}
+	}
+}
+DD_ENG_9b = {
+    define_ruler = {
+        name = "Henry"
+        dynasty = "Buckingham"
+        ADM = 4
+        DIP = 4
+        MIL = 4
+        age = 30
+    }
+}
+DD_ENG_9c = {
+    define_ruler = {
+        name = "Richard"
+        dynasty = "Glamorgan"
+        ADM = 3
+        DIP = 3
+        MIL = 5
+        age = 48
+    }
+}
+DD_ENG_9d = {
+    define_ruler = {
+        name = "Thomas"
+        dynasty = "Hastings"
+        ADM = 3
+        DIP = 3
+        MIL = 3
+        age = 47
+    }
+}
+DD_ENG_9e = {
+    define_ruler = {
+        name = "John II"
+        dynasty = "Deville"
+        ADM = 5
+        DIP = 2
+        MIL = 2
+        age = 45
+    }
+}
+DD_ENG_9f = {
+    define_ruler = {
+        name = "James"
+        dynasty = "Stirling"
+        ADM = 3
+        DIP = 1
+        MIL = 4
+        age = 44
+    }
+}
+DD_ENG_9g = {
+    define_ruler = {
+        name = "Lucas"
+        dynasty = "Villiers"
+        ADM = 4
+        DIP = 4
+        MIL = 5
+        age = 50
+        attach_leader = "Lucas Villiers"
+    }
+}
+DD_ENG_37a = {
+    define_advisor = {
+        type = natural_scientist
+        name = "Sweyn Godwinson"
+        skill = 3
+        cost_multiplier = 0.3
+        culture = yovik_sca
+    }
+    define_advisor = {
+        type = statesman
+        name = "Aethelstan Godwinson"
+        skill = 3
+        cost_multiplier = 0.3
+        culture = yovik_sca
+    }
+}
+
+DD_nantian_prov_name = {
+    #??
+    1348 = {
+        change_province_name = "Jinxi Strait"
+    }
+    1361 = {
+        change_province_name = "Longya Strait"
+    }
+    4815 = {
+        change_province_name = "Shiweng"
+        rename_capital = "Shiweng"
+    }
+    596 = {
+        change_province_name = "Molai"
+        rename_capital = "Molai"
+    }
+    594 = {
+        change_province_name = "Beidu"
+        rename_capital = "Beidu"
+    }
+    #??
+    609 = {
+        change_province_name = "Nanrong"
+        rename_capital = "Nanrong"
+    }
+    607 = {
+        change_province_name = "Xiahu"
+        rename_capital = "Xiahu"
+    }
+    #??
+    622 = {
+        change_province_name = "Mingshen"
+        rename_capital = "Mingshen"
+    }
+    2673 = {
+        change_province_name = "Jinxi"
+        rename_capital = "Jinxi"
+    }
+    #??
+    630 = {
+        change_province_name = "Shungang"
+        rename_capital = "Shungang"
+    }
+    #??
+    4802 = {
+        change_province_name = "Chenghai"
+        rename_capital = "Chenghai"
+    }
+    #??
+    644 = {
+        change_province_name = "Lunzhu"
+        rename_capital = "Lunzhu"
+    }
+    648 = {
+        change_province_name = "Mingyang"
+        rename_capital = "Mingyang"
+    }
+    2695 = {
+        change_province_name = "Donghaiyuan"
+        rename_capital = "Donghaiyuan"
+    }
+    635 = {
+        change_province_name = "Xihaiyuan"
+        rename_capital = "Xihaiyuan"
+    }
+    #?????
+    2724 = {
+        change_province_name = "Pengzhang"
+        rename_capital = "Pengzhang"
+    }
+    4867 = {
+        change_province_name = "Shuozhou"
+        rename_capital = "Shuozhou"
+    }
+    #??
+    2698 = {
+        change_province_name = "Liya"
+        rename_capital = "Liya"
+    }
+}
+
+DD_ENG_40a = {
+	define_ruler = {
+		dynasty = "Gryf"
+		max_age = 40
+		min_age = 20
+		change_original_dynasty = yes
+	}
+}
+DD_NSE_5a = {
+	define_ruler = {
+		dynasty = "Estridsen"
+		max_age = 40
+		min_age = 20
+		change_original_dynasty = yes
+	}
+}
+DD_ENG_42a1 = {
+	define_ruler = {
+		name = "Joachim I"
+		dynasty = "von Hohenstaufen"
+		culture = swabian
+		adm = 5
+		dip = 3
+		mil = 4
+		age = 40
+		change_original_dynasty = yes
+	}
+}
+DD_ENG_42a2 = {
+	define_ruler = {
+		name = "William I"
+		dynasty = "von Hohenstaufen"
+		culture = swabian
+		adm = 4
+		dip = 2
+		mil = 3
+		age = 30
+		change_original_dynasty = yes
+	}
+}
+
+NYDD_ENG_control_hand = {
+	#Mario Cavaradossi
+	define_advisor = {
+		type = artist
+		skill = 3
+		cost_multiplier = 0.33
+		name = "Mario Cavaradossi"
+		culture = tuscan
+	}
+}
+NYDD_ENG_english_bank = {
+	#Vitellio Scarpia
+	define_advisor = {
+		type = treasurer
+		skill = 3
+		cost_multiplier = 0.33
+		name = "Vitellio Scarpia"
+		culture = tuscan
+	}
+}
+NYDD_ENG_good_dip = {
+	#Cesare Angelotti
+	define_advisor = {
+		type = statesman
+		skill = 3
+		cost_multiplier = 0.33
+		name = "Cesare Angelotti"
+		culture = tuscan
+	}
+}
+DD_ENG_62a = {
+	define_ruler = {
+		name = "Oliver"
+		dynasty = "Cromwell"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		max_age = 40
+		min_age = 30
+	}
+}
+DD_ENG_62b = {
+	spawn_rebels = {
+		type = parliamentarians_rebels
+		size = 3
+		leader = "Oliver"
+		leader_dynasty = "Cromwell"
+	}
+}
+DD_ENG_62c = {
+	define_advisor = {
+		type = army_reformer
+		skill = 3
+		cost_multiplier = 0.33
+		name = "Oliver Cromwell"
+	}
+}
+DD_colony_12a = {
+	define_ruler = {
+		name = "Francis Drake"
+		change_adm = 2
+		change_dip = 2
+		change_mil = 2
+		age = 40
 	}
 }

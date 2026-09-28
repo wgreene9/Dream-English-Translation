@@ -40,6 +40,7 @@ mechanic_iberia_region_less_governing_cost_yes: "Provinces in the §YIberia§! r
 mechanic_developing_10_devprov_more_yes: "When §Mdeveloping§! provinces with development below §Y15§!, §G25.0%§! chance to gain additional development"
 mechanic_accept_culture_2_unrest_nationlism_yes: "§YAccepting a culture§! grants all §Ynon-primary culture§! provinces under our rule §G-2§! unrest and §G-5§! years of separatism.\n§RExpelling a culture§! imposes §R+2§! unrest and §R+5§! years of separatism on all §Ynon-primary culture§! provinces under our rule.\n"
 mechanic_can_not_lottery_reform_yes: "Prohibits the use of the §YSortition§! government reform" # Lottery
+mechanic_can_not_lottery_reform: "Prohibits the use of the §YSortition§! government reform"
 mechanic_can_not_nepotism_reform_yes: "Prohibits the use of the §YPolitical Dynasties§! government reform"
 mechanic_diff_pai_get_bouns_yes: "Candidates grant special ruler modifiers"
 mechanic_has_LOM_faction_yes:"Has the §YLombard Factions§! mechanic"
@@ -52,6 +53,10 @@ mechanic_republican_subject_gain_republican_yes:"§YRepublican Subjects§! gain 
 mechanic_no_religious_cb_yes:"§RDisabled§! §YCrusade§! and §YCleanse Heresy§! casus belli"
 mechanic_has_special_tax_for_overlord_yes:"Is required to pay regular taxes to its suzerain"
 mechanic_min_autonomy_10_in_new_world_yes:"Provinces in the §YNew World§! under our control lose §G-10.0§! local autonomy."
+ mechanic_has_cultural_union_yes:"Is the §YCultural Heartland§!"
+ mechanic_disable_parliamentary_reform_yes:"Disables §YParliament§! reforms"
+ mechanic_viking_warrior_5_discipline_yes:"§YVarangian Guard§! Discipline §G+5.0%§!"
+ mechanic_viking_warrior_20_manpower_yes:"§YVarangian Guard§! Manpower Usage §G-20.0%§!"
  mechanic__yes:""
  mechanic__yes:""
 
@@ -62,6 +67,11 @@ desc_gov_coastal_government_DD: "This is a coastal province. Penalties are reduc
 
 republican_subject_gain_republican_modifier:"Subject Republican Tradition"
 desc_republican_subject_gain_republican_modifier:"Thanks to the selfless guidance of our suzerain, we fully understand the Republic."
+
+ viking_warrior_20_manpower_modifier:"Varangian Guard Eagerly Enlist"
+ desc_viking_warrior_20_manpower_modifier:"Thus manpower usage is reduced."
+ viking_warrior_5_discipline_modifier:"Varangian Guard Training"
+ desc_viking_warrior_5_discipline_modifier:"Elite? I fight elites."
 
  # Government Mechanics
  ability_DD_AFR_holy_war_mechanic: "§OHoly War Zeal§!"
@@ -90,6 +100,8 @@ desc_republican_subject_gain_republican_modifier:"Thanks to the selfless guidanc
  DD_BDH_mil: "Militarization Progress"
  DD_BDH_mil_desc: "The Andalusian military government is an arena for warmongers. These warriors who once served as the Caliph's sword to conquer the empire rely solely on their martial prowess - proven through countless battlefields - to climb from lowly Berber soldiers to generals. They need no recognition, only bloodshed to validate their glory."
  monthly_DD_BDH_mil: "Monthly Militarization Progress"
+ DD_BDH_mil_gain_modifier:"Monthly Militarization Gain Modifier"
+
 
  DD_BDH_interaction_1: "Expand Army Size"
  DD_BDH_interaction_1_desc: ""
@@ -301,6 +313,24 @@ DD_NED_anto_colonize_3_ttt:"Has not changed auto-colonisation settings in the la
 DD_NED_anto_colonize_3_tt_clr:"Current §OAuto-Colonisation§! mechanic: §Genabled§!\n"
 DD_NED_anto_colonize_3_tt_set:"Current §OAuto-Colonisation§! mechanic: §Rdisabled§!\n"
 
+ability_DD_ENG_iron_fist_mechanic:"§ODevotion§!"
+ DD_ENG_iron_fist_power:"Devotion"
+ DD_ENG_iron_fist_power_desc:"Devotion not only represents the degree to which the president dedicates everything of himself to the nation, and for this demands absolute power, but also represents the degree to which the nation demands that its citizens voluntarily cede all their civil rights to the government and the state. The higher the Devotion, the more tightly united this nation becomes.\n\nThe following factors can affect §ODevotion§!:\n-Monthly decay §R-0.1§!\n-Re-election §G+10.0§!\n-Absolutism §G+0.1§!\n-Power Projection §G+0.1§!\n-Is a Great Power §G+0.05§!\n-Great Power ranking at or below §Y4§! §R-0.05§!\n-Losing a war §R-5.0§!\n-Per §R5§! loans §R-0.1§! up to §R-0.5§!"
+ monthly_DD_ENG_iron_fist_power:"Monthly Absolute Power"
+ DD_ENG_iron_fist_power_gain_modifier:"Absolute Power Gain Modifier"
+ DD_ENG_lower_iron_fist:"Go on Vacation"
+ DD_ENG_lower_iron_fist_desc:"Balance work and rest; don't spend all day absorbed in work.\n "
+ DD_ENG_happy_iron_fist:"Neglect Personal Wellbeing" # Regardless of Personal Safety
+ DD_ENG_happy_iron_fist_desc:"Our president is willing to give up most of his private time and strive hard for the nation's cause.\n "
+ DD_ENG_lower_iron_fist_modifier:"The President's Vacation"
+ desc_DD_ENG_lower_iron_fist_modifier:"A vacation—a very, very long vacation."
+ DD_ENG_happy_iron_fist_modifier:"Doing One's Utmost"
+ desc_DD_ENG_happy_iron_fist_modifier:"For the great cause of the nation, the president decides to devote all his energy and strive hard."
+ DD_ENG_improve_iron_fist:"Strike with a Heavy Fist"
+ DD_ENG_improve_iron_fist_desc:"Idle time is still idle time; let's declare war on a neighboring country.\n "
+ DD_ENG_improve_iron_fist_modifier:"Addicted to Power"
+ desc_DD_ENG_improve_iron_fist_modifier:"Since we're already here, how could we leave without taking something with us."
+
 # Government Reforms
 
  #t1
@@ -402,8 +432,6 @@ NYDD_kindom_of_crusader_reform_desc: "Though our nation was founded as a Crusade
 #  NYDD_BOH_bishopric_reform: "Bohemian Chapter"
 #  NYDD_BOH_bishopric_reform_desc: ""
 
-NYDD_latin_empire_reform: "Latin Empire"
- NYDD_latin_empire_reform_desc:""
 
  NYDD_FRA_mil_reform: "French Restoration Society"
  NYDD_FRA_mil_reform_desc: "The French Restoration Society is a military organization composed of patriotic officers thirsting for revenge and war. Since the disastrous defeat at Albi, the shame and bitterness of France has lingered unbearably. A group of influential French soldiers resolved to stand forth and save their homeland from both external enemies and internal torment. France, inevitably, rushes fervently toward the abyss under the leadership of these bellicose soldiers."
@@ -485,6 +513,42 @@ DD_NED_empire_subject_reform_desc:"The Low Country Commissionerate is a crown la
 DD_NED_kingdom_reform:"Kingdom of the Netherlands"
 DD_NED_kingdom_reform_desc:"After being appointed Viceroy of the Netherlands, Prince Joachim truly became the legitimate lord of the Netherlands. Though the Netherlands had been the Empire's loyal hound throughout these years, Joachim secretly strengthened his grip over the Low Countries, with his descendants ruling here as Viceroys in perpetuity. Thus, upon declaring independence, the Netherlands immediately became a centralised absolute monarchy, and the Imperial Knights' Low Country chapter—once loyal to the Emperor—chose to follow their Low Country sovereign, becoming an influential force within the government of the Kingdom of the Netherlands."
 
+DD_NED_subject_reform:"Foreign Union Province"
+ DD_NED_subject_reform_desc:"A subject governed by a commissioner dispatched from the Netherlands."
+ DD_NED_subject_reform2:"Commissioner District"
+ DD_NED_subject_reform2_desc:"A subject governed by a commissioner dispatched from the Netherlands."
+
+ NYDD_ENG_union_reform:"English Boroughs"
+ NYDD_ENG_union_reform_desc:"The various boroughs of southern England are core members of the Five Provinces Union. Many exiled nobles from other fallen regions of England fled to the south, and since Henry III signed the Magna Carta, the boroughs have maintained a state of de facto independence, though they were nominally autonomous cities of the Kingdom of France. Through the 'English Mutual Aid Treaty,' the boroughs allied with one another, forming the Five Provinces Union with shared defense responsibilities, and under the impetus of the Hanseatic League, the Five Provinces Union and the boroughs gradually developed into an important trade league and commercial cities."
+
+ NYDD_ENG_republic_reform:"Republic of England"
+ NYDD_ENG_republic_reform_desc:"The Republic of England is the heir to the legacy of the Five Provinces Union and the 'English Mutual Aid Treaty.' The republic integrated, improved, and fused the republican system of the Five Provinces period, developing a new republican system unifying all of England and establishing a semi-centralized unitary republic. A President of all England will replace the duties of the king absent for centuries, leading our nation under the supervision of a parliament composed of nobles, merchants, and craftsmen."
+ NYDD_ENG_monarchy_reform:"English Monarchy"
+ NYDD_ENG_monarchy_reform_desc:"The English Monarchy is the revived new system of the rebuilt Kingdom of England, born from the commercial parliamentary political form of the Five Provinces Union. The English Monarchy focuses on the importance of parliamentary power and public authority. Although those controlling Parliament are still mostly the nobles of the Five Provinces period and descendants of the former northern English nobility, outstanding individuals from other classes are also able to enter Parliament, inheriting the spirit of the Magna Carta, helping the king govern the nation and make decisions."
+ NYDD_ENG_french_unite_kindom_reform:"Anglo-French United Kingdom"
+ NYDD_ENG_french_unite_kindom_reform_desc:"The Anglo-French United Kingdom is not merely the integration of the two kingdoms of England and France, but an entirely new model of government and governance. The United Kingdom divides our nation into two parts, allowing each to have its own autonomous parliament, government, and laws, provided they do not violate the constitution of the United Kingdom. England and France share loyalty to one king, one government, and in local governance allow local nobles a great degree of participation in local administration."
+ NYDD_ENG_northsea_kindom_reform:"New North Sea Empire"
+ NYDD_ENG_northsea_kindom_reform_desc:"Fundamentally, the New North Sea Empire still adopts an English Monarchy-style form of government, yet it has accomplished what Cnut the Great could not—effectively unifying the various North Sea dominions into one nation. The constituent parts of the North Sea Empire accept the unified leadership of the central government and are able to represent their own views in the Imperial Parliament. The Imperial Parliament, composed of Nordic nobles, Great British peers, and Danelaw dignitaries, along with the government elected by Parliament, plays a substantive leading role in the Empire, though sometimes it often grinds to a halt due to endless debate."
+ NYDD_ENG_unite_kindom_reform:"United Kingdom"
+ NYDD_ENG_unite_kindom_reform_desc:"The United Kingdom of Great Britain is a new government born from the union of the Kingdom of England, the Kingdom of Scotland, the Kingdom of Ireland, and the Principality of Wales, jointly upholding one king and each enjoying their own legislative power, though the highest legislative and judicial authority belongs to the United Kingdom. The four regions under the United Crown are equal in status and retain their respective regional parliaments, while the Westminster Parliament sits above the four parliaments, overseeing the decisions of the United Kingdom government."
+ NYDD_ENG_british_kindom_reform:"Kingdom of Great Britain"
+ NYDD_ENG_british_kindom_reform_desc:"The Kingdom of Great Britain is the English Britannic kingdom led by the Kingdom of England, merged from Scotland, Ireland, and Wales. This new kingdom government is dedicated to spreading England's rule and influence once more in all directions, to thoroughly unify the British Isles under a strong English king. The crowns and titles of the former four regions will be abolished or reincorporated into the Kingdom of Great Britain system, and the various regional parliaments merged into the Great British Parliament. Henceforth, Britannia has only one kingdom, one king, one crown, one law, one authority."
+ NYDD_ENG_union_reform2:"British Union"
+ NYDD_ENG_union_reform2_desc:"All who shelter under Britannia's wing are our compatriots. All who live in Britannia are Britons. We treat all Britons equally, without discrimination, united as one, of one heart and mind. Long live the British Union!"
+ NYDD_ENG_union_reform2_tt:"Unlocks tier §M5§! government reform '§YReform the Varangian Guard§!'.\n"
+ NYDD_ENG_HRE_reform:"Holy Britannian Empire"
+ NYDD_ENG_HRE_reform_desc:"Few could have predicted that England, which had perished several times, would be resurrected under the leadership of the Hohenstaufen family and become Emperor of the Holy Roman Empire. The Emperor, raised with English assistance to become a wise ruler, naturally harbors indescribable feelings for Britain. To this end, he voluntarily lowered his own status, transferring the title of Holy Empire to England—Holy Britannia. Although the princes grumbled, before the Emperor's formidable strength they grieved in silence, not daring to speak."
+ NYDD_ENG_shadow_reform:"British Shadow Kingdom"
+ NYDD_ENG_shadow_reform_desc:"People often say that what sits on the throne is not a king, but a shadow, a shadow manipulated by a puppeteer. Since a devastating fire some time ago, the royal court was burned to ashes, and only the king escaped death, though he too was gravely wounded, his face unrecognizable. But he soon rallied, recruiting a group of excellent team advisors from Italy to govern the state and heal his wounds. Only, from then on, people never again saw the king step out of his room…"
+
+
+
+ #1.2
+ DD_CRO_union_reform:"Kingdom of Yugoslavia"
+ DD_CRO_union_reform_desc:""
+ NYDD_latin_empire_reform:"Romania of the Latins"
+ NYDD_latin_empire_reform_desc:""
+
  #T2
  NYDD_ML1_equal_reform: "Islamic Principle of Equality"
  NYDD_ML1_equal_reform_desc: "In doctrine, Islam holds that believers, regardless of race, wealth, or status, are all children of Allah and have equal status. It also advocates forgiveness and tolerance towards infidels 'Kafir,' and even those who do not follow Allah's commandments, promoting peaceful coexistence. Historically, the concept of equality was directly applied to the establishment of the 'Ummah' (meaning 'community'). In the 'Ummah,' Muslim members regard each other as brothers, with equal social status. The Kharijites adhere to the principle of equality in doctrine, implementing justice to the fullest."
@@ -547,6 +611,17 @@ NYDD_NED_german_noble_reform_desc:"With the Regent's victory, many German nobles
 NYDD_NED_republic_legacy_reform:"Legacy of the Grand Alliance"
 NYDD_NED_republic_legacy_reform_desc:"Though the Republican League was as fleeting as a flower, dissolving swiftly after the victory of the Dutch independence revolution, it left behind a legacy that cannot be ignored. The nobles of the Netherlands have become accustomed to banding together in parliament, coalescing into mutually aligned political factions united under leaders such as the Stadtholder, the Grand Pensionary, or other figures. This has not only improved the quality of our government's decision-making but also allowed diverse interests to be expressed and satisfied. And when the nation calls, the Dutch nobles can unite once more, reviving the spirit of cooperation that defined the Grand Alliance in bygone days."
 
+ NYDD_ENG_old_noble_reform:"Two Englands Peerage"
+ NYDD_ENG_old_noble_reform_desc:"The nobility are an important force upon which the new kingdom relies. The surviving old nobles of Britain are mostly remnants of various regional royal houses and refugees who fled south, and many of them are accustomed to wielding power. Due to the impact of the Great Invasion, many ancient noble families were lost to the dust of history, and nobles ennobled during the Conquest period are not recognized by the kingdom. Therefore, many minor nobles, knights, commoners, or defected Conquest-period nobles who rendered meritorious service became the new noble class of the kingdom, appointed to Parliament, the government, or other bureaucratic institutions, helping the king counterbalance the power of the great nobles, forming a system of Two Englands Peerage that mutually checks and balances one another."
+ NYDD_ENG_french_noble_reform:"United Royal Court"
+ NYDD_ENG_french_noble_reform_desc:"Although the nobles of England and France are mostly accustomed to clustering separately according to their kingdom of origin, a supreme court surrounding the king knows no distinction of origin or ethnicity. Loyal and exceptionally capable Anglo-French nobles are summoned to the United Royal Court, serving as the king's advisors and closest ministers to administer the state, though they do not actually hold any substantive office in the governments of England or France. Through this concerted cooperation, the United Royal Court effectively constructs a bridge of communication and a shadow government transcending the Channel, to satisfy the needs of the Anglo-French nobles."
+ NYDD_ENG_viking_noble_reform:"Recognize Viking Nobility"
+ NYDD_ENG_viking_noble_reform_desc:"The Vikings settled on our land have already obtained formal noble status; our desire to uproot them will inevitably lead to chaos. Rather than painfully eradicating them, it is better to recognize the legitimacy of their noble status in exchange for their loyalty to us."
+ NYDD_ENG_viking_noble_reform2:"Anglo-Danish Bloc"
+ NYDD_ENG_viking_noble_reform2_desc:"The New North Sea Empire is composed jointly of British and Viking lands. Naturally, the old Danelaw nobles, English nobles, other British nobles, and Viking nobles are all included in our political model. By granting privileges and favors, extending goodwill and policy concessions, we can manipulate these noble blocs to ally or oppose one another, mutually checking and consuming each other, better propelling the Empire forward rather than undermining stability. All noble blocs must unite around the Crown to survive, and any bloc attempting to escape the Crown will be isolated at the first opportunity."
+ NYDD_ENG_old_noble_rep_reform:"Patrician Parliamentarians"
+ NYDD_ENG_old_noble_rep_reform_desc:"Although parliamentarians are nominally elected entirely by the people, there is clearly considerable room for manipulation. Through property restrictions, financial manipulation, and quota management, the actual parliamentarians are mostly, to a greater or lesser degree, of noble background or noble-backed—this is also our gesture of goodwill and compromise toward the nobles. By allowing noble descendants who failed to inherit titles to enter Parliament, we are able to learn the needs of the nation's nobles and gain their support."
+
  #t3
  NYDD_ASU_autonomy_reform: "Regional Autonomy System"
  NYDD_ASU_autonomy_reform_desc: "Although nominally we are a unified empire, with all Iberian territories loyal to one monarch, the peninsula's nobles possess immense wealth, land, and influence. The traditional Salic Law and the Arab invasion have left regional powers independent and divided. Meanwhile, conflicts between the Basques, Catalans, Moors, and coastal and inland regions have led to constant strife. Therefore, we have chosen to adopt a regional autonomy system, granting local autonomy to shift local conflicts between autonomous regions, making them compete rather than oppose the central government. This will effectively reduce local resistance to the central authority and strengthen a sense of belonging. Local governments will have certain independent powers in taxation, trade, legislation, and judiciary, while remaining absolutely loyal to the imperial government."
@@ -591,6 +666,11 @@ NYDD_NED_colonial_reform:"Dutch Colonial Ministry"
 NYDD_NED_colonial_reform_desc:"With the opening of new sea routes, our colonial activities have become increasingly vigorous, even gradually becoming a primary focus and direction. Therefore, the colonial office formerly under the Trade Ministry has received growing attention and has at last been elevated to a formal new department—the Dutch Overseas Colonial Ministry. This ministry oversees colonisation, population, overseas commerce, territorial expansion, and colonial military affairs, dedicated to developing, managing, and expanding all colonial-related industries and matters for the benefit of the Netherlands, and works closely with the Trade Ministry and the Navy."
 NYDD_NED_colonial_reform_modifier:"Colonial Ministry Administration"
 desc_NYDD_NED_colonial_reform_modifier:"The New World is truly a land of opportunity."
+
+ NYDD_ENG_centralize_reform:"Britain Above All"
+ NYDD_ENG_centralize_reform_desc:"Every part of the British Isles must be tightly united around a strong central government, rather than split and each going its own way. We cannot tolerate defiance from local governments, though they are permitted to retain some of their own powers and characteristics. We must establish a centralized Great Britain; only in this way can this once-divided and scattered archipelago be thoroughly integrated into a unified and great nation."
+ NYDD_ENG_decentralize_reform:"British Union"
+ NYDD_ENG_decentralize_reform_desc:"We are a united kingdom; each region must possess the autonomous powers and local characteristics it deserves, while uniformly obeying the highest directives from the central government. Through this governmental form combining centralization and local decentralization, we can maximize local freedom and governmental efficiency, uniting our Britannia. We are united with one another, yet each retains its own distinctiveness."
 
  #t4
 NYDD_ASU_religion_happy_reform: "Spanish Inquisition"
@@ -654,6 +734,13 @@ NYDD_BOH_hussite_order_reform_desc: "A knightly order founded in the name of Jan
 NYDD_BRB_empire_knight_reform:"Imperial Knights"
 NYDD_BRB_empire_knight_reform_desc:"The Imperial Knights are a royal order directly under the Emperor, composed of the most elite and loyal noble knights, sworn to the master of the Double-Headed Eagle Crown. In the early days of the Commissionerate, to better rule and control the Low Countries, a portion of the Knights was dispatched by the Emperor to help maintain order, serving as the Crown's eyes in the Low Countries. Over the years, the Low Country chapter of the Imperial Knights has become the region's most important military elite, also known as the Alden Knights after their headquarters at Alden Biesen Castle in Limburg."
 
+ NYDD_ENG_viking_guard_reform:"Reform the Varangian Guard"
+ NYDD_ENG_viking_guard_reform_desc:"In the past, the Varangian Guard enjoyed great renown in Europe, but when these veterans returned to their homeland they had nothing to do and lived under others' roofs. Their excellent talents should not be wasted; we take these veterans under our wing and, emulating the Romans, establish our own Varangian Guard."
+ NYDD_ENG_viking_navy_reform:"Cnut Royal Navy"
+ NYDD_ENG_viking_navy_reform_desc:"The Royal Navy bearing the name of Cnut is the pride of our Empire, fusing the technology of traditional Viking fleets with the naval traditions of Britain, developing a powerful navy possessing the characteristics and strengths of the various North Sea nations, with emphasis on the application of Viking tactics. This is a fleet that would make Cnut the Great proud, a great navy sufficient to support the dream of the North Sea Empire."
+ NYDD_ENG_longbow_reform:"Longbow Training"
+ NYDD_ENG_longbow_reform_desc:"By establishing longbow training as law, requiring our adult men to train weekly. Our armies will be more capable in battle."
+
 #t6 Conciliar Bodies
 NYDD_ASU_zixunhui_good_reform: "Empowered Advisory Council"
 NYDD_ASU_zixunhui_good_reform_desc: "In past political practices, the kingdom's advisory council has proven its irreplaceable ability as an auxiliary governing body. A monarch may make mistakes, but a council formed by the collective will and wisdom of the people will maximize the accuracy of political decisions, improve governance, and assist in domestic and foreign affairs. A strong advisory council will reflect the needs of the populace and benefit the construction of the kingdom."
@@ -704,6 +791,11 @@ NYAB_NED_staten_desc:"The Dutch States-General (Staten-Generaal) is the assembly
 NYAB_NED_staten2:"Dutch Council of State"
 NYAB_NED_staten2_desc:"After much busy governance, the Council of State (de Raad van State) gradually took shape.\nIts predecessor was the Estates-General convened by the permanent delegation. Like the Estates-General, the permanent Estates-General was still composed of representatives from each province. Owing to the urgency and timeliness of affairs, they had greater latitude to act expediently, and in practice they often engaged in more private consultations and compromises to reach swift decisions. The Council was chaired each week by a representative from a different region, with a clerk present to keep records. Regardless of how many representatives were in attendance, each region had only one vote. The Council of State would determine policies across various fields—military, economic, expansion, and so on—and appoint the corresponding ministers."
 
+ NYDD_ENG_kingcourt_reform:"Circuit Court"
+ NYDD_ENG_kingcourt_reform_desc:"Britain is vast in territory; our judicial administration cannot cover everything. By establishing a circuit court that travels throughout the nation, we should be able to effectively reduce local corruption."
+ NYDD_ENG_neige_reform:"Royal Cabinet"
+ NYDD_ENG_neige_reform_desc:"Owing to the king's own abilities and inclinations, our kingdom is a state that delegates a high degree of authority to an elected government. The leader of the Royal Cabinet—the Prime Minister—is elected by Parliament, and submits the candidates for each cabinet department to the king himself for decision. Affairs of state are basically handled by the Royal Cabinet, but in practice, if the king wishes, he also possesses great power to interfere in the government, though almost no one does so."
+
 #7 Administration
  #1.1
 NYDD_FRA_zongcan_reform: "General Staff Headquarters"
@@ -743,6 +835,9 @@ NYDD_BOH_Saint_Wenceslas_reform_desc: "The Crown of Saint Wenceslas is the rulin
 NYDD_LOM_roman_reform:"Roman Ambition"
 NYDD_LOM_roman_reform_desc:"Once, a great nation stood upon Europe. We did not cherish it, and then it plummeted to earth like a shooting star and shattered. Thinking back now, it's just as well we didn't cherish it. Otherwise, where would we be today? As the rightful and reasonable heir to that great nation, we shall uphold its spirit—\n'Ever the same' (Semper idem)."
 
+ NYDD_ENG_master_of_eu_reform:"Master of Europe"
+ NYDD_ENG_master_of_eu_reform_desc:"Legally speaking, our monarch is King of England, King of France, King of Italy, the Netherlands and Jerusalem, King of the Romans, and Emperor of the Holy Roman Empire. Therefore, all our actions are carried out on the basis of these sacred powers and legitimacy granted to us by God. We are the undisputed Master of Europe, and should take every possible action to obtain these properties that are rightfully ours, even if that may be deemed absurd and immoral by the worldly. Everything of the state is an extension of the will of our God-blessed sacred monarch—the Master of Europe—that is, the divine right of kings, speaking with the mandate of heaven."
+
 #10
 
 #Titles & Government Names
@@ -762,7 +857,7 @@ HOLY_FEM: "Holy Maiden"
 FED_EMPIRE: "Federal Empire"
 GER_MINISTER: "Chancellor"
 
-EMPIRE_kommissariat:"Reichskommissariat" # Imperial Commissionerate
+EMPIRE_kommissariat:"Kommissariat" # Imperial Commissionerate Reichskommissariat
 NED_REGENT:"Regent"
 NED_ZONGDU:"Governor"
 NED_VICEKING:"Viceroy"
@@ -771,6 +866,8 @@ NED_ZHIZHENG:"Stadtholder"
 NED_ZHIZHENG_fem:"Stadtholderess"
 NED_YIZHANG:"Grand Pensionary"
 NED_YIZHANG_fem:"Grand Pensionary"
+NED_ZHUANGYUAN:"Kommissar" # Commissioner
+NED_ZHUANGYUAN_fem:"Kommissar" # Commissioner
 
 # Persia and Central Asia
 NYDD_ILK_reform: "Ilkhanate"
@@ -826,6 +923,7 @@ SIZONGGUAN: "Chief Administrator"
 TAIJUN: "Bureau Lord"
 ZONGJUN: "Chief Commander"
 SHIZI: "Heir Apparent"
+TAIZI: "Crown Prince"
 FUREN: "Lady"
 ZHANGFU: "Lord"
 MIANSHOU: "Facial Guard"

@@ -812,3 +812,6 @@ VAL_admin_missions_4_tt: "Depending on which idea groups we have completed, we m
 VAL_admin_missions_4_tt1: "§YMercenary, Quality, Offensive, Defensive§!:"
 VAL_admin_missions_4_tt2: "§YQuantity, Quality, Offensive, Defensive§!:"
 VAL_admin_missions_4_tt3: "§YPlutocratic, Divine, Aristocratic, Horde§!:"
+
+DD_VAL_form_SP4_title: "@SP4 Unify Hispania"
+DD_VAL_form_SP4_desc: "Iberia is destined to be ruled by us."

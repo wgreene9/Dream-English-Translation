@@ -1,3 +1,7 @@
+DD_ENG_lukasi_trigger = {
+	has_leader = "Lucas Villiers"
+}
+
 is_Hohenstaufen_dynasty = {
 	dynasty = "von Hohenstaufen"
 }

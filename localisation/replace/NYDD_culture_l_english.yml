@@ -123,6 +123,9 @@
  sussex_british: "Sussexian"
  essex_british: "Essexian"
  norfolk_british: "Norfolkian"
+ noroland_british: "Norlandian"
+ nord_british: "Nord"
+ hibernian_british: "Hibernian"
 
 #Nordic, North
  yovik_sca: "Jórvík"
@@ -133,6 +136,17 @@
  vinland_sca: "Vinlandic"
  markland_sca: "Marklandic"
  helluland_sca: "Hellulandic"
+
+ jutland_sca: "Jutlandic"
+ svea_sca: "Svealandic"
+ skane_sca: "Skanian"
+ norrland_sca: "Norrlandic"
+ gota_sca: "Götalandic"
+ bjarmian_sca: "Bjarmian"
+
+ englalond_sca: "Englalondic"
+ skotland_sca: "Skotlandic"
+ irland_sca: "Irlandic"
 
 #West Slavs
  kaszubski_WS: "Kashubian"
@@ -279,6 +293,10 @@ turkish_cg:"Turkic"
 ottoman_turkish:"Ottoman Turkish"
 seljuk_turkish:"Seljuk Turkish"
 unite_turkish:"Turkic"
+
+DD_SWE_unite_culture_title: "Unite the Three Great Tribes of Sweden"
+DD_SWE_unite_culture_desc: "Due to the invasion of the wicked Christians, the Swedes failed to complete their work of unification and were scattered far and wide. But the past is no more. Let us unite all the Swedish tribes beneath the thunder of Odin!"
+DD_SWE_unite_culture_tt: "§MUnites§! §YSvealandic§!, §YGötalandic§!, and §YNorrlandic§! into the §YSwedish§! culture.\n"
 
 DD_culture_1_t: "Prussian Germanization"
 DD_culture_1_d: "Through our relentless efforts, not only have increasing numbers of German immigrants arrived in the lands of Prussia, but the local native Prussians have also begun to gradually integrate into our Germanic culture. The tide of Germanization is sweeping across Prussia, transforming this once-neglected wilderness into the beautiful homeland of the virtuous and industrious German nation.\n\nThe intermingling of Germans and Prussians has gradually formed a unique local culture. Due to frequent attacks from other pagan tribes in the past, both the arriving Germans and the native Prussians are natural warriors. This martial spirit may become a significant asset in our pursuit of global influence."

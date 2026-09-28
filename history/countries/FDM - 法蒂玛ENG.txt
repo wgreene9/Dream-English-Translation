@@ -4,6 +4,7 @@ primary_culture = yemeni_culture
 religion = shiite
 technology_group = muslim
 capital = 388	
+religious_school = tayyibi_school
 
 1444.1.1 = {
 	monarch = {

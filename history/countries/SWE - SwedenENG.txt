@@ -2,9 +2,9 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = western
 unit_type = western
-primary_culture = swedish
+primary_culture = svea_sca
 religion = norse_pagan_reformed
-add_accepted_culture = finnish
+add_accepted_culture = gota_sca
 capital = 1	#Stockholm
 
 national_focus = MIL
@@ -20,13 +20,13 @@ change_estate_land_share = {
 
 1438.6.20 = {
 	monarch = {
-		name = "Oskar I"
+		name = "Björn I"
 		dynasty = "Eriksson"
 		birth_date = 1409.10.5
 		adm = 3
 		dip = 0
 		mil = 6
-		leader = {	name = "Oskar I"   type = general	fire = 2	shock = 4	manuever = 3	siege = 2 }
+		leader = {	name = "Björn I"   type = general	fire = 2	shock = 4	manuever = 3	siege = 2 }
 	}
 	
 }

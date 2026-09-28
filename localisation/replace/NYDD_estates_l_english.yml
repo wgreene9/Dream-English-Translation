@@ -2,7 +2,7 @@
 estate_knight: "Knights"
 estate_knight_desc: "This estate represents the knights within the country, most of whom have received a good military education and are skilled in defending against heathens. These knights are often nobles from various parts of the Christian world and hold significant power in our nation."
 estate_muslim: "Heathens"
-estate_muslim_desc: "This estate represents the infidels within the country. Sometimes we have no choice but to cooperate with heathens."
+estate_muslim_desc: "This estate represents the infidels within the country. Sometimes we have no choice but to cooperate with heathens. In most cases, the term 'heathen' specifically refers to Muslims."
 estate_knight_ownership: "Knight Estate Share"
 estate_muslim_ownership: "Heathen Estate Share"
 EST_VAL_HEATHEN_WAR: "War Against Heathens"
@@ -26,6 +26,7 @@ DD_estate_knight_new_gun_knight_desc: "Knights must also keep up with the times.
 DD_estate_knight_give_a_castle: "Grant a Castle to Knights"
 DD_estate_knight_give_a_castle_desc: "A knight without a castle is like a stray dog on the roadside."
 DD_estate_knight_give_a_castle_tt: "Non-capital, non-overseas §Yfortress§! provinces will receive:"
+seize_land_give_estate_1_tt: "When §YSeizing Crown Land§!, grant the §YNobility§! estate §Y+1.00%§! crown land share."
 
 DD_estate_knight_empower_knight_modifier: "Well-Equipped"
 DD_estate_knight_training_knight_modifier: "Trained Knights"

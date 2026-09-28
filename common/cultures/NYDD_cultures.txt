@@ -116,6 +116,11 @@ british = {
 	sussex_british = {}
 	essex_british = {}
 	norfolk_british = {}
+
+	noroland_british = {}
+	nord_british = {}
+
+	hibernian_british = {}
 }
 scandinavian = {
 	yovik_sca = {}
@@ -126,6 +131,17 @@ scandinavian = {
 	vinland_sca = {}
 	markland_sca = {}
 	helluland_sca = {}
+
+	jutland_sca = {}
+	svea_sca = {}
+	skane_sca = {}
+	gota_sca = {}
+	norrland_sca = {}
+	bjarmian_sca = {}
+
+	englalond_sca = {}
+	skotland_sca = {}
+	irland_sca = {}
 }
 west_slavic = {
 	kaszubski_WS = {}

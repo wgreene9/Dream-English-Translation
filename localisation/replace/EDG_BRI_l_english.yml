@@ -1173,3 +1173,5 @@ DD_BRI_2a_tt:"All subjects of §Y[Owner.GetName]§! will become §Yindependent§
 EDG_mission_BRI_3_19_tt:"Subject §YMarquisate§! development is at least §Y100§!"
 
 EDG_mission_BRI_5_16_decision_tt: "\n§YEach ruler may only use this decision once!§!\n"
+
+EDG_FR3_Monarchy_interactions_1_tt2: "Provinces under our rule that are not of the §Yprimary culture group§! gain:"
