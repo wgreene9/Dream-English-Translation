@@ -344,7 +344,7 @@ Thank you for your support over the past year, and for the efforts of the produc
 - Fixed a bug in the Aragonese mission "Agreement with the Holy See" where it was possible to vassalize the Pope even if conditions were not met.
 - Fixed several church rewards in Aragonese missions.
 - Swapped the last two HRE centralization reforms (prohibition of internal wars and revoking privileges are swapped). Other requirements remain unchanged. Centralization only needs to reach the revoke privileges stage to reform the HRE.
-- The Neapolitan great project "Caserta Palace" now starts at level 1, and each level grants 50 administrative capacity.
+- The Neapolitan great project "Caserta Palace" now starts at level 1, and each level grants 50 governing capacity.
 - Other things forgotten.
 
 12.05.2025
